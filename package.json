@@ -1,0 +1,29 @@
+{
+  "name": "vorrat",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview",
+    "feed:snapshot": "curl -s -o .tmp/feed.csv --create-dirs https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/public/csv",
+    "test": "node scripts/test-pipeline.mjs && node scripts/test-wirkstoff.mjs && node scripts/test-runout.mjs && node scripts/test-pzn.mjs && node scripts/test-vocabulary.mjs && node scripts/test-copy-parity.mjs && node scripts/test-integration-full.mjs && node scripts/test-critical-medicines.mjs && node scripts/test-drift.mjs"
+  },
+  "dependencies": {
+    "iconv-lite": "^0.7.3",
+    "papaparse": "^5.5.4",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.4",
+    "oxlint": "^1.75.0",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.2.0"
+  }
+}

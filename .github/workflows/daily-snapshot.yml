@@ -1,0 +1,80 @@
+name: Daily BfArM Snapshot & Drift Analytics
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch daily BfArM CSV feed
+        run: |
+          TODAY=$(date -u +'%Y-%m-%d')
+          mkdir -p data/snapshots
+          OUT_FILE="data/snapshots/${TODAY}.csv"
+
+          HTTP_CODE=$(curl -s -w "%{http_code}" -o "$OUT_FILE" "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/public/csv")
+
+          if [ "$HTTP_CODE" -ne 200 ]; then
+            echo "::error::BfArM feed returned HTTP status $HTTP_CODE"
+            rm -f "$OUT_FILE"
+            exit 0
+          fi
+
+          if ! grep -q "Bearbeitungsnummer" "$OUT_FILE"; then
+            echo "::error::Downloaded file does not contain valid BfArM CSV headers"
+            rm -f "$OUT_FILE"
+            exit 0
+          fi
+
+          echo "Successfully downloaded $OUT_FILE"
+
+          # Drop the E-Mail and Telefon columns before the file is archived.
+          # The feed carries direct contact details for named individuals at
+          # manufacturers, Vorrat reads neither column, and committing them
+          # daily would bake them into a public git history permanently.
+          node scripts/strip-contacts.mjs "$OUT_FILE"
+
+          if grep -q "@" "$OUT_FILE"; then
+            echo "::error::Contact details survived stripping — refusing to archive"
+            rm -f "$OUT_FILE"
+            exit 1
+          fi
+
+      - name: Prune old snapshots (keep 60 newest)
+        run: |
+          cd data/snapshots
+          ls -1 *.csv 2>/dev/null | sort -r | tail -n +61 | xargs -r rm -- 2>/dev/null || true
+          cd ../..
+
+      - name: Run Date Drift Analyzer
+        run: node scripts/analyze-drift.mjs
+
+      - name: Commit and push updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore(data): daily snapshot $(date -u +'%Y-%m-%d') and drift analytics"
+            git push
+          fi

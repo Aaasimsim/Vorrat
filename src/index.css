@@ -1,0 +1,142 @@
+@import "tailwindcss";
+
+/**
+ * Palette: the beige-and-white officialdom of German pharmacy packaging and
+ * Beipackzettel, not a SaaS dashboard and not medical red. Status colour is
+ * always paired with an icon and a word, never carrying meaning alone.
+ *
+ * Every value below is contrast-checked. Text pairs clear WCAG AA (4.5:1);
+ * borders and other non-text UI clear 1.4.11 (3:1). `--color-linie` is the
+ * functional border used for inputs, cards, and anything whose edge carries
+ * meaning; `--color-linie-zart` is decorative only and may sit below 3:1.
+ */
+@theme {
+  --color-papier: #faf8f4;
+  --color-papier-tief: #f2eee6;
+  --color-flaeche: #ffffff;
+  --color-tinte: #1c1917;
+  --color-tinte-weich: #44403c;
+  --color-linie: #9c8e78;
+  --color-linie-zart: #ded7cb;
+
+  --color-ruhig: #2f5d50;
+  --color-ruhig-flaeche: #e8efeb;
+  /* Primary button fill and its label. Kept separate from --color-ruhig so the
+     label can invert with the fill in dark mode instead of staying white on a
+     pale green, which measures 1.91:1. */
+  --color-aktion: #2f5d50;
+  --color-aktion-text: #ffffff;
+  --color-beobachtung: #6b5410;
+  --color-beobachtung-flaeche: #f5eeda;
+  --color-betroffen: #7a3410;
+  --color-betroffen-flaeche: #f7e9de;
+
+  --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+
+/**
+ * Light stays the default. Older eyes — particularly with cataract or
+ * astigmatism — often get halation from light text on dark, so dark mode is a
+ * preference we honour rather than a look we push.
+ */
+@media (prefers-color-scheme: dark) {
+  @theme {
+    --color-papier: #1a1816;
+    --color-papier-tief: #24211e;
+    --color-flaeche: #24211e;
+    --color-tinte: #f2eee8;
+    --color-tinte-weich: #bdb5a9;
+    --color-linie: #7d756a;
+    --color-linie-zart: #3a3630;
+
+    --color-ruhig: #86c9b3;
+    --color-ruhig-flaeche: #1e2b26;
+    --color-aktion: #86c9b3;
+    --color-aktion-text: #12201c;
+    --color-beobachtung: #e0c368;
+    --color-beobachtung-flaeche: #2b2718;
+    --color-betroffen: #f0a878;
+    --color-betroffen-flaeche: #2e211a;
+  }
+}
+
+/**
+ * Percentage, not px. A patient who has raised their browser or phone text
+ * size — which this audience does more than most — must actually get it. A
+ * hard px value here silently discards that setting, which is the opposite of
+ * the brief's "design for older eyes".
+ */
+html {
+  font-size: 112.5%;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--color-papier);
+  color: var(--color-tinte);
+  font-family: var(--font-sans);
+  line-height: 1.65;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+/**
+ * German compounds in this domain are long — Lieferengpassmeldung,
+ * Pharmazentralnummer, Zulassungsinhaber — and overflow a 360px phone once the
+ * user's text size is large. `hyphens` needs the lang attribute to select a
+ * dictionary, which LanguageProvider keeps current.
+ *
+ * `break-word` is a safety net *under* hyphenation, not a replacement for it:
+ * hyphenation points are ordinary wrap opportunities, so a browser takes them
+ * first and only breaks mid-word when a word still will not fit.
+ *
+ * Caveat worth re-checking on real devices: this headless Chromium appears to
+ * ship no German hyphenation dictionary, so it breaks mid-word with no hyphen
+ * ("Lieferengpässe / n von") where a real browser should hyphenate. Verify on
+ * an actual phone before drawing conclusions about the typography.
+ */
+body,
+input,
+button,
+textarea {
+  hyphens: auto;
+  overflow-wrap: break-word;
+}
+
+/**
+ * For strings we do not control: a medication name the user typed, or a
+ * product name from the feed, either of which can be one long token with no
+ * hyphenation point.
+ */
+.bricht-um {
+  overflow-wrap: anywhere;
+}
+
+/* Visible focus is non-negotiable for keyboard and low-vision users. */
+:where(a, button, input, select, textarea, [tabindex]):focus-visible {
+  outline: 3px solid var(--color-ruhig);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+@media (prefers-contrast: more) {
+  :root {
+    --color-linie: currentColor;
+  }
+
+  :where(a, button):focus-visible {
+    outline-width: 4px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
