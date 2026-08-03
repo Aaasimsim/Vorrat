@@ -96,6 +96,31 @@ export const en = {
     },
   },
 
+  /**
+   * What has changed since we last said something.
+   *
+   * "Ended" is the only good news this app has to give, and it is only spoken
+   * when the report is still listed and its end date has passed. A report that
+   * vanishes instead usually means BfArM continued it under a new number, and
+   * then we say we do not know. A false all-clear is the worst thing that could
+   * happen here.
+   */
+  entwarnung: {
+    beendetLabel: "Shortage ended",
+    beendetFn: ({ datum }) =>
+      `The reported supply shortage ended on ${datum}. Your medication should be available normally again.`,
+    beendetOhneDatum:
+      "The reported supply shortage has ended. Your medication should be available normally again.",
+    beendetHinweis:
+      "Ask your pharmacy whether your product is back in stock. How quickly supply resumes varies from place to place.",
+    unklarLabel: "Report no longer listed",
+    unklarBody:
+      "The earlier report is no longer in the BfArM list. We cannot tell from that whether the shortage has ended or is continuing under a new report number.",
+    unklarHinweis: "Ask your pharmacy whether your product is available again.",
+    quelleFn: ({ bearbeitungsnummer }) => `Concerned BfArM report ${bearbeitungsnummer}`,
+    schliessen: "Understood, hide this note",
+  },
+
   confidence: {
     high: "Exact match with your medication",
     elevated: "Classified as supply-critical by BfArM",

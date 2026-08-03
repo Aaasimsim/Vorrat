@@ -8,6 +8,7 @@
 const MEDICATIONS_KEY = 'vorrat.medications.v1'
 const MUTES_KEY = 'vorrat.mutes.v1'
 const FEED_CACHE_KEY = 'vorrat.feed.v1'
+const ALERTS_KEY = 'vorrat.alerts.v1'
 
 /**
  * Private-mode Safari and blocked-storage settings make localStorage throw on
@@ -76,6 +77,34 @@ export function loadMutes() {
 
 export function saveMutes(mutes) {
   return writeJson(MUTES_KEY, [...mutes])
+}
+
+/**
+ * What we last told the user about each medication, so we can tell them when it
+ * changes. Without this the app can only ever describe the present, and a
+ * shortage ending looks exactly like a shortage that was never there.
+ *
+ * Keyed by medication id, holding the Bearbeitungsnummern the alert was based
+ * on. Report numbers are public BfArM identifiers, but they sit beside a
+ * medication id here, so this is as sensitive as the medication list itself and
+ * stays in the same place: on the device, never transmitted.
+ */
+export function loadAlertHistory() {
+  const stored = readJson(ALERTS_KEY, {})
+  return stored && typeof stored === 'object' && !Array.isArray(stored) ? stored : {}
+}
+
+export function saveAlertHistory(alerts) {
+  return writeJson(ALERTS_KEY, alerts)
+}
+
+/**
+ * Identifies one particular alert by the reports behind it. A dismissal is
+ * stored against this rather than against the medication, so dismissing "the
+ * shortage is over" today does not silence a different shortage next year.
+ */
+export function alertSignature(bearbeitungsnummern) {
+  return [...bearbeitungsnummern].sort().join('|')
 }
 
 /**

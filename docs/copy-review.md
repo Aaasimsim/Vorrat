@@ -5,6 +5,58 @@
 
 ---
 
+## 0. Pending native-speaker review — added or changed 2026-08-04
+
+**Nothing in this section has been reviewed by a native speaker.** It was written
+by a non-native speaker and must not be considered signed off. The master table
+in §1 below predates these changes and still shows the previous wording for any
+key that appears here; this section wins.
+
+### New: first-open explanation (`einstieg.*`)
+
+| Key | German | English | Note for the reviewer |
+| :--- | :--- | :--- | :--- |
+| `app.tagline` | `"Erfahren Sie von Engpässen bei Ihren Medikamenten, bevor Sie in der Apotheke stehen."` | `"Find out about shortages in your medications, before you are standing in the pharmacy."` | Replaces the old category label. Names the outcome, avoids opening on "Lieferengpass". |
+| `app.seitentitel` | `"Vorrat: Frühwarnung bei Lieferengpässen von Medikamenten"` | `"Vorrat: early warning for medication supply shortages"` | Browser tab and search result only, never on screen. Keeps the searchable term. |
+| `einstieg.mechanismus` | `"Hersteller müssen absehbare Lieferengpässe dem BfArM melden, oft Monate im Voraus. Diese Meldungen sind öffentlich. Nur sieht sie fast niemand."` | `"Manufacturers are required to report foreseeable supply shortages to BfArM, often months in advance. Those reports are public. Almost nobody sees them."` | The load-bearing sentence of the whole app. Check "Nur sieht sie fast niemand" reads as natural spoken German rather than translated English. |
+| `einstieg.vorrat` | `"Vorrat liest diese Meldungen täglich und sagt Ihnen, wenn eines Ihrer Medikamente betroffen ist. Früh genug, um in Ruhe mit Apotheke oder Praxis zu sprechen."` | `"Vorrat reads those reports every day and tells you when one of your medications is affected. Early enough to talk to your pharmacy or your doctor's practice without rushing."` | *sagt Ihnen*, never *empfiehlt*. Do not let a rewrite turn this into advice. |
+| `einstieg.beispielOeffnen` | `"Beispiel ansehen: So sieht eine Meldung aus"` | `"See an example: what a report looks like"` | Deliberately carries meaning on its own, since most readers never open it. |
+| `einstieg.beispielSchliessen` | `"Beispiel ausblenden"` | `"Hide the example"` | |
+| `einstieg.beispielLabel` | `"Beispiel"` | `"Example"` | |
+| `einstieg.beispielHinweis` | `"Zwei echte Meldungen aus der BfArM-Liste. Ihre eigenen Medikamente werden genauso dargestellt."` | `"Two real reports from the BfArM list. Your own medications are shown the same way."` | |
+| `leer.body` | `"Fügen Sie ein Medikament hinzu. Wir prüfen sofort und danach täglich."` | `"Add a medication. We check right away, and every day after that."` | "danach täglich" is the point: a standing watch, not a one-off lookup. |
+| `hinzufuegen.nameHilfe` | `"Wie auf der Verpackung angegeben, zum Beispiel L-Thyroxin oder Pantoprazol"` | `"As printed on the package, for example L-Thyroxin or Pantoprazol"` | |
+
+### New: telling the user a shortage is over (`entwarnung.*`)
+
+The only good news this app gives. `beendet*` is spoken **only** when the report
+is still listed and its end date has passed. `unklar*` covers a report that left
+the feed, which usually means BfArM continued it under a new number — so it must
+never read as reassurance. A false all-clear is the worst failure this app has.
+
+| Key | German | English | Note for the reviewer |
+| :--- | :--- | :--- | :--- |
+| `entwarnung.beendetLabel` | `"Engpass beendet"` | `"Shortage ended"` | |
+| `entwarnung.beendetFn` | `({ datum }) => "Der gemeldete Lieferengpass ist seit dem ${datum} beendet. Ihr Medikament sollte wieder normal lieferbar sein."` | `({ datum }) => "The reported supply shortage ended on ${datum}. Your medication should be available normally again."` | "sollte" is deliberate hedging: the report ended, local availability is a separate thing we cannot see. |
+| `entwarnung.beendetOhneDatum` | `"Der gemeldete Lieferengpass ist beendet. Ihr Medikament sollte wieder normal lieferbar sein."` | `"The reported supply shortage has ended. Your medication should be available normally again."` | |
+| `entwarnung.beendetHinweis` | `"Fragen Sie in Ihrer Apotheke nach, ob Ihr Präparat dort wieder vorrätig ist. Wie schnell die Belieferung wieder anläuft, ist von Ort zu Ort verschieden."` | `"Ask your pharmacy whether your product is back in stock. How quickly supply resumes varies from place to place."` | |
+| `entwarnung.unklarLabel` | `"Meldung nicht mehr gelistet"` | `"Report no longer listed"` | Must not sound like good news. |
+| `entwarnung.unklarBody` | `"Die frühere Meldung steht nicht mehr in der BfArM-Liste. Ob der Engpass beendet ist oder unter einer neuen Nummer weiterläuft, können wir daraus nicht ablesen."` | `"The earlier report is no longer in the BfArM list. We cannot tell from that whether the shortage has ended or is continuing under a new report number."` | The honest "we do not know" state. Keep the uncertainty explicit. |
+| `entwarnung.unklarHinweis` | `"Fragen Sie in Ihrer Apotheke nach, ob Ihr Präparat wieder lieferbar ist."` | `"Ask your pharmacy whether your product is available again."` | |
+| `entwarnung.quelleFn` | `({ bearbeitungsnummer }) => "Betraf BfArM-Meldung ${bearbeitungsnummer}"` | `({ bearbeitungsnummer }) => "Concerned BfArM report ${bearbeitungsnummer}"` | Good news is a claim too, so it carries its source. |
+| `entwarnung.schliessen` | `"Verstanden, Hinweis ausblenden"` | `"Understood, hide this note"` | |
+
+### Changed elsewhere
+
+Em dashes were removed from every user-facing string (`status.unbekannt.body`,
+`status.watching.body`, `hinzufuegen.pznLabel`, `vorrat.unsicher`) and replaced
+with full stops or commas. Soft hyphens (`­`) were added inside
+`status.watching.label` and `status.affected.label` so the two long compounds
+break with a visible hyphen on narrow screens; they are invisible otherwise and
+should be preserved through any rewrite of those two labels.
+
+---
+
 ## 1. Master Copy Table (German & English Parity)
 
 | Key | German String | English String | Confidence / Note |

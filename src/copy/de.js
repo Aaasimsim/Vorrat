@@ -97,6 +97,33 @@ export const de = {
     },
   },
 
+  /**
+   * Was sich seit der letzten Meldung geändert hat.
+   *
+   * "beendet" ist die einzige gute Nachricht, die diese App überhaupt zu geben
+   * hat, und sie wird nur ausgesprochen, wenn die Meldung noch in der Liste
+   * steht und ihr Enddatum vorbei ist. Verschwindet eine Meldung dagegen
+   * spurlos, heißt das meistens, dass das BfArM sie unter neuer Nummer
+   * fortgeschrieben hat. Dann sagen wir, dass wir es nicht wissen. Eine falsche
+   * Entwarnung wäre das Schlimmste, was hier passieren kann.
+   */
+  entwarnung: {
+    beendetLabel: "Engpass beendet",
+    beendetFn: ({ datum }) =>
+      `Der gemeldete Lieferengpass ist seit dem ${datum} beendet. Ihr Medikament sollte wieder normal lieferbar sein.`,
+    beendetOhneDatum:
+      "Der gemeldete Lieferengpass ist beendet. Ihr Medikament sollte wieder normal lieferbar sein.",
+    beendetHinweis:
+      "Fragen Sie in Ihrer Apotheke nach, ob Ihr Präparat dort wieder vorrätig ist. Wie schnell die Belieferung wieder anläuft, ist von Ort zu Ort verschieden.",
+    unklarLabel: "Meldung nicht mehr gelistet",
+    unklarBody:
+      "Die frühere Meldung steht nicht mehr in der BfArM-Liste. Ob der Engpass beendet ist oder unter einer neuen Nummer weiterläuft, können wir daraus nicht ablesen.",
+    unklarHinweis:
+      "Fragen Sie in Ihrer Apotheke nach, ob Ihr Präparat wieder lieferbar ist.",
+    quelleFn: ({ bearbeitungsnummer }) => `Betraf BfArM-Meldung ${bearbeitungsnummer}`,
+    schliessen: "Verstanden, Hinweis ausblenden",
+  },
+
   confidence: {
     high: "Genaue Übereinstimmung mit Ihrem Medikament",
     elevated: "Vom BfArM als versorgungskritisch eingestuft",

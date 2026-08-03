@@ -41,6 +41,8 @@ const FN_ARGS = {
   'alert.beginnFn': { datum: '13.07.2026' },
   'alert.endeFn': { datum: '03.08.2026' },
   'alert.quelleFn': { bearbeitungsnummer: 'LE2026002754', datum: '23.07.2026' },
+  'entwarnung.beendetFn': { datum: '31.07.2026' },
+  'entwarnung.quelleFn': { bearbeitungsnummer: 'LE2026002754' },
   'fehler.veraltetFn': { datum: '31.07.2026' },
   'aktualisiert.standFn': { datum: '31.07.2026' },
   'details.entfernenFn': { name: 'L-Thyroxin Henning 150' },

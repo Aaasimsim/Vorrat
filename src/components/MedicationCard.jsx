@@ -4,6 +4,7 @@ import { StatusBadge } from './StatusBadge.jsx'
 import { ShortageReport } from './ShortageReport.jsx'
 import { RunOutNote } from './RunOutNote.jsx'
 import { PharmacyView } from './PharmacyView.jsx'
+import { ResolutionNote } from './ResolutionNote.jsx'
 
 /**
  * The quiet state is the default and gets the same care as the alert: it is
@@ -13,7 +14,15 @@ import { PharmacyView } from './PharmacyView.jsx'
  * For high-confidence alerts ('affected'), details are expanded by default
  * so verbatim manufacturer notes and BfArM report numbers are immediately visible.
  */
-export function MedicationCard({ medication, result, mutes, onToggleMute, onRemove }) {
+export function MedicationCard({
+  medication,
+  result,
+  resolution,
+  onDismissResolution,
+  mutes,
+  onToggleMute,
+  onRemove,
+}) {
   const t = useCopy()
   const { status, confidence, matches, muted, erkannt } = result
   const hasReports = matches.length > 0
@@ -63,6 +72,13 @@ export function MedicationCard({ medication, result, mutes, onToggleMute, onRemo
 
         {confidence && (
           <p className="mt-2 text-base text-tinte-weich">{t.confidence[confidence]}</p>
+        )}
+
+        {/* Sits directly under the status it explains. Without it the status
+            line above simply changed one day and the user had to notice the
+            absence themselves. */}
+        {resolution && (
+          <ResolutionNote resolution={resolution} onDismiss={onDismissResolution} />
         )}
 
         <RunOutNote medication={medication} earliestBeginn={earliestBeginn} />

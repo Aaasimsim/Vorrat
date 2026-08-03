@@ -8,8 +8,13 @@ import {
   createMedication,
   loadMutes,
   saveMutes,
+  loadAlertHistory,
+  saveAlertHistory,
+  alertSignature,
 } from './lib/storage.js'
 import { matchAllMedications } from './lib/matching.js'
+import { resolveAlert } from './lib/resolution.js'
+import { todayIso } from './lib/dates.js'
 import { buildVocabulary } from './lib/vocabulary.js'
 import { formatGermanDateTime } from './lib/format.js'
 import { MedicationCard } from './components/MedicationCard.jsx'
@@ -23,6 +28,7 @@ export default function App() {
   const t = useCopy()
   const [medications, setMedications] = useState(() => loadMedications())
   const [mutes, setMutes] = useState(() => loadMutes())
+  const [alerts, setAlerts] = useState(() => loadAlertHistory())
   const [showForm, setShowForm] = useState(false)
   const { status: feedStatus, feed, stale } = useShortageFeed()
 
@@ -33,6 +39,10 @@ export default function App() {
   useEffect(() => {
     saveMutes(mutes)
   }, [mutes])
+
+  useEffect(() => {
+    saveAlertHistory(alerts)
+  }, [alerts])
 
   const vocabulary = useMemo(() => (feed ? buildVocabulary(feed) : null), [feed])
 
@@ -59,6 +69,70 @@ export default function App() {
         STATUS_ORDER[a.result.status] - STATUS_ORDER[b.result.status],
     )
   }, [medications, feed, mutes])
+
+  /**
+   * Remember every alert we actually showed, so a later silence can be
+   * explained instead of just happening.
+   *
+   * Never runs on a stale feed. If the fetch failed and we are showing a cached
+   * copy, "this shortage is no longer listed" would be a statement about our
+   * network, not about the medication.
+   */
+  useEffect(() => {
+    if (feedStatus !== 'ready' || stale) return
+    setAlerts((current) => {
+      let next = current
+      for (const { medication, result } of matched) {
+        if (result.status !== 'affected' || result.muted) continue
+        const bearbeitungsnummern = result.matches.map((r) => r.bearbeitungsnummer)
+        const signature = alertSignature(bearbeitungsnummern)
+        const stored = current[medication.id]
+        // Rewritten when the reports change, and also when an old dismissal is
+        // still attached: this medication is in alert again, so a note the user
+        // waved away last time must not pre-silence the next one.
+        if (stored?.signature === signature && !stored?.dismissedSignature) continue
+        next = {
+          ...next,
+          [medication.id]: {
+            bearbeitungsnummern,
+            signature,
+            seenAt: new Date().toISOString(),
+            dismissedSignature: null,
+          },
+        }
+      }
+      return next
+    })
+  }, [matched, feedStatus, stale])
+
+  /**
+   * What changed since. Only computed for medications that are *not* currently
+   * in alert — while a shortage is running there is nothing to resolve.
+   */
+  const resolutions = useMemo(() => {
+    if (!feed || stale) return {}
+    const today = todayIso()
+    const out = {}
+    for (const { medication, result } of matched) {
+      if (result.status === 'affected') continue
+      const alert = alerts[medication.id]
+      if (!alert || alert.dismissedSignature === alert.signature) continue
+      const resolution = resolveAlert(alert, feed, today)
+      // ONGOING here means the reports are still live but no longer match this
+      // medication — rare, and not something we can honestly call good news.
+      // It falls through to the same "we cannot tell" wording as UNKNOWN.
+      if (resolution) out[medication.id] = resolution
+    }
+    return out
+  }, [matched, alerts, feed, stale])
+
+  function handleDismissResolution(medicationId) {
+    setAlerts((current) => {
+      const stored = current[medicationId]
+      if (!stored) return current
+      return { ...current, [medicationId]: { ...stored, dismissedSignature: stored.signature } }
+    })
+  }
 
   function handleAdd(input) {
     setMedications((current) => [...current, createMedication(input)])
@@ -168,6 +242,8 @@ export default function App() {
                       key={medication.id}
                       medication={medication}
                       result={result}
+                      resolution={resolutions[medication.id] ?? null}
+                      onDismissResolution={() => handleDismissResolution(medication.id)}
                       mutes={mutes}
                       onToggleMute={handleToggleMute}
                       onRemove={handleRemove}
