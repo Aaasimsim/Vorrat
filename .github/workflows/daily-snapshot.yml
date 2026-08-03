@@ -32,16 +32,19 @@ jobs:
 
           HTTP_CODE=$(curl -s -w "%{http_code}" -o "$OUT_FILE" "https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/public/csv")
 
+          # Both failures exit non-zero. A missed day cannot be backfilled: the
+          # feed publishes only the current state, so the gap is permanent. A
+          # green run that archived nothing is the one outcome that hides that.
           if [ "$HTTP_CODE" -ne 200 ]; then
             echo "::error::BfArM feed returned HTTP status $HTTP_CODE"
             rm -f "$OUT_FILE"
-            exit 0
+            exit 1
           fi
 
           if ! grep -q "Bearbeitungsnummer" "$OUT_FILE"; then
             echo "::error::Downloaded file does not contain valid BfArM CSV headers"
             rm -f "$OUT_FILE"
-            exit 0
+            exit 1
           fi
 
           echo "Successfully downloaded $OUT_FILE"
@@ -58,11 +61,13 @@ jobs:
             exit 1
           fi
 
-      - name: Prune old snapshots (keep 60 newest)
-        run: |
-          cd data/snapshots
-          ls -1 *.csv 2>/dev/null | sort -r | tail -n +61 | xargs -r rm -- 2>/dev/null || true
-          cd ../..
+      # No prune step. There used to be one keeping the 60 newest snapshots,
+      # which quietly capped the whole archive: analyze-drift.mjs reads the
+      # working tree, so a 60-file window meant drift could never be measured
+      # over more than 60 days no matter how long the archive ran. The point of
+      # this archive is the long record, and that step made the long record
+      # impossible. See docs/archive.md for how to re-bound the size later
+      # without losing history.
 
       - name: Run Date Drift Analyzer
         run: node scripts/analyze-drift.mjs
