@@ -102,6 +102,10 @@ button,
 textarea {
   hyphens: auto;
   overflow-wrap: break-word;
+  /* Without this a hyphenation point two characters from the end counts as a
+     valid break, and "Beobach-tung" becomes "Beobachtun-g". Only hyphenate
+     words of 6+ characters, and never strand fewer than 3 on either line. */
+  hyphenate-limit-chars: 6 3 3;
 }
 
 /**

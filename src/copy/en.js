@@ -15,11 +15,37 @@
 export const en = {
   app: {
     name: "Vorrat",
-    tagline: "Early warning for medication supply shortages",
+    // Names the outcome, not the category. "Supply shortage" is the officialese
+    // this app exists to translate, so it stays out of the first sentence.
+    tagline: "Find out about shortages in your medications, before you are standing in the pharmacy.",
+    seitentitel: "Vorrat: early warning for medication supply shortages",
     dataSource:
       "Based on the official supply shortage reports filed with the German Federal Institute for Drugs and Medical Devices (BfArM).",
     madeByPrefix: "Made by ",
     authorName: "Asim Syed",
+  },
+
+  /**
+   * The opening for someone who has just landed in the app. It answers three
+   * questions in order: what the problem is, why advance warning is possible at
+   * all, and what Vorrat does with that.
+   *
+   * The mechanism sentence is the most important one on the screen. Without it
+   * there is no reason to believe a warning could arrive in time.
+   */
+  einstieg: {
+    mechanismus:
+      "Manufacturers are required to report foreseeable supply shortages to BfArM, often months in advance. Those reports are public. Almost nobody sees them.",
+    // "tells you", never "recommends": this app informs, it does not advise.
+    vorrat:
+      "Vorrat reads those reports every day and tells you when one of your medications is affected. Early enough to talk to your pharmacy or your doctor's practice without rushing.",
+    // The trigger carries meaning on its own. "See an example" alone does not
+    // say of what, and anyone who never taps would have learned nothing.
+    beispielOeffnen: "See an example: what a report looks like",
+    beispielSchliessen: "Hide the example",
+    beispielLabel: "Example",
+    beispielHinweis:
+      "Two real reports from the BfArM list. Your own medications are shown the same way.",
   },
 
   nav: {
@@ -56,13 +82,13 @@ export const en = {
     // Same finding, weaker grounds — see the note in de.js.
     unbekannt: {
       label: "Nothing found",
-      body: "We found no report for this name. That usually means everything is fine. We could not match the name with certainty, though — the PZN from the package makes the check exact.",
+      body: "We found no report for this name. That usually means everything is fine. We could not match the name with certainty, though. The PZN from the package makes the check exact.",
     },
     watching: {
       // Mirrors the German: deliberately does not claim other manufacturers are
       // still supplying the drug, because the feed cannot tell us that.
       label: "Watching",
-      body: "A shortage report affects your active ingredient, but not your specific product. BfArM has not classified it as supply-critical. There is nothing for you to do right now — we will keep watching.",
+      body: "A shortage report affects your active ingredient, but not your specific product. BfArM has not classified it as supply-critical. There is nothing for you to do right now, we will keep watching.",
     },
     affected: {
       label: "Shortage reported",
@@ -114,8 +140,8 @@ export const en = {
     fehlerName: "Please enter a name or active ingredient.",
     warnungPzn: "This does not look like a valid 8-digit PZN. You can save it anyway.",
     nameLabel: "Medication name or active ingredient",
-    nameHilfe: "As printed on the package",
-    pznLabel: "Pharmazentralnummer (PZN) — optional",
+    nameHilfe: "As printed on the package, for example L-Thyroxin or Pantoprazol",
+    pznLabel: "Pharmazentralnummer (PZN), optional",
     pznHilfe:
       "The 8-digit number on the package and on every prescription. It is optional, and giving it lets us match your exact pack.",
     speichern: "Save medication",
@@ -124,7 +150,9 @@ export const en = {
 
   leer: {
     title: "No medications added yet",
-    body: "Add the medications you take regularly. Vorrat checks them against the current official reports.",
+    // Says what happens next instead of repeating the header. The "every day
+    // after that" is the point: Vorrat is a standing watch, not a one-off lookup.
+    body: "Add a medication. We check right away, and every day after that.",
     cta: "Add your first medication",
   },
 
@@ -155,7 +183,7 @@ export const en = {
     dosisLabel: "Daily dose (e.g. 1 or 0.5)",
     letzteAbholungLabel: "Date of last pickup",
     reichtBisFn: ({ datum }) => `Your supply is estimated to last until roughly ${datum}.`,
-    unsicher: "Run-out estimate incomplete — please check your entries.",
+    unsicher: "Run-out estimate incomplete. Please check your entries.",
     vorEngpassFn: ({ datum }) => `Your supply is estimated to end on ${datum}, before the reported shortage starts.`,
     nachEngpassFn: ({ datum }) => `The reported shortage starts before your supply is estimated to end on ${datum}.`,
     hinweis: "This is an estimate based on your own entries and does not account for changes in dose.",

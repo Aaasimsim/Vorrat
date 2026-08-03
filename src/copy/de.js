@@ -3,10 +3,37 @@
 export const de = {
   app: {
     name: "Vorrat",
-    tagline: "Frühwarnung bei Lieferengpässen von Medikamenten",
+    // Benennt das Ergebnis, nicht die Kategorie. "Lieferengpass" ist genau das
+    // Amtsdeutsch, das diese App übersetzen soll, und steht deshalb nicht im
+    // ersten Satz.
+    tagline: "Erfahren Sie von Engpässen bei Ihren Medikamenten, bevor Sie in der Apotheke stehen.",
+    seitentitel: "Vorrat: Frühwarnung bei Lieferengpässen von Medikamenten",
     dataSource: "Basiert auf den offiziellen Lieferengpassmeldungen des Bundesinstituts für Arzneimittel und Medizinprodukte (BfArM).",
     madeByPrefix: "Entwickelt von ",
     authorName: "Asim Syed",
+  },
+
+  /**
+   * Der Einstieg für jemanden, der die App zum ersten Mal öffnet. Er beantwortet
+   * drei Fragen in dieser Reihenfolge: Was ist das Problem, warum können wir
+   * überhaupt vorwarnen, und was macht Vorrat damit.
+   *
+   * Der Mechanismus-Satz ist der wichtigste auf dem ganzen Bildschirm. Ohne ihn
+   * gibt es keinen Grund zu glauben, dass eine Vorwarnung möglich ist.
+   */
+  einstieg: {
+    mechanismus:
+      "Hersteller müssen absehbare Lieferengpässe dem BfArM melden, oft Monate im Voraus. Diese Meldungen sind öffentlich. Nur sieht sie fast niemand.",
+    // "sagt Ihnen", nicht "empfiehlt": die App informiert, sie rät nie.
+    vorrat:
+      "Vorrat liest diese Meldungen täglich und sagt Ihnen, wenn eines Ihrer Medikamente betroffen ist. Früh genug, um in Ruhe mit Apotheke oder Praxis zu sprechen.",
+    // Der Auslöser sagt selbst schon etwas aus. "Beispiel ansehen" allein
+    // verrät nicht, wofür, und wer nicht tippt, hätte gar nichts gelernt.
+    beispielOeffnen: "Beispiel ansehen: So sieht eine Meldung aus",
+    beispielSchliessen: "Beispiel ausblenden",
+    beispielLabel: "Beispiel",
+    beispielHinweis:
+      "Zwei echte Meldungen aus der BfArM-Liste. Ihre eigenen Medikamente werden genauso dargestellt.",
   },
 
   nav: {
@@ -48,18 +75,24 @@ export const de = {
     // Written to inform, not to alarm: the common case here is good news.
     unbekannt: {
       label: "Keine Meldung gefunden",
-      body: "Wir haben keine Meldung zu diesem Namen gefunden. Das heißt meistens: alles in Ordnung. Sicher zuordnen können wir ihn aber nicht — mit der PZN von der Packung wird die Prüfung eindeutig.",
+      body: "Wir haben keine Meldung zu diesem Namen gefunden. Das heißt meistens: alles in Ordnung. Sicher zuordnen können wir ihn aber nicht. Mit der PZN von der Packung wird die Prüfung eindeutig.",
     },
     watching: {
       // Deliberately does not claim that other manufacturers are still
       // supplying the drug: the BfArM feed lists only who reports a shortage,
       // never who supplies the market, so that sentence would be an inference
       // stated as fact. It says what is actually on record instead.
-      label: "In Beobachtung",
-      body: "Eine Lieferengpassmeldung betrifft Ihren Wirkstoff, aber nicht Ihr Präparat direkt. Das BfArM hat sie nicht als versorgungskritisch eingestuft. Sie müssen jetzt nichts tun — wir beobachten das weiter.",
+      // ­ is a soft hyphen: invisible unless the line actually has to
+      // break there, and then it renders a real hyphen. The two long status
+      // words are wider than their badge on a 320px screen at a large user
+      // text size, and browsers without a German hyphenation dictionary would
+      // otherwise cut them mid-syllable with no hyphen at all. Written as an
+      // escape rather than a literal so the character stays visible in review.
+      label: "In Beobach­tung",
+      body: "Eine Lieferengpassmeldung betrifft Ihren Wirkstoff, aber nicht Ihr Präparat direkt. Das BfArM hat sie nicht als versorgungskritisch eingestuft. Sie müssen jetzt nichts tun, wir beobachten das weiter.",
     },
     affected: {
-      label: "Lieferengpass gemeldet",
+      label: "Liefer­engpass gemeldet",
       body: "Für Ihr Medikament liegt eine offizielle Meldung über einen bevorstehenden oder aktiven Lieferengpass vor.",
     },
   },
@@ -107,8 +140,8 @@ export const de = {
     // number a patient copied correctly from their pack.
     warnungPzn: "Diese PZN sieht nicht wie eine gültige 8-stellige PZN aus. Sie können sie trotzdem speichern.",
     nameLabel: "Name des Medikaments oder Wirkstoff",
-    nameHilfe: "Wie auf der Verpackung angegeben",
-    pznLabel: "Pharmazentralnummer (PZN) — optional",
+    nameHilfe: "Wie auf der Verpackung angegeben, zum Beispiel L-Thyroxin oder Pantoprazol",
+    pznLabel: "Pharmazentralnummer (PZN), optional",
     pznHilfe: "Die 8-stellige Nummer finden Sie auf der Packung und auf jedem Rezept. Die Eingabe ist freiwillig und ermöglicht eine genauere Zuordnung.",
     speichern: "Medikament speichern",
     abbrechen: "Abbrechen",
@@ -116,7 +149,10 @@ export const de = {
 
   leer: {
     title: "Noch keine Medikamente hinterlegt",
-    body: "Fügen Sie Ihre regelmäßig benötigten Medikamente hinzu. Vorrat vergleicht diese kontinuierlich mit den aktuellen behördlichen Meldungen.",
+    // Sagt, was als Nächstes passiert, statt die Kopfzeile zu wiederholen. Das
+    // "danach täglich" ist der Punkt: Vorrat ist eine laufende Beobachtung,
+    // keine einmalige Abfrage.
+    body: "Fügen Sie ein Medikament hinzu. Wir prüfen sofort und danach täglich.",
     cta: "Erstes Medikament hinzufügen",
   },
 
@@ -149,7 +185,7 @@ export const de = {
     dosisLabel: "Tägliche Dosis (z. B. 1 oder 0,5)",
     letzteAbholungLabel: "Datum der letzten Abholung",
     reichtBisFn: ({ datum }) => `Ihr Vorrat reicht voraussichtlich bis etwa ${datum}.`,
-    unsicher: "Vorratsschätzung unvollständig — bitte ergänzen Sie Ihre Angaben.",
+    unsicher: "Vorratsschätzung unvollständig. Bitte ergänzen Sie Ihre Angaben.",
     vorEngpassFn: ({ datum }) => `Ihr Vorrat endet voraussichtlich am ${datum}, bevor der gemeldete Engpass beginnt.`,
     nachEngpassFn: ({ datum }) => `Der gemeldete Engpass beginnt, bevor Ihr Vorrat voraussichtlich am ${datum} endet.`,
     hinweis: "Dies ist eine Schätzung basierend auf Ihren eigenen Angaben und berücksichtigt keine Dosisänderungen.",

@@ -25,7 +25,10 @@ export function LanguageProvider({ children }) {
   useEffect(() => {
     const copy = COPY[language] ?? COPY[DEFAULT_LANGUAGE]
     document.documentElement.lang = language
-    document.title = `${copy.app.name} — ${copy.app.tagline}`
+    // Its own string rather than the tagline: the tagline is a full sentence
+    // written to be read on screen, and a tab, a bookmark and a search result
+    // all truncate it long before it makes sense.
+    document.title = copy.app.seitentitel
   }, [language])
 
   function setLanguage(next) {

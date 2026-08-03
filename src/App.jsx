@@ -14,6 +14,7 @@ import { buildVocabulary } from './lib/vocabulary.js'
 import { formatGermanDateTime } from './lib/format.js'
 import { MedicationCard } from './components/MedicationCard.jsx'
 import { AddMedicationForm } from './components/AddMedicationForm.jsx'
+import { IntroExample } from './components/IntroExample.jsx'
 
 // Order matters: an affected medication should be the first thing on screen.
 const STATUS_ORDER = { affected: 0, watching: 1, clear: 2 }
@@ -95,7 +96,6 @@ export default function App() {
           <LanguageSwitch />
         </div>
         <p className="mt-2 text-lg text-tinte">{t.app.tagline}</p>
-        <p className="mt-4 text-base text-tinte-weich">{t.datenschutz.kurz}</p>
       </header>
 
       <main className="mt-8 flex-1">
@@ -120,19 +120,45 @@ export default function App() {
             )}
 
             {medications.length === 0 ? (
-              <section className="rounded-lg border border-linie bg-flaeche p-6 text-center">
-                <h2 className="text-xl font-semibold text-tinte">{t.leer.title}</h2>
-                <p className="mx-auto mt-3 max-w-md text-base text-tinte">{t.leer.body}</p>
+              <>
+                {/* Shown only to someone who has not added anything yet, and
+                    dropped once the form is open: by then the explaining is
+                    done and the user is doing the one thing it asked for.
+                    Nobody who already keeps a list needs to read this again. */}
                 {!showForm && (
-                  <button
-                    type="button"
-                    onClick={() => setShowForm(true)}
-                    className="mt-5 min-h-12 rounded-md bg-aktion px-5 py-2 text-base font-semibold text-aktion-text hover:opacity-90"
-                  >
-                    {t.leer.cta}
-                  </button>
+                  <>
+                    {/* Two paragraphs, not three: the tagline already puts the
+                        reader at the pharmacy counter, so a scene-setting
+                        opener would only paint that picture twice. What is left
+                        is why a warning is possible, then what Vorrat does. */}
+                    <section className="space-y-4 text-lg leading-relaxed text-tinte">
+                      <p>{t.einstieg.mechanismus}</p>
+                      <p>{t.einstieg.vorrat}</p>
+                    </section>
+                    <IntroExample />
+                  </>
                 )}
-              </section>
+
+                <section className="mt-8 rounded-lg border border-linie bg-flaeche p-6 text-center">
+                  <h2 className="text-xl font-semibold text-tinte">{t.leer.title}</h2>
+                  <p className="mx-auto mt-3 max-w-md text-base text-tinte">{t.leer.body}</p>
+                  {!showForm && (
+                    <button
+                      type="button"
+                      onClick={() => setShowForm(true)}
+                      className="mt-5 min-h-12 rounded-md bg-aktion px-5 py-2 text-base font-semibold text-aktion-text hover:opacity-90"
+                    >
+                      {t.leer.cta}
+                    </button>
+                  )}
+                  {/* Sits at the ask rather than in the header: it answers a
+                      question the reader only has once they are deciding
+                      whether to type a medication in. */}
+                  <p className="mx-auto mt-5 max-w-md text-base text-tinte-weich">
+                    {t.datenschutz.kurz}
+                  </p>
+                </section>
+              </>
             ) : (
               <>
                 <h2 className="text-xl font-semibold text-tinte">{t.nav.meineMedikamente}</h2>

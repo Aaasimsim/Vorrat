@@ -53,9 +53,13 @@ export function StatusBadge({ status, statusKey, muted }) {
   // rounded-lg rather than a pill, and the label allowed to wrap: at a large
   // user text size "Lieferengpass gemeldet" is wider than the card it sits in,
   // and a pill that cannot wrap pushes the whole page sideways.
+  //
+  // shrink-0 so the flex row it sits in wraps the badge onto its own line
+  // rather than squeezing it into a narrow column. Squeezed, it was breaking
+  // its own words mid-syllable and stranding a single "g" on a line of its own.
   return (
     <span
-      className={`inline-flex max-w-full items-center gap-2 rounded-lg px-3 py-1 text-base font-semibold ${tone}`}
+      className={`inline-flex max-w-full shrink-0 items-center gap-2 rounded-lg px-3 py-1 text-base font-semibold ${tone}`}
     >
       <svg
         viewBox="0 0 20 20"
