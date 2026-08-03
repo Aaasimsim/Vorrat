@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-02T05:57:28.010Z",
-  "snapshotCount": 3,
+  "generatedAt": "2026-08-03T06:14:46.143Z",
+  "snapshotCount": 4,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-08-02",
+  "lastSnapshot": "2026-08-03",
   "summary": {
     "totalShortagesTracked": 515,
     "driftedCount": 0,
@@ -3484,7 +3484,7 @@
     },
     {
       "rootId": "LE2026002334",
-      "currentBearbeitungsnummer": "LE2026002334",
+      "currentBearbeitungsnummer": "LE2026002878",
       "produkt": "Plerixafor Viatris 20 mg/ml Injektionslösung",
       "wirkstoffe": [
         "Plerixafor"
