@@ -5,6 +5,8 @@ export const de = {
     name: "Vorrat",
     tagline: "Frühwarnung bei Lieferengpässen von Medikamenten",
     dataSource: "Basiert auf den offiziellen Lieferengpassmeldungen des Bundesinstituts für Arzneimittel und Medizinprodukte (BfArM).",
+    madeByPrefix: "Entwickelt von ",
+    authorName: "Asim Syed",
   },
 
   nav: {

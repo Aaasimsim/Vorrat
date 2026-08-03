@@ -18,6 +18,8 @@ export const en = {
     tagline: "Early warning for medication supply shortages",
     dataSource:
       "Based on the official supply shortage reports filed with the German Federal Institute for Drugs and Medical Devices (BfArM).",
+    madeByPrefix: "Made by ",
+    authorName: "Asim Syed",
   },
 
   nav: {
