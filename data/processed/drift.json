@@ -1,21 +1,384 @@
 {
-  "generatedAt": "2026-08-03T06:14:46.143Z",
-  "snapshotCount": 4,
+  "generatedAt": "2026-08-04T05:42:27.257Z",
+  "snapshotCount": 5,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-08-03",
+  "lastSnapshot": "2026-08-04",
   "summary": {
-    "totalShortagesTracked": 515,
-    "driftedCount": 0,
+    "totalShortagesTracked": 516,
+    "driftedCount": 15,
     "driftRate": {
-      "drifted": 0,
-      "of": 515,
-      "percentage": 0
+      "drifted": 15,
+      "of": 516,
+      "percentage": 2.9
     },
-    "meanDaysDrifted": 0,
-    "medianDaysDrifted": 0,
-    "totalExtensionEvents": 0
+    "meanDaysDrifted": 106.6,
+    "medianDaysDrifted": 92,
+    "totalExtensionEvents": 15
   },
-  "leaderboard": [],
+  "leaderboard": [
+    {
+      "rootId": "LE2024003292",
+      "currentBearbeitungsnummer": "LE2026002898",
+      "produkt": "Hydromorphon PAINBREAK 8 mg Retardtabletten",
+      "wirkstoffe": [
+        "Hydromorphonhydrochlorid"
+      ],
+      "zulassungsinhaber": "PB Pharma GmbH",
+      "atc": "N02AA03",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 243,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2027-03-31",
+          "daysExtended": 243,
+          "bearbeitungsnummer": "LE2026002898"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2024003291",
+      "currentBearbeitungsnummer": "LE2026002897",
+      "produkt": "Hydromorphon PAINBREAK 4 mg Retardtabletten",
+      "wirkstoffe": [
+        "Hydromorphonhydrochlorid"
+      ],
+      "zulassungsinhaber": "PB Pharma GmbH",
+      "atc": "N02AA03",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 243,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2027-03-31",
+          "daysExtended": 243,
+          "bearbeitungsnummer": "LE2026002897"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2024003294",
+      "currentBearbeitungsnummer": "LE2026002896",
+      "produkt": "Hydromorphon PAINBREAK 24 mg Retardtabletten",
+      "wirkstoffe": [
+        "Hydromorphonhydrochlorid"
+      ],
+      "zulassungsinhaber": "PB Pharma GmbH",
+      "atc": "N02AA03",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 243,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2027-03-31",
+          "daysExtended": 243,
+          "bearbeitungsnummer": "LE2026002896"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2024003293",
+      "currentBearbeitungsnummer": "LE2026002895",
+      "produkt": "Hydromorphon PAINBREAK 16 mg Retardtabletten",
+      "wirkstoffe": [
+        "Hydromorphonhydrochlorid"
+      ],
+      "zulassungsinhaber": "PB Pharma GmbH",
+      "atc": "N02AA03",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 243,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2027-03-31",
+          "daysExtended": 243,
+          "bearbeitungsnummer": "LE2026002895"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2024003131",
+      "currentBearbeitungsnummer": "LE2026002880",
+      "produkt": "Fluoropos",
+      "wirkstoffe": [
+        "Fluorometholon"
+      ],
+      "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+      "atc": "S01BA07",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-10-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026002880"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2025000007",
+      "currentBearbeitungsnummer": "LE2026002882",
+      "produkt": "Predni-POS 1 %",
+      "wirkstoffe": [
+        "Prednisolonacetat"
+      ],
+      "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+      "atc": "S01BA04",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-10-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026002882"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2026000465",
+      "currentBearbeitungsnummer": "LE2026002884",
+      "produkt": "Predni-POS 0,5%",
+      "wirkstoffe": [
+        "Prednisolonacetat"
+      ],
+      "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+      "atc": "S01BA04",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-10-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026002884"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2026001626",
+      "currentBearbeitungsnummer": "LE2026002881",
+      "produkt": "Neosynephrin-POS 5%",
+      "wirkstoffe": [
+        "Phenylephrinhydrochlorid"
+      ],
+      "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+      "atc": "S01FB01",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
+      "chainTruncated": false,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-10-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026002881"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2026001594",
+      "currentBearbeitungsnummer": "LE2026002883",
+      "produkt": "Neosynephrin-POS 10%",
+      "wirkstoffe": [
+        "Phenylephrinhydrochlorid"
+      ],
+      "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
+      "atc": "S01FB01",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
+      "chainTruncated": false,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-10-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026002883"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2026001841",
+      "currentBearbeitungsnummer": "LE2026002889",
+      "produkt": "Pazopanib Viatris 400 mg Filmtabletten",
+      "wirkstoffe": [
+        "Pazopanibhydrochlorid"
+      ],
+      "zulassungsinhaber": "Viatris Germany GmbH",
+      "atc": "L01EX03",
+      "firstObservedEnde": "2026-08-03",
+      "latestObservedEnde": "2026-09-15",
+      "totalDaysDrifted": 43,
+      "extensionsCount": 1,
+      "chainTruncated": false,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-08-03",
+          "newEnde": "2026-09-15",
+          "daysExtended": 43,
+          "bearbeitungsnummer": "LE2026002889"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2026001840",
+      "currentBearbeitungsnummer": "LE2026002890",
+      "produkt": "Pazopanib Viatris 200 mg Filmtabletten",
+      "wirkstoffe": [
+        "Pazopanibhydrochlorid"
+      ],
+      "zulassungsinhaber": "Viatris Germany GmbH",
+      "atc": "L01EX03",
+      "firstObservedEnde": "2026-08-03",
+      "latestObservedEnde": "2026-09-15",
+      "totalDaysDrifted": 43,
+      "extensionsCount": 1,
+      "chainTruncated": false,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-08-03",
+          "newEnde": "2026-09-15",
+          "daysExtended": 43,
+          "bearbeitungsnummer": "LE2026002890"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2026000464",
+      "currentBearbeitungsnummer": "LE2026002879",
+      "produkt": "Mitem 20mg",
+      "wirkstoffe": [
+        "Mitomycin"
+      ],
+      "zulassungsinhaber": "Substipharm",
+      "atc": "L01DC03",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2027-02-01",
+      "totalDaysDrifted": 32,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-12-31",
+          "newEnde": "2027-02-01",
+          "daysExtended": 32,
+          "bearbeitungsnummer": "LE2026002879"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2026002479",
+      "currentBearbeitungsnummer": "LE2026002886",
+      "produkt": "Thyronajod 50 Henning",
+      "wirkstoffe": [
+        "Kaliumiodid",
+        "Levothyroxin-Natrium"
+      ],
+      "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+      "atc": "H03AA51, H03CA",
+      "firstObservedEnde": "2026-08-03",
+      "latestObservedEnde": "2026-08-31",
+      "totalDaysDrifted": 28,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-08-03",
+          "newEnde": "2026-08-31",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026002886"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2026001231",
+      "currentBearbeitungsnummer": "LE2026002888",
+      "produkt": "Bronchospasmin 10 ml Injektionslösung",
+      "wirkstoffe": [
+        "Reproterolhydrochlorid"
+      ],
+      "zulassungsinhaber": "Viatris Healthcare GmbH",
+      "atc": "R03CC14",
+      "firstObservedEnde": "2026-08-03",
+      "latestObservedEnde": "2026-08-21",
+      "totalDaysDrifted": 18,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-08-03",
+          "newEnde": "2026-08-21",
+          "daysExtended": 18,
+          "bearbeitungsnummer": "LE2026002888"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2026002519",
+      "currentBearbeitungsnummer": "LE2026002887",
+      "produkt": "Thyronajod 75 Henning",
+      "wirkstoffe": [
+        "Kaliumiodid",
+        "Levothyroxin-Natrium"
+      ],
+      "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+      "atc": "H03AA51, H03CA",
+      "firstObservedEnde": "2026-08-04",
+      "latestObservedEnde": "2026-08-07",
+      "totalDaysDrifted": 3,
+      "extensionsCount": 1,
+      "chainTruncated": false,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-08-04",
+          "newEnde": "2026-08-07",
+          "daysExtended": 3,
+          "bearbeitungsnummer": "LE2026002887"
+        }
+      ]
+    }
+  ],
   "records": [
     {
       "rootId": "LE2026002491",
@@ -1288,7 +1651,7 @@
     },
     {
       "rootId": "LE2026002745",
-      "currentBearbeitungsnummer": "LE2026002745",
+      "currentBearbeitungsnummer": "LE2026002894",
       "produkt": "Gutron Tabletten",
       "wirkstoffe": [
         "Midodrinhydrochlorid"
@@ -2717,7 +3080,7 @@
     },
     {
       "rootId": "LE2026002479",
-      "currentBearbeitungsnummer": "LE2026002520",
+      "currentBearbeitungsnummer": "LE2026002886",
       "produkt": "Thyronajod 50 Henning",
       "wirkstoffe": [
         "Kaliumiodid",
@@ -2726,15 +3089,23 @@
       "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
       "atc": "H03AA51, H03CA",
       "firstObservedEnde": "2026-08-03",
-      "latestObservedEnde": "2026-08-03",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-08-31",
+      "totalDaysDrifted": 28,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-08-03",
+          "newEnde": "2026-08-31",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026002886"
+        }
+      ]
     },
     {
       "rootId": "LE2026002519",
-      "currentBearbeitungsnummer": "LE2026002519",
+      "currentBearbeitungsnummer": "LE2026002887",
       "produkt": "Thyronajod 75 Henning",
       "wirkstoffe": [
         "Kaliumiodid",
@@ -2743,11 +3114,19 @@
       "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
       "atc": "H03AA51, H03CA",
       "firstObservedEnde": "2026-08-04",
-      "latestObservedEnde": "2026-08-04",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-08-07",
+      "totalDaysDrifted": 3,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-08-04",
+          "newEnde": "2026-08-07",
+          "daysExtended": 3,
+          "bearbeitungsnummer": "LE2026002887"
+        }
+      ]
     },
     {
       "rootId": "LE2026002505",
@@ -4644,7 +5023,7 @@
     },
     {
       "rootId": "LE2026001231",
-      "currentBearbeitungsnummer": "LE2026002105",
+      "currentBearbeitungsnummer": "LE2026002888",
       "produkt": "Bronchospasmin 10 ml Injektionslösung",
       "wirkstoffe": [
         "Reproterolhydrochlorid"
@@ -4652,11 +5031,19 @@
       "zulassungsinhaber": "Viatris Healthcare GmbH",
       "atc": "R03CC14",
       "firstObservedEnde": "2026-08-03",
-      "latestObservedEnde": "2026-08-03",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-08-21",
+      "totalDaysDrifted": 18,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-08-03",
+          "newEnde": "2026-08-21",
+          "daysExtended": 18,
+          "bearbeitungsnummer": "LE2026002888"
+        }
+      ]
     },
     {
       "rootId": "LE2024004050",
@@ -5172,7 +5559,7 @@
     },
     {
       "rootId": "LE2026000464",
-      "currentBearbeitungsnummer": "LE2026001919",
+      "currentBearbeitungsnummer": "LE2026002879",
       "produkt": "Mitem 20mg",
       "wirkstoffe": [
         "Mitomycin"
@@ -5180,11 +5567,19 @@
       "zulassungsinhaber": "Substipharm",
       "atc": "L01DC03",
       "firstObservedEnde": "2026-12-31",
-      "latestObservedEnde": "2026-12-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-02-01",
+      "totalDaysDrifted": 32,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-12-31",
+          "newEnde": "2027-02-01",
+          "daysExtended": 32,
+          "bearbeitungsnummer": "LE2026002879"
+        }
+      ]
     },
     {
       "rootId": "LE2026001899",
@@ -5332,7 +5727,7 @@
     },
     {
       "rootId": "LE2026001841",
-      "currentBearbeitungsnummer": "LE2026001841",
+      "currentBearbeitungsnummer": "LE2026002889",
       "produkt": "Pazopanib Viatris 400 mg Filmtabletten",
       "wirkstoffe": [
         "Pazopanibhydrochlorid"
@@ -5340,15 +5735,23 @@
       "zulassungsinhaber": "Viatris Germany GmbH",
       "atc": "L01EX03",
       "firstObservedEnde": "2026-08-03",
-      "latestObservedEnde": "2026-08-03",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-15",
+      "totalDaysDrifted": 43,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-08-03",
+          "newEnde": "2026-09-15",
+          "daysExtended": 43,
+          "bearbeitungsnummer": "LE2026002889"
+        }
+      ]
     },
     {
       "rootId": "LE2026001840",
-      "currentBearbeitungsnummer": "LE2026001840",
+      "currentBearbeitungsnummer": "LE2026002890",
       "produkt": "Pazopanib Viatris 200 mg Filmtabletten",
       "wirkstoffe": [
         "Pazopanibhydrochlorid"
@@ -5356,11 +5759,19 @@
       "zulassungsinhaber": "Viatris Germany GmbH",
       "atc": "L01EX03",
       "firstObservedEnde": "2026-08-03",
-      "latestObservedEnde": "2026-08-03",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-15",
+      "totalDaysDrifted": 43,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-08-03",
+          "newEnde": "2026-09-15",
+          "daysExtended": 43,
+          "bearbeitungsnummer": "LE2026002890"
+        }
+      ]
     },
     {
       "rootId": "LE2026000707",
@@ -5812,7 +6223,7 @@
     },
     {
       "rootId": "LE2024003131",
-      "currentBearbeitungsnummer": "LE2026001669",
+      "currentBearbeitungsnummer": "LE2026002880",
       "produkt": "Fluoropos",
       "wirkstoffe": [
         "Fluorometholon"
@@ -5820,15 +6231,23 @@
       "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
       "atc": "S01BA07",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-10-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026002880"
+        }
+      ]
     },
     {
       "rootId": "LE2025000007",
-      "currentBearbeitungsnummer": "LE2026001667",
+      "currentBearbeitungsnummer": "LE2026002882",
       "produkt": "Predni-POS 1 %",
       "wirkstoffe": [
         "Prednisolonacetat"
@@ -5836,15 +6255,23 @@
       "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
       "atc": "S01BA04",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-10-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026002882"
+        }
+      ]
     },
     {
       "rootId": "LE2026000465",
-      "currentBearbeitungsnummer": "LE2026001666",
+      "currentBearbeitungsnummer": "LE2026002884",
       "produkt": "Predni-POS 0,5%",
       "wirkstoffe": [
         "Prednisolonacetat"
@@ -5852,11 +6279,19 @@
       "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
       "atc": "S01BA04",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-10-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026002884"
+        }
+      ]
     },
     {
       "rootId": "LE2025004605",
@@ -5892,7 +6327,7 @@
     },
     {
       "rootId": "LE2026001626",
-      "currentBearbeitungsnummer": "LE2026001626",
+      "currentBearbeitungsnummer": "LE2026002881",
       "produkt": "Neosynephrin-POS 5%",
       "wirkstoffe": [
         "Phenylephrinhydrochlorid"
@@ -5900,15 +6335,23 @@
       "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
       "atc": "S01FB01",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-10-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026002881"
+        }
+      ]
     },
     {
       "rootId": "LE2026001594",
-      "currentBearbeitungsnummer": "LE2026001594",
+      "currentBearbeitungsnummer": "LE2026002883",
       "produkt": "Neosynephrin-POS 10%",
       "wirkstoffe": [
         "Phenylephrinhydrochlorid"
@@ -5916,11 +6359,19 @@
       "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
       "atc": "S01FB01",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-10-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026002883"
+        }
+      ]
     },
     {
       "rootId": "LE2026001590",
@@ -7575,7 +8026,7 @@
     },
     {
       "rootId": "LE2024003292",
-      "currentBearbeitungsnummer": "LE2025004614",
+      "currentBearbeitungsnummer": "LE2026002898",
       "produkt": "Hydromorphon PAINBREAK 8 mg Retardtabletten",
       "wirkstoffe": [
         "Hydromorphonhydrochlorid"
@@ -7583,15 +8034,23 @@
       "zulassungsinhaber": "PB Pharma GmbH",
       "atc": "N02AA03",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 243,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2027-03-31",
+          "daysExtended": 243,
+          "bearbeitungsnummer": "LE2026002898"
+        }
+      ]
     },
     {
       "rootId": "LE2024003291",
-      "currentBearbeitungsnummer": "LE2025004613",
+      "currentBearbeitungsnummer": "LE2026002897",
       "produkt": "Hydromorphon PAINBREAK 4 mg Retardtabletten",
       "wirkstoffe": [
         "Hydromorphonhydrochlorid"
@@ -7599,15 +8058,23 @@
       "zulassungsinhaber": "PB Pharma GmbH",
       "atc": "N02AA03",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 243,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2027-03-31",
+          "daysExtended": 243,
+          "bearbeitungsnummer": "LE2026002897"
+        }
+      ]
     },
     {
       "rootId": "LE2024003294",
-      "currentBearbeitungsnummer": "LE2025004612",
+      "currentBearbeitungsnummer": "LE2026002896",
       "produkt": "Hydromorphon PAINBREAK 24 mg Retardtabletten",
       "wirkstoffe": [
         "Hydromorphonhydrochlorid"
@@ -7615,15 +8082,23 @@
       "zulassungsinhaber": "PB Pharma GmbH",
       "atc": "N02AA03",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 243,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2027-03-31",
+          "daysExtended": 243,
+          "bearbeitungsnummer": "LE2026002896"
+        }
+      ]
     },
     {
       "rootId": "LE2024003293",
-      "currentBearbeitungsnummer": "LE2025004609",
+      "currentBearbeitungsnummer": "LE2026002895",
       "produkt": "Hydromorphon PAINBREAK 16 mg Retardtabletten",
       "wirkstoffe": [
         "Hydromorphonhydrochlorid"
@@ -7631,11 +8106,19 @@
       "zulassungsinhaber": "PB Pharma GmbH",
       "atc": "N02AA03",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 243,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2027-03-31",
+          "daysExtended": 243,
+          "bearbeitungsnummer": "LE2026002895"
+        }
+      ]
     },
     {
       "rootId": "LE2021003796",
@@ -8361,6 +8844,22 @@
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026002893",
+      "currentBearbeitungsnummer": "LE2026002893",
+      "produkt": "Xylocain Gel 2%",
+      "wirkstoffe": [
+        "Lidocainhydrochlorid-Monohydrat"
+      ],
+      "zulassungsinhaber": "Aspen Pharma Trading Limited",
+      "atc": "N01BB02",
+      "firstObservedEnde": "2026-10-09",
+      "latestObservedEnde": "2026-10-09",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
       "extensionHistory": []
     }
   ]
