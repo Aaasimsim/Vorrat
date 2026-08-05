@@ -1,21 +1,117 @@
 {
-  "generatedAt": "2026-08-04T05:42:27.257Z",
-  "snapshotCount": 5,
+  "generatedAt": "2026-08-05T05:40:50.626Z",
+  "snapshotCount": 6,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-08-04",
+  "lastSnapshot": "2026-08-05",
   "summary": {
     "totalShortagesTracked": 516,
-    "driftedCount": 15,
+    "driftedCount": 31,
     "driftRate": {
-      "drifted": 15,
+      "drifted": 31,
       "of": 516,
-      "percentage": 2.9
+      "percentage": 6
     },
-    "meanDaysDrifted": 106.6,
+    "meanDaysDrifted": 130.5,
     "medianDaysDrifted": 92,
-    "totalExtensionEvents": 15
+    "totalExtensionEvents": 31
   },
   "leaderboard": [
+    {
+      "rootId": "LE2023000959",
+      "currentBearbeitungsnummer": "LE2026002916",
+      "produkt": "ROSUVASTATIN-ELPEN 40 mg Filmtabletten",
+      "wirkstoffe": [
+        "Rosuvastatin-Hemicalcium"
+      ],
+      "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+      "atc": "C10AA07",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2027-07-31",
+      "totalDaysDrifted": 365,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2027-07-31",
+          "daysExtended": 365,
+          "bearbeitungsnummer": "LE2026002916"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2023000745",
+      "currentBearbeitungsnummer": "LE2026002917",
+      "produkt": "ROSUVASTATIN-ELPEN 20 mg Filmtabletten",
+      "wirkstoffe": [
+        "Rosuvastatin-Hemicalcium"
+      ],
+      "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+      "atc": "C10AA07",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2027-07-31",
+      "totalDaysDrifted": 365,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2027-07-31",
+          "daysExtended": 365,
+          "bearbeitungsnummer": "LE2026002917"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2023000954",
+      "currentBearbeitungsnummer": "LE2026002918",
+      "produkt": "ROSUVASTATIN-ELPEN 10 mg Filmtabletten",
+      "wirkstoffe": [
+        "Rosuvastatin-Hemicalcium"
+      ],
+      "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+      "atc": "C10AA07",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2027-07-31",
+      "totalDaysDrifted": 365,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2027-07-31",
+          "daysExtended": 365,
+          "bearbeitungsnummer": "LE2026002918"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2023000690",
+      "currentBearbeitungsnummer": "LE2026002919",
+      "produkt": "ROSUVASTATIN-ELPEN 5 mg Filmtabletten",
+      "wirkstoffe": [
+        "Rosuvastatin-Hemicalcium"
+      ],
+      "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
+      "atc": "C10AA07",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2027-07-31",
+      "totalDaysDrifted": 365,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2027-07-31",
+          "daysExtended": 365,
+          "bearbeitungsnummer": "LE2026002919"
+        }
+      ]
+    },
     {
       "rootId": "LE2024003292",
       "currentBearbeitungsnummer": "LE2026002898",
@@ -109,6 +205,78 @@
           "newEnde": "2027-03-31",
           "daysExtended": 243,
           "bearbeitungsnummer": "LE2026002895"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2025000776",
+      "currentBearbeitungsnummer": "LE2026002903",
+      "produkt": "Galantamin-ratiopharm 16 mg Hartkapseln, retardiert",
+      "wirkstoffe": [
+        "Galantaminhydrobromid"
+      ],
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "N06DA04",
+      "firstObservedEnde": "2026-07-24",
+      "latestObservedEnde": "2026-12-23",
+      "totalDaysDrifted": 152,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-24",
+          "newEnde": "2026-12-23",
+          "daysExtended": 152,
+          "bearbeitungsnummer": "LE2026002903"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2024001107",
+      "currentBearbeitungsnummer": "LE2026002909",
+      "produkt": "Buprenorphin-ratiopharm 70 Mikrogramm/h Transdermales Pflaster",
+      "wirkstoffe": [
+        "Buprenorphin"
+      ],
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "N02AE01",
+      "firstObservedEnde": "2026-08-04",
+      "latestObservedEnde": "2026-11-24",
+      "totalDaysDrifted": 112,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-08-04",
+          "newEnde": "2026-11-24",
+          "daysExtended": 112,
+          "bearbeitungsnummer": "LE2026002909"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2026002334",
+      "currentBearbeitungsnummer": "LE2026002921",
+      "produkt": "Plerixafor Viatris 20 mg/ml Injektionslösung",
+      "wirkstoffe": [
+        "Plerixafor"
+      ],
+      "zulassungsinhaber": "Viatris Germany GmbH",
+      "atc": "L03AX16",
+      "firstObservedEnde": "2026-09-30",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
+      "chainTruncated": false,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-12-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026002921"
         }
       ]
     },
@@ -233,148 +401,98 @@
       ]
     },
     {
-      "rootId": "LE2026001841",
-      "currentBearbeitungsnummer": "LE2026002889",
-      "produkt": "Pazopanib Viatris 400 mg Filmtabletten",
+      "rootId": "LE2025000778",
+      "currentBearbeitungsnummer": "LE2026002902",
+      "produkt": "Galantamin-ratiopharm 8 mg Hartkapseln, retardiert",
       "wirkstoffe": [
-        "Pazopanibhydrochlorid"
+        "Galantaminhydrobromid"
       ],
-      "zulassungsinhaber": "Viatris Germany GmbH",
-      "atc": "L01EX03",
-      "firstObservedEnde": "2026-08-03",
-      "latestObservedEnde": "2026-09-15",
-      "totalDaysDrifted": 43,
-      "extensionsCount": 1,
-      "chainTruncated": false,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-04",
-          "previousEnde": "2026-08-03",
-          "newEnde": "2026-09-15",
-          "daysExtended": 43,
-          "bearbeitungsnummer": "LE2026002889"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2026001840",
-      "currentBearbeitungsnummer": "LE2026002890",
-      "produkt": "Pazopanib Viatris 200 mg Filmtabletten",
-      "wirkstoffe": [
-        "Pazopanibhydrochlorid"
-      ],
-      "zulassungsinhaber": "Viatris Germany GmbH",
-      "atc": "L01EX03",
-      "firstObservedEnde": "2026-08-03",
-      "latestObservedEnde": "2026-09-15",
-      "totalDaysDrifted": 43,
-      "extensionsCount": 1,
-      "chainTruncated": false,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-04",
-          "previousEnde": "2026-08-03",
-          "newEnde": "2026-09-15",
-          "daysExtended": 43,
-          "bearbeitungsnummer": "LE2026002890"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2026000464",
-      "currentBearbeitungsnummer": "LE2026002879",
-      "produkt": "Mitem 20mg",
-      "wirkstoffe": [
-        "Mitomycin"
-      ],
-      "zulassungsinhaber": "Substipharm",
-      "atc": "L01DC03",
-      "firstObservedEnde": "2026-12-31",
-      "latestObservedEnde": "2027-02-01",
-      "totalDaysDrifted": 32,
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "N06DA04",
+      "firstObservedEnde": "2026-07-24",
+      "latestObservedEnde": "2026-10-21",
+      "totalDaysDrifted": 89,
       "extensionsCount": 1,
       "chainTruncated": true,
       "extensionHistory": [
         {
-          "snapshotDate": "2026-08-04",
-          "previousEnde": "2026-12-31",
-          "newEnde": "2027-02-01",
-          "daysExtended": 32,
-          "bearbeitungsnummer": "LE2026002879"
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-24",
+          "newEnde": "2026-10-21",
+          "daysExtended": 89,
+          "bearbeitungsnummer": "LE2026002902"
         }
       ]
     },
     {
-      "rootId": "LE2026002479",
-      "currentBearbeitungsnummer": "LE2026002886",
-      "produkt": "Thyronajod 50 Henning",
+      "rootId": "LE2024001130",
+      "currentBearbeitungsnummer": "LE2026002914",
+      "produkt": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
       "wirkstoffe": [
-        "Kaliumiodid",
-        "Levothyroxin-Natrium"
+        "Buprenorphin"
       ],
-      "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-      "atc": "H03AA51, H03CA",
-      "firstObservedEnde": "2026-08-03",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 28,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-04",
-          "previousEnde": "2026-08-03",
-          "newEnde": "2026-08-31",
-          "daysExtended": 28,
-          "bearbeitungsnummer": "LE2026002886"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2026001231",
-      "currentBearbeitungsnummer": "LE2026002888",
-      "produkt": "Bronchospasmin 10 ml Injektionslösung",
-      "wirkstoffe": [
-        "Reproterolhydrochlorid"
-      ],
-      "zulassungsinhaber": "Viatris Healthcare GmbH",
-      "atc": "R03CC14",
-      "firstObservedEnde": "2026-08-03",
-      "latestObservedEnde": "2026-08-21",
-      "totalDaysDrifted": 18,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-04",
-          "previousEnde": "2026-08-03",
-          "newEnde": "2026-08-21",
-          "daysExtended": 18,
-          "bearbeitungsnummer": "LE2026002888"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2026002519",
-      "currentBearbeitungsnummer": "LE2026002887",
-      "produkt": "Thyronajod 75 Henning",
-      "wirkstoffe": [
-        "Kaliumiodid",
-        "Levothyroxin-Natrium"
-      ],
-      "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
-      "atc": "H03AA51, H03CA",
+      "zulassungsinhaber": "TEVA GmbH",
+      "atc": "N02AE01",
       "firstObservedEnde": "2026-08-04",
-      "latestObservedEnde": "2026-08-07",
-      "totalDaysDrifted": 3,
+      "latestObservedEnde": "2026-10-30",
+      "totalDaysDrifted": 87,
       "extensionsCount": 1,
-      "chainTruncated": false,
+      "chainTruncated": true,
       "extensionHistory": [
         {
-          "snapshotDate": "2026-08-04",
+          "snapshotDate": "2026-08-05",
           "previousEnde": "2026-08-04",
-          "newEnde": "2026-08-07",
-          "daysExtended": 3,
-          "bearbeitungsnummer": "LE2026002887"
+          "newEnde": "2026-10-30",
+          "daysExtended": 87,
+          "bearbeitungsnummer": "LE2026002914"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2024001129",
+      "currentBearbeitungsnummer": "LE2026002915",
+      "produkt": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
+      "wirkstoffe": [
+        "Buprenorphin"
+      ],
+      "zulassungsinhaber": "TEVA GmbH",
+      "atc": "N02AE01",
+      "firstObservedEnde": "2026-08-04",
+      "latestObservedEnde": "2026-10-30",
+      "totalDaysDrifted": 87,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-08-04",
+          "newEnde": "2026-10-30",
+          "daysExtended": 87,
+          "bearbeitungsnummer": "LE2026002915"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2025001519",
+      "currentBearbeitungsnummer": "LE2026002905",
+      "produkt": "Ribavirin-ratiopharm 200 mg Filmtabletten",
+      "wirkstoffe": [
+        "Ribavirin"
+      ],
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "TERM_ID_NA_2090004158",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2026-10-15",
+      "totalDaysDrifted": 76,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-10-15",
+          "daysExtended": 76,
+          "bearbeitungsnummer": "LE2026002905"
         }
       ]
     }
@@ -2083,7 +2201,7 @@
     },
     {
       "rootId": "LE2025003276",
-      "currentBearbeitungsnummer": "LE2026002690",
+      "currentBearbeitungsnummer": "LE2026002900",
       "produkt": "Nitrendipin-ratiopharm 20 mg Tabletten",
       "wirkstoffe": [
         "Nitrendipin"
@@ -2936,7 +3054,7 @@
     },
     {
       "rootId": "LE2026002540",
-      "currentBearbeitungsnummer": "LE2026002540",
+      "currentBearbeitungsnummer": "LE2026002910",
       "produkt": "Calcitriol-GRY 0,25 Mikrogramm Kapseln",
       "wirkstoffe": [
         "Calcitriol"
@@ -2944,15 +3062,23 @@
       "zulassungsinhaber": "TEVA GmbH",
       "atc": "A11CC04",
       "firstObservedEnde": "2026-07-27",
-      "latestObservedEnde": "2026-07-27",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-08-19",
+      "totalDaysDrifted": 23,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-27",
+          "newEnde": "2026-08-19",
+          "daysExtended": 23,
+          "bearbeitungsnummer": "LE2026002910"
+        }
+      ]
     },
     {
       "rootId": "LE2026002532",
-      "currentBearbeitungsnummer": "LE2026002532",
+      "currentBearbeitungsnummer": "LE2026002911",
       "produkt": "Digitoxin AWD 0,07",
       "wirkstoffe": [
         "Digitoxin"
@@ -3863,7 +3989,7 @@
     },
     {
       "rootId": "LE2026002334",
-      "currentBearbeitungsnummer": "LE2026002878",
+      "currentBearbeitungsnummer": "LE2026002921",
       "produkt": "Plerixafor Viatris 20 mg/ml Injektionslösung",
       "wirkstoffe": [
         "Plerixafor"
@@ -3871,11 +3997,19 @@
       "zulassungsinhaber": "Viatris Germany GmbH",
       "atc": "L03AX16",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-12-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026002921"
+        }
+      ]
     },
     {
       "rootId": "LE2026001242",
@@ -6111,7 +6245,7 @@
     },
     {
       "rootId": "LE2025001519",
-      "currentBearbeitungsnummer": "LE2026001705",
+      "currentBearbeitungsnummer": "LE2026002905",
       "produkt": "Ribavirin-ratiopharm 200 mg Filmtabletten",
       "wirkstoffe": [
         "Ribavirin"
@@ -6119,15 +6253,23 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "TERM_ID_NA_2090004158",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-15",
+      "totalDaysDrifted": 76,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-10-15",
+          "daysExtended": 76,
+          "bearbeitungsnummer": "LE2026002905"
+        }
+      ]
     },
     {
       "rootId": "LE2025002275",
-      "currentBearbeitungsnummer": "LE2026001704",
+      "currentBearbeitungsnummer": "LE2026002906",
       "produkt": "Ribavirin-ratiopharm 400 mg Filmtabletten",
       "wirkstoffe": [
         "Ribavirin"
@@ -6135,15 +6277,23 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "TERM_ID_NA_2090004158",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-15",
+      "totalDaysDrifted": 76,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-10-15",
+          "daysExtended": 76,
+          "bearbeitungsnummer": "LE2026002906"
+        }
+      ]
     },
     {
       "rootId": "LE2025000778",
-      "currentBearbeitungsnummer": "LE2026001703",
+      "currentBearbeitungsnummer": "LE2026002902",
       "produkt": "Galantamin-ratiopharm 8 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Galantaminhydrobromid"
@@ -6151,15 +6301,23 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "N06DA04",
       "firstObservedEnde": "2026-07-24",
-      "latestObservedEnde": "2026-07-24",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-21",
+      "totalDaysDrifted": 89,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-24",
+          "newEnde": "2026-10-21",
+          "daysExtended": 89,
+          "bearbeitungsnummer": "LE2026002902"
+        }
+      ]
     },
     {
       "rootId": "LE2025000776",
-      "currentBearbeitungsnummer": "LE2026001702",
+      "currentBearbeitungsnummer": "LE2026002903",
       "produkt": "Galantamin-ratiopharm 16 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Galantaminhydrobromid"
@@ -6167,15 +6325,23 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "N06DA04",
       "firstObservedEnde": "2026-07-24",
-      "latestObservedEnde": "2026-07-24",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-23",
+      "totalDaysDrifted": 152,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-24",
+          "newEnde": "2026-12-23",
+          "daysExtended": 152,
+          "bearbeitungsnummer": "LE2026002903"
+        }
+      ]
     },
     {
       "rootId": "LE2025000777",
-      "currentBearbeitungsnummer": "LE2026001701",
+      "currentBearbeitungsnummer": "LE2026002904",
       "produkt": "Galantamin-ratiopharm 24 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Galantaminhydrobromid"
@@ -6183,11 +6349,19 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "N06DA04",
       "firstObservedEnde": "2026-07-24",
-      "latestObservedEnde": "2026-07-24",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-23",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-24",
+          "newEnde": "2026-09-23",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026002904"
+        }
+      ]
     },
     {
       "rootId": "LE2025001267",
@@ -7786,7 +7960,7 @@
     },
     {
       "rootId": "LE2024001130",
-      "currentBearbeitungsnummer": "LE2026000195",
+      "currentBearbeitungsnummer": "LE2026002914",
       "produkt": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
       "wirkstoffe": [
         "Buprenorphin"
@@ -7794,15 +7968,23 @@
       "zulassungsinhaber": "TEVA GmbH",
       "atc": "N02AE01",
       "firstObservedEnde": "2026-08-04",
-      "latestObservedEnde": "2026-08-04",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-30",
+      "totalDaysDrifted": 87,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-08-04",
+          "newEnde": "2026-10-30",
+          "daysExtended": 87,
+          "bearbeitungsnummer": "LE2026002914"
+        }
+      ]
     },
     {
       "rootId": "LE2024001129",
-      "currentBearbeitungsnummer": "LE2026000194",
+      "currentBearbeitungsnummer": "LE2026002915",
       "produkt": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
       "wirkstoffe": [
         "Buprenorphin"
@@ -7810,15 +7992,23 @@
       "zulassungsinhaber": "TEVA GmbH",
       "atc": "N02AE01",
       "firstObservedEnde": "2026-08-04",
-      "latestObservedEnde": "2026-08-04",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-30",
+      "totalDaysDrifted": 87,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-08-04",
+          "newEnde": "2026-10-30",
+          "daysExtended": 87,
+          "bearbeitungsnummer": "LE2026002915"
+        }
+      ]
     },
     {
       "rootId": "LE2024001105",
-      "currentBearbeitungsnummer": "LE2026000189",
+      "currentBearbeitungsnummer": "LE2026002907",
       "produkt": "Buprenorphin-ratiopharm 35 Mikrogramm/h Transdermales Pflaster",
       "wirkstoffe": [
         "Buprenorphin"
@@ -7826,15 +8016,23 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "N02AE01",
       "firstObservedEnde": "2026-08-04",
-      "latestObservedEnde": "2026-08-04",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-06",
+      "totalDaysDrifted": 63,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-08-04",
+          "newEnde": "2026-10-06",
+          "daysExtended": 63,
+          "bearbeitungsnummer": "LE2026002907"
+        }
+      ]
     },
     {
       "rootId": "LE2024001106",
-      "currentBearbeitungsnummer": "LE2026000188",
+      "currentBearbeitungsnummer": "LE2026002908",
       "produkt": "Buprenorphin-ratiopharm 52,5 Mikrogramm/h Transdermales Pflaster",
       "wirkstoffe": [
         "Buprenorphin"
@@ -7842,15 +8040,23 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "N02AE01",
       "firstObservedEnde": "2026-08-04",
-      "latestObservedEnde": "2026-08-04",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-13",
+      "totalDaysDrifted": 70,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-08-04",
+          "newEnde": "2026-10-13",
+          "daysExtended": 70,
+          "bearbeitungsnummer": "LE2026002908"
+        }
+      ]
     },
     {
       "rootId": "LE2024001107",
-      "currentBearbeitungsnummer": "LE2026000187",
+      "currentBearbeitungsnummer": "LE2026002909",
       "produkt": "Buprenorphin-ratiopharm 70 Mikrogramm/h Transdermales Pflaster",
       "wirkstoffe": [
         "Buprenorphin"
@@ -7858,11 +8064,19 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "N02AE01",
       "firstObservedEnde": "2026-08-04",
-      "latestObservedEnde": "2026-08-04",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-24",
+      "totalDaysDrifted": 112,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-08-04",
+          "newEnde": "2026-11-24",
+          "daysExtended": 112,
+          "bearbeitungsnummer": "LE2026002909"
+        }
+      ]
     },
     {
       "rootId": "LE2025004070",
@@ -8426,7 +8640,7 @@
     },
     {
       "rootId": "LE2023000959",
-      "currentBearbeitungsnummer": "LE2025003180",
+      "currentBearbeitungsnummer": "LE2026002916",
       "produkt": "ROSUVASTATIN-ELPEN 40 mg Filmtabletten",
       "wirkstoffe": [
         "Rosuvastatin-Hemicalcium"
@@ -8434,15 +8648,23 @@
       "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
       "atc": "C10AA07",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-07-31",
+      "totalDaysDrifted": 365,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2027-07-31",
+          "daysExtended": 365,
+          "bearbeitungsnummer": "LE2026002916"
+        }
+      ]
     },
     {
       "rootId": "LE2023000745",
-      "currentBearbeitungsnummer": "LE2025003179",
+      "currentBearbeitungsnummer": "LE2026002917",
       "produkt": "ROSUVASTATIN-ELPEN 20 mg Filmtabletten",
       "wirkstoffe": [
         "Rosuvastatin-Hemicalcium"
@@ -8450,15 +8672,23 @@
       "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
       "atc": "C10AA07",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-07-31",
+      "totalDaysDrifted": 365,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2027-07-31",
+          "daysExtended": 365,
+          "bearbeitungsnummer": "LE2026002917"
+        }
+      ]
     },
     {
       "rootId": "LE2023000954",
-      "currentBearbeitungsnummer": "LE2025003178",
+      "currentBearbeitungsnummer": "LE2026002918",
       "produkt": "ROSUVASTATIN-ELPEN 10 mg Filmtabletten",
       "wirkstoffe": [
         "Rosuvastatin-Hemicalcium"
@@ -8466,15 +8696,23 @@
       "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
       "atc": "C10AA07",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-07-31",
+      "totalDaysDrifted": 365,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2027-07-31",
+          "daysExtended": 365,
+          "bearbeitungsnummer": "LE2026002918"
+        }
+      ]
     },
     {
       "rootId": "LE2023000690",
-      "currentBearbeitungsnummer": "LE2025003177",
+      "currentBearbeitungsnummer": "LE2026002919",
       "produkt": "ROSUVASTATIN-ELPEN 5 mg Filmtabletten",
       "wirkstoffe": [
         "Rosuvastatin-Hemicalcium"
@@ -8482,11 +8720,19 @@
       "zulassungsinhaber": "Elpen Pharmaceutical Co. Inc. Beiname: Elpen, Elpen S.A., Elpen A.E.",
       "atc": "C10AA07",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-07-31",
+      "totalDaysDrifted": 365,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2027-07-31",
+          "daysExtended": 365,
+          "bearbeitungsnummer": "LE2026002919"
+        }
+      ]
     },
     {
       "rootId": "LE2024004070",
