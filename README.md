@@ -8,6 +8,20 @@ that feed and tells a patient when something they depend on is about to become h
 
 **Live:** https://vorrat-two.vercel.app
 
+## What this is, and what it is not
+
+Vorrat is an independent project. It provides information only, is not intended as a medical device,
+and is not affiliated with BfArM. It shows what manufacturers have reported to BfArM, and nothing
+beyond that.
+
+A quiet state means no matching shortage was found in the feed, which is not the same as your
+medication being available: ingredient names carry salt forms, matching is graded by confidence, and
+a name matched wrongly reads as clear. A reported shortage does not mean your pharmacy is out today
+either. Local stock is the one thing this data cannot see.
+
+Treat it as a reason to ask your pharmacy sooner, never as a replacement for your pharmacist or
+doctor.
+
 See [brief.md](brief.md) for the product, [CLAUDE.md](CLAUDE.md) for the build rules.
 
 ## Running it
@@ -52,8 +66,8 @@ reports "clear" for a drug that is in shortage.
 **There is no market denominator.** brief.md §3 proposes alerting when most manufacturers of an
 ingredient are affected. That cannot be computed here: the feed lists only manufacturers who are
 *reporting a shortage*, so on a live snapshot 223 of 266 ingredient markets show a single known
-manufacturer and the ratio is ~always 100%. Pantoprazole — a dozen real manufacturers, three
-reporting — read as total market failure. The alert tiers therefore rest on BfArM's own
+manufacturer and the ratio is ~always 100%. Pantoprazole, with a dozen real manufacturers and three
+reporting, reads as total market failure. The alert tiers therefore rest on BfArM's own
 `klassifikation`, and the market figure is shown only as labelled context. Implementing that tier
 properly needs a registry of authorised products per ingredient, which is a separate data source.
 
@@ -64,7 +78,8 @@ properly needs a registry of authorised products per ingredient, which is a sepa
 Data is sourced from the official public shortage feed provided by **BfArM / PharmNet.Bund** (*Lieferengpassmeldungen für Humanarzneimittel in Deutschland*):
 `https://anwendungen.pharmnet-bund.de/lieferengpassmeldungen/public/csv`
 
-> **Licensing Open Question for Maintainer (Asim):** Formal commercial redistribution terms for the BfArM open data feed remain to be verified. Please confirm terms if deploying commercially.
+The feed is published openly and without authentication. Formal redistribution terms for commercial
+use have not been verified, so confirm them with BfArM before deploying this commercially.
 
 ## Status
 
