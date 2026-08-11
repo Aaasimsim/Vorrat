@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-10T04:25:14.859Z",
-  "snapshotCount": 11,
+  "generatedAt": "2026-08-11T04:14:31.647Z",
+  "snapshotCount": 12,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-08-10",
+  "lastSnapshot": "2026-08-11",
   "summary": {
-    "totalShortagesTracked": 522,
-    "driftedCount": 40,
+    "totalShortagesTracked": 526,
+    "driftedCount": 45,
     "driftRate": {
-      "drifted": 40,
-      "of": 522,
-      "percentage": 7.7
+      "drifted": 45,
+      "of": 526,
+      "percentage": 8.6
     },
-    "meanDaysDrifted": 111.5,
-    "medianDaysDrifted": 81.5,
-    "totalExtensionEvents": 41
+    "meanDaysDrifted": 102.6,
+    "medianDaysDrifted": 70,
+    "totalExtensionEvents": 46
   },
   "leaderboard": [
     {
@@ -944,7 +944,7 @@
     },
     {
       "rootId": "LE2026001592",
-      "currentBearbeitungsnummer": "LE2026002845",
+      "currentBearbeitungsnummer": "LE2026002973",
       "produkt": "VFEND 40 mg/ml Pulver zur Herstellung einer Suspension zum Einnehmen - OP6g(f.100ml)",
       "wirkstoffe": [
         "Voriconazol"
@@ -952,11 +952,19 @@
       "zulassungsinhaber": "Pfizer Europe MA EEIG",
       "atc": "J02AC03",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-08-14",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-30",
+      "totalDaysDrifted": 47,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-11",
+          "previousEnde": "2026-08-14",
+          "newEnde": "2026-09-30",
+          "daysExtended": 47,
+          "bearbeitungsnummer": "LE2026002973"
+        }
+      ]
     },
     {
       "rootId": "LE2026001586",
@@ -1256,7 +1264,7 @@
     },
     {
       "rootId": "LE2026002816",
-      "currentBearbeitungsnummer": "LE2026002816",
+      "currentBearbeitungsnummer": "LE2026002981",
       "produkt": "Myozyme 5 mg Lyophilisat für ein Konzentrat zur Herstellung einer Infusionslösung - OP10",
       "wirkstoffe": [
         "Alglucosidase alfa"
@@ -1264,15 +1272,23 @@
       "zulassungsinhaber": "Sanofi B.V.",
       "atc": "A16AB07",
       "firstObservedEnde": "2026-08-10",
-      "latestObservedEnde": "2026-08-10",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-08-28",
+      "totalDaysDrifted": 18,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-11",
+          "previousEnde": "2026-08-10",
+          "newEnde": "2026-08-28",
+          "daysExtended": 18,
+          "bearbeitungsnummer": "LE2026002981"
+        }
+      ]
     },
     {
       "rootId": "LE2026002206",
-      "currentBearbeitungsnummer": "LE2026002813",
+      "currentBearbeitungsnummer": "LE2026002982",
       "produkt": "Nexviadyme",
       "wirkstoffe": [
         "Avalglucosidase alfa"
@@ -4849,7 +4865,7 @@
     },
     {
       "rootId": "LE2026001611",
-      "currentBearbeitungsnummer": "LE2026002187",
+      "currentBearbeitungsnummer": "LE2026002970",
       "produkt": "Abirateron HEXAL 500 mg Filmtabletten",
       "wirkstoffe": [
         "Abirateronacetat"
@@ -4857,11 +4873,19 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "L02BX03",
       "firstObservedEnde": "2026-08-07",
-      "latestObservedEnde": "2026-08-07",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-08-21",
+      "totalDaysDrifted": 14,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-11",
+          "previousEnde": "2026-08-07",
+          "newEnde": "2026-08-21",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026002970"
+        }
+      ]
     },
     {
       "rootId": "LE2025000409",
@@ -5868,7 +5892,7 @@
     },
     {
       "rootId": "LE2026001873",
-      "currentBearbeitungsnummer": "LE2026001873",
+      "currentBearbeitungsnummer": "LE2026002969",
       "produkt": "Cyclophosphamid HEXAL 500 mg",
       "wirkstoffe": [
         "Cyclophosphamid Monohydrat"
@@ -5876,11 +5900,19 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "L01AA01",
       "firstObservedEnde": "2026-08-05",
-      "latestObservedEnde": "2026-08-05",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-16",
+      "totalDaysDrifted": 42,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-11",
+          "previousEnde": "2026-08-05",
+          "newEnde": "2026-09-16",
+          "daysExtended": 42,
+          "bearbeitungsnummer": "LE2026002969"
+        }
+      ]
     },
     {
       "rootId": "LE2025000510",
@@ -6220,7 +6252,7 @@
     },
     {
       "rootId": "LE2026000542",
-      "currentBearbeitungsnummer": "LE2026001759",
+      "currentBearbeitungsnummer": "LE2026002971",
       "produkt": "Dapson Zentiva 50 mg Tabletten",
       "wirkstoffe": [
         "Dapson"
@@ -6228,11 +6260,19 @@
       "zulassungsinhaber": "Zentiva Pharma GmbH",
       "atc": "D10AX05, J04BA02",
       "firstObservedEnde": "2026-08-07",
-      "latestObservedEnde": "2026-08-07",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-15",
+      "totalDaysDrifted": 39,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-11",
+          "previousEnde": "2026-08-07",
+          "newEnde": "2026-09-15",
+          "daysExtended": 39,
+          "bearbeitungsnummer": "LE2026002971"
+        }
+      ]
     },
     {
       "rootId": "LE2024002963",
@@ -9221,7 +9261,7 @@
     },
     {
       "rootId": "LE2026002941",
-      "currentBearbeitungsnummer": "LE2026002941",
+      "currentBearbeitungsnummer": "LE2026002976",
       "produkt": "Cefotaxim-saar 2 g Pulver zur Herstellung einer Injektions- bzw. Infusionslösung",
       "wirkstoffe": [
         "Cefotaxim-Natrium"
@@ -9237,7 +9277,7 @@
     },
     {
       "rootId": "LE2026002940",
-      "currentBearbeitungsnummer": "LE2026002940",
+      "currentBearbeitungsnummer": "LE2026002977",
       "produkt": "Cefotaxim-saar 1 g Pulver zur Herstellung einer Injektions- bzw. Infusionslösung",
       "wirkstoffe": [
         "Cefotaxim-Natrium"
@@ -9278,6 +9318,70 @@
       "atc": "B01AE07",
       "firstObservedEnde": "2026-12-15",
       "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026002979",
+      "currentBearbeitungsnummer": "LE2026002979",
+      "produkt": "Oxygesic injekt 10 mg/ml",
+      "wirkstoffe": [
+        "Oxycodonhydrochlorid (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+      "atc": "N02AA05",
+      "firstObservedEnde": "2026-08-31",
+      "latestObservedEnde": "2026-08-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026002978",
+      "currentBearbeitungsnummer": "LE2026002978",
+      "produkt": "Seroquel Prolong 300 mg Retardtabletten",
+      "wirkstoffe": [
+        "Quetiapinfumarat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+      "atc": "N05AH04",
+      "firstObservedEnde": "2026-10-07",
+      "latestObservedEnde": "2026-10-07",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026002975",
+      "currentBearbeitungsnummer": "LE2026002975",
+      "produkt": "Imipramin-neuraxpharm 25 mg",
+      "wirkstoffe": [
+        "Imipraminhydrochlorid"
+      ],
+      "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+      "atc": "N06AA02",
+      "firstObservedEnde": "2026-09-15",
+      "latestObservedEnde": "2026-09-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026002974",
+      "currentBearbeitungsnummer": "LE2026002974",
+      "produkt": "Levetiracetam Holsten 1000 mg Filmtabletten",
+      "wirkstoffe": [
+        "Levetiracetam"
+      ],
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+      "atc": "N03AX14",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
