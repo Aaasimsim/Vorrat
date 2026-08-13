@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-08-12T04:43:33.539Z",
-  "snapshotCount": 13,
+  "generatedAt": "2026-08-13T04:46:52.505Z",
+  "snapshotCount": 14,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-08-12",
+  "lastSnapshot": "2026-08-13",
   "summary": {
-    "totalShortagesTracked": 529,
+    "totalShortagesTracked": 531,
     "driftedCount": 46,
     "driftRate": {
       "drifted": 46,
-      "of": 529,
+      "of": 531,
       "percentage": 8.7
     },
     "meanDaysDrifted": 101.3,
@@ -564,7 +564,7 @@
     },
     {
       "rootId": "LE2026002814",
-      "currentBearbeitungsnummer": "LE2026002872",
+      "currentBearbeitungsnummer": "LE2026002993",
       "produkt": "Entecavir Amarox 0,5 mg Filmtabletten",
       "wirkstoffe": [
         "Entecavir"
@@ -9446,6 +9446,38 @@
       "atc": "C03EA",
       "firstObservedEnde": "2027-04-30",
       "latestObservedEnde": "2027-04-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026002996",
+      "currentBearbeitungsnummer": "LE2026002996",
+      "produkt": "Clarithromycin Eberth 500 mg Pulver zur Herstellung einer Infusionslösung",
+      "wirkstoffe": [
+        "Clarithromycinlactobionat"
+      ],
+      "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+      "atc": "J01FA09",
+      "firstObservedEnde": "2026-09-30",
+      "latestObservedEnde": "2026-09-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026002995",
+      "currentBearbeitungsnummer": "LE2026002995",
+      "produkt": "DHC Ennogen 90 mg Retardtabletten",
+      "wirkstoffe": [
+        "Dihydrocodein[(R,R)-tartrat]"
+      ],
+      "zulassungsinhaber": "Ennogen Healthcare (Europe) Limited",
+      "atc": "N02AA08",
+      "firstObservedEnde": "2026-10-31",
+      "latestObservedEnde": "2026-10-31",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
