@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-14T04:44:18.880Z",
-  "snapshotCount": 15,
+  "generatedAt": "2026-08-15T03:33:04.072Z",
+  "snapshotCount": 16,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-08-14",
+  "lastSnapshot": "2026-08-15",
   "summary": {
-    "totalShortagesTracked": 533,
-    "driftedCount": 49,
+    "totalShortagesTracked": 535,
+    "driftedCount": 54,
     "driftRate": {
-      "drifted": 49,
-      "of": 533,
-      "percentage": 9.2
+      "drifted": 54,
+      "of": 535,
+      "percentage": 10.1
     },
-    "meanDaysDrifted": 99.4,
-    "medianDaysDrifted": 70,
-    "totalExtensionEvents": 53
+    "meanDaysDrifted": 93.1,
+    "medianDaysDrifted": 61.5,
+    "totalExtensionEvents": 58
   },
   "leaderboard": [
     {
@@ -1583,7 +1583,7 @@
     },
     {
       "rootId": "LE2026002452",
-      "currentBearbeitungsnummer": "LE2026002990",
+      "currentBearbeitungsnummer": "LE2026003014",
       "produkt": "Pantoprazol-Micro Labs 40 mg magensaftresistente Tabletten",
       "wirkstoffe": [
         "Pantoprazol-Natrium-Sesquihydrat"
@@ -1623,7 +1623,7 @@
     },
     {
       "rootId": "LE2026002448",
-      "currentBearbeitungsnummer": "LE2026002785",
+      "currentBearbeitungsnummer": "LE2026003017",
       "produkt": "Amitriptylin Micro Labs 25 mg Filmtabletten",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -1631,11 +1631,19 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AA09",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-08-14",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-25",
+      "totalDaysDrifted": 42,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-15",
+          "previousEnde": "2026-08-14",
+          "newEnde": "2026-09-25",
+          "daysExtended": 42,
+          "bearbeitungsnummer": "LE2026003017"
+        }
+      ]
     },
     {
       "rootId": "LE2026002777",
@@ -1839,7 +1847,7 @@
     },
     {
       "rootId": "LE2026002450",
-      "currentBearbeitungsnummer": "LE2026002960",
+      "currentBearbeitungsnummer": "LE2026003022",
       "produkt": "Pantoprazol-Micro Labs 20 mg magensaftresistente Tabletten",
       "wirkstoffe": [
         "Pantoprazol-Natrium-Sesquihydrat"
@@ -2352,7 +2360,7 @@
     },
     {
       "rootId": "LE2026001235",
-      "currentBearbeitungsnummer": "LE2026002670",
+      "currentBearbeitungsnummer": "LE2026003021",
       "produkt": "Amitriptylin Micro Labs 44,19 mg Filmtabletten",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -2360,11 +2368,19 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AA09",
       "firstObservedEnde": "2026-08-28",
-      "latestObservedEnde": "2026-08-28",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-18",
+      "totalDaysDrifted": 21,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-15",
+          "previousEnde": "2026-08-28",
+          "newEnde": "2026-09-18",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003021"
+        }
+      ]
     },
     {
       "rootId": "LE2026002664",
@@ -2673,7 +2689,7 @@
     },
     {
       "rootId": "LE2026001238",
-      "currentBearbeitungsnummer": "LE2026002614",
+      "currentBearbeitungsnummer": "LE2026003019",
       "produkt": "Amitriptylin Micro Labs 88,38 mg Filmtabletten",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -2681,11 +2697,19 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AA09",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-08-14",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-18",
+      "totalDaysDrifted": 35,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-15",
+          "previousEnde": "2026-08-14",
+          "newEnde": "2026-09-18",
+          "daysExtended": 35,
+          "bearbeitungsnummer": "LE2026003019"
+        }
+      ]
     },
     {
       "rootId": "LE2026002605",
@@ -3244,7 +3268,7 @@
     },
     {
       "rootId": "LE2026002524",
-      "currentBearbeitungsnummer": "LE2026002930",
+      "currentBearbeitungsnummer": "LE2026003012",
       "produkt": "ZYPADHERA 210 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(483mg+3ml)",
       "wirkstoffe": [
         "Olanzapinembonat-Monohydrat"
@@ -3252,7 +3276,7 @@
       "zulassungsinhaber": "Cheplapharm Registration GmbH",
       "atc": "N05AH03",
       "firstObservedEnde": "2026-11-10",
-      "latestObservedEnde": "2026-11-10",
+      "latestObservedEnde": "2026-10-28",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
@@ -3558,7 +3582,7 @@
     },
     {
       "rootId": "LE2026001234",
-      "currentBearbeitungsnummer": "LE2026002447",
+      "currentBearbeitungsnummer": "LE2026003015",
       "produkt": "Amitriptylin Micro Labs 22,1 mg Filmtabletten",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -3566,11 +3590,19 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AA09",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-08-14",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-18",
+      "totalDaysDrifted": 35,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-15",
+          "previousEnde": "2026-08-14",
+          "newEnde": "2026-09-18",
+          "daysExtended": 35,
+          "bearbeitungsnummer": "LE2026003015"
+        }
+      ]
     },
     {
       "rootId": "LE2021000116",
@@ -5119,7 +5151,7 @@
     },
     {
       "rootId": "LE2026000700",
-      "currentBearbeitungsnummer": "LE2026002130",
+      "currentBearbeitungsnummer": "LE2026003020",
       "produkt": "Telmisartan Micro Labs 20 mg Tabletten",
       "wirkstoffe": [
         "Telmisartan"
@@ -5127,11 +5159,19 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "C09CA07",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-08-14",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-04",
+      "totalDaysDrifted": 21,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-15",
+          "previousEnde": "2026-08-14",
+          "newEnde": "2026-09-04",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003020"
+        }
+      ]
     },
     {
       "rootId": "LE2025002594",
@@ -9548,6 +9588,39 @@
       "atc": "C02CA06",
       "firstObservedEnde": "2026-08-31",
       "latestObservedEnde": "2026-08-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003018",
+      "currentBearbeitungsnummer": "LE2026003018",
+      "produkt": "Tarka 240 mg/4 mg Tabletten mit veränderter Wirkstofffreisetzung",
+      "wirkstoffe": [
+        "Trandolapril",
+        "Verapamilhydrochlorid"
+      ],
+      "zulassungsinhaber": "Viatris Healthcare GmbH",
+      "atc": "C09BB10",
+      "firstObservedEnde": "2026-11-16",
+      "latestObservedEnde": "2026-11-16",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003013",
+      "currentBearbeitungsnummer": "LE2026003013",
+      "produkt": "Renagel 800 mg Filmtabletten - OP(1x180)",
+      "wirkstoffe": [
+        "Sevelamer"
+      ],
+      "zulassungsinhaber": "Sanofi Winthrop Industrie Rechtsform: S.A.",
+      "atc": "V03AE02",
+      "firstObservedEnde": "2026-09-18",
+      "latestObservedEnde": "2026-09-18",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
