@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-16T03:42:07.019Z",
-  "snapshotCount": 17,
+  "generatedAt": "2026-08-17T03:43:35.607Z",
+  "snapshotCount": 18,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-08-16",
+  "lastSnapshot": "2026-08-17",
   "summary": {
     "totalShortagesTracked": 535,
     "driftedCount": 54,
@@ -649,7 +649,7 @@
       "wirkstoffe": [
         "Calcitriol"
       ],
-      "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+      "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
       "atc": "A11CC04",
       "firstObservedEnde": "2026-10-30",
       "latestObservedEnde": "2026-10-30",
@@ -885,7 +885,7 @@
       "wirkstoffe": [
         "Flurazepam"
       ],
-      "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+      "zulassungsinhaber": "Riemser Pharma GmbH",
       "atc": "N05CD01",
       "firstObservedEnde": "2026-09-28",
       "latestObservedEnde": "2026-09-28",
@@ -1884,7 +1884,7 @@
       "wirkstoffe": [
         "Methylprednisolon"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "H02AB04",
       "firstObservedEnde": "2027-01-29",
       "latestObservedEnde": "2027-01-29",
@@ -2614,7 +2614,7 @@
       "wirkstoffe": [
         "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "H02AB02",
       "firstObservedEnde": "2027-01-29",
       "latestObservedEnde": "2027-01-29",
@@ -4023,7 +4023,7 @@
       "wirkstoffe": [
         "Levetiracetam"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -4071,7 +4071,7 @@
       "wirkstoffe": [
         "Isosorbidmononitrat"
       ],
-      "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+      "zulassungsinhaber": "Riemser Pharma GmbH",
       "atc": "C01DA14",
       "firstObservedEnde": "2026-10-26",
       "latestObservedEnde": "2026-10-26",
@@ -4175,7 +4175,7 @@
       "wirkstoffe": [
         "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "J01MA14",
       "firstObservedEnde": "2026-08-31",
       "latestObservedEnde": "2026-08-31",
@@ -4239,7 +4239,7 @@
       "wirkstoffe": [
         "Doxepinhydrochlorid (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N06AA12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -4255,7 +4255,7 @@
       "wirkstoffe": [
         "Doxepinhydrochlorid (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N06AA12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -4818,7 +4818,7 @@
         "Hydrochlorothiazid",
         "Valsartan"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "TERM_ID_NA_2090002384",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -4884,7 +4884,7 @@
       "wirkstoffe": [
         "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "H02AB02",
       "firstObservedEnde": "2027-01-29",
       "latestObservedEnde": "2027-01-29",
@@ -4900,7 +4900,7 @@
       "wirkstoffe": [
         "Dexamethason"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "H02AB02",
       "firstObservedEnde": "2027-01-29",
       "latestObservedEnde": "2027-01-29",
@@ -4916,7 +4916,7 @@
       "wirkstoffe": [
         "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "H02AB02",
       "firstObservedEnde": "2027-01-29",
       "latestObservedEnde": "2027-01-29",
@@ -5863,7 +5863,7 @@
       "wirkstoffe": [
         "Isoniazid"
       ],
-      "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+      "zulassungsinhaber": "Riemser Pharma GmbH",
       "atc": "J04AC01",
       "firstObservedEnde": "2026-08-31",
       "latestObservedEnde": "2026-08-31",
@@ -6671,7 +6671,7 @@
       "wirkstoffe": [
         "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "S01BA01",
       "firstObservedEnde": "2028-03-31",
       "latestObservedEnde": "2028-03-31",
@@ -7776,7 +7776,7 @@
       "wirkstoffe": [
         "Levetiracetam"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -7792,7 +7792,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -7936,7 +7936,7 @@
       "wirkstoffe": [
         "Doxepinhydrochlorid (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N06AA12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -7952,7 +7952,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -8329,7 +8329,7 @@
       "wirkstoffe": [
         "Levetiracetam"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -8681,7 +8681,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -8713,7 +8713,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -8825,7 +8825,7 @@
       "wirkstoffe": [
         "Procainhydrochlorid"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "N01BA02",
       "firstObservedEnde": "2027-04-30",
       "latestObservedEnde": "2027-04-30",
@@ -8841,7 +8841,7 @@
       "wirkstoffe": [
         "Procainhydrochlorid"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "N01BA02",
       "firstObservedEnde": "2027-08-31",
       "latestObservedEnde": "2027-08-31",
@@ -9263,7 +9263,7 @@
       "wirkstoffe": [
         "Sildenafilcitrat"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "G04BE03",
       "firstObservedEnde": "2024-05-17",
       "latestObservedEnde": "2024-05-17",
@@ -9487,7 +9487,7 @@
       "wirkstoffe": [
         "Prednisolon"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "H02AB06",
       "firstObservedEnde": "2026-11-13",
       "latestObservedEnde": "2026-11-13",
@@ -9503,7 +9503,7 @@
       "wirkstoffe": [
         "Prednicarbat"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "D07AC18",
       "firstObservedEnde": "2026-10-30",
       "latestObservedEnde": "2026-10-30",
@@ -9520,7 +9520,7 @@
         "Triamteren",
         "Xipamid"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "C03EA",
       "firstObservedEnde": "2027-04-30",
       "latestObservedEnde": "2027-04-30",
