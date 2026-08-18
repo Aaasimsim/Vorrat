@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-17T03:43:35.607Z",
-  "snapshotCount": 18,
+  "generatedAt": "2026-08-18T03:39:10.637Z",
+  "snapshotCount": 19,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-08-17",
+  "lastSnapshot": "2026-08-18",
   "summary": {
-    "totalShortagesTracked": 535,
-    "driftedCount": 54,
+    "totalShortagesTracked": 537,
+    "driftedCount": 64,
     "driftRate": {
-      "drifted": 54,
-      "of": 535,
-      "percentage": 10.1
+      "drifted": 64,
+      "of": 537,
+      "percentage": 11.9
     },
-    "meanDaysDrifted": 93.1,
-    "medianDaysDrifted": 61.5,
-    "totalExtensionEvents": 58
+    "meanDaysDrifted": 83.6,
+    "medianDaysDrifted": 49,
+    "totalExtensionEvents": 68
   },
   "leaderboard": [
     {
@@ -1215,7 +1215,7 @@
     },
     {
       "rootId": "LE2023004182",
-      "currentBearbeitungsnummer": "LE2026002826",
+      "currentBearbeitungsnummer": "LE2026003023",
       "produkt": "Eldisine",
       "wirkstoffe": [
         "Vindesinsulfat"
@@ -1223,11 +1223,19 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "L01CA03",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-18",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003023"
+        }
+      ]
     },
     {
       "rootId": "LE2026002219",
@@ -1895,7 +1903,7 @@
     },
     {
       "rootId": "LE2025001316",
-      "currentBearbeitungsnummer": "LE2026002727",
+      "currentBearbeitungsnummer": "LE2026003037",
       "produkt": "Sertralin TAD 100 mg Filmtabletten",
       "wirkstoffe": [
         "Sertralinhydrochlorid"
@@ -1903,15 +1911,23 @@
       "zulassungsinhaber": "TAD Pharma GmbH",
       "atc": "N06AB06",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-18",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-10-31",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003037"
+        }
+      ]
     },
     {
       "rootId": "LE2025001314",
-      "currentBearbeitungsnummer": "LE2026002726",
+      "currentBearbeitungsnummer": "LE2026003038",
       "produkt": "Sertralin TAD 50 mg Filmtabletten",
       "wirkstoffe": [
         "Sertralinhydrochlorid"
@@ -1919,11 +1935,19 @@
       "zulassungsinhaber": "TAD Pharma GmbH",
       "atc": "N06AB06",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-18",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-10-31",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003038"
+        }
+      ]
     },
     {
       "rootId": "LE2026002725",
@@ -1991,7 +2015,7 @@
     },
     {
       "rootId": "LE2025000975",
-      "currentBearbeitungsnummer": "LE2026002721",
+      "currentBearbeitungsnummer": "LE2026003030",
       "produkt": "Ezetimib Glenmark 10 mg Tabletten",
       "wirkstoffe": [
         "Ezetimib"
@@ -1999,15 +2023,23 @@
       "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
       "atc": "C10AX09",
       "firstObservedEnde": "2026-09-04",
-      "latestObservedEnde": "2026-09-04",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-18",
+      "totalDaysDrifted": 14,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-18",
+          "previousEnde": "2026-09-04",
+          "newEnde": "2026-09-18",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003030"
+        }
+      ]
     },
     {
       "rootId": "LE2026002720",
-      "currentBearbeitungsnummer": "LE2026002720",
+      "currentBearbeitungsnummer": "LE2026003029",
       "produkt": "Gabapentin Glenmark 800 mg Filmtabletten",
       "wirkstoffe": [
         "Gabapentin"
@@ -2015,11 +2047,19 @@
       "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
       "atc": "N02BF01",
       "firstObservedEnde": "2026-09-04",
-      "latestObservedEnde": "2026-09-04",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-18",
+      "totalDaysDrifted": 14,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-18",
+          "previousEnde": "2026-09-04",
+          "newEnde": "2026-09-18",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003029"
+        }
+      ]
     },
     {
       "rootId": "LE2025001052",
@@ -2199,7 +2239,7 @@
     },
     {
       "rootId": "LE2026002277",
-      "currentBearbeitungsnummer": "LE2026002698",
+      "currentBearbeitungsnummer": "LE2026003033",
       "produkt": "Topiramat-glenmark 50 mg Filmtabletten",
       "wirkstoffe": [
         "Topiramat"
@@ -2207,15 +2247,23 @@
       "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
       "atc": "N03AX11",
       "firstObservedEnde": "2026-09-04",
-      "latestObservedEnde": "2026-09-04",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-18",
+      "totalDaysDrifted": 14,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-18",
+          "previousEnde": "2026-09-04",
+          "newEnde": "2026-09-18",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003033"
+        }
+      ]
     },
     {
       "rootId": "LE2026002275",
-      "currentBearbeitungsnummer": "LE2026002697",
+      "currentBearbeitungsnummer": "LE2026003031",
       "produkt": "Rizatriptan Glenmark 10 mg Tabletten",
       "wirkstoffe": [
         "Rizatriptanbenzoat"
@@ -2223,11 +2271,19 @@
       "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
       "atc": "N02CC04",
       "firstObservedEnde": "2026-09-04",
-      "latestObservedEnde": "2026-09-04",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-18",
+      "totalDaysDrifted": 14,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-18",
+          "previousEnde": "2026-09-04",
+          "newEnde": "2026-09-18",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003031"
+        }
+      ]
     },
     {
       "rootId": "LE2026002441",
@@ -3084,7 +3140,7 @@
     },
     {
       "rootId": "LE2026002553",
-      "currentBearbeitungsnummer": "LE2026002553",
+      "currentBearbeitungsnummer": "LE2026003036",
       "produkt": "Remestan 20 mg",
       "wirkstoffe": [
         "Temazepam"
@@ -3092,11 +3148,19 @@
       "zulassungsinhaber": "Viatris Healthcare GmbH",
       "atc": "N05CD07",
       "firstObservedEnde": "2026-08-18",
-      "latestObservedEnde": "2026-08-18",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-04",
+      "totalDaysDrifted": 17,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-18",
+          "previousEnde": "2026-08-18",
+          "newEnde": "2026-09-04",
+          "daysExtended": 17,
+          "bearbeitungsnummer": "LE2026003036"
+        }
+      ]
     },
     {
       "rootId": "LE2026002550",
@@ -4571,7 +4635,7 @@
     },
     {
       "rootId": "LE2026002276",
-      "currentBearbeitungsnummer": "LE2026002276",
+      "currentBearbeitungsnummer": "LE2026003032",
       "produkt": "Rizatriptan Glenmark 5 mg Schmelztabletten",
       "wirkstoffe": [
         "Rizatriptanbenzoat"
@@ -4579,11 +4643,19 @@
       "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
       "atc": "N02CC04",
       "firstObservedEnde": "2026-09-04",
-      "latestObservedEnde": "2026-09-04",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-16",
+      "totalDaysDrifted": 42,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-18",
+          "previousEnde": "2026-09-04",
+          "newEnde": "2026-10-16",
+          "daysExtended": 42,
+          "bearbeitungsnummer": "LE2026003032"
+        }
+      ]
     },
     {
       "rootId": "LE2026002270",
@@ -5322,7 +5394,7 @@
     },
     {
       "rootId": "LE2025001771",
-      "currentBearbeitungsnummer": "LE2026002106",
+      "currentBearbeitungsnummer": "LE2026003025",
       "produkt": "Arsentrioxid STADA 1 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
       "wirkstoffe": [
         "Arsen(III)-oxid"
@@ -5330,11 +5402,19 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "L01XX27",
       "firstObservedEnde": "2026-09-01",
-      "latestObservedEnde": "2026-09-01",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-24",
+      "totalDaysDrifted": 23,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-18",
+          "previousEnde": "2026-09-01",
+          "newEnde": "2026-09-24",
+          "daysExtended": 23,
+          "bearbeitungsnummer": "LE2026003025"
+        }
+      ]
     },
     {
       "rootId": "LE2026001231",
@@ -9563,7 +9643,7 @@
     },
     {
       "rootId": "LE2026003010",
-      "currentBearbeitungsnummer": "LE2026003010",
+      "currentBearbeitungsnummer": "LE2026003034",
       "produkt": "bicaNorm",
       "wirkstoffe": [
         "Natriumhydrogencarbonat"
@@ -9621,6 +9701,38 @@
       "atc": "V03AE02",
       "firstObservedEnde": "2026-09-18",
       "latestObservedEnde": "2026-09-18",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003035",
+      "currentBearbeitungsnummer": "LE2026003035",
+      "produkt": "Atorvastatin Micro Labs 10 mg Filmtabletten",
+      "wirkstoffe": [
+        "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Micro Labs GmbH",
+      "atc": "C10AA05",
+      "firstObservedEnde": "2026-10-16",
+      "latestObservedEnde": "2026-10-16",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003026",
+      "currentBearbeitungsnummer": "LE2026003026",
+      "produkt": "Olanzapin Glenmark 2,5 mg Tabletten - OP70",
+      "wirkstoffe": [
+        "Olanzapin"
+      ],
+      "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+      "atc": "N05AH03",
+      "firstObservedEnde": "2026-10-16",
+      "latestObservedEnde": "2026-10-16",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
