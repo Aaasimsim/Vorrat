@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-18T03:39:10.637Z",
-  "snapshotCount": 19,
+  "generatedAt": "2026-08-19T03:40:40.208Z",
+  "snapshotCount": 20,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-08-18",
+  "lastSnapshot": "2026-08-19",
   "summary": {
-    "totalShortagesTracked": 537,
-    "driftedCount": 64,
+    "totalShortagesTracked": 539,
+    "driftedCount": 66,
     "driftRate": {
-      "drifted": 64,
-      "of": 537,
-      "percentage": 11.9
+      "drifted": 66,
+      "of": 539,
+      "percentage": 12.2
     },
-    "meanDaysDrifted": 83.6,
+    "meanDaysDrifted": 82.5,
     "medianDaysDrifted": 49,
-    "totalExtensionEvents": 68
+    "totalExtensionEvents": 71
   },
   "leaderboard": [
     {
@@ -3630,7 +3630,7 @@
     },
     {
       "rootId": "LE2025004108",
-      "currentBearbeitungsnummer": "LE2026002449",
+      "currentBearbeitungsnummer": "LE2026003049",
       "produkt": "Atorvastatin Micro Labs 30 mg Filmtabletten",
       "wirkstoffe": [
         "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)"
@@ -3638,11 +3638,19 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "C10AA05",
       "firstObservedEnde": "2026-09-25",
-      "latestObservedEnde": "2026-09-25",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-16",
+      "totalDaysDrifted": 21,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-19",
+          "previousEnde": "2026-09-25",
+          "newEnde": "2026-10-16",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003049"
+        }
+      ]
     },
     {
       "rootId": "LE2026001234",
@@ -4194,7 +4202,7 @@
     },
     {
       "rootId": "LE2026000916",
-      "currentBearbeitungsnummer": "LE2026002339",
+      "currentBearbeitungsnummer": "LE2026003042",
       "produkt": "Abirateron HEXAL 1000 mg Filmtabletten",
       "wirkstoffe": [
         "Abirateronacetat"
@@ -4202,11 +4210,19 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "L02BX03",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-08-14",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-16",
+      "totalDaysDrifted": 63,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-19",
+          "previousEnde": "2026-08-14",
+          "newEnde": "2026-10-16",
+          "daysExtended": 63,
+          "bearbeitungsnummer": "LE2026003042"
+        }
+      ]
     },
     {
       "rootId": "LE2026002334",
@@ -5015,7 +5031,7 @@
     },
     {
       "rootId": "LE2026001611",
-      "currentBearbeitungsnummer": "LE2026002970",
+      "currentBearbeitungsnummer": "LE2026003043",
       "produkt": "Abirateron HEXAL 500 mg Filmtabletten",
       "wirkstoffe": [
         "Abirateronacetat"
@@ -5023,9 +5039,9 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "L02BX03",
       "firstObservedEnde": "2026-08-07",
-      "latestObservedEnde": "2026-08-21",
-      "totalDaysDrifted": 14,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-09-04",
+      "totalDaysDrifted": 28,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -5034,6 +5050,13 @@
           "newEnde": "2026-08-21",
           "daysExtended": 14,
           "bearbeitungsnummer": "LE2026002970"
+        },
+        {
+          "snapshotDate": "2026-08-19",
+          "previousEnde": "2026-08-21",
+          "newEnde": "2026-09-04",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003043"
         }
       ]
     },
@@ -5954,7 +5977,7 @@
     },
     {
       "rootId": "LE2026000464",
-      "currentBearbeitungsnummer": "LE2026002879",
+      "currentBearbeitungsnummer": "LE2026003040",
       "produkt": "Mitem 20mg",
       "wirkstoffe": [
         "Mitomycin"
@@ -9733,6 +9756,38 @@
       "atc": "N05AH03",
       "firstObservedEnde": "2026-10-16",
       "latestObservedEnde": "2026-10-16",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003048",
+      "currentBearbeitungsnummer": "LE2026003048",
+      "produkt": "Eletrip-Hormosan 40 mg Filmtabletten",
+      "wirkstoffe": [
+        "Eletriptanhydrobromid"
+      ],
+      "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+      "atc": "N02CC06",
+      "firstObservedEnde": "2026-10-23",
+      "latestObservedEnde": "2026-10-23",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003047",
+      "currentBearbeitungsnummer": "LE2026003047",
+      "produkt": "Eletrip-Hormosan 20 mg Filmtabletten",
+      "wirkstoffe": [
+        "Eletriptanhydrobromid"
+      ],
+      "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+      "atc": "N02CC06",
+      "firstObservedEnde": "2026-10-23",
+      "latestObservedEnde": "2026-10-23",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
