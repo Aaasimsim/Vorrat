@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-19T03:40:40.208Z",
-  "snapshotCount": 20,
+  "generatedAt": "2026-08-20T03:41:09.848Z",
+  "snapshotCount": 21,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-08-19",
+  "lastSnapshot": "2026-08-20",
   "summary": {
-    "totalShortagesTracked": 539,
-    "driftedCount": 66,
+    "totalShortagesTracked": 550,
+    "driftedCount": 77,
     "driftRate": {
-      "drifted": 66,
-      "of": 539,
-      "percentage": 12.2
+      "drifted": 77,
+      "of": 550,
+      "percentage": 14
     },
-    "meanDaysDrifted": 82.5,
-    "medianDaysDrifted": 49,
-    "totalExtensionEvents": 71
+    "meanDaysDrifted": 82.2,
+    "medianDaysDrifted": 61,
+    "totalExtensionEvents": 82
   },
   "leaderboard": [
     {
@@ -281,6 +281,174 @@
       ]
     },
     {
+      "rootId": "LE2025000478",
+      "currentBearbeitungsnummer": "LE2026003068",
+      "produkt": "Quetiapin Heumann retard 200 mg Retardtabletten",
+      "wirkstoffe": [
+        "Quetiapinfumarat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+      "atc": "N05AH04",
+      "firstObservedEnde": "2026-08-31",
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 106,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-12-15",
+          "daysExtended": 106,
+          "bearbeitungsnummer": "LE2026003068"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2025000477",
+      "currentBearbeitungsnummer": "LE2026003074",
+      "produkt": "Quetiapin Heumann retard 150 mg Retardtabletten",
+      "wirkstoffe": [
+        "Quetiapinfumarat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+      "atc": "N05AH04",
+      "firstObservedEnde": "2026-08-31",
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 106,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-12-15",
+          "daysExtended": 106,
+          "bearbeitungsnummer": "LE2026003074"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2025000476",
+      "currentBearbeitungsnummer": "LE2026003071",
+      "produkt": "Quetiapin Heumann retard 50 mg Retardtabletten",
+      "wirkstoffe": [
+        "Quetiapinfumarat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+      "atc": "N05AH04",
+      "firstObservedEnde": "2026-08-31",
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 106,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-12-15",
+          "daysExtended": 106,
+          "bearbeitungsnummer": "LE2026003071"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2025000480",
+      "currentBearbeitungsnummer": "LE2026003072",
+      "produkt": "Quetiapin Heumann retard 400 mg Retardtabletten",
+      "wirkstoffe": [
+        "Quetiapinfumarat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+      "atc": "N05AH04",
+      "firstObservedEnde": "2026-08-31",
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 106,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-12-15",
+          "daysExtended": 106,
+          "bearbeitungsnummer": "LE2026003072"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2025000479",
+      "currentBearbeitungsnummer": "LE2026003073",
+      "produkt": "Quetiapin Heumann retard 300 mg Retardtabletten",
+      "wirkstoffe": [
+        "Quetiapinfumarat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+      "atc": "N05AH04",
+      "firstObservedEnde": "2026-08-31",
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 106,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-12-15",
+          "daysExtended": 106,
+          "bearbeitungsnummer": "LE2026003073"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2025000826",
+      "currentBearbeitungsnummer": "LE2026003052",
+      "produkt": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
+      "wirkstoffe": [
+        "Galantaminhydrobromid"
+      ],
+      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+      "atc": "N06DA04",
+      "firstObservedEnde": "2026-08-31",
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 106,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-12-15",
+          "daysExtended": 106,
+          "bearbeitungsnummer": "LE2026003052"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2025000827",
+      "currentBearbeitungsnummer": "LE2026003066",
+      "produkt": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
+      "wirkstoffe": [
+        "Galantaminhydrobromid"
+      ],
+      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+      "atc": "N06DA04",
+      "firstObservedEnde": "2026-08-31",
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 106,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-12-15",
+          "daysExtended": 106,
+          "bearbeitungsnummer": "LE2026003066"
+        }
+      ]
+    },
+    {
       "rootId": "LE2026002334",
       "currentBearbeitungsnummer": "LE2026002921",
       "produkt": "Plerixafor Viatris 20 mg/ml Injektionslösung",
@@ -325,174 +493,6 @@
           "newEnde": "2026-10-31",
           "daysExtended": 92,
           "bearbeitungsnummer": "LE2026002880"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2025000007",
-      "currentBearbeitungsnummer": "LE2026002882",
-      "produkt": "Predni-POS 1 %",
-      "wirkstoffe": [
-        "Prednisolonacetat"
-      ],
-      "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-      "atc": "S01BA04",
-      "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 92,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-04",
-          "previousEnde": "2026-07-31",
-          "newEnde": "2026-10-31",
-          "daysExtended": 92,
-          "bearbeitungsnummer": "LE2026002882"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2026000465",
-      "currentBearbeitungsnummer": "LE2026002884",
-      "produkt": "Predni-POS 0,5%",
-      "wirkstoffe": [
-        "Prednisolonacetat"
-      ],
-      "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-      "atc": "S01BA04",
-      "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 92,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-04",
-          "previousEnde": "2026-07-31",
-          "newEnde": "2026-10-31",
-          "daysExtended": 92,
-          "bearbeitungsnummer": "LE2026002884"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2026001626",
-      "currentBearbeitungsnummer": "LE2026002881",
-      "produkt": "Neosynephrin-POS 5%",
-      "wirkstoffe": [
-        "Phenylephrinhydrochlorid"
-      ],
-      "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-      "atc": "S01FB01",
-      "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 92,
-      "extensionsCount": 1,
-      "chainTruncated": false,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-04",
-          "previousEnde": "2026-07-31",
-          "newEnde": "2026-10-31",
-          "daysExtended": 92,
-          "bearbeitungsnummer": "LE2026002881"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2026001594",
-      "currentBearbeitungsnummer": "LE2026002883",
-      "produkt": "Neosynephrin-POS 10%",
-      "wirkstoffe": [
-        "Phenylephrinhydrochlorid"
-      ],
-      "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-      "atc": "S01FB01",
-      "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 92,
-      "extensionsCount": 1,
-      "chainTruncated": false,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-04",
-          "previousEnde": "2026-07-31",
-          "newEnde": "2026-10-31",
-          "daysExtended": 92,
-          "bearbeitungsnummer": "LE2026002883"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2025000778",
-      "currentBearbeitungsnummer": "LE2026002902",
-      "produkt": "Galantamin-ratiopharm 8 mg Hartkapseln, retardiert",
-      "wirkstoffe": [
-        "Galantaminhydrobromid"
-      ],
-      "zulassungsinhaber": "ratiopharm GmbH",
-      "atc": "N06DA04",
-      "firstObservedEnde": "2026-07-24",
-      "latestObservedEnde": "2026-10-21",
-      "totalDaysDrifted": 89,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-05",
-          "previousEnde": "2026-07-24",
-          "newEnde": "2026-10-21",
-          "daysExtended": 89,
-          "bearbeitungsnummer": "LE2026002902"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2024001130",
-      "currentBearbeitungsnummer": "LE2026002914",
-      "produkt": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
-      "wirkstoffe": [
-        "Buprenorphin"
-      ],
-      "zulassungsinhaber": "TEVA GmbH",
-      "atc": "N02AE01",
-      "firstObservedEnde": "2026-08-04",
-      "latestObservedEnde": "2026-10-30",
-      "totalDaysDrifted": 87,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-05",
-          "previousEnde": "2026-08-04",
-          "newEnde": "2026-10-30",
-          "daysExtended": 87,
-          "bearbeitungsnummer": "LE2026002914"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2024001129",
-      "currentBearbeitungsnummer": "LE2026002915",
-      "produkt": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
-      "wirkstoffe": [
-        "Buprenorphin"
-      ],
-      "zulassungsinhaber": "TEVA GmbH",
-      "atc": "N02AE01",
-      "firstObservedEnde": "2026-08-04",
-      "latestObservedEnde": "2026-10-30",
-      "totalDaysDrifted": 87,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-05",
-          "previousEnde": "2026-08-04",
-          "newEnde": "2026-10-30",
-          "daysExtended": 87,
-          "bearbeitungsnummer": "LE2026002915"
         }
       ]
     }
@@ -628,7 +628,7 @@
     },
     {
       "rootId": "LE2026002867",
-      "currentBearbeitungsnummer": "LE2026002867",
+      "currentBearbeitungsnummer": "LE2026003062",
       "produkt": "Sevredol 20mg",
       "wirkstoffe": [
         "Morphinhemisulfat-2,5-Hydrat"
@@ -636,11 +636,19 @@
       "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
       "atc": "N02AA01",
       "firstObservedEnde": "2026-10-05",
-      "latestObservedEnde": "2026-10-05",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-08",
+      "totalDaysDrifted": 3,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-10-05",
+          "newEnde": "2026-10-08",
+          "daysExtended": 3,
+          "bearbeitungsnummer": "LE2026003062"
+        }
+      ]
     },
     {
       "rootId": "LE2026002865",
@@ -649,7 +657,7 @@
       "wirkstoffe": [
         "Calcitriol"
       ],
-      "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
+      "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
       "atc": "A11CC04",
       "firstObservedEnde": "2026-10-30",
       "latestObservedEnde": "2026-10-30",
@@ -885,7 +893,7 @@
       "wirkstoffe": [
         "Flurazepam"
       ],
-      "zulassungsinhaber": "Riemser Pharma GmbH",
+      "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
       "atc": "N05CD01",
       "firstObservedEnde": "2026-09-28",
       "latestObservedEnde": "2026-09-28",
@@ -3140,7 +3148,7 @@
     },
     {
       "rootId": "LE2026002553",
-      "currentBearbeitungsnummer": "LE2026003036",
+      "currentBearbeitungsnummer": "LE2026003050",
       "produkt": "Remestan 20 mg",
       "wirkstoffe": [
         "Temazepam"
@@ -4095,7 +4103,7 @@
       "wirkstoffe": [
         "Levetiracetam"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+      "zulassungsinhaber": "Holsten Pharma GmbH",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -4143,7 +4151,7 @@
       "wirkstoffe": [
         "Isosorbidmononitrat"
       ],
-      "zulassungsinhaber": "Riemser Pharma GmbH",
+      "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
       "atc": "C01DA14",
       "firstObservedEnde": "2026-10-26",
       "latestObservedEnde": "2026-10-26",
@@ -4255,7 +4263,7 @@
       "wirkstoffe": [
         "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+      "zulassungsinhaber": "Holsten Pharma GmbH",
       "atc": "J01MA14",
       "firstObservedEnde": "2026-08-31",
       "latestObservedEnde": "2026-08-31",
@@ -4319,7 +4327,7 @@
       "wirkstoffe": [
         "Doxepinhydrochlorid (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+      "zulassungsinhaber": "Holsten Pharma GmbH",
       "atc": "N06AA12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -4335,7 +4343,7 @@
       "wirkstoffe": [
         "Doxepinhydrochlorid (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+      "zulassungsinhaber": "Holsten Pharma GmbH",
       "atc": "N06AA12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -4707,7 +4715,7 @@
     },
     {
       "rootId": "LE2025000478",
-      "currentBearbeitungsnummer": "LE2026002254",
+      "currentBearbeitungsnummer": "LE2026003068",
       "produkt": "Quetiapin Heumann retard 200 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -4715,15 +4723,23 @@
       "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 106,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-12-15",
+          "daysExtended": 106,
+          "bearbeitungsnummer": "LE2026003068"
+        }
+      ]
     },
     {
       "rootId": "LE2025000477",
-      "currentBearbeitungsnummer": "LE2026002253",
+      "currentBearbeitungsnummer": "LE2026003074",
       "produkt": "Quetiapin Heumann retard 150 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -4731,15 +4747,23 @@
       "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 106,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-12-15",
+          "daysExtended": 106,
+          "bearbeitungsnummer": "LE2026003074"
+        }
+      ]
     },
     {
       "rootId": "LE2025000476",
-      "currentBearbeitungsnummer": "LE2026002251",
+      "currentBearbeitungsnummer": "LE2026003071",
       "produkt": "Quetiapin Heumann retard 50 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -4747,15 +4771,23 @@
       "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 106,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-12-15",
+          "daysExtended": 106,
+          "bearbeitungsnummer": "LE2026003071"
+        }
+      ]
     },
     {
       "rootId": "LE2025000480",
-      "currentBearbeitungsnummer": "LE2026002250",
+      "currentBearbeitungsnummer": "LE2026003072",
       "produkt": "Quetiapin Heumann retard 400 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -4763,15 +4795,23 @@
       "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 106,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-12-15",
+          "daysExtended": 106,
+          "bearbeitungsnummer": "LE2026003072"
+        }
+      ]
     },
     {
       "rootId": "LE2025000479",
-      "currentBearbeitungsnummer": "LE2026002249",
+      "currentBearbeitungsnummer": "LE2026003073",
       "produkt": "Quetiapin Heumann retard 300 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -4779,11 +4819,19 @@
       "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 106,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-12-15",
+          "daysExtended": 106,
+          "bearbeitungsnummer": "LE2026003073"
+        }
+      ]
     },
     {
       "rootId": "LE2026001513",
@@ -4803,7 +4851,7 @@
     },
     {
       "rootId": "LE2025000826",
-      "currentBearbeitungsnummer": "LE2026002246",
+      "currentBearbeitungsnummer": "LE2026003052",
       "produkt": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Galantaminhydrobromid"
@@ -4811,15 +4859,23 @@
       "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
       "atc": "N06DA04",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 106,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-12-15",
+          "daysExtended": 106,
+          "bearbeitungsnummer": "LE2026003052"
+        }
+      ]
     },
     {
       "rootId": "LE2025000827",
-      "currentBearbeitungsnummer": "LE2026002245",
+      "currentBearbeitungsnummer": "LE2026003066",
       "produkt": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Galantaminhydrobromid"
@@ -4827,11 +4883,19 @@
       "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
       "atc": "N06DA04",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 106,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-12-15",
+          "daysExtended": 106,
+          "bearbeitungsnummer": "LE2026003066"
+        }
+      ]
     },
     {
       "rootId": "LE2026002212",
@@ -4906,7 +4970,7 @@
         "Hydrochlorothiazid",
         "Valsartan"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+      "zulassungsinhaber": "Holsten Pharma GmbH",
       "atc": "TERM_ID_NA_2090002384",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -4972,7 +5036,7 @@
       "wirkstoffe": [
         "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "mibe GmbH Arzneimittel",
       "atc": "H02AB02",
       "firstObservedEnde": "2027-01-29",
       "latestObservedEnde": "2027-01-29",
@@ -4988,7 +5052,7 @@
       "wirkstoffe": [
         "Dexamethason"
       ],
-      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "mibe GmbH Arzneimittel",
       "atc": "H02AB02",
       "firstObservedEnde": "2027-01-29",
       "latestObservedEnde": "2027-01-29",
@@ -5966,7 +6030,7 @@
       "wirkstoffe": [
         "Isoniazid"
       ],
-      "zulassungsinhaber": "Riemser Pharma GmbH",
+      "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
       "atc": "J04AC01",
       "firstObservedEnde": "2026-08-31",
       "latestObservedEnde": "2026-08-31",
@@ -6001,7 +6065,7 @@
     },
     {
       "rootId": "LE2026001899",
-      "currentBearbeitungsnummer": "LE2026001899",
+      "currentBearbeitungsnummer": "LE2026003055",
       "produkt": "Topiramat-Hormosan 50 mg Filmtabletten",
       "wirkstoffe": [
         "Topiramat"
@@ -6009,15 +6073,23 @@
       "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
       "atc": "N03AX11",
       "firstObservedEnde": "2026-09-07",
-      "latestObservedEnde": "2026-09-07",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-02",
+      "totalDaysDrifted": 25,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-09-07",
+          "newEnde": "2026-10-02",
+          "daysExtended": 25,
+          "bearbeitungsnummer": "LE2026003055"
+        }
+      ]
     },
     {
       "rootId": "LE2026001898",
-      "currentBearbeitungsnummer": "LE2026001898",
+      "currentBearbeitungsnummer": "LE2026003054",
       "produkt": "Levetiracetam-Hormosan 100 mg/ml Lösung zum Einnehmen",
       "wirkstoffe": [
         "Levetiracetam"
@@ -6025,15 +6097,23 @@
       "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-16",
+      "totalDaysDrifted": 77,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-11-16",
+          "daysExtended": 77,
+          "bearbeitungsnummer": "LE2026003054"
+        }
+      ]
     },
     {
       "rootId": "LE2026001897",
-      "currentBearbeitungsnummer": "LE2026001897",
+      "currentBearbeitungsnummer": "LE2026003056",
       "produkt": "Quetiapin-Hormosan 50 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -6041,11 +6121,19 @@
       "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-11-30",
-      "latestObservedEnde": "2026-11-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-01-04",
+      "totalDaysDrifted": 35,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-20",
+          "previousEnde": "2026-11-30",
+          "newEnde": "2027-01-04",
+          "daysExtended": 35,
+          "bearbeitungsnummer": "LE2026003056"
+        }
+      ]
     },
     {
       "rootId": "LE2026001880",
@@ -6153,7 +6241,7 @@
     },
     {
       "rootId": "LE2026001841",
-      "currentBearbeitungsnummer": "LE2026002889",
+      "currentBearbeitungsnummer": "LE2026003064",
       "produkt": "Pazopanib Viatris 400 mg Filmtabletten",
       "wirkstoffe": [
         "Pazopanibhydrochlorid"
@@ -6774,7 +6862,7 @@
       "wirkstoffe": [
         "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "mibe GmbH Arzneimittel",
       "atc": "S01BA01",
       "firstObservedEnde": "2028-03-31",
       "latestObservedEnde": "2028-03-31",
@@ -7879,7 +7967,7 @@
       "wirkstoffe": [
         "Levetiracetam"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+      "zulassungsinhaber": "Holsten Pharma GmbH",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -7895,7 +7983,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+      "zulassungsinhaber": "Holsten Pharma GmbH",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -8039,7 +8127,7 @@
       "wirkstoffe": [
         "Doxepinhydrochlorid (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+      "zulassungsinhaber": "Holsten Pharma GmbH",
       "atc": "N06AA12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -8055,7 +8143,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+      "zulassungsinhaber": "Holsten Pharma GmbH",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -8432,7 +8520,7 @@
       "wirkstoffe": [
         "Levetiracetam"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+      "zulassungsinhaber": "Holsten Pharma GmbH",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -8784,7 +8872,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+      "zulassungsinhaber": "Holsten Pharma GmbH",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -8816,7 +8904,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+      "zulassungsinhaber": "Holsten Pharma GmbH",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -8928,7 +9016,7 @@
       "wirkstoffe": [
         "Procainhydrochlorid"
       ],
-      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "mibe GmbH Arzneimittel",
       "atc": "N01BA02",
       "firstObservedEnde": "2027-04-30",
       "latestObservedEnde": "2027-04-30",
@@ -8944,7 +9032,7 @@
       "wirkstoffe": [
         "Procainhydrochlorid"
       ],
-      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "mibe GmbH Arzneimittel",
       "atc": "N01BA02",
       "firstObservedEnde": "2027-08-31",
       "latestObservedEnde": "2027-08-31",
@@ -9366,7 +9454,7 @@
       "wirkstoffe": [
         "Sildenafilcitrat"
       ],
-      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "mibe GmbH Arzneimittel",
       "atc": "G04BE03",
       "firstObservedEnde": "2024-05-17",
       "latestObservedEnde": "2024-05-17",
@@ -9590,7 +9678,7 @@
       "wirkstoffe": [
         "Prednisolon"
       ],
-      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "mibe GmbH Arzneimittel",
       "atc": "H02AB06",
       "firstObservedEnde": "2026-11-13",
       "latestObservedEnde": "2026-11-13",
@@ -9606,7 +9694,7 @@
       "wirkstoffe": [
         "Prednicarbat"
       ],
-      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "mibe GmbH Arzneimittel",
       "atc": "D07AC18",
       "firstObservedEnde": "2026-10-30",
       "latestObservedEnde": "2026-10-30",
@@ -9623,7 +9711,7 @@
         "Triamteren",
         "Xipamid"
       ],
-      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "mibe GmbH Arzneimittel",
       "atc": "C03EA",
       "firstObservedEnde": "2027-04-30",
       "latestObservedEnde": "2027-04-30",
@@ -9788,6 +9876,183 @@
       "atc": "N02CC06",
       "firstObservedEnde": "2026-10-23",
       "latestObservedEnde": "2026-10-23",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003079",
+      "currentBearbeitungsnummer": "LE2026003079",
+      "produkt": "Braftovi 50 mg Hartkapseln",
+      "wirkstoffe": [
+        "Encorafenib"
+      ],
+      "zulassungsinhaber": "Pierre Fabre Medicament",
+      "atc": "L01EC03",
+      "firstObservedEnde": "2026-12-13",
+      "latestObservedEnde": "2026-12-13",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003078",
+      "currentBearbeitungsnummer": "LE2026003078",
+      "produkt": "Braftovi 50 mg Hartkapseln",
+      "wirkstoffe": [
+        "Encorafenib"
+      ],
+      "zulassungsinhaber": "Pierre Fabre Medicament",
+      "atc": "L01EC03",
+      "firstObservedEnde": "2026-12-13",
+      "latestObservedEnde": "2026-12-13",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003077",
+      "currentBearbeitungsnummer": "LE2026003077",
+      "produkt": "Ropivacainhydrochlorid Kabi 2 mg/ml Injektionslösung",
+      "wirkstoffe": [
+        "Ropivacainhydrochlorid"
+      ],
+      "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+      "atc": "N01BB09",
+      "firstObservedEnde": "2026-09-14",
+      "latestObservedEnde": "2026-09-14",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003076",
+      "currentBearbeitungsnummer": "LE2026003076",
+      "produkt": "Ropivacainhydrochlorid Kabi 10 mg/ml Injektionslösung",
+      "wirkstoffe": [
+        "Ropivacainhydrochlorid"
+      ],
+      "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+      "atc": "N01BB09",
+      "firstObservedEnde": "2026-11-09",
+      "latestObservedEnde": "2026-11-09",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003067",
+      "currentBearbeitungsnummer": "LE2026003067",
+      "produkt": "Galantamin Heumann 8 mg Hartkapseln, retardiert",
+      "wirkstoffe": [
+        "Galantaminhydrobromid"
+      ],
+      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+      "atc": "N06DA04",
+      "firstObservedEnde": "2026-12-15",
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003065",
+      "currentBearbeitungsnummer": "LE2026003065",
+      "produkt": "Methylprednisolon 16mg JENAPHARM",
+      "wirkstoffe": [
+        "Methylprednisolon"
+      ],
+      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "atc": "H02AB04",
+      "firstObservedEnde": "2027-01-31",
+      "latestObservedEnde": "2027-01-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003061",
+      "currentBearbeitungsnummer": "LE2026003061",
+      "produkt": "Targin 40 mg/20 mg Retardtabletten",
+      "wirkstoffe": [
+        "Naloxonhydrochlorid-Dihydrat",
+        "Oxycodonhydrochlorid (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Mundipharma Gesellschaft mit beschränkter Haftung - Geschäftsanschrift -",
+      "atc": "N02AA55",
+      "firstObservedEnde": "2026-09-15",
+      "latestObservedEnde": "2026-09-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003060",
+      "currentBearbeitungsnummer": "LE2026003060",
+      "produkt": "Quetiapin-Hormosan 400 mg Retardtabletten",
+      "wirkstoffe": [
+        "Quetiapinfumarat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+      "atc": "N05AH04",
+      "firstObservedEnde": "2027-01-04",
+      "latestObservedEnde": "2027-01-04",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003059",
+      "currentBearbeitungsnummer": "LE2026003059",
+      "produkt": "Quetiapin-Hormosan 300 mg Retardtabletten",
+      "wirkstoffe": [
+        "Quetiapinfumarat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+      "atc": "N05AH04",
+      "firstObservedEnde": "2027-01-04",
+      "latestObservedEnde": "2027-01-04",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003058",
+      "currentBearbeitungsnummer": "LE2026003058",
+      "produkt": "Quetiapin-Hormosan 200 mg Retardtabletten",
+      "wirkstoffe": [
+        "Quetiapinfumarat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+      "atc": "N05AH04",
+      "firstObservedEnde": "2027-01-04",
+      "latestObservedEnde": "2027-01-04",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003057",
+      "currentBearbeitungsnummer": "LE2026003057",
+      "produkt": "Quetiapin-Hormosan 150 mg Retardtabletten",
+      "wirkstoffe": [
+        "Quetiapinfumarat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+      "atc": "N05AH04",
+      "firstObservedEnde": "2027-01-04",
+      "latestObservedEnde": "2027-01-04",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
