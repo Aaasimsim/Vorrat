@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-20T03:41:09.848Z",
-  "snapshotCount": 21,
+  "generatedAt": "2026-08-22T03:36:16.269Z",
+  "snapshotCount": 22,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-08-20",
+  "lastSnapshot": "2026-08-22",
   "summary": {
-    "totalShortagesTracked": 550,
-    "driftedCount": 77,
+    "totalShortagesTracked": 561,
+    "driftedCount": 92,
     "driftRate": {
-      "drifted": 77,
-      "of": 550,
-      "percentage": 14
+      "drifted": 92,
+      "of": 561,
+      "percentage": 16.4
     },
-    "meanDaysDrifted": 82.2,
-    "medianDaysDrifted": 61,
-    "totalExtensionEvents": 82
+    "meanDaysDrifted": 81.3,
+    "medianDaysDrifted": 53,
+    "totalExtensionEvents": 97
   },
   "leaderboard": [
     {
@@ -209,6 +209,78 @@
       ]
     },
     {
+      "rootId": "LE2024004070",
+      "currentBearbeitungsnummer": "LE2026003116",
+      "produkt": "Tera TAD 2mg",
+      "wirkstoffe": [
+        "Terazosinhydrochlorid-Dihydrat"
+      ],
+      "zulassungsinhaber": "TAD Pharma GmbH",
+      "atc": "G04CA03",
+      "firstObservedEnde": "2026-08-31",
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 212,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2027-03-31",
+          "daysExtended": 212,
+          "bearbeitungsnummer": "LE2026003116"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2024004071",
+      "currentBearbeitungsnummer": "LE2026003115",
+      "produkt": "Tera TAD 5mg",
+      "wirkstoffe": [
+        "Terazosinhydrochlorid-Dihydrat"
+      ],
+      "zulassungsinhaber": "TAD Pharma GmbH",
+      "atc": "G04CA03",
+      "firstObservedEnde": "2026-08-31",
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 212,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2027-03-31",
+          "daysExtended": 212,
+          "bearbeitungsnummer": "LE2026003115"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2024004075",
+      "currentBearbeitungsnummer": "LE2026003117",
+      "produkt": "Tera TAD 10mg",
+      "wirkstoffe": [
+        "Terazosinhydrochlorid-Dihydrat"
+      ],
+      "zulassungsinhaber": "TAD Pharma GmbH",
+      "atc": "G04CA03",
+      "firstObservedEnde": "2026-08-31",
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 212,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2027-03-31",
+          "daysExtended": 212,
+          "bearbeitungsnummer": "LE2026003117"
+        }
+      ]
+    },
+    {
       "rootId": "LE2025003697",
       "currentBearbeitungsnummer": "LE2026002937",
       "produkt": "Quetiapin Accord 200 mg Retardtabletten",
@@ -229,6 +301,45 @@
           "newEnde": "2027-03-31",
           "daysExtended": 182,
           "bearbeitungsnummer": "LE2026002937"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2026000747",
+      "currentBearbeitungsnummer": "LE2026003081",
+      "produkt": "Aminoven 10 %",
+      "wirkstoffe": [
+        "Alanin",
+        "Arginin",
+        "Glycin",
+        "Histidin",
+        "Isoleucin",
+        "Leucin",
+        "Lysinacetat",
+        "Methionin",
+        "Phenylalanin",
+        "Prolin",
+        "Serin",
+        "Taurin",
+        "Threonin",
+        "Tryptophan",
+        "Tyrosin",
+        "Valin"
+      ],
+      "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+      "atc": "B05BA01",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 153,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-12-31",
+          "daysExtended": 153,
+          "bearbeitungsnummer": "LE2026003081"
         }
       ]
     },
@@ -399,108 +510,12 @@
           "bearbeitungsnummer": "LE2026003073"
         }
       ]
-    },
-    {
-      "rootId": "LE2025000826",
-      "currentBearbeitungsnummer": "LE2026003052",
-      "produkt": "Galantamin Heumann 16 mg Hartkapseln, retardiert",
-      "wirkstoffe": [
-        "Galantaminhydrobromid"
-      ],
-      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-      "atc": "N06DA04",
-      "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-12-15",
-      "totalDaysDrifted": 106,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-20",
-          "previousEnde": "2026-08-31",
-          "newEnde": "2026-12-15",
-          "daysExtended": 106,
-          "bearbeitungsnummer": "LE2026003052"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2025000827",
-      "currentBearbeitungsnummer": "LE2026003066",
-      "produkt": "Galantamin Heumann 24 mg Hartkapseln, retardiert",
-      "wirkstoffe": [
-        "Galantaminhydrobromid"
-      ],
-      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-      "atc": "N06DA04",
-      "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-12-15",
-      "totalDaysDrifted": 106,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-20",
-          "previousEnde": "2026-08-31",
-          "newEnde": "2026-12-15",
-          "daysExtended": 106,
-          "bearbeitungsnummer": "LE2026003066"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2026002334",
-      "currentBearbeitungsnummer": "LE2026002921",
-      "produkt": "Plerixafor Viatris 20 mg/ml Injektionslösung",
-      "wirkstoffe": [
-        "Plerixafor"
-      ],
-      "zulassungsinhaber": "Viatris Germany GmbH",
-      "atc": "L03AX16",
-      "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-12-31",
-      "totalDaysDrifted": 92,
-      "extensionsCount": 1,
-      "chainTruncated": false,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-05",
-          "previousEnde": "2026-09-30",
-          "newEnde": "2026-12-31",
-          "daysExtended": 92,
-          "bearbeitungsnummer": "LE2026002921"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2024003131",
-      "currentBearbeitungsnummer": "LE2026002880",
-      "produkt": "Fluoropos",
-      "wirkstoffe": [
-        "Fluorometholon"
-      ],
-      "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
-      "atc": "S01BA07",
-      "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 92,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-04",
-          "previousEnde": "2026-07-31",
-          "newEnde": "2026-10-31",
-          "daysExtended": 92,
-          "bearbeitungsnummer": "LE2026002880"
-        }
-      ]
     }
   ],
   "records": [
     {
       "rootId": "LE2026002491",
-      "currentBearbeitungsnummer": "LE2026002877",
+      "currentBearbeitungsnummer": "LE2026003111",
       "produkt": "Escitalopram-Micro Labs 5 mg Filmtabletten",
       "wirkstoffe": [
         "Escitalopramoxalat"
@@ -508,15 +523,23 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AB10",
       "firstObservedEnde": "2026-08-21",
-      "latestObservedEnde": "2026-08-21",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-11",
+      "totalDaysDrifted": 21,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-08-21",
+          "newEnde": "2026-09-11",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003111"
+        }
+      ]
     },
     {
       "rootId": "LE2026002493",
-      "currentBearbeitungsnummer": "LE2026002876",
+      "currentBearbeitungsnummer": "LE2026003112",
       "produkt": "Escitalopram-Micro Labs 10 mg Filmtabletten",
       "wirkstoffe": [
         "Escitalopramoxalat"
@@ -524,15 +547,23 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AB10",
       "firstObservedEnde": "2026-08-21",
-      "latestObservedEnde": "2026-08-21",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-11",
+      "totalDaysDrifted": 21,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-08-21",
+          "newEnde": "2026-09-11",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003112"
+        }
+      ]
     },
     {
       "rootId": "LE2026001486",
-      "currentBearbeitungsnummer": "LE2026002875",
+      "currentBearbeitungsnummer": "LE2026003113",
       "produkt": "Escitalopram-Micro Labs 20 mg Filmtabletten",
       "wirkstoffe": [
         "Escitalopramoxalat"
@@ -540,15 +571,23 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AB10",
       "firstObservedEnde": "2026-08-21",
-      "latestObservedEnde": "2026-08-21",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-11",
+      "totalDaysDrifted": 21,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-08-21",
+          "newEnde": "2026-09-11",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003113"
+        }
+      ]
     },
     {
       "rootId": "LE2026001178",
-      "currentBearbeitungsnummer": "LE2026002874",
+      "currentBearbeitungsnummer": "LE2026003110",
       "produkt": "Gabapentin-Micro Labs 800 mg Filmtabletten",
       "wirkstoffe": [
         "Gabapentin"
@@ -556,11 +595,19 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N02BF01",
       "firstObservedEnde": "2026-08-21",
-      "latestObservedEnde": "2026-08-21",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-11",
+      "totalDaysDrifted": 21,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-08-21",
+          "newEnde": "2026-09-11",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003110"
+        }
+      ]
     },
     {
       "rootId": "LE2026002814",
@@ -657,7 +704,7 @@
       "wirkstoffe": [
         "Calcitriol"
       ],
-      "zulassungsinhaber": "MEDICE Arzneimittel Pütter GmbH & Co. KG",
+      "zulassungsinhaber": "Medice Arzneimittel Pütter GmbH & Co. KG",
       "atc": "A11CC04",
       "firstObservedEnde": "2026-10-30",
       "latestObservedEnde": "2026-10-30",
@@ -893,7 +940,7 @@
       "wirkstoffe": [
         "Flurazepam"
       ],
-      "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+      "zulassungsinhaber": "Riemser Pharma GmbH",
       "atc": "N05CD01",
       "firstObservedEnde": "2026-09-28",
       "latestObservedEnde": "2026-09-28",
@@ -1263,7 +1310,7 @@
     },
     {
       "rootId": "LE2026001804",
-      "currentBearbeitungsnummer": "LE2026002821",
+      "currentBearbeitungsnummer": "LE2026003085",
       "produkt": "Sunitinib AL 12,5 mg Hartkapseln",
       "wirkstoffe": [
         "Sunitinib"
@@ -1271,11 +1318,19 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "L01EX01",
       "firstObservedEnde": "2026-08-18",
-      "latestObservedEnde": "2026-08-18",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-01",
+      "totalDaysDrifted": 14,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-08-18",
+          "newEnde": "2026-09-01",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003085"
+        }
+      ]
     },
     {
       "rootId": "LE2025002783",
@@ -1487,7 +1542,7 @@
     },
     {
       "rootId": "LE2026002227",
-      "currentBearbeitungsnummer": "LE2026002801",
+      "currentBearbeitungsnummer": "LE2026003091",
       "produkt": "Aknenormin 20 mg Weichkapseln",
       "wirkstoffe": [
         "Isotretinoin"
@@ -3003,7 +3058,7 @@
     },
     {
       "rootId": "LE2026001628",
-      "currentBearbeitungsnummer": "LE2026002575",
+      "currentBearbeitungsnummer": "LE2026003118",
       "produkt": "Triamhexal 10",
       "wirkstoffe": [
         "Triamcinolonacetonid"
@@ -3011,11 +3066,19 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "H02AB08",
       "firstObservedEnde": "2026-08-19",
-      "latestObservedEnde": "2026-08-19",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-08",
+      "totalDaysDrifted": 20,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-08-19",
+          "newEnde": "2026-09-08",
+          "daysExtended": 20,
+          "bearbeitungsnummer": "LE2026003118"
+        }
+      ]
     },
     {
       "rootId": "LE2025001295",
@@ -3084,7 +3147,7 @@
     },
     {
       "rootId": "LE2026002570",
-      "currentBearbeitungsnummer": "LE2026002570",
+      "currentBearbeitungsnummer": "LE2026003082",
       "produkt": "Lamisil Spray",
       "wirkstoffe": [
         "Terbinafinhydrochlorid"
@@ -3092,11 +3155,19 @@
       "zulassungsinhaber": "Karo Healthcare AB",
       "atc": "D01AE15",
       "firstObservedEnde": "2026-08-21",
-      "latestObservedEnde": "2026-08-21",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-16",
+      "totalDaysDrifted": 56,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-08-21",
+          "newEnde": "2026-10-16",
+          "daysExtended": 56,
+          "bearbeitungsnummer": "LE2026003082"
+        }
+      ]
     },
     {
       "rootId": "LE2025004229",
@@ -3453,7 +3524,7 @@
     },
     {
       "rootId": "LE2026002505",
-      "currentBearbeitungsnummer": "LE2026002505",
+      "currentBearbeitungsnummer": "LE2026003080",
       "produkt": "Epipevisone",
       "wirkstoffe": [
         "Econazolnitrat",
@@ -3462,11 +3533,19 @@
       "zulassungsinhaber": "Karo Healthcare AB",
       "atc": "D01AC",
       "firstObservedEnde": "2026-09-17",
-      "latestObservedEnde": "2026-09-17",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-04",
+      "totalDaysDrifted": 78,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-09-17",
+          "newEnde": "2026-12-04",
+          "daysExtended": 78,
+          "bearbeitungsnummer": "LE2026003080"
+        }
+      ]
     },
     {
       "rootId": "LE2026002229",
@@ -4103,7 +4182,7 @@
       "wirkstoffe": [
         "Levetiracetam"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -4151,7 +4230,7 @@
       "wirkstoffe": [
         "Isosorbidmononitrat"
       ],
-      "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+      "zulassungsinhaber": "Riemser Pharma GmbH",
       "atc": "C01DA14",
       "firstObservedEnde": "2026-10-26",
       "latestObservedEnde": "2026-10-26",
@@ -4263,7 +4342,7 @@
       "wirkstoffe": [
         "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "J01MA14",
       "firstObservedEnde": "2026-08-31",
       "latestObservedEnde": "2026-08-31",
@@ -4274,7 +4353,7 @@
     },
     {
       "rootId": "LE2026002316",
-      "currentBearbeitungsnummer": "LE2026002316",
+      "currentBearbeitungsnummer": "LE2026003114",
       "produkt": "Seroquel 300 mg Filmtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -4282,11 +4361,19 @@
       "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-08-21",
-      "latestObservedEnde": "2026-08-21",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-04",
+      "totalDaysDrifted": 14,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-08-21",
+          "newEnde": "2026-09-04",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003114"
+        }
+      ]
     },
     {
       "rootId": "LE2026002313",
@@ -4327,7 +4414,7 @@
       "wirkstoffe": [
         "Doxepinhydrochlorid (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N06AA12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -4343,7 +4430,7 @@
       "wirkstoffe": [
         "Doxepinhydrochlorid (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N06AA12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -4970,7 +5057,7 @@
         "Hydrochlorothiazid",
         "Valsartan"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "TERM_ID_NA_2090002384",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -5036,7 +5123,7 @@
       "wirkstoffe": [
         "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "H02AB02",
       "firstObservedEnde": "2027-01-29",
       "latestObservedEnde": "2027-01-29",
@@ -5052,7 +5139,7 @@
       "wirkstoffe": [
         "Dexamethason"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "H02AB02",
       "firstObservedEnde": "2027-01-29",
       "latestObservedEnde": "2027-01-29",
@@ -5206,7 +5293,7 @@
     },
     {
       "rootId": "LE2025001933",
-      "currentBearbeitungsnummer": "LE2026002145",
+      "currentBearbeitungsnummer": "LE2026003106",
       "produkt": "Bortezomib STADA 2,5 mg/ml Injektionslösung",
       "wirkstoffe": [
         "Bortezomibmannitol"
@@ -5214,7 +5301,7 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "L01XX32",
       "firstObservedEnde": "2026-11-30",
-      "latestObservedEnde": "2026-11-30",
+      "latestObservedEnde": "2026-10-15",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": true,
@@ -5238,7 +5325,7 @@
     },
     {
       "rootId": "LE2026002141",
-      "currentBearbeitungsnummer": "LE2026002141",
+      "currentBearbeitungsnummer": "LE2026003103",
       "produkt": "Cabaseril 2 mg",
       "wirkstoffe": [
         "Cabergolin"
@@ -5246,15 +5333,23 @@
       "zulassungsinhaber": "Pfizer Pharma GmbH",
       "atc": "N04BC06",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-16",
+      "totalDaysDrifted": 46,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-10-16",
+          "daysExtended": 46,
+          "bearbeitungsnummer": "LE2026003103"
+        }
+      ]
     },
     {
       "rootId": "LE2026002140",
-      "currentBearbeitungsnummer": "LE2026002140",
+      "currentBearbeitungsnummer": "LE2026003100",
       "produkt": "Cabaseril 1 mg",
       "wirkstoffe": [
         "Cabergolin"
@@ -5262,11 +5357,19 @@
       "zulassungsinhaber": "Pfizer Pharma GmbH",
       "atc": "N04BC06",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-16",
+      "totalDaysDrifted": 46,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-10-16",
+          "daysExtended": 46,
+          "bearbeitungsnummer": "LE2026003100"
+        }
+      ]
     },
     {
       "rootId": "LE2024003787",
@@ -5366,7 +5469,7 @@
     },
     {
       "rootId": "LE2026000747",
-      "currentBearbeitungsnummer": "LE2026002115",
+      "currentBearbeitungsnummer": "LE2026003081",
       "produkt": "Aminoven 10 %",
       "wirkstoffe": [
         "Alanin",
@@ -5389,11 +5492,19 @@
       "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
       "atc": "B05BA01",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 153,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-12-31",
+          "daysExtended": 153,
+          "bearbeitungsnummer": "LE2026003081"
+        }
+      ]
     },
     {
       "rootId": "LE2026000745",
@@ -6030,7 +6141,7 @@
       "wirkstoffe": [
         "Isoniazid"
       ],
-      "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+      "zulassungsinhaber": "Riemser Pharma GmbH",
       "atc": "J04AC01",
       "firstObservedEnde": "2026-08-31",
       "latestObservedEnde": "2026-08-31",
@@ -6862,7 +6973,7 @@
       "wirkstoffe": [
         "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "S01BA01",
       "firstObservedEnde": "2028-03-31",
       "latestObservedEnde": "2028-03-31",
@@ -7967,7 +8078,7 @@
       "wirkstoffe": [
         "Levetiracetam"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -7983,7 +8094,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -8127,7 +8238,7 @@
       "wirkstoffe": [
         "Doxepinhydrochlorid (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N06AA12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -8143,7 +8254,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -8520,7 +8631,7 @@
       "wirkstoffe": [
         "Levetiracetam"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -8872,7 +8983,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -8904,7 +9015,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -9016,7 +9127,7 @@
       "wirkstoffe": [
         "Procainhydrochlorid"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "N01BA02",
       "firstObservedEnde": "2027-04-30",
       "latestObservedEnde": "2027-04-30",
@@ -9032,7 +9143,7 @@
       "wirkstoffe": [
         "Procainhydrochlorid"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "N01BA02",
       "firstObservedEnde": "2027-08-31",
       "latestObservedEnde": "2027-08-31",
@@ -9139,7 +9250,7 @@
     },
     {
       "rootId": "LE2024004070",
-      "currentBearbeitungsnummer": "LE2025003079",
+      "currentBearbeitungsnummer": "LE2026003116",
       "produkt": "Tera TAD 2mg",
       "wirkstoffe": [
         "Terazosinhydrochlorid-Dihydrat"
@@ -9147,15 +9258,23 @@
       "zulassungsinhaber": "TAD Pharma GmbH",
       "atc": "G04CA03",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 212,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2027-03-31",
+          "daysExtended": 212,
+          "bearbeitungsnummer": "LE2026003116"
+        }
+      ]
     },
     {
       "rootId": "LE2024004071",
-      "currentBearbeitungsnummer": "LE2025003078",
+      "currentBearbeitungsnummer": "LE2026003115",
       "produkt": "Tera TAD 5mg",
       "wirkstoffe": [
         "Terazosinhydrochlorid-Dihydrat"
@@ -9163,15 +9282,23 @@
       "zulassungsinhaber": "TAD Pharma GmbH",
       "atc": "G04CA03",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 212,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2027-03-31",
+          "daysExtended": 212,
+          "bearbeitungsnummer": "LE2026003115"
+        }
+      ]
     },
     {
       "rootId": "LE2024004075",
-      "currentBearbeitungsnummer": "LE2025003077",
+      "currentBearbeitungsnummer": "LE2026003117",
       "produkt": "Tera TAD 10mg",
       "wirkstoffe": [
         "Terazosinhydrochlorid-Dihydrat"
@@ -9179,11 +9306,19 @@
       "zulassungsinhaber": "TAD Pharma GmbH",
       "atc": "G04CA03",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 212,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-22",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2027-03-31",
+          "daysExtended": 212,
+          "bearbeitungsnummer": "LE2026003117"
+        }
+      ]
     },
     {
       "rootId": "LE2023001200",
@@ -9454,7 +9589,7 @@
       "wirkstoffe": [
         "Sildenafilcitrat"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "G04BE03",
       "firstObservedEnde": "2024-05-17",
       "latestObservedEnde": "2024-05-17",
@@ -9678,7 +9813,7 @@
       "wirkstoffe": [
         "Prednisolon"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "H02AB06",
       "firstObservedEnde": "2026-11-13",
       "latestObservedEnde": "2026-11-13",
@@ -9694,7 +9829,7 @@
       "wirkstoffe": [
         "Prednicarbat"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "D07AC18",
       "firstObservedEnde": "2026-10-30",
       "latestObservedEnde": "2026-10-30",
@@ -9711,7 +9846,7 @@
         "Triamteren",
         "Xipamid"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "C03EA",
       "firstObservedEnde": "2027-04-30",
       "latestObservedEnde": "2027-04-30",
@@ -9968,7 +10103,7 @@
       "wirkstoffe": [
         "Methylprednisolon"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "H02AB04",
       "firstObservedEnde": "2027-01-31",
       "latestObservedEnde": "2027-01-31",
@@ -10053,6 +10188,183 @@
       "atc": "N05AH04",
       "firstObservedEnde": "2027-01-04",
       "latestObservedEnde": "2027-01-04",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003108",
+      "currentBearbeitungsnummer": "LE2026003108",
+      "produkt": "Mydriaticum Stulln",
+      "wirkstoffe": [
+        "Tropicamid"
+      ],
+      "zulassungsinhaber": "Pharma Stulln GmbH",
+      "atc": "S01FA56",
+      "firstObservedEnde": "2026-09-21",
+      "latestObservedEnde": "2026-09-21",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003107",
+      "currentBearbeitungsnummer": "LE2026003107",
+      "produkt": "Mydriaticum Stulln UD",
+      "wirkstoffe": [
+        "Tropicamid"
+      ],
+      "zulassungsinhaber": "Pharma Stulln GmbH",
+      "atc": "S01FA06",
+      "firstObservedEnde": "2026-09-21",
+      "latestObservedEnde": "2026-09-21",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003098",
+      "currentBearbeitungsnummer": "LE2026003105",
+      "produkt": "Etorican 90 mg Filmtabletten",
+      "wirkstoffe": [
+        "Etoricoxib"
+      ],
+      "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+      "atc": "M01AH05",
+      "firstObservedEnde": "2026-12-04",
+      "latestObservedEnde": "2026-12-04",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003097",
+      "currentBearbeitungsnummer": "LE2026003104",
+      "produkt": "Etorican 30 mg Filmtabletten",
+      "wirkstoffe": [
+        "Etoricoxib"
+      ],
+      "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+      "atc": "M01AH05",
+      "firstObservedEnde": "2026-12-04",
+      "latestObservedEnde": "2026-12-04",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003099",
+      "currentBearbeitungsnummer": "LE2026003099",
+      "produkt": "Etorican 120 mg Filmtabletten",
+      "wirkstoffe": [
+        "Etoricoxib"
+      ],
+      "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
+      "atc": "M01AH05",
+      "firstObservedEnde": "2026-12-04",
+      "latestObservedEnde": "2026-12-04",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003096",
+      "currentBearbeitungsnummer": "LE2026003096",
+      "produkt": "Mektovi 15 mg Filmtabletten",
+      "wirkstoffe": [
+        "Binimetinib"
+      ],
+      "zulassungsinhaber": "Pierre Fabre Medicament",
+      "atc": "L01XE41",
+      "firstObservedEnde": "2026-10-25",
+      "latestObservedEnde": "2026-10-25",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003095",
+      "currentBearbeitungsnummer": "LE2026003095",
+      "produkt": "Thybon 20 Henning",
+      "wirkstoffe": [
+        "Liothyroninhydrochlorid"
+      ],
+      "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+      "atc": "H03AA02",
+      "firstObservedEnde": "2026-09-16",
+      "latestObservedEnde": "2026-09-16",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003094",
+      "currentBearbeitungsnummer": "LE2026003094",
+      "produkt": "Prothyrid",
+      "wirkstoffe": [
+        "Levothyroxin-Natrium",
+        "Liothyroninhydrochlorid"
+      ],
+      "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+      "atc": "H03AA03",
+      "firstObservedEnde": "2026-09-16",
+      "latestObservedEnde": "2026-09-16",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003093",
+      "currentBearbeitungsnummer": "LE2026003093",
+      "produkt": "L-Thyroxin Henning 75",
+      "wirkstoffe": [
+        "Levothyroxin-Natrium"
+      ],
+      "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+      "atc": "H03AA01",
+      "firstObservedEnde": "2026-10-07",
+      "latestObservedEnde": "2026-10-07",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003092",
+      "currentBearbeitungsnummer": "LE2026003092",
+      "produkt": "Atorvastatin Micro Labs 20 mg Filmtabletten",
+      "wirkstoffe": [
+        "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Micro Labs GmbH",
+      "atc": "C10AA05",
+      "firstObservedEnde": "2026-10-16",
+      "latestObservedEnde": "2026-10-16",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003087",
+      "currentBearbeitungsnummer": "LE2026003087",
+      "produkt": "Gotenfia",
+      "wirkstoffe": [
+        "Golimumab"
+      ],
+      "zulassungsinhaber": "STADA Arzneimittel Aktiengesellschaft - Geschäftsanschrift -",
+      "atc": "L04AB06",
+      "firstObservedEnde": "2027-05-03",
+      "latestObservedEnde": "2027-05-03",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
