@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-24T03:48:49.648Z",
-  "snapshotCount": 24,
+  "generatedAt": "2026-08-25T03:42:27.701Z",
+  "snapshotCount": 25,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-08-24",
+  "lastSnapshot": "2026-08-25",
   "summary": {
-    "totalShortagesTracked": 561,
-    "driftedCount": 92,
+    "totalShortagesTracked": 563,
+    "driftedCount": 95,
     "driftRate": {
-      "drifted": 92,
-      "of": 561,
-      "percentage": 16.4
+      "drifted": 95,
+      "of": 563,
+      "percentage": 16.9
     },
-    "meanDaysDrifted": 81.3,
-    "medianDaysDrifted": 53,
-    "totalExtensionEvents": 97
+    "meanDaysDrifted": 80.7,
+    "medianDaysDrifted": 54,
+    "totalExtensionEvents": 101
   },
   "leaderboard": [
     {
@@ -2398,7 +2398,7 @@
     },
     {
       "rootId": "LE2025003962",
-      "currentBearbeitungsnummer": "LE2026002691",
+      "currentBearbeitungsnummer": "LE2026003122",
       "produkt": "Propra-ratiopharm 40 mg Filmtabletten",
       "wirkstoffe": [
         "Propranololhydrochlorid"
@@ -2406,11 +2406,19 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "C07AA05",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-08-14",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-07",
+      "totalDaysDrifted": 54,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-25",
+          "previousEnde": "2026-08-14",
+          "newEnde": "2026-10-07",
+          "daysExtended": 54,
+          "bearbeitungsnummer": "LE2026003122"
+        }
+      ]
     },
     {
       "rootId": "LE2025003276",
@@ -3411,7 +3419,7 @@
     },
     {
       "rootId": "LE2026002524",
-      "currentBearbeitungsnummer": "LE2026003012",
+      "currentBearbeitungsnummer": "LE2026003133",
       "produkt": "ZYPADHERA 210 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(483mg+3ml)",
       "wirkstoffe": [
         "Olanzapinembonat-Monohydrat"
@@ -3419,11 +3427,19 @@
       "zulassungsinhaber": "Cheplapharm Registration GmbH",
       "atc": "N05AH03",
       "firstObservedEnde": "2026-11-10",
-      "latestObservedEnde": "2026-10-28",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-09",
+      "totalDaysDrifted": 42,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-25",
+          "previousEnde": "2026-10-28",
+          "newEnde": "2026-12-09",
+          "daysExtended": 42,
+          "bearbeitungsnummer": "LE2026003133"
+        }
+      ]
     },
     {
       "rootId": "LE2026002523",
@@ -3645,7 +3661,7 @@
     },
     {
       "rootId": "LE2025004249",
-      "currentBearbeitungsnummer": "LE2026002473",
+      "currentBearbeitungsnummer": "LE2026003123",
       "produkt": "Propra-ratiopharm 80 mg Filmtabletten",
       "wirkstoffe": [
         "Propranololhydrochlorid"
@@ -3653,11 +3669,19 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "C07AA05",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-08-14",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-07",
+      "totalDaysDrifted": 54,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-25",
+          "previousEnde": "2026-08-14",
+          "newEnde": "2026-10-07",
+          "daysExtended": 54,
+          "bearbeitungsnummer": "LE2026003123"
+        }
+      ]
     },
     {
       "rootId": "LE2024003452",
@@ -4048,7 +4072,7 @@
     },
     {
       "rootId": "LE2026000825",
-      "currentBearbeitungsnummer": "LE2026002929",
+      "currentBearbeitungsnummer": "LE2026003130",
       "produkt": "Aggrastat 250 Mikrogramm/ml Konzentrat zur Herstellung einer Infusionslösung",
       "wirkstoffe": [
         "Tirofibanhydrochlorid-Monohydrat"
@@ -4056,9 +4080,9 @@
       "zulassungsinhaber": "Advanz Pharma Limited",
       "atc": "B01AC17",
       "firstObservedEnde": "2026-08-10",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 21,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-15",
+      "totalDaysDrifted": 66,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -4067,6 +4091,13 @@
           "newEnde": "2026-08-31",
           "daysExtended": 21,
           "bearbeitungsnummer": "LE2026002929"
+        },
+        {
+          "snapshotDate": "2026-08-25",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-10-15",
+          "daysExtended": 45,
+          "bearbeitungsnummer": "LE2026003130"
         }
       ]
     },
@@ -10356,7 +10387,7 @@
     },
     {
       "rootId": "LE2026003087",
-      "currentBearbeitungsnummer": "LE2026003087",
+      "currentBearbeitungsnummer": "LE2026003124",
       "produkt": "Gotenfia",
       "wirkstoffe": [
         "Golimumab"
@@ -10365,6 +10396,38 @@
       "atc": "L04AB06",
       "firstObservedEnde": "2027-05-03",
       "latestObservedEnde": "2027-05-03",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003126",
+      "currentBearbeitungsnummer": "LE2026003129",
+      "produkt": "Pankreatan 40.000 Ph.Eur.-Einheiten",
+      "wirkstoffe": [
+        "Pankreas-Pulver vom Schwein"
+      ],
+      "zulassungsinhaber": "Nordmark Pharma GmbH",
+      "atc": "A09AA02",
+      "firstObservedEnde": "2026-12-01",
+      "latestObservedEnde": "2026-12-01",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003125",
+      "currentBearbeitungsnummer": "LE2026003125",
+      "produkt": "Pankreatan 40.000 Ph.Eur.-Einheiten",
+      "wirkstoffe": [
+        "Pankreas-Pulver vom Schwein"
+      ],
+      "zulassungsinhaber": "Nordmark Pharma GmbH",
+      "atc": "A09AA02",
+      "firstObservedEnde": "2026-09-02",
+      "latestObservedEnde": "2026-09-02",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
