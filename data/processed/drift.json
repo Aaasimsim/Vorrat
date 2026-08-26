@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-25T03:42:27.701Z",
-  "snapshotCount": 25,
+  "generatedAt": "2026-08-26T03:48:19.331Z",
+  "snapshotCount": 26,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-08-25",
+  "lastSnapshot": "2026-08-26",
   "summary": {
     "totalShortagesTracked": 563,
-    "driftedCount": 95,
+    "driftedCount": 102,
     "driftRate": {
-      "drifted": 95,
+      "drifted": 102,
       "of": 563,
-      "percentage": 16.9
+      "percentage": 18.1
     },
-    "meanDaysDrifted": 80.7,
-    "medianDaysDrifted": 54,
-    "totalExtensionEvents": 101
+    "meanDaysDrifted": 77.5,
+    "medianDaysDrifted": 48,
+    "totalExtensionEvents": 108
   },
   "leaderboard": [
     {
@@ -1822,7 +1822,7 @@
     },
     {
       "rootId": "LE2025000338",
-      "currentBearbeitungsnummer": "LE2026002759",
+      "currentBearbeitungsnummer": "LE2026003140",
       "produkt": "Quetiapin AL 300 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -1830,15 +1830,23 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-08-26",
-      "latestObservedEnde": "2026-08-26",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-16",
+      "totalDaysDrifted": 21,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-26",
+          "previousEnde": "2026-08-26",
+          "newEnde": "2026-09-16",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003140"
+        }
+      ]
     },
     {
       "rootId": "LE2025000334",
-      "currentBearbeitungsnummer": "LE2026002758",
+      "currentBearbeitungsnummer": "LE2026003141",
       "produkt": "Quetiapin AL 150 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -1846,15 +1854,23 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-08-26",
-      "latestObservedEnde": "2026-08-26",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-16",
+      "totalDaysDrifted": 21,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-26",
+          "previousEnde": "2026-08-26",
+          "newEnde": "2026-09-16",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003141"
+        }
+      ]
     },
     {
       "rootId": "LE2025000485",
-      "currentBearbeitungsnummer": "LE2026002756",
+      "currentBearbeitungsnummer": "LE2026003142",
       "produkt": "Aprepitant AL 125 mg Hartkapseln",
       "wirkstoffe": [
         "Aprepitant"
@@ -1862,11 +1878,19 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "A04AD12",
       "firstObservedEnde": "2026-08-26",
-      "latestObservedEnde": "2026-08-26",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-01",
+      "totalDaysDrifted": 36,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-26",
+          "previousEnde": "2026-08-26",
+          "newEnde": "2026-10-01",
+          "daysExtended": 36,
+          "bearbeitungsnummer": "LE2026003142"
+        }
+      ]
     },
     {
       "rootId": "LE2026002551",
@@ -1902,7 +1926,7 @@
     },
     {
       "rootId": "LE2026000087",
-      "currentBearbeitungsnummer": "LE2026002752",
+      "currentBearbeitungsnummer": "LE2026003139",
       "produkt": "Indometacin AL 50",
       "wirkstoffe": [
         "Indometacin"
@@ -1910,11 +1934,19 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "M01AB01",
       "firstObservedEnde": "2026-08-26",
-      "latestObservedEnde": "2026-08-26",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-30",
+      "totalDaysDrifted": 35,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-26",
+          "previousEnde": "2026-08-26",
+          "newEnde": "2026-09-30",
+          "daysExtended": 35,
+          "bearbeitungsnummer": "LE2026003139"
+        }
+      ]
     },
     {
       "rootId": "LE2026002450",
@@ -3371,7 +3403,7 @@
     },
     {
       "rootId": "LE2026002530",
-      "currentBearbeitungsnummer": "LE2026002530",
+      "currentBearbeitungsnummer": "LE2026003136",
       "produkt": "ISMN AbZ 40 mg Tabletten",
       "wirkstoffe": [
         "Isosorbidmononitrat"
@@ -3379,11 +3411,19 @@
       "zulassungsinhaber": "AbZ-Pharma GmbH",
       "atc": "C01DA14",
       "firstObservedEnde": "2026-08-27",
-      "latestObservedEnde": "2026-08-27",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-09",
+      "totalDaysDrifted": 43,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-26",
+          "previousEnde": "2026-08-27",
+          "newEnde": "2026-10-09",
+          "daysExtended": 43,
+          "bearbeitungsnummer": "LE2026003136"
+        }
+      ]
     },
     {
       "rootId": "LE2026002528",
@@ -4665,7 +4705,7 @@
     },
     {
       "rootId": "LE2025000486",
-      "currentBearbeitungsnummer": "LE2026002289",
+      "currentBearbeitungsnummer": "LE2026003143",
       "produkt": "Aprepitant AL 80 mg Hartkapseln",
       "wirkstoffe": [
         "Aprepitant"
@@ -4673,11 +4713,19 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "A04AD12",
       "firstObservedEnde": "2026-08-30",
-      "latestObservedEnde": "2026-08-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-01",
+      "totalDaysDrifted": 32,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-26",
+          "previousEnde": "2026-08-30",
+          "newEnde": "2026-10-01",
+          "daysExtended": 32,
+          "bearbeitungsnummer": "LE2026003143"
+        }
+      ]
     },
     {
       "rootId": "LE2026002288",
@@ -6151,7 +6199,7 @@
     },
     {
       "rootId": "LE2025004313",
-      "currentBearbeitungsnummer": "LE2026001973",
+      "currentBearbeitungsnummer": "LE2026003134",
       "produkt": "Everolimus-ratiopharm 2,5 mg Tabletten",
       "wirkstoffe": [
         "Everolimus"
@@ -6159,11 +6207,19 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "L01EG02",
       "firstObservedEnde": "2026-08-05",
-      "latestObservedEnde": "2026-08-05",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-22",
+      "totalDaysDrifted": 48,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-26",
+          "previousEnde": "2026-08-05",
+          "newEnde": "2026-09-22",
+          "daysExtended": 48,
+          "bearbeitungsnummer": "LE2026003134"
+        }
+      ]
     },
     {
       "rootId": "LE2025004422",
@@ -10403,7 +10459,7 @@
     },
     {
       "rootId": "LE2026003126",
-      "currentBearbeitungsnummer": "LE2026003129",
+      "currentBearbeitungsnummer": "LE2026003145",
       "produkt": "Pankreatan 40.000 Ph.Eur.-Einheiten",
       "wirkstoffe": [
         "Pankreas-Pulver vom Schwein"
