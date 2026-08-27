@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-08-26T03:48:19.331Z",
-  "snapshotCount": 26,
+  "generatedAt": "2026-08-27T13:31:22.146Z",
+  "snapshotCount": 27,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-08-26",
+  "lastSnapshot": "2026-08-27",
   "summary": {
-    "totalShortagesTracked": 563,
-    "driftedCount": 102,
+    "totalShortagesTracked": 572,
+    "driftedCount": 110,
     "driftRate": {
-      "drifted": 102,
-      "of": 563,
-      "percentage": 18.1
+      "drifted": 110,
+      "of": 572,
+      "percentage": 19.2
     },
-    "meanDaysDrifted": 77.5,
-    "medianDaysDrifted": 48,
-    "totalExtensionEvents": 108
+    "meanDaysDrifted": 77.2,
+    "medianDaysDrifted": 52,
+    "totalExtensionEvents": 117
   },
   "leaderboard": [
     {
@@ -1294,7 +1294,7 @@
     },
     {
       "rootId": "LE2026002219",
-      "currentBearbeitungsnummer": "LE2026002822",
+      "currentBearbeitungsnummer": "LE2026003152",
       "produkt": "Risperidon AL 6 mg Filmtabletten",
       "wirkstoffe": [
         "Risperidon"
@@ -1302,11 +1302,19 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "N05AX08",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-30",
+      "totalDaysDrifted": 30,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-27",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-09-30",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003152"
+        }
+      ]
     },
     {
       "rootId": "LE2026001804",
@@ -1542,7 +1550,7 @@
     },
     {
       "rootId": "LE2026002227",
-      "currentBearbeitungsnummer": "LE2026003091",
+      "currentBearbeitungsnummer": "LE2026003172",
       "produkt": "Aknenormin 20 mg Weichkapseln",
       "wirkstoffe": [
         "Isotretinoin"
@@ -1550,11 +1558,19 @@
       "zulassungsinhaber": "ALMIRALL HERMAL GmbH",
       "atc": "D10BA01",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-27",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-12-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026003172"
+        }
+      ]
     },
     {
       "rootId": "LE2025000471",
@@ -3259,7 +3275,7 @@
     },
     {
       "rootId": "LE2026002553",
-      "currentBearbeitungsnummer": "LE2026003050",
+      "currentBearbeitungsnummer": "LE2026003157",
       "produkt": "Remestan 20 mg",
       "wirkstoffe": [
         "Temazepam"
@@ -3267,9 +3283,9 @@
       "zulassungsinhaber": "Viatris Healthcare GmbH",
       "atc": "N05CD07",
       "firstObservedEnde": "2026-08-18",
-      "latestObservedEnde": "2026-09-04",
-      "totalDaysDrifted": 17,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-09-18",
+      "totalDaysDrifted": 31,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -3278,6 +3294,13 @@
           "newEnde": "2026-09-04",
           "daysExtended": 17,
           "bearbeitungsnummer": "LE2026003036"
+        },
+        {
+          "snapshotDate": "2026-08-27",
+          "previousEnde": "2026-09-04",
+          "newEnde": "2026-09-18",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003157"
         }
       ]
     },
@@ -5001,7 +5024,7 @@
     },
     {
       "rootId": "LE2026001513",
-      "currentBearbeitungsnummer": "LE2026002248",
+      "currentBearbeitungsnummer": "LE2026003158",
       "produkt": "Brimo-Vision sine 2 mg/ml Augentropfen, Lösung im Einzeldosisbehältnis",
       "wirkstoffe": [
         "Brimonidintartrat"
@@ -5009,11 +5032,19 @@
       "zulassungsinhaber": "OmniVision GmbH",
       "atc": "S01EA05",
       "firstObservedEnde": "2026-08-20",
-      "latestObservedEnde": "2026-08-20",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-05",
+      "totalDaysDrifted": 46,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-27",
+          "previousEnde": "2026-08-20",
+          "newEnde": "2026-10-05",
+          "daysExtended": 46,
+          "bearbeitungsnummer": "LE2026003158"
+        }
+      ]
     },
     {
       "rootId": "LE2025000826",
@@ -5308,7 +5339,7 @@
     },
     {
       "rootId": "LE2024001865",
-      "currentBearbeitungsnummer": "LE2026002176",
+      "currentBearbeitungsnummer": "LE2026003148",
       "produkt": "Amoxicillin AL TS",
       "wirkstoffe": [
         "Amoxicillin-Trihydrat"
@@ -5316,11 +5347,19 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "J01CA04",
       "firstObservedEnde": "2026-08-27",
-      "latestObservedEnde": "2026-08-27",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-01",
+      "totalDaysDrifted": 96,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-27",
+          "previousEnde": "2026-08-27",
+          "newEnde": "2026-12-01",
+          "daysExtended": 96,
+          "bearbeitungsnummer": "LE2026003148"
+        }
+      ]
     },
     {
       "rootId": "LE2025003294",
@@ -5620,7 +5659,7 @@
     },
     {
       "rootId": "LE2026001589",
-      "currentBearbeitungsnummer": "LE2026002113",
+      "currentBearbeitungsnummer": "LE2026003154",
       "produkt": "Nephrotect",
       "wirkstoffe": [
         "Acetylcystein",
@@ -5644,15 +5683,23 @@
       "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
       "atc": "B05BA01",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-27",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-09-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003154"
+        }
+      ]
     },
     {
       "rootId": "LE2026001591",
-      "currentBearbeitungsnummer": "LE2026002112",
+      "currentBearbeitungsnummer": "LE2026003155",
       "produkt": "SMOFlipid 200 mg/ml Emulsion zur Infusion",
       "wirkstoffe": [
         "Mittelkettige Triglyceride",
@@ -5663,11 +5710,19 @@
       "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
       "atc": "B05BA02",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-30",
+      "totalDaysDrifted": 60,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-27",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-10-30",
+          "daysExtended": 60,
+          "bearbeitungsnummer": "LE2026003155"
+        }
+      ]
     },
     {
       "rootId": "LE2025001771",
@@ -6391,7 +6446,7 @@
     },
     {
       "rootId": "LE2025000510",
-      "currentBearbeitungsnummer": "LE2026001857",
+      "currentBearbeitungsnummer": "LE2026003149",
       "produkt": "Methyldopa STADA 250mg Filmtablette",
       "wirkstoffe": [
         "Methyldopa (Ph.Eur.)"
@@ -6399,15 +6454,23 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "C02AB01",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-01",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-27",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-12-01",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026003149"
+        }
+      ]
     },
     {
       "rootId": "LE2025003687",
-      "currentBearbeitungsnummer": "LE2026001853",
+      "currentBearbeitungsnummer": "LE2026003150",
       "produkt": "Flutamid AL 250",
       "wirkstoffe": [
         "Flutamid"
@@ -6415,11 +6478,19 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "L02BB01",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-01",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-27",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-12-01",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026003150"
+        }
+      ]
     },
     {
       "rootId": "LE2025001986",
@@ -10484,6 +10555,151 @@
       "atc": "A09AA02",
       "firstObservedEnde": "2026-09-02",
       "latestObservedEnde": "2026-09-02",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003169",
+      "currentBearbeitungsnummer": "LE2026003169",
+      "produkt": "Ureotop + VAS Creme",
+      "wirkstoffe": [
+        "Harnstoff",
+        "Tretinoin"
+      ],
+      "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+      "atc": "D02AE",
+      "firstObservedEnde": "2026-09-20",
+      "latestObservedEnde": "2026-09-20",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003168",
+      "currentBearbeitungsnummer": "LE2026003168",
+      "produkt": "Hydrocutan Creme 1%",
+      "wirkstoffe": [
+        "Hydrocortison"
+      ],
+      "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+      "atc": "D07AA02",
+      "firstObservedEnde": "2026-09-27",
+      "latestObservedEnde": "2026-09-27",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003167",
+      "currentBearbeitungsnummer": "LE2026003167",
+      "produkt": "Urapidil AL 30 mg Hartkapseln, retardiert",
+      "wirkstoffe": [
+        "Urapidil"
+      ],
+      "zulassungsinhaber": "ALIUD PHARMA GmbH",
+      "atc": "C02CA06",
+      "firstObservedEnde": "2026-09-15",
+      "latestObservedEnde": "2026-09-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003159",
+      "currentBearbeitungsnummer": "LE2026003166",
+      "produkt": "IFO-cell 2g Konzentrat zur Herstellung einer Infusionslösung",
+      "wirkstoffe": [
+        "Ifosfamid"
+      ],
+      "zulassungsinhaber": "STADAPHARM GmbH",
+      "atc": "L01AA06",
+      "firstObservedEnde": "2027-12-31",
+      "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003160",
+      "currentBearbeitungsnummer": "LE2026003165",
+      "produkt": "IFO-cell 5 g Konzentrat zur Herstellung einer Infusionslösung",
+      "wirkstoffe": [
+        "Ifosfamid"
+      ],
+      "zulassungsinhaber": "STADAPHARM GmbH",
+      "atc": "L01AA06",
+      "firstObservedEnde": "2027-12-31",
+      "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003161",
+      "currentBearbeitungsnummer": "LE2026003164",
+      "produkt": "IFO-cell N 1000",
+      "wirkstoffe": [
+        "Ifosfamid"
+      ],
+      "zulassungsinhaber": "STADAPHARM GmbH",
+      "atc": "L01AA06",
+      "firstObservedEnde": "2027-12-31",
+      "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003162",
+      "currentBearbeitungsnummer": "LE2026003163",
+      "produkt": "IFO-cell N 2000",
+      "wirkstoffe": [
+        "Ifosfamid"
+      ],
+      "zulassungsinhaber": "STADAPHARM GmbH",
+      "atc": "L01AA06",
+      "firstObservedEnde": "2027-12-31",
+      "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003156",
+      "currentBearbeitungsnummer": "LE2026003156",
+      "produkt": "Moxifloxacin Micro Labs 5 mg/ml Augentropfen, Lösung",
+      "wirkstoffe": [
+        "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))"
+      ],
+      "zulassungsinhaber": "Micro Labs GmbH",
+      "atc": "S01AE07",
+      "firstObservedEnde": "2026-09-11",
+      "latestObservedEnde": "2026-09-11",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003153",
+      "currentBearbeitungsnummer": "LE2026003153",
+      "produkt": "Levetiracetam Holsten 1000 mg Filmtabletten",
+      "wirkstoffe": [
+        "Levetiracetam"
+      ],
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+      "atc": "N03AX14",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
