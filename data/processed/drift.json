@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-28T14:47:38.946Z",
-  "snapshotCount": 28,
+  "generatedAt": "2026-08-29T09:38:28.415Z",
+  "snapshotCount": 29,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-08-28",
+  "lastSnapshot": "2026-08-29",
   "summary": {
     "totalShortagesTracked": 577,
     "driftedCount": 123,
@@ -1635,7 +1635,7 @@
       "wirkstoffe": [
         "Isotretinoin"
       ],
-      "zulassungsinhaber": "Almirall Hermal GmbH",
+      "zulassungsinhaber": "ALMIRALL HERMAL GmbH",
       "atc": "D10BA01",
       "firstObservedEnde": "2026-09-30",
       "latestObservedEnde": "2026-12-31",
