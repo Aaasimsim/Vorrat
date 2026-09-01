@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-08-31T09:12:15.095Z",
-  "snapshotCount": 31,
+  "generatedAt": "2026-09-01T08:11:44.809Z",
+  "snapshotCount": 32,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-08-31",
+  "lastSnapshot": "2026-09-01",
   "summary": {
-    "totalShortagesTracked": 577,
+    "totalShortagesTracked": 581,
     "driftedCount": 124,
     "driftRate": {
       "drifted": 124,
-      "of": 577,
-      "percentage": 21.5
+      "of": 581,
+      "percentage": 21.3
     },
     "meanDaysDrifted": 72.9,
     "medianDaysDrifted": 47.5,
@@ -1031,7 +1031,7 @@
     },
     {
       "rootId": "LE2026002382",
-      "currentBearbeitungsnummer": "LE2026003008",
+      "currentBearbeitungsnummer": "LE2026003213",
       "produkt": "ACCUPAQUE 350",
       "wirkstoffe": [
         "Iohexol"
@@ -1039,7 +1039,7 @@
       "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
       "atc": "V08AB02",
       "firstObservedEnde": "2026-08-05",
-      "latestObservedEnde": "2026-10-14",
+      "latestObservedEnde": "2026-09-30",
       "totalDaysDrifted": 70,
       "extensionsCount": 2,
       "chainTruncated": true,
@@ -1062,7 +1062,7 @@
     },
     {
       "rootId": "LE2026001099",
-      "currentBearbeitungsnummer": "LE2026003005",
+      "currentBearbeitungsnummer": "LE2026003212",
       "produkt": "Visipaque 320",
       "wirkstoffe": [
         "Iodixanol"
@@ -10907,6 +10907,71 @@
       "atc": "A04AA05",
       "firstObservedEnde": "2026-09-16",
       "latestObservedEnde": "2026-09-16",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003217",
+      "currentBearbeitungsnummer": "LE2026003217",
+      "produkt": "Volon A 40",
+      "wirkstoffe": [
+        "Triamcinolonacetonid"
+      ],
+      "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+      "atc": "H02AB08",
+      "firstObservedEnde": "2026-11-20",
+      "latestObservedEnde": "2026-11-20",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003215",
+      "currentBearbeitungsnummer": "LE2026003215",
+      "produkt": "Perindopril/Indapamid-ratiopharm T 2,5 mg/0,625 mg Filmtabletten",
+      "wirkstoffe": [
+        "Indapamid",
+        "Perindopriltosilat"
+      ],
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "C09BA04",
+      "firstObservedEnde": "2026-12-15",
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003214",
+      "currentBearbeitungsnummer": "LE2026003214",
+      "produkt": "Ropivacain HCl B. Braun 2 mg/ml Injektions-/Infusionslösung",
+      "wirkstoffe": [
+        "Ropivacainhydrochlorid-Monohydrat"
+      ],
+      "zulassungsinhaber": "B. Braun Melsungen Aktiengesellschaft",
+      "atc": "N01BB09",
+      "firstObservedEnde": "2026-10-30",
+      "latestObservedEnde": "2026-10-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003211",
+      "currentBearbeitungsnummer": "LE2026003211",
+      "produkt": "L-Thyroxin Aventis 50 Mikrogramm Tabletten",
+      "wirkstoffe": [
+        "Levothyroxin-Natrium"
+      ],
+      "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+      "atc": "H03AA01",
+      "firstObservedEnde": "2026-09-30",
+      "latestObservedEnde": "2026-09-30",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
