@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-01T08:11:44.809Z",
-  "snapshotCount": 32,
+  "generatedAt": "2026-09-02T07:30:49.621Z",
+  "snapshotCount": 33,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-01",
+  "lastSnapshot": "2026-09-02",
   "summary": {
     "totalShortagesTracked": 581,
-    "driftedCount": 124,
+    "driftedCount": 125,
     "driftRate": {
-      "drifted": 124,
+      "drifted": 125,
       "of": 581,
-      "percentage": 21.3
+      "percentage": 21.5
     },
     "meanDaysDrifted": 72.9,
-    "medianDaysDrifted": 47.5,
-    "totalExtensionEvents": 133
+    "medianDaysDrifted": 48,
+    "totalExtensionEvents": 134
   },
   "leaderboard": [
     {
@@ -5298,7 +5298,7 @@
     },
     {
       "rootId": "LE2026002201",
-      "currentBearbeitungsnummer": "LE2026002201",
+      "currentBearbeitungsnummer": "LE2026003220",
       "produkt": "Thilorbin",
       "wirkstoffe": [
         "Fluorescein-Natrium (Ph.Eur.)",
@@ -5307,11 +5307,19 @@
       "zulassungsinhaber": "OmniVision GmbH",
       "atc": "S01HA30",
       "firstObservedEnde": "2026-09-03",
-      "latestObservedEnde": "2026-09-03",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-16",
+      "totalDaysDrifted": 74,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-02",
+          "previousEnde": "2026-09-03",
+          "newEnde": "2026-11-16",
+          "daysExtended": 74,
+          "bearbeitungsnummer": "LE2026003220"
+        }
+      ]
     },
     {
       "rootId": "LE2025003859",
