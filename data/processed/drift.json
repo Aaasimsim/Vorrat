@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-02T07:30:49.621Z",
-  "snapshotCount": 33,
+  "generatedAt": "2026-09-03T07:37:36.772Z",
+  "snapshotCount": 34,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-02",
+  "lastSnapshot": "2026-09-03",
   "summary": {
-    "totalShortagesTracked": 581,
-    "driftedCount": 125,
+    "totalShortagesTracked": 584,
+    "driftedCount": 134,
     "driftRate": {
-      "drifted": 125,
-      "of": 581,
-      "percentage": 21.5
+      "drifted": 134,
+      "of": 584,
+      "percentage": 22.9
     },
-    "meanDaysDrifted": 72.9,
-    "medianDaysDrifted": 48,
-    "totalExtensionEvents": 134
+    "meanDaysDrifted": 78.7,
+    "medianDaysDrifted": 48.5,
+    "totalExtensionEvents": 146
   },
   "leaderboard": [
     {
@@ -109,6 +109,78 @@
           "newEnde": "2027-07-31",
           "daysExtended": 365,
           "bearbeitungsnummer": "LE2026002919"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2026001790",
+      "currentBearbeitungsnummer": "LE2026003223",
+      "produkt": "ARA-cell 100 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+      "wirkstoffe": [
+        "Cytarabin"
+      ],
+      "zulassungsinhaber": "STADAPHARM GmbH",
+      "atc": "L01BC01",
+      "firstObservedEnde": "2027-01-11",
+      "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 354,
+      "extensionsCount": 1,
+      "chainTruncated": false,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-03",
+          "previousEnde": "2027-01-11",
+          "newEnde": "2027-12-31",
+          "daysExtended": 354,
+          "bearbeitungsnummer": "LE2026003223"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2026001148",
+      "currentBearbeitungsnummer": "LE2026003224",
+      "produkt": "ARA-cell 1000mg Infusionslösung",
+      "wirkstoffe": [
+        "Cytarabin"
+      ],
+      "zulassungsinhaber": "STADAPHARM GmbH",
+      "atc": "L01BC01",
+      "firstObservedEnde": "2027-01-11",
+      "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 354,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-03",
+          "previousEnde": "2027-01-11",
+          "newEnde": "2027-12-31",
+          "daysExtended": 354,
+          "bearbeitungsnummer": "LE2026003224"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2026001149",
+      "currentBearbeitungsnummer": "LE2026003225",
+      "produkt": "ARA-cell 4000mg Infusionslösung",
+      "wirkstoffe": [
+        "Cytarabin"
+      ],
+      "zulassungsinhaber": "STADAPHARM GmbH",
+      "atc": "L01BC01",
+      "firstObservedEnde": "2027-01-11",
+      "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 354,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-03",
+          "previousEnde": "2027-01-11",
+          "newEnde": "2027-12-31",
+          "daysExtended": 354,
+          "bearbeitungsnummer": "LE2026003225"
         }
       ]
     },
@@ -368,6 +440,30 @@
       ]
     },
     {
+      "rootId": "LE2026000089",
+      "currentBearbeitungsnummer": "LE2026003241",
+      "produkt": "Prepidil Gel",
+      "wirkstoffe": [
+        "Dinoproston"
+      ],
+      "zulassungsinhaber": "Pfizer Pharma GmbH",
+      "atc": "G02AD02",
+      "firstObservedEnde": "2026-10-31",
+      "latestObservedEnde": "2027-02-28",
+      "totalDaysDrifted": 120,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-03",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2027-02-28",
+          "daysExtended": 120,
+          "bearbeitungsnummer": "LE2026003241"
+        }
+      ]
+    },
+    {
       "rootId": "LE2024001107",
       "currentBearbeitungsnummer": "LE2026002909",
       "produkt": "Buprenorphin-ratiopharm 70 Mikrogramm/h Transdermales Pflaster",
@@ -412,102 +508,6 @@
           "newEnde": "2026-12-15",
           "daysExtended": 106,
           "bearbeitungsnummer": "LE2026003068"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2025000477",
-      "currentBearbeitungsnummer": "LE2026003074",
-      "produkt": "Quetiapin Heumann retard 150 mg Retardtabletten",
-      "wirkstoffe": [
-        "Quetiapinfumarat (Ph.Eur.)"
-      ],
-      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-      "atc": "N05AH04",
-      "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-12-15",
-      "totalDaysDrifted": 106,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-20",
-          "previousEnde": "2026-08-31",
-          "newEnde": "2026-12-15",
-          "daysExtended": 106,
-          "bearbeitungsnummer": "LE2026003074"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2025000476",
-      "currentBearbeitungsnummer": "LE2026003071",
-      "produkt": "Quetiapin Heumann retard 50 mg Retardtabletten",
-      "wirkstoffe": [
-        "Quetiapinfumarat (Ph.Eur.)"
-      ],
-      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-      "atc": "N05AH04",
-      "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-12-15",
-      "totalDaysDrifted": 106,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-20",
-          "previousEnde": "2026-08-31",
-          "newEnde": "2026-12-15",
-          "daysExtended": 106,
-          "bearbeitungsnummer": "LE2026003071"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2025000480",
-      "currentBearbeitungsnummer": "LE2026003072",
-      "produkt": "Quetiapin Heumann retard 400 mg Retardtabletten",
-      "wirkstoffe": [
-        "Quetiapinfumarat (Ph.Eur.)"
-      ],
-      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-      "atc": "N05AH04",
-      "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-12-15",
-      "totalDaysDrifted": 106,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-20",
-          "previousEnde": "2026-08-31",
-          "newEnde": "2026-12-15",
-          "daysExtended": 106,
-          "bearbeitungsnummer": "LE2026003072"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2025000479",
-      "currentBearbeitungsnummer": "LE2026003073",
-      "produkt": "Quetiapin Heumann retard 300 mg Retardtabletten",
-      "wirkstoffe": [
-        "Quetiapinfumarat (Ph.Eur.)"
-      ],
-      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-      "atc": "N05AH04",
-      "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-12-15",
-      "totalDaysDrifted": 106,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-20",
-          "previousEnde": "2026-08-31",
-          "newEnde": "2026-12-15",
-          "daysExtended": 106,
-          "bearbeitungsnummer": "LE2026003073"
         }
       ]
     }
@@ -715,7 +715,7 @@
     },
     {
       "rootId": "LE2026002864",
-      "currentBearbeitungsnummer": "LE2026003007",
+      "currentBearbeitungsnummer": "LE2026003251",
       "produkt": "Visipaque 270",
       "wirkstoffe": [
         "Iodixanol"
@@ -723,7 +723,7 @@
       "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
       "atc": "V08AB09",
       "firstObservedEnde": "2026-09-15",
-      "latestObservedEnde": "2026-12-09",
+      "latestObservedEnde": "2026-10-14",
       "totalDaysDrifted": 85,
       "extensionsCount": 1,
       "chainTruncated": false,
@@ -1062,7 +1062,7 @@
     },
     {
       "rootId": "LE2026001099",
-      "currentBearbeitungsnummer": "LE2026003212",
+      "currentBearbeitungsnummer": "LE2026003250",
       "produkt": "Visipaque 320",
       "wirkstoffe": [
         "Iodixanol"
@@ -1070,11 +1070,19 @@
       "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
       "atc": "V08AB09",
       "firstObservedEnde": "2026-10-15",
-      "latestObservedEnde": "2026-09-16",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-23",
+      "totalDaysDrifted": 7,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-03",
+          "previousEnde": "2026-09-16",
+          "newEnde": "2026-09-23",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026003250"
+        }
+      ]
     },
     {
       "rootId": "LE2026002846",
@@ -1398,7 +1406,7 @@
     },
     {
       "rootId": "LE2026001804",
-      "currentBearbeitungsnummer": "LE2026003085",
+      "currentBearbeitungsnummer": "LE2026003221",
       "produkt": "Sunitinib AL 12,5 mg Hartkapseln",
       "wirkstoffe": [
         "Sunitinib"
@@ -1406,9 +1414,9 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "L01EX01",
       "firstObservedEnde": "2026-08-18",
-      "latestObservedEnde": "2026-09-01",
-      "totalDaysDrifted": 14,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-09-08",
+      "totalDaysDrifted": 21,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1417,6 +1425,13 @@
           "newEnde": "2026-09-01",
           "daysExtended": 14,
           "bearbeitungsnummer": "LE2026003085"
+        },
+        {
+          "snapshotDate": "2026-09-03",
+          "previousEnde": "2026-09-01",
+          "newEnde": "2026-09-08",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026003221"
         }
       ]
     },
@@ -2848,7 +2863,7 @@
     },
     {
       "rootId": "LE2026002594",
-      "currentBearbeitungsnummer": "LE2026002623",
+      "currentBearbeitungsnummer": "LE2026003234",
       "produkt": "Risperidon - 1 A Pharma 6 mg Filmtabletten",
       "wirkstoffe": [
         "Risperidon"
@@ -2856,11 +2871,19 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N05AX08",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-26",
+      "totalDaysDrifted": 56,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-03",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-10-26",
+          "daysExtended": 56,
+          "bearbeitungsnummer": "LE2026003234"
+        }
+      ]
     },
     {
       "rootId": "LE2025003865",
@@ -3210,7 +3233,7 @@
     },
     {
       "rootId": "LE2026001628",
-      "currentBearbeitungsnummer": "LE2026003118",
+      "currentBearbeitungsnummer": "LE2026003238",
       "produkt": "Triamhexal 10",
       "wirkstoffe": [
         "Triamcinolonacetonid"
@@ -3218,9 +3241,9 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "H02AB08",
       "firstObservedEnde": "2026-08-19",
-      "latestObservedEnde": "2026-09-08",
-      "totalDaysDrifted": 20,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-09-30",
+      "totalDaysDrifted": 42,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -3229,6 +3252,13 @@
           "newEnde": "2026-09-08",
           "daysExtended": 20,
           "bearbeitungsnummer": "LE2026003118"
+        },
+        {
+          "snapshotDate": "2026-09-03",
+          "previousEnde": "2026-09-08",
+          "newEnde": "2026-09-30",
+          "daysExtended": 22,
+          "bearbeitungsnummer": "LE2026003238"
         }
       ]
     },
@@ -3266,7 +3296,7 @@
     },
     {
       "rootId": "LE2026001629",
-      "currentBearbeitungsnummer": "LE2026002572",
+      "currentBearbeitungsnummer": "LE2026003236",
       "produkt": "Triamhexal 40",
       "wirkstoffe": [
         "Triamcinolonacetonid"
@@ -3274,11 +3304,19 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "H02AB08",
       "firstObservedEnde": "2026-09-02",
-      "latestObservedEnde": "2026-09-02",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-30",
+      "totalDaysDrifted": 28,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-03",
+          "previousEnde": "2026-09-02",
+          "newEnde": "2026-09-30",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026003236"
+        }
+      ]
     },
     {
       "rootId": "LE2026001150",
@@ -3434,7 +3472,7 @@
     },
     {
       "rootId": "LE2025004705",
-      "currentBearbeitungsnummer": "LE2026002548",
+      "currentBearbeitungsnummer": "LE2026003249",
       "produkt": "Nepexto 50 mg Injektionslösung in einer Fertigspritze",
       "wirkstoffe": [
         "Etanercept"
@@ -3442,11 +3480,19 @@
       "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
       "atc": "L04AB01",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-25",
+      "totalDaysDrifted": 25,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-03",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-09-25",
+          "daysExtended": 25,
+          "bearbeitungsnummer": "LE2026003249"
+        }
+      ]
     },
     {
       "rootId": "LE2025003990",
@@ -3811,7 +3857,7 @@
     },
     {
       "rootId": "LE2026002477",
-      "currentBearbeitungsnummer": "LE2026002477",
+      "currentBearbeitungsnummer": "LE2026003233",
       "produkt": "MetoHEXAL Succ 142,5 mg Retardtabletten",
       "wirkstoffe": [
         "Metoprololsuccinat (Ph.Eur.)"
@@ -3819,11 +3865,19 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "C07AB02",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 91,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-03",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-11-30",
+          "daysExtended": 91,
+          "bearbeitungsnummer": "LE2026003233"
+        }
+      ]
     },
     {
       "rootId": "LE2025004249",
@@ -5403,7 +5457,7 @@
     },
     {
       "rootId": "LE2026001611",
-      "currentBearbeitungsnummer": "LE2026003043",
+      "currentBearbeitungsnummer": "LE2026003239",
       "produkt": "Abirateron HEXAL 500 mg Filmtabletten",
       "wirkstoffe": [
         "Abirateronacetat"
@@ -5411,9 +5465,9 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "L02BX03",
       "firstObservedEnde": "2026-08-07",
-      "latestObservedEnde": "2026-09-04",
-      "totalDaysDrifted": 28,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-09-18",
+      "totalDaysDrifted": 42,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -5429,6 +5483,13 @@
           "newEnde": "2026-09-04",
           "daysExtended": 14,
           "bearbeitungsnummer": "LE2026003043"
+        },
+        {
+          "snapshotDate": "2026-09-03",
+          "previousEnde": "2026-09-04",
+          "newEnde": "2026-09-18",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003239"
         }
       ]
     },
@@ -6741,7 +6802,7 @@
     },
     {
       "rootId": "LE2026001790",
-      "currentBearbeitungsnummer": "LE2026001790",
+      "currentBearbeitungsnummer": "LE2026003223",
       "produkt": "ARA-cell 100 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
       "wirkstoffe": [
         "Cytarabin"
@@ -6749,15 +6810,23 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "L01BC01",
       "firstObservedEnde": "2027-01-11",
-      "latestObservedEnde": "2027-01-11",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 354,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-03",
+          "previousEnde": "2027-01-11",
+          "newEnde": "2027-12-31",
+          "daysExtended": 354,
+          "bearbeitungsnummer": "LE2026003223"
+        }
+      ]
     },
     {
       "rootId": "LE2026001148",
-      "currentBearbeitungsnummer": "LE2026001789",
+      "currentBearbeitungsnummer": "LE2026003224",
       "produkt": "ARA-cell 1000mg Infusionslösung",
       "wirkstoffe": [
         "Cytarabin"
@@ -6765,15 +6834,23 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "L01BC01",
       "firstObservedEnde": "2027-01-11",
-      "latestObservedEnde": "2027-01-11",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 354,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-03",
+          "previousEnde": "2027-01-11",
+          "newEnde": "2027-12-31",
+          "daysExtended": 354,
+          "bearbeitungsnummer": "LE2026003224"
+        }
+      ]
     },
     {
       "rootId": "LE2026001149",
-      "currentBearbeitungsnummer": "LE2026001788",
+      "currentBearbeitungsnummer": "LE2026003225",
       "produkt": "ARA-cell 4000mg Infusionslösung",
       "wirkstoffe": [
         "Cytarabin"
@@ -6781,11 +6858,19 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "L01BC01",
       "firstObservedEnde": "2027-01-11",
-      "latestObservedEnde": "2027-01-11",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 354,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-03",
+          "previousEnde": "2027-01-11",
+          "newEnde": "2027-12-31",
+          "daysExtended": 354,
+          "bearbeitungsnummer": "LE2026003225"
+        }
+      ]
     },
     {
       "rootId": "LE2026001778",
@@ -7858,7 +7943,7 @@
     },
     {
       "rootId": "LE2026000089",
-      "currentBearbeitungsnummer": "LE2026001203",
+      "currentBearbeitungsnummer": "LE2026003241",
       "produkt": "Prepidil Gel",
       "wirkstoffe": [
         "Dinoproston"
@@ -7866,11 +7951,19 @@
       "zulassungsinhaber": "Pfizer Pharma GmbH",
       "atc": "G02AD02",
       "firstObservedEnde": "2026-10-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-02-28",
+      "totalDaysDrifted": 120,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-03",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2027-02-28",
+          "daysExtended": 120,
+          "bearbeitungsnummer": "LE2026003241"
+        }
+      ]
     },
     {
       "rootId": "LE2024001139",
@@ -8357,7 +8450,7 @@
     },
     {
       "rootId": "LE2026000150",
-      "currentBearbeitungsnummer": "LE2026000552",
+      "currentBearbeitungsnummer": "LE2026003226",
       "produkt": "Levetiracetam Holsten 750 mg Filmtabletten",
       "wirkstoffe": [
         "Levetiracetam"
@@ -10825,7 +10918,7 @@
     },
     {
       "rootId": "LE2026003153",
-      "currentBearbeitungsnummer": "LE2026003153",
+      "currentBearbeitungsnummer": "LE2026003231",
       "produkt": "Levetiracetam Holsten 1000 mg Filmtabletten",
       "wirkstoffe": [
         "Levetiracetam"
@@ -10980,6 +11073,54 @@
       "atc": "H03AA01",
       "firstObservedEnde": "2026-09-30",
       "latestObservedEnde": "2026-09-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003246",
+      "currentBearbeitungsnummer": "LE2026003246",
+      "produkt": "Noxafil",
+      "wirkstoffe": [
+        "Posaconazol"
+      ],
+      "zulassungsinhaber": "Merck Sharp & Dohme B.V.",
+      "atc": "J02AC04",
+      "firstObservedEnde": "2026-10-30",
+      "latestObservedEnde": "2026-10-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003240",
+      "currentBearbeitungsnummer": "LE2026003240",
+      "produkt": "Cefuroxim - 1 A Pharma 125 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+      "wirkstoffe": [
+        "Cefuroximaxetil"
+      ],
+      "zulassungsinhaber": "1 A Pharma GmbH",
+      "atc": "J01DC02",
+      "firstObservedEnde": "2026-11-11",
+      "latestObservedEnde": "2026-11-11",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003222",
+      "currentBearbeitungsnummer": "LE2026003222",
+      "produkt": "ARA-cell 40mg Injektion",
+      "wirkstoffe": [
+        "Cytarabin"
+      ],
+      "zulassungsinhaber": "STADAPHARM GmbH",
+      "atc": "L01BC01",
+      "firstObservedEnde": "2027-12-31",
+      "latestObservedEnde": "2027-12-31",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
