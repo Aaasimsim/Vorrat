@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-03T07:37:36.772Z",
-  "snapshotCount": 34,
+  "generatedAt": "2026-09-04T07:41:44.821Z",
+  "snapshotCount": 35,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-03",
+  "lastSnapshot": "2026-09-04",
   "summary": {
-    "totalShortagesTracked": 584,
-    "driftedCount": 134,
+    "totalShortagesTracked": 590,
+    "driftedCount": 138,
     "driftRate": {
-      "drifted": 134,
-      "of": 584,
-      "percentage": 22.9
+      "drifted": 138,
+      "of": 590,
+      "percentage": 23.4
     },
-    "meanDaysDrifted": 78.7,
-    "medianDaysDrifted": 48.5,
-    "totalExtensionEvents": 146
+    "meanDaysDrifted": 79.5,
+    "medianDaysDrifted": 49.5,
+    "totalExtensionEvents": 151
   },
   "leaderboard": [
     {
@@ -416,6 +416,86 @@
       ]
     },
     {
+      "rootId": "LE2026000745",
+      "currentBearbeitungsnummer": "LE2026003258",
+      "produkt": "Aminoven infant 10%",
+      "wirkstoffe": [
+        "Acetylcystein",
+        "Alanin",
+        "Arginin",
+        "Glycin",
+        "Histidin",
+        "Isoleucin",
+        "L-Äpfelsäure",
+        "Leucin",
+        "Lysinacetat",
+        "Methionin",
+        "N-Acetyltyrosin (Ph.Eur.)",
+        "Phenylalanin",
+        "Prolin",
+        "Serin",
+        "Taurin",
+        "Threonin",
+        "Tryptophan",
+        "Valin"
+      ],
+      "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+      "atc": "B05BA",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 153,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-12-31",
+          "daysExtended": 153,
+          "bearbeitungsnummer": "LE2026003258"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2026001590",
+      "currentBearbeitungsnummer": "LE2026003259",
+      "produkt": "Aminosteril N-Hepa 8%",
+      "wirkstoffe": [
+        "Acetylcystein",
+        "Alanin",
+        "Arginin",
+        "Essigsäure 99%",
+        "Glycin",
+        "Histidin",
+        "Isoleucin",
+        "Leucin",
+        "Lysinacetat",
+        "Methionin",
+        "Phenylalanin",
+        "Prolin",
+        "Serin",
+        "Threonin",
+        "Tryptophan",
+        "Valin"
+      ],
+      "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+      "atc": "B05BA01",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 153,
+      "extensionsCount": 1,
+      "chainTruncated": false,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-12-31",
+          "daysExtended": 153,
+          "bearbeitungsnummer": "LE2026003259"
+        }
+      ]
+    },
+    {
       "rootId": "LE2025000776",
       "currentBearbeitungsnummer": "LE2026002903",
       "produkt": "Galantamin-ratiopharm 16 mg Hartkapseln, retardiert",
@@ -460,54 +540,6 @@
           "newEnde": "2027-02-28",
           "daysExtended": 120,
           "bearbeitungsnummer": "LE2026003241"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2024001107",
-      "currentBearbeitungsnummer": "LE2026002909",
-      "produkt": "Buprenorphin-ratiopharm 70 Mikrogramm/h Transdermales Pflaster",
-      "wirkstoffe": [
-        "Buprenorphin"
-      ],
-      "zulassungsinhaber": "ratiopharm GmbH",
-      "atc": "N02AE01",
-      "firstObservedEnde": "2026-08-04",
-      "latestObservedEnde": "2026-11-24",
-      "totalDaysDrifted": 112,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-05",
-          "previousEnde": "2026-08-04",
-          "newEnde": "2026-11-24",
-          "daysExtended": 112,
-          "bearbeitungsnummer": "LE2026002909"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2025000478",
-      "currentBearbeitungsnummer": "LE2026003068",
-      "produkt": "Quetiapin Heumann retard 200 mg Retardtabletten",
-      "wirkstoffe": [
-        "Quetiapinfumarat (Ph.Eur.)"
-      ],
-      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
-      "atc": "N05AH04",
-      "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-12-15",
-      "totalDaysDrifted": 106,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-20",
-          "previousEnde": "2026-08-31",
-          "newEnde": "2026-12-15",
-          "daysExtended": 106,
-          "bearbeitungsnummer": "LE2026003068"
         }
       ]
     }
@@ -3624,7 +3656,7 @@
     },
     {
       "rootId": "LE2026002524",
-      "currentBearbeitungsnummer": "LE2026003133",
+      "currentBearbeitungsnummer": "LE2026003264",
       "produkt": "ZYPADHERA 210 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(483mg+3ml)",
       "wirkstoffe": [
         "Olanzapinembonat-Monohydrat"
@@ -3632,7 +3664,7 @@
       "zulassungsinhaber": "Cheplapharm Registration GmbH",
       "atc": "N05AH03",
       "firstObservedEnde": "2026-11-10",
-      "latestObservedEnde": "2026-12-09",
+      "latestObservedEnde": "2026-12-02",
       "totalDaysDrifted": 42,
       "extensionsCount": 1,
       "chainTruncated": false,
@@ -4404,7 +4436,7 @@
     },
     {
       "rootId": "LE2026002384",
-      "currentBearbeitungsnummer": "LE2026002966",
+      "currentBearbeitungsnummer": "LE2026003265",
       "produkt": "Uromitexan Multidose",
       "wirkstoffe": [
         "Mesna"
@@ -4412,9 +4444,9 @@
       "zulassungsinhaber": "Baxter Deutschland GmbH",
       "atc": "V03AF01",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-09-07",
-      "totalDaysDrifted": 38,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -4423,6 +4455,13 @@
           "newEnde": "2026-09-07",
           "daysExtended": 38,
           "bearbeitungsnummer": "LE2026002966"
+        },
+        {
+          "snapshotDate": "2026-09-04",
+          "previousEnde": "2026-09-07",
+          "newEnde": "2026-10-31",
+          "daysExtended": 54,
+          "bearbeitungsnummer": "LE2026003265"
         }
       ]
     },
@@ -5599,7 +5638,7 @@
     },
     {
       "rootId": "LE2026000846",
-      "currentBearbeitungsnummer": "LE2026002142",
+      "currentBearbeitungsnummer": "LE2026003262",
       "produkt": "Busulfan-ratiopharm 6 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
       "wirkstoffe": [
         "Busulfan"
@@ -5607,15 +5646,23 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "L01AB01",
       "firstObservedEnde": "2026-08-15",
-      "latestObservedEnde": "2026-08-15",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-21",
+      "totalDaysDrifted": 67,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-04",
+          "previousEnde": "2026-08-15",
+          "newEnde": "2026-10-21",
+          "daysExtended": 67,
+          "bearbeitungsnummer": "LE2026003262"
+        }
+      ]
     },
     {
       "rootId": "LE2026002141",
-      "currentBearbeitungsnummer": "LE2026003103",
+      "currentBearbeitungsnummer": "LE2026003253",
       "produkt": "Cabaseril 2 mg",
       "wirkstoffe": [
         "Cabergolin"
@@ -5639,7 +5686,7 @@
     },
     {
       "rootId": "LE2026002140",
-      "currentBearbeitungsnummer": "LE2026003100",
+      "currentBearbeitungsnummer": "LE2026003254",
       "produkt": "Cabaseril 1 mg",
       "wirkstoffe": [
         "Cabergolin"
@@ -5798,7 +5845,7 @@
     },
     {
       "rootId": "LE2026000745",
-      "currentBearbeitungsnummer": "LE2026002114",
+      "currentBearbeitungsnummer": "LE2026003258",
       "produkt": "Aminoven infant 10%",
       "wirkstoffe": [
         "Acetylcystein",
@@ -5823,11 +5870,19 @@
       "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
       "atc": "B05BA",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 153,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-12-31",
+          "daysExtended": 153,
+          "bearbeitungsnummer": "LE2026003258"
+        }
+      ]
     },
     {
       "rootId": "LE2026001589",
@@ -7410,7 +7465,7 @@
     },
     {
       "rootId": "LE2026001590",
-      "currentBearbeitungsnummer": "LE2026001590",
+      "currentBearbeitungsnummer": "LE2026003259",
       "produkt": "Aminosteril N-Hepa 8%",
       "wirkstoffe": [
         "Acetylcystein",
@@ -7433,11 +7488,19 @@
       "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
       "atc": "B05BA01",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-07-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 153,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-04",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-12-31",
+          "daysExtended": 153,
+          "bearbeitungsnummer": "LE2026003259"
+        }
+      ]
     },
     {
       "rootId": "LE2025004146",
@@ -10789,7 +10852,7 @@
     },
     {
       "rootId": "LE2026003169",
-      "currentBearbeitungsnummer": "LE2026003169",
+      "currentBearbeitungsnummer": "LE2026003267",
       "produkt": "Ureotop + VAS Creme",
       "wirkstoffe": [
         "Harnstoff",
@@ -10798,11 +10861,19 @@
       "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
       "atc": "D02AE",
       "firstObservedEnde": "2026-09-20",
-      "latestObservedEnde": "2026-09-20",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-27",
+      "totalDaysDrifted": 7,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-04",
+          "previousEnde": "2026-09-20",
+          "newEnde": "2026-09-27",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026003267"
+        }
+      ]
     },
     {
       "rootId": "LE2026003168",
@@ -11121,6 +11192,102 @@
       "atc": "L01BC01",
       "firstObservedEnde": "2027-12-31",
       "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003266",
+      "currentBearbeitungsnummer": "LE2026003266",
+      "produkt": "Ixoten",
+      "wirkstoffe": [
+        "Trofosfamid"
+      ],
+      "zulassungsinhaber": "Baxter Deutschland GmbH",
+      "atc": "L01AA07",
+      "firstObservedEnde": "2026-11-20",
+      "latestObservedEnde": "2026-11-20",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003263",
+      "currentBearbeitungsnummer": "LE2026003263",
+      "produkt": "ZYPREXA",
+      "wirkstoffe": [
+        "Olanzapin"
+      ],
+      "zulassungsinhaber": "Cheplapharm Registration GmbH",
+      "atc": "N05AH03",
+      "firstObservedEnde": "2026-09-29",
+      "latestObservedEnde": "2026-09-29",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003261",
+      "currentBearbeitungsnummer": "LE2026003261",
+      "produkt": "Buprenorphin AL 30 Mikrogramm/Stunde transdermales Pflaster",
+      "wirkstoffe": [
+        "Buprenorphin"
+      ],
+      "zulassungsinhaber": "ALIUD PHARMA GmbH",
+      "atc": "N02AE01",
+      "firstObservedEnde": "2026-09-28",
+      "latestObservedEnde": "2026-09-28",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003260",
+      "currentBearbeitungsnummer": "LE2026003260",
+      "produkt": "Buprenorphin AL 20 Mikrogramm/Stunde transdermales Pflaster",
+      "wirkstoffe": [
+        "Buprenorphin"
+      ],
+      "zulassungsinhaber": "ALIUD PHARMA GmbH",
+      "atc": "N02AE01",
+      "firstObservedEnde": "2026-09-28",
+      "latestObservedEnde": "2026-09-28",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003256",
+      "currentBearbeitungsnummer": "LE2026003256",
+      "produkt": "Tacrolimus AL 5 mg Hartkapseln",
+      "wirkstoffe": [
+        "Tacrolimus"
+      ],
+      "zulassungsinhaber": "ALIUD PHARMA GmbH",
+      "atc": "L04AD02",
+      "firstObservedEnde": "2026-09-29",
+      "latestObservedEnde": "2026-09-29",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003255",
+      "currentBearbeitungsnummer": "LE2026003255",
+      "produkt": "Cilostazol AL 50 mg Tabletten",
+      "wirkstoffe": [
+        "Cilostazol"
+      ],
+      "zulassungsinhaber": "ALIUD PHARMA GmbH",
+      "atc": "B01AC23",
+      "firstObservedEnde": "2026-09-30",
+      "latestObservedEnde": "2026-09-30",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
