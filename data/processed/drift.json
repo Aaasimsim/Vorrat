@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-04T07:41:44.821Z",
-  "snapshotCount": 35,
+  "generatedAt": "2026-09-05T07:17:40.097Z",
+  "snapshotCount": 36,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-04",
+  "lastSnapshot": "2026-09-05",
   "summary": {
-    "totalShortagesTracked": 590,
-    "driftedCount": 138,
+    "totalShortagesTracked": 592,
+    "driftedCount": 139,
     "driftRate": {
-      "drifted": 138,
-      "of": 590,
-      "percentage": 23.4
+      "drifted": 139,
+      "of": 592,
+      "percentage": 23.5
     },
-    "meanDaysDrifted": 79.5,
-    "medianDaysDrifted": 49.5,
-    "totalExtensionEvents": 151
+    "meanDaysDrifted": 79.4,
+    "medianDaysDrifted": 50,
+    "totalExtensionEvents": 154
   },
   "leaderboard": [
     {
@@ -2638,7 +2638,7 @@
     },
     {
       "rootId": "LE2026002040",
-      "currentBearbeitungsnummer": "LE2026002675",
+      "currentBearbeitungsnummer": "LE2026003273",
       "produkt": "CIL 200 mg",
       "wirkstoffe": [
         "Fenofibrat"
@@ -2646,11 +2646,19 @@
       "zulassungsinhaber": "Winthrop Arzneimittel GmbH",
       "atc": "C10AB05",
       "firstObservedEnde": "2026-09-03",
-      "latestObservedEnde": "2026-09-03",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-09-21",
+      "totalDaysDrifted": 18,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-05",
+          "previousEnde": "2026-09-03",
+          "newEnde": "2026-09-21",
+          "daysExtended": 18,
+          "bearbeitungsnummer": "LE2026003273"
+        }
+      ]
     },
     {
       "rootId": "LE2026001237",
@@ -5750,7 +5758,7 @@
     },
     {
       "rootId": "LE2026000700",
-      "currentBearbeitungsnummer": "LE2026003020",
+      "currentBearbeitungsnummer": "LE2026003276",
       "produkt": "Telmisartan Micro Labs 20 mg Tabletten",
       "wirkstoffe": [
         "Telmisartan"
@@ -5758,9 +5766,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "C09CA07",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-09-04",
-      "totalDaysDrifted": 21,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-09-22",
+      "totalDaysDrifted": 39,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -5769,6 +5777,13 @@
           "newEnde": "2026-09-04",
           "daysExtended": 21,
           "bearbeitungsnummer": "LE2026003020"
+        },
+        {
+          "snapshotDate": "2026-09-05",
+          "previousEnde": "2026-09-04",
+          "newEnde": "2026-09-22",
+          "daysExtended": 18,
+          "bearbeitungsnummer": "LE2026003276"
         }
       ]
     },
@@ -7057,7 +7072,7 @@
     },
     {
       "rootId": "LE2026000542",
-      "currentBearbeitungsnummer": "LE2026002971",
+      "currentBearbeitungsnummer": "LE2026003274",
       "produkt": "Dapson Zentiva 50 mg Tabletten",
       "wirkstoffe": [
         "Dapson"
@@ -7065,9 +7080,9 @@
       "zulassungsinhaber": "Zentiva Pharma GmbH",
       "atc": "D10AX05, J04BA02",
       "firstObservedEnde": "2026-08-07",
-      "latestObservedEnde": "2026-09-15",
-      "totalDaysDrifted": 39,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-15",
+      "totalDaysDrifted": 69,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -7076,6 +7091,13 @@
           "newEnde": "2026-09-15",
           "daysExtended": 39,
           "bearbeitungsnummer": "LE2026002971"
+        },
+        {
+          "snapshotDate": "2026-09-05",
+          "previousEnde": "2026-09-15",
+          "newEnde": "2026-10-15",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003274"
         }
       ]
     },
@@ -11288,6 +11310,38 @@
       "atc": "B01AC23",
       "firstObservedEnde": "2026-09-30",
       "latestObservedEnde": "2026-09-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003275",
+      "currentBearbeitungsnummer": "LE2026003275",
+      "produkt": "Fingolimod Zentiva 0,5 mg Hartkapseln",
+      "wirkstoffe": [
+        "Fingolimodhydrochlorid"
+      ],
+      "zulassungsinhaber": "Zentiva Pharma GmbH",
+      "atc": "L04AE01",
+      "firstObservedEnde": "2026-11-04",
+      "latestObservedEnde": "2026-11-04",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003268",
+      "currentBearbeitungsnummer": "LE2026003268",
+      "produkt": "Nilotinib Viatris 50 mg Hartkapseln",
+      "wirkstoffe": [
+        "Nilotinibhydrochlorid-Dihydrat"
+      ],
+      "zulassungsinhaber": "Viatris Germany GmbH",
+      "atc": "L01EA03",
+      "firstObservedEnde": "2026-10-05",
+      "latestObservedEnde": "2026-10-05",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
