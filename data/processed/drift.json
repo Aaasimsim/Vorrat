@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-09T07:45:19.170Z",
-  "snapshotCount": 40,
+  "generatedAt": "2026-09-10T07:45:58.156Z",
+  "snapshotCount": 41,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-09",
+  "lastSnapshot": "2026-09-10",
   "summary": {
-    "totalShortagesTracked": 594,
-    "driftedCount": 140,
+    "totalShortagesTracked": 599,
+    "driftedCount": 141,
     "driftRate": {
-      "drifted": 140,
-      "of": 594,
-      "percentage": 23.6
+      "drifted": 141,
+      "of": 599,
+      "percentage": 23.5
     },
-    "meanDaysDrifted": 80.2,
-    "medianDaysDrifted": 52,
-    "totalExtensionEvents": 155
+    "meanDaysDrifted": 80.1,
+    "medianDaysDrifted": 54,
+    "totalExtensionEvents": 158
   },
   "leaderboard": [
     {
@@ -3632,7 +3632,7 @@
     },
     {
       "rootId": "LE2026002528",
-      "currentBearbeitungsnummer": "LE2026002528",
+      "currentBearbeitungsnummer": "LE2026003305",
       "produkt": "Cephalex-CT 1000mg Filmtabletten",
       "wirkstoffe": [
         "Cefalexin-Monohydrat"
@@ -5440,7 +5440,7 @@
     },
     {
       "rootId": "LE2026002019",
-      "currentBearbeitungsnummer": "LE2026002192",
+      "currentBearbeitungsnummer": "LE2026003292",
       "produkt": "Dexa-inject mibe 4 mg/ml",
       "wirkstoffe": [
         "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
@@ -6496,7 +6496,7 @@
     },
     {
       "rootId": "LE2025004313",
-      "currentBearbeitungsnummer": "LE2026003134",
+      "currentBearbeitungsnummer": "LE2026003301",
       "produkt": "Everolimus-ratiopharm 2,5 mg Tabletten",
       "wirkstoffe": [
         "Everolimus"
@@ -6504,9 +6504,9 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "L01EG02",
       "firstObservedEnde": "2026-08-05",
-      "latestObservedEnde": "2026-09-22",
-      "totalDaysDrifted": 48,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-01",
+      "totalDaysDrifted": 57,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -6515,6 +6515,13 @@
           "newEnde": "2026-09-22",
           "daysExtended": 48,
           "bearbeitungsnummer": "LE2026003134"
+        },
+        {
+          "snapshotDate": "2026-09-10",
+          "previousEnde": "2026-09-22",
+          "newEnde": "2026-10-01",
+          "daysExtended": 9,
+          "bearbeitungsnummer": "LE2026003301"
         }
       ]
     },
@@ -7279,7 +7286,7 @@
     },
     {
       "rootId": "LE2025000777",
-      "currentBearbeitungsnummer": "LE2026002904",
+      "currentBearbeitungsnummer": "LE2026003302",
       "produkt": "Galantamin-ratiopharm 24 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Galantaminhydrobromid"
@@ -7287,9 +7294,9 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "N06DA04",
       "firstObservedEnde": "2026-07-24",
-      "latestObservedEnde": "2026-09-23",
-      "totalDaysDrifted": 61,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-21",
+      "totalDaysDrifted": 89,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -7298,6 +7305,13 @@
           "newEnde": "2026-09-23",
           "daysExtended": 61,
           "bearbeitungsnummer": "LE2026002904"
+        },
+        {
+          "snapshotDate": "2026-09-10",
+          "previousEnde": "2026-09-23",
+          "newEnde": "2026-10-21",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026003302"
         }
       ]
     },
@@ -7463,7 +7477,7 @@
     },
     {
       "rootId": "LE2026001594",
-      "currentBearbeitungsnummer": "LE2026002883",
+      "currentBearbeitungsnummer": "LE2026003296",
       "produkt": "Neosynephrin-POS 10%",
       "wirkstoffe": [
         "Phenylephrinhydrochlorid"
@@ -8196,7 +8210,7 @@
     },
     {
       "rootId": "LE2026000958",
-      "currentBearbeitungsnummer": "LE2026000958",
+      "currentBearbeitungsnummer": "LE2026003300",
       "produkt": "Clomifen-ratiopharm 50mg Tabletten",
       "wirkstoffe": [
         "Clomifencitrat"
@@ -8204,11 +8218,19 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "G03GB",
       "firstObservedEnde": "2026-09-15",
-      "latestObservedEnde": "2026-09-15",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-13",
+      "totalDaysDrifted": 28,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-10",
+          "previousEnde": "2026-09-15",
+          "newEnde": "2026-10-13",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026003300"
+        }
+      ]
     },
     {
       "rootId": "LE2026000226",
@@ -8429,7 +8451,7 @@
     },
     {
       "rootId": "LE2026000650",
-      "currentBearbeitungsnummer": "LE2026000650",
+      "currentBearbeitungsnummer": "LE2026003306",
       "produkt": "Aciclovir AbZ Lippenherpescreme",
       "wirkstoffe": [
         "Aciclovir"
@@ -11385,6 +11407,87 @@
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003298",
+      "currentBearbeitungsnummer": "LE2026003298",
+      "produkt": "Isotretinoin-ratiopharm 20 mg Weichkapseln",
+      "wirkstoffe": [
+        "Isotretinoin"
+      ],
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "D10BA01",
+      "firstObservedEnde": "2026-11-06",
+      "latestObservedEnde": "2026-11-06",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003297",
+      "currentBearbeitungsnummer": "LE2026003297",
+      "produkt": "Isotretinoin-ratiopharm 10 mg Weichkapseln",
+      "wirkstoffe": [
+        "Isotretinoin"
+      ],
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "D10BA01",
+      "firstObservedEnde": "2026-10-29",
+      "latestObservedEnde": "2026-10-29",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003295",
+      "currentBearbeitungsnummer": "LE2026003295",
+      "produkt": "Naproxen 500 - 1 A Pharma",
+      "wirkstoffe": [
+        "Naproxen"
+      ],
+      "zulassungsinhaber": "1 A Pharma GmbH",
+      "atc": "M01AE02",
+      "firstObservedEnde": "2026-10-06",
+      "latestObservedEnde": "2026-10-06",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003294",
+      "currentBearbeitungsnummer": "LE2026003294",
+      "produkt": "EMLA Pflaster",
+      "wirkstoffe": [
+        "Lidocain",
+        "Prilocain"
+      ],
+      "zulassungsinhaber": "Aspen Pharma Trading Limited",
+      "atc": "N01BB52, N01BB54",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003293",
+      "currentBearbeitungsnummer": "LE2026003293",
+      "produkt": "Dexa-inject mibe 10 mg/ml",
+      "wirkstoffe": [
+        "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "atc": "H02AB02",
+      "firstObservedEnde": "2027-01-29",
+      "latestObservedEnde": "2027-01-29",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
       "extensionHistory": []
     }
   ]
