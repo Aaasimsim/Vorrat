@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-10T07:45:58.156Z",
-  "snapshotCount": 41,
+  "generatedAt": "2026-09-11T07:40:36.269Z",
+  "snapshotCount": 42,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-10",
+  "lastSnapshot": "2026-09-11",
   "summary": {
     "totalShortagesTracked": 599,
-    "driftedCount": 141,
+    "driftedCount": 143,
     "driftRate": {
-      "drifted": 141,
+      "drifted": 143,
       "of": 599,
-      "percentage": 23.5
+      "percentage": 23.9
     },
-    "meanDaysDrifted": 80.1,
+    "meanDaysDrifted": 79.9,
     "medianDaysDrifted": 54,
-    "totalExtensionEvents": 158
+    "totalExtensionEvents": 160
   },
   "leaderboard": [
     {
@@ -3640,11 +3640,19 @@
       "zulassungsinhaber": "AbZ-Pharma GmbH",
       "atc": "J01DB01",
       "firstObservedEnde": "2026-09-09",
-      "latestObservedEnde": "2026-09-09",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-21",
+      "totalDaysDrifted": 42,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-11",
+          "previousEnde": "2026-09-09",
+          "newEnde": "2026-10-21",
+          "daysExtended": 42,
+          "bearbeitungsnummer": "LE2026003305"
+        }
+      ]
     },
     {
       "rootId": "LE2026002527",
@@ -7914,7 +7922,7 @@
     },
     {
       "rootId": "LE2025003633",
-      "currentBearbeitungsnummer": "LE2026003183",
+      "currentBearbeitungsnummer": "LE2026003314",
       "produkt": "ATORVASTATIN BASICS 80 mg Filmtabletten",
       "wirkstoffe": [
         "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)"
@@ -8459,11 +8467,19 @@
       "zulassungsinhaber": "AbZ-Pharma GmbH",
       "atc": "D06BB03",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-30",
+      "totalDaysDrifted": 91,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-11",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-12-30",
+          "daysExtended": 91,
+          "bearbeitungsnummer": "LE2026003306"
+        }
+      ]
     },
     {
       "rootId": "LE2026000649",
