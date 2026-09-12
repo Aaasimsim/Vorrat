@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-11T07:40:36.269Z",
-  "snapshotCount": 42,
+  "generatedAt": "2026-09-12T07:34:35.015Z",
+  "snapshotCount": 43,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-11",
+  "lastSnapshot": "2026-09-12",
   "summary": {
     "totalShortagesTracked": 599,
     "driftedCount": 143,
@@ -547,7 +547,7 @@
   "records": [
     {
       "rootId": "LE2026002491",
-      "currentBearbeitungsnummer": "LE2026003111",
+      "currentBearbeitungsnummer": "LE2026003319",
       "produkt": "Escitalopram-Micro Labs 5 mg Filmtabletten",
       "wirkstoffe": [
         "Escitalopramoxalat"
@@ -571,7 +571,7 @@
     },
     {
       "rootId": "LE2026002493",
-      "currentBearbeitungsnummer": "LE2026003112",
+      "currentBearbeitungsnummer": "LE2026003318",
       "produkt": "Escitalopram-Micro Labs 10 mg Filmtabletten",
       "wirkstoffe": [
         "Escitalopramoxalat"
@@ -595,7 +595,7 @@
     },
     {
       "rootId": "LE2026001486",
-      "currentBearbeitungsnummer": "LE2026003113",
+      "currentBearbeitungsnummer": "LE2026003317",
       "produkt": "Escitalopram-Micro Labs 20 mg Filmtabletten",
       "wirkstoffe": [
         "Escitalopramoxalat"
@@ -619,7 +619,7 @@
     },
     {
       "rootId": "LE2026001178",
-      "currentBearbeitungsnummer": "LE2026003110",
+      "currentBearbeitungsnummer": "LE2026003320",
       "produkt": "Gabapentin-Micro Labs 800 mg Filmtabletten",
       "wirkstoffe": [
         "Gabapentin"
@@ -1438,7 +1438,7 @@
     },
     {
       "rootId": "LE2026001804",
-      "currentBearbeitungsnummer": "LE2026003221",
+      "currentBearbeitungsnummer": "LE2026003315",
       "produkt": "Sunitinib AL 12,5 mg Hartkapseln",
       "wirkstoffe": [
         "Sunitinib"
@@ -1677,7 +1677,7 @@
     },
     {
       "rootId": "LE2026002227",
-      "currentBearbeitungsnummer": "LE2026003172",
+      "currentBearbeitungsnummer": "LE2026003327",
       "produkt": "Aknenormin 20 mg Weichkapseln",
       "wirkstoffe": [
         "Isotretinoin"
@@ -1797,7 +1797,7 @@
     },
     {
       "rootId": "LE2026002452",
-      "currentBearbeitungsnummer": "LE2026003014",
+      "currentBearbeitungsnummer": "LE2026003321",
       "produkt": "Pantoprazol-Micro Labs 40 mg magensaftresistente Tabletten",
       "wirkstoffe": [
         "Pantoprazol-Natrium-Sesquihydrat"
@@ -10140,7 +10140,7 @@
     },
     {
       "rootId": "LE2026002893",
-      "currentBearbeitungsnummer": "LE2026002893",
+      "currentBearbeitungsnummer": "LE2026003333",
       "produkt": "Xylocain Gel 2%",
       "wirkstoffe": [
         "Lidocainhydrochlorid-Monohydrat"
@@ -10542,7 +10542,7 @@
     },
     {
       "rootId": "LE2026003078",
-      "currentBearbeitungsnummer": "LE2026003078",
+      "currentBearbeitungsnummer": "LE2026003324",
       "produkt": "Braftovi 50 mg Hartkapseln",
       "wirkstoffe": [
         "Encorafenib"
@@ -10920,7 +10920,7 @@
     },
     {
       "rootId": "LE2026003169",
-      "currentBearbeitungsnummer": "LE2026003267",
+      "currentBearbeitungsnummer": "LE2026003330",
       "produkt": "Ureotop + VAS Creme",
       "wirkstoffe": [
         "Harnstoff",
@@ -11041,7 +11041,7 @@
     },
     {
       "rootId": "LE2026003156",
-      "currentBearbeitungsnummer": "LE2026003156",
+      "currentBearbeitungsnummer": "LE2026003316",
       "produkt": "Moxifloxacin Micro Labs 5 mg/ml Augentropfen, Lösung",
       "wirkstoffe": [
         "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))"
