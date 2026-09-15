@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-14T08:26:45.365Z",
-  "snapshotCount": 45,
+  "generatedAt": "2026-09-15T08:18:02.504Z",
+  "snapshotCount": 46,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-14",
+  "lastSnapshot": "2026-09-15",
   "summary": {
     "totalShortagesTracked": 599,
     "driftedCount": 143,
@@ -1581,7 +1581,7 @@
     },
     {
       "rootId": "LE2026002808",
-      "currentBearbeitungsnummer": "LE2026002808",
+      "currentBearbeitungsnummer": "LE2026003352",
       "produkt": "Propranolol PUREN 40 mg Filmtabletten",
       "wirkstoffe": [
         "Propranololhydrochlorid"
@@ -1613,7 +1613,7 @@
     },
     {
       "rootId": "LE2026002806",
-      "currentBearbeitungsnummer": "LE2026002806",
+      "currentBearbeitungsnummer": "LE2026003351",
       "produkt": "Pregabalin PUREN 75 mg Hartkapseln",
       "wirkstoffe": [
         "Pregabalin"
@@ -1629,7 +1629,7 @@
     },
     {
       "rootId": "LE2026002805",
-      "currentBearbeitungsnummer": "LE2026002805",
+      "currentBearbeitungsnummer": "LE2026003350",
       "produkt": "Pramipexol Aurobindo 0,18 mg Tabletten",
       "wirkstoffe": [
         "Pramipexoldihydrochlorid-Monohydrat"
@@ -1645,7 +1645,7 @@
     },
     {
       "rootId": "LE2026002804",
-      "currentBearbeitungsnummer": "LE2026002804",
+      "currentBearbeitungsnummer": "LE2026003348",
       "produkt": "Loperamid PUREN 2 mg Hartkapseln",
       "wirkstoffe": [
         "Loperamidhydrochlorid"
@@ -1661,7 +1661,7 @@
     },
     {
       "rootId": "LE2026002803",
-      "currentBearbeitungsnummer": "LE2026002803",
+      "currentBearbeitungsnummer": "LE2026003349",
       "produkt": "Loperamid PUREN akut 2 mg Hartkapseln",
       "wirkstoffe": [
         "Loperamidhydrochlorid"
@@ -1677,7 +1677,7 @@
     },
     {
       "rootId": "LE2026002227",
-      "currentBearbeitungsnummer": "LE2026003327",
+      "currentBearbeitungsnummer": "LE2026003358",
       "produkt": "Aknenormin 20 mg Weichkapseln",
       "wirkstoffe": [
         "Isotretinoin"
@@ -2807,7 +2807,7 @@
     },
     {
       "rootId": "LE2021001325",
-      "currentBearbeitungsnummer": "LE2026002637",
+      "currentBearbeitungsnummer": "LE2026003354",
       "produkt": "Staphylex 250 mg Kapseln",
       "wirkstoffe": [
         "Flucloxacillin-Natrium  1 H<2>O"
@@ -2855,7 +2855,7 @@
     },
     {
       "rootId": "LE2026000621",
-      "currentBearbeitungsnummer": "LE2026002633",
+      "currentBearbeitungsnummer": "LE2026003356",
       "produkt": "Urapidil PUREN 90 mg Retardkapseln",
       "wirkstoffe": [
         "Urapidil"
@@ -3047,7 +3047,7 @@
     },
     {
       "rootId": "LE2026002605",
-      "currentBearbeitungsnummer": "LE2026002605",
+      "currentBearbeitungsnummer": "LE2026003345",
       "produkt": "Etoricoxib PUREN 60 mg Filmtabletten",
       "wirkstoffe": [
         "Etoricoxib"
@@ -4140,7 +4140,7 @@
     },
     {
       "rootId": "LE2026000809",
-      "currentBearbeitungsnummer": "LE2026002432",
+      "currentBearbeitungsnummer": "LE2026003336",
       "produkt": "Partusisten intrapartal",
       "wirkstoffe": [
         "Fenoterolhydrobromid"
@@ -4779,7 +4779,7 @@
     },
     {
       "rootId": "LE2026002306",
-      "currentBearbeitungsnummer": "LE2026002306",
+      "currentBearbeitungsnummer": "LE2026003346",
       "produkt": "Fingolimod PUREN 0,5 mg Hartkapseln",
       "wirkstoffe": [
         "Fingolimodhydrochlorid"
@@ -4828,7 +4828,7 @@
     },
     {
       "rootId": "LE2026002299",
-      "currentBearbeitungsnummer": "LE2026002299",
+      "currentBearbeitungsnummer": "LE2026003355",
       "produkt": "Valaciclovir PUREN 500 mg Filmtabletten",
       "wirkstoffe": [
         "Valaciclovirhydrochlorid-Hydrat"
@@ -4860,7 +4860,7 @@
     },
     {
       "rootId": "LE2026002297",
-      "currentBearbeitungsnummer": "LE2026002297",
+      "currentBearbeitungsnummer": "LE2026003347",
       "produkt": "Ibuprofen PUREN 800 mg Filmtabletten",
       "wirkstoffe": [
         "Ibuprofen"
@@ -4964,7 +4964,7 @@
     },
     {
       "rootId": "LE2026002288",
-      "currentBearbeitungsnummer": "LE2026002288",
+      "currentBearbeitungsnummer": "LE2026003344",
       "produkt": "Atorvastatin PUREN 40 mg Filmtabletten",
       "wirkstoffe": [
         "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)"
@@ -5028,7 +5028,7 @@
     },
     {
       "rootId": "LE2026001721",
-      "currentBearbeitungsnummer": "LE2026002283",
+      "currentBearbeitungsnummer": "LE2026003353",
       "produkt": "Rizatriptan PUREN 5 mg Schmelztabletten",
       "wirkstoffe": [
         "Rizatriptanbenzoat"
@@ -6775,7 +6775,7 @@
     },
     {
       "rootId": "LE2026001841",
-      "currentBearbeitungsnummer": "LE2026003064",
+      "currentBearbeitungsnummer": "LE2026003334",
       "produkt": "Pazopanib Viatris 400 mg Filmtabletten",
       "wirkstoffe": [
         "Pazopanibhydrochlorid"
@@ -10397,7 +10397,7 @@
     },
     {
       "rootId": "LE2026003010",
-      "currentBearbeitungsnummer": "LE2026003188",
+      "currentBearbeitungsnummer": "LE2026003341",
       "produkt": "bicaNorm",
       "wirkstoffe": [
         "Natriumhydrogencarbonat"
@@ -10823,7 +10823,7 @@
     },
     {
       "rootId": "LE2026003094",
-      "currentBearbeitungsnummer": "LE2026003094",
+      "currentBearbeitungsnummer": "LE2026003359",
       "produkt": "Prothyrid",
       "wirkstoffe": [
         "Levothyroxin-Natrium",
@@ -11089,7 +11089,7 @@
     },
     {
       "rootId": "LE2026003201",
-      "currentBearbeitungsnummer": "LE2026003201",
+      "currentBearbeitungsnummer": "LE2026003337",
       "produkt": "Eremfat i.v. 600mg",
       "wirkstoffe": [
         "Rifampicin-Natrium"
@@ -11105,7 +11105,7 @@
     },
     {
       "rootId": "LE2026003200",
-      "currentBearbeitungsnummer": "LE2026003200",
+      "currentBearbeitungsnummer": "LE2026003338",
       "produkt": "Eremfat i.v. 300mg",
       "wirkstoffe": [
         "Rifampicin-Natrium"
