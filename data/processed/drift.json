@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-15T08:18:02.504Z",
-  "snapshotCount": 46,
+  "generatedAt": "2026-09-16T08:11:03.816Z",
+  "snapshotCount": 47,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-15",
+  "lastSnapshot": "2026-09-16",
   "summary": {
     "totalShortagesTracked": 599,
     "driftedCount": 143,
@@ -1262,7 +1262,7 @@
     },
     {
       "rootId": "LE2025001473",
-      "currentBearbeitungsnummer": "LE2026002838",
+      "currentBearbeitungsnummer": "LE2026003362",
       "produkt": "Flupentixol-neuraxpharm 40 mg/ml",
       "wirkstoffe": [
         "Flupentixoldecanoat"
@@ -1278,7 +1278,7 @@
     },
     {
       "rootId": "LE2025001472",
-      "currentBearbeitungsnummer": "LE2026002837",
+      "currentBearbeitungsnummer": "LE2026003363",
       "produkt": "Flupentixol-neuraxpharm 20 mg/ml",
       "wirkstoffe": [
         "Flupentixoldecanoat"
@@ -1294,7 +1294,7 @@
     },
     {
       "rootId": "LE2025001474",
-      "currentBearbeitungsnummer": "LE2026002836",
+      "currentBearbeitungsnummer": "LE2026003364",
       "produkt": "Flupentixol-neuraxpharm 100 mg/ml",
       "wirkstoffe": [
         "Flupentixoldecanoat"
@@ -1965,7 +1965,7 @@
     },
     {
       "rootId": "LE2025000338",
-      "currentBearbeitungsnummer": "LE2026003140",
+      "currentBearbeitungsnummer": "LE2026003370",
       "produkt": "Quetiapin AL 300 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -6328,7 +6328,7 @@
     },
     {
       "rootId": "LE2025000789",
-      "currentBearbeitungsnummer": "LE2026002014",
+      "currentBearbeitungsnummer": "LE2026003365",
       "produkt": "Galantamin-neuraxpharm 24 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Galantaminhydrobromid"
@@ -6344,7 +6344,7 @@
     },
     {
       "rootId": "LE2025000788",
-      "currentBearbeitungsnummer": "LE2026002012",
+      "currentBearbeitungsnummer": "LE2026003366",
       "produkt": "Galantamin-neuraxpharm 16 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Galantaminhydrobromid"
@@ -6360,7 +6360,7 @@
     },
     {
       "rootId": "LE2025000786",
-      "currentBearbeitungsnummer": "LE2026002010",
+      "currentBearbeitungsnummer": "LE2026003367",
       "produkt": "Galantamin-neuraxpharm 8 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Galantaminhydrobromid"
@@ -6799,7 +6799,7 @@
     },
     {
       "rootId": "LE2026001840",
-      "currentBearbeitungsnummer": "LE2026002890",
+      "currentBearbeitungsnummer": "LE2026003368",
       "produkt": "Pazopanib Viatris 200 mg Filmtabletten",
       "wirkstoffe": [
         "Pazopanibhydrochlorid"
@@ -7088,7 +7088,7 @@
     {
       "rootId": "LE2026000542",
       "currentBearbeitungsnummer": "LE2026003274",
-      "produkt": "Dapson Zentiva 50 mg Tabletten",
+      "produkt": "Dapson Zentiva 50 mg Tabletten",
       "wirkstoffe": [
         "Dapson"
       ],
@@ -10284,7 +10284,7 @@
     },
     {
       "rootId": "LE2026002975",
-      "currentBearbeitungsnummer": "LE2026002975",
+      "currentBearbeitungsnummer": "LE2026003361",
       "produkt": "Imipramin-neuraxpharm 25 mg",
       "wirkstoffe": [
         "Imipraminhydrochlorid"
