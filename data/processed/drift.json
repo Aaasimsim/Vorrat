@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-16T08:11:03.816Z",
-  "snapshotCount": 47,
+  "generatedAt": "2026-09-17T08:17:48.889Z",
+  "snapshotCount": 48,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-16",
+  "lastSnapshot": "2026-09-17",
   "summary": {
     "totalShortagesTracked": 599,
     "driftedCount": 143,
@@ -1989,7 +1989,7 @@
     },
     {
       "rootId": "LE2025000334",
-      "currentBearbeitungsnummer": "LE2026003141",
+      "currentBearbeitungsnummer": "LE2026003375",
       "produkt": "Quetiapin AL 150 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -10807,7 +10807,7 @@
     },
     {
       "rootId": "LE2026003095",
-      "currentBearbeitungsnummer": "LE2026003095",
+      "currentBearbeitungsnummer": "LE2026003380",
       "produkt": "Thybon 20 Henning",
       "wirkstoffe": [
         "Liothyroninhydrochlorid"
@@ -10961,7 +10961,7 @@
     },
     {
       "rootId": "LE2026003167",
-      "currentBearbeitungsnummer": "LE2026003167",
+      "currentBearbeitungsnummer": "LE2026003376",
       "produkt": "Urapidil AL 30 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Urapidil"
@@ -11283,7 +11283,7 @@
     },
     {
       "rootId": "LE2026003263",
-      "currentBearbeitungsnummer": "LE2026003263",
+      "currentBearbeitungsnummer": "LE2026003377",
       "produkt": "ZYPREXA",
       "wirkstoffe": [
         "Olanzapin"
