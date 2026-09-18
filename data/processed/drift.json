@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-17T08:17:48.889Z",
-  "snapshotCount": 48,
+  "generatedAt": "2026-09-18T07:51:44.746Z",
+  "snapshotCount": 49,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-17",
+  "lastSnapshot": "2026-09-18",
   "summary": {
     "totalShortagesTracked": 599,
     "driftedCount": 143,
@@ -795,7 +795,7 @@
     },
     {
       "rootId": "LE2026001384",
-      "currentBearbeitungsnummer": "LE2026003181",
+      "currentBearbeitungsnummer": "LE2026003386",
       "produkt": "PANTOPRAZOL BASICS 20 mg magensaftresistente Tabletten",
       "wirkstoffe": [
         "Pantoprazol-Natrium-Sesquihydrat"
@@ -1677,7 +1677,7 @@
     },
     {
       "rootId": "LE2026002227",
-      "currentBearbeitungsnummer": "LE2026003358",
+      "currentBearbeitungsnummer": "LE2026003388",
       "produkt": "Aknenormin 20 mg Weichkapseln",
       "wirkstoffe": [
         "Isotretinoin"
@@ -1989,7 +1989,7 @@
     },
     {
       "rootId": "LE2025000334",
-      "currentBearbeitungsnummer": "LE2026003375",
+      "currentBearbeitungsnummer": "LE2026003382",
       "produkt": "Quetiapin AL 150 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -3480,7 +3480,7 @@
     },
     {
       "rootId": "LE2026002550",
-      "currentBearbeitungsnummer": "LE2026002550",
+      "currentBearbeitungsnummer": "LE2026003387",
       "produkt": "VALSARTAN BASICS 160 mg Filmtabletten",
       "wirkstoffe": [
         "Valsartan"
@@ -6583,7 +6583,7 @@
     },
     {
       "rootId": "LE2026001899",
-      "currentBearbeitungsnummer": "LE2026003055",
+      "currentBearbeitungsnummer": "LE2026003392",
       "produkt": "Topiramat-Hormosan 50 mg Filmtabletten",
       "wirkstoffe": [
         "Topiramat"
