@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-18T07:51:44.746Z",
-  "snapshotCount": 49,
+  "generatedAt": "2026-09-19T07:43:27.479Z",
+  "snapshotCount": 50,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-18",
+  "lastSnapshot": "2026-09-19",
   "summary": {
     "totalShortagesTracked": 599,
     "driftedCount": 143,
@@ -2791,7 +2791,7 @@
     },
     {
       "rootId": "LE2026002639",
-      "currentBearbeitungsnummer": "LE2026002931",
+      "currentBearbeitungsnummer": "LE2026003400",
       "produkt": "ZYPADHERA 300 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(690mg+3ml)",
       "wirkstoffe": [
         "Olanzapinembonat-Monohydrat"
@@ -3512,7 +3512,7 @@
     },
     {
       "rootId": "LE2025004705",
-      "currentBearbeitungsnummer": "LE2026003249",
+      "currentBearbeitungsnummer": "LE2026003406",
       "produkt": "Nepexto 50 mg Injektionslösung in einer Fertigspritze",
       "wirkstoffe": [
         "Etanercept"
@@ -3672,7 +3672,7 @@
     },
     {
       "rootId": "LE2026002524",
-      "currentBearbeitungsnummer": "LE2026003264",
+      "currentBearbeitungsnummer": "LE2026003399",
       "produkt": "ZYPADHERA 210 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(483mg+3ml)",
       "wirkstoffe": [
         "Olanzapinembonat-Monohydrat"
@@ -10945,7 +10945,7 @@
     },
     {
       "rootId": "LE2026003168",
-      "currentBearbeitungsnummer": "LE2026003168",
+      "currentBearbeitungsnummer": "LE2026003395",
       "produkt": "Hydrocutan Creme 1%",
       "wirkstoffe": [
         "Hydrocortison"
@@ -11089,7 +11089,7 @@
     },
     {
       "rootId": "LE2026003201",
-      "currentBearbeitungsnummer": "LE2026003337",
+      "currentBearbeitungsnummer": "LE2026003394",
       "produkt": "Eremfat i.v. 600mg",
       "wirkstoffe": [
         "Rifampicin-Natrium"
@@ -11105,7 +11105,7 @@
     },
     {
       "rootId": "LE2026003200",
-      "currentBearbeitungsnummer": "LE2026003338",
+      "currentBearbeitungsnummer": "LE2026003393",
       "produkt": "Eremfat i.v. 300mg",
       "wirkstoffe": [
         "Rifampicin-Natrium"
@@ -11154,7 +11154,7 @@
     },
     {
       "rootId": "LE2026003217",
-      "currentBearbeitungsnummer": "LE2026003217",
+      "currentBearbeitungsnummer": "LE2026003396",
       "produkt": "Volon A 40",
       "wirkstoffe": [
         "Triamcinolonacetonid"
