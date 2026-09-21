@@ -154,3 +154,89 @@ textarea {
     scroll-behavior: auto !important;
   }
 }
+
+/**
+ * Print. The Pharmacy View is the one screen meant to leave the phone: it is
+ * held up at a counter, and pharmacy stockrooms have no signal, so paper is a
+ * real fallback rather than a nicety. Printing it used to produce the whole
+ * app page with the handout clipped inside it.
+ *
+ * Three things have to be corrected for paper.
+ *
+ * 1. Everything that is not the handout has to go, including its height. The
+ *    view is portalled to <body>, so the rest of the app is a sibling and can
+ *    be removed outright. Merely hiding it leaves its layout behind and prints
+ *    two blank A4 pages after the sheet.
+ * 2. `max-height` with `overflow-y-auto` silently truncates at one viewport
+ *    height on paper, and the flex centring pushes the product name off the
+ *    top of the sheet. A Bearbeitungsnummer or a product name cut off is worse
+ *    than no printout at all, because the patient finds out at the counter.
+ * 3. A reader whose phone is in dark mode would otherwise print pale grey on
+ *    white. Paper is always the light palette, at full contrast.
+ */
+@media print {
+  :root {
+    --color-papier: #ffffff;
+    --color-papier-tief: #ffffff;
+    --color-flaeche: #ffffff;
+    --color-tinte: #000000;
+    --color-tinte-weich: #000000;
+    --color-linie: #000000;
+    --color-linie-zart: #000000;
+  }
+
+  @page {
+    margin: 1.5cm;
+  }
+
+  body {
+    background: #ffffff;
+    color: #000000;
+  }
+
+  .nicht-drucken {
+    display: none !important;
+  }
+
+  body:has(.apotheke-ansicht) > *:not(.apotheke-ansicht) {
+    display: none;
+  }
+
+  /* On screen a full-viewport flex box that centres the dialog. On paper it is
+     just the sheet: static, so it flows from the top of the page. */
+  .apotheke-ansicht {
+    position: static;
+    display: block;
+    width: 100%;
+    height: auto;
+    padding: 0;
+    background: none !important;
+    backdrop-filter: none !important;
+  }
+
+  .apotheke-ansicht [role='dialog'] {
+    max-width: none;
+    max-height: none;
+    width: 100%;
+    overflow: visible;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  /* White on dark green on screen. Browsers drop backgrounds on paper by
+     default, which would leave this label white on white. */
+  .druck-marke {
+    background: none !important;
+    color: #000000 !important;
+    border: 1px solid #000000;
+  }
+
+  /* The manufacturer's note is usually why the sheet is being printed, so it
+     should not be split across a page break. */
+  .apotheke-ansicht figure,
+  .apotheke-ansicht blockquote {
+    break-inside: avoid;
+  }
+}
