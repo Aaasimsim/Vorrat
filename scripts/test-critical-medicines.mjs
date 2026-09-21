@@ -1,4 +1,4 @@
-import { readFileSync } from 'node:fs'
+import { existsSync, readFileSync } from 'node:fs'
 import { buildShortageIndex } from '../src/lib/pipeline.js'
 import { emptyBaseline, mergeBaseline } from '../src/lib/baseline.js'
 import { matchMedication } from '../src/lib/matching.js'
@@ -6,7 +6,36 @@ import { formatGermanDate } from '../src/lib/format.js'
 
 console.log('=== CLINICAL USE CASE TEST: CRITICAL MEDICATIONS IN GERMANY ===\n')
 
-const raw = readFileSync(new URL('../.tmp/feed.csv', import.meta.url))
+/**
+ * Both halves of this test are pinned, and they have to be pinned together.
+ *
+ * The expectations below name real reports. L-Thyroxin Henning 150 was a
+ * high-confidence match because Sanofi had an open report against that exact
+ * product name, and that report ended on 03.08.2026. Read against the live
+ * clock the app correctly stops treating it as an alert, so the assertion
+ * failed on 04.08.2026 without a line of application code changing.
+ *
+ * The feed is therefore a committed snapshot rather than the gitignored
+ * .tmp/feed.csv this used to read (which also meant it could not run on a
+ * fresh clone), and matchMedication is handed the date that snapshot was
+ * taken. Fixed input, fixed clock, fixed expectations.
+ *
+ * Changing SNAPSHOT means re-verifying every expectation below against it.
+ * These are clinical assertions about named products, not portable fixtures.
+ */
+const SNAPSHOT = 'data/snapshots/2026-07-31.csv'
+const REFERENCE_DATE = '2026-07-31'
+
+const snapshotUrl = new URL(`../${SNAPSHOT}`, import.meta.url)
+if (!existsSync(snapshotUrl)) {
+  console.error(`Missing snapshot ${SNAPSHOT}. It is committed to the repo; check the checkout.`)
+  process.exit(1)
+}
+
+console.log(`Snapshot: ${SNAPSHOT}, evaluated as at ${REFERENCE_DATE}
+`)
+
+const raw = readFileSync(snapshotUrl)
 const index = buildShortageIndex(raw)
 const baseline = mergeBaseline(emptyBaseline(), index.records)
 
@@ -77,7 +106,12 @@ testCases.forEach((tc, idx) => {
   console.log(`Test [${idx + 1}/${testCases.length}]: ${tc.name} (${tc.type})`)
   console.log(`Clinical Context: ${tc.clinicalNotes}`)
 
-  const result = matchMedication({ id: String(idx), query: tc.query, pzn: null }, index, baseline)
+  const result = matchMedication(
+    { id: String(idx), query: tc.query, pzn: null },
+    index,
+    baseline,
+    { today: REFERENCE_DATE },
+  )
   
   console.log(`➔ Output Status:     ${result.status.toUpperCase()}`)
   console.log(`➔ Confidence Level:  ${result.confidence ?? 'none'}`)
