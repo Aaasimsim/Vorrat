@@ -38,9 +38,19 @@
  * Light stays the default. Older eyes — particularly with cataract or
  * astigmatism — often get halation from light text on dark, so dark mode is a
  * preference we honour rather than a look we push.
+ *
+ * Plain `:root`, deliberately, not `@theme`. Tailwind v4 collects every
+ * `@theme` block into one flat set of tokens and discards the at-rules they
+ * were nested in, so `@theme` inside a media query does not mean "these values
+ * under this condition" — it means "these values", full stop. Written that way
+ * the dark palette overwrote the light one in the compiled stylesheet and every
+ * visitor got dark mode whatever their system was set to, which is the exact
+ * outcome the paragraph above says to avoid. It only showed up in a production
+ * build, so check `npm run build`, not just `npm run dev`, if this is ever
+ * touched again.
  */
 @media (prefers-color-scheme: dark) {
-  @theme {
+  :root {
     --color-papier: #1a1816;
     --color-papier-tief: #24211e;
     --color-flaeche: #24211e;
