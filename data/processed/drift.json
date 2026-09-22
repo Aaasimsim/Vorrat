@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-21T08:28:33.213Z",
-  "snapshotCount": 52,
+  "generatedAt": "2026-09-22T08:09:12.883Z",
+  "snapshotCount": 53,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-21",
+  "lastSnapshot": "2026-09-22",
   "summary": {
-    "totalShortagesTracked": 599,
-    "driftedCount": 143,
+    "totalShortagesTracked": 622,
+    "driftedCount": 185,
     "driftRate": {
-      "drifted": 143,
-      "of": 599,
-      "percentage": 23.9
+      "drifted": 185,
+      "of": 622,
+      "percentage": 29.7
     },
-    "meanDaysDrifted": 79.9,
-    "medianDaysDrifted": 54,
-    "totalExtensionEvents": 160
+    "meanDaysDrifted": 76.5,
+    "medianDaysDrifted": 57,
+    "totalExtensionEvents": 217
   },
   "leaderboard": [
     {
@@ -547,7 +547,7 @@
   "records": [
     {
       "rootId": "LE2026002491",
-      "currentBearbeitungsnummer": "LE2026003319",
+      "currentBearbeitungsnummer": "LE2026003449",
       "produkt": "Escitalopram-Micro Labs 5 mg Filmtabletten",
       "wirkstoffe": [
         "Escitalopramoxalat"
@@ -555,9 +555,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AB10",
       "firstObservedEnde": "2026-08-21",
-      "latestObservedEnde": "2026-09-11",
-      "totalDaysDrifted": 21,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-09",
+      "totalDaysDrifted": 49,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -566,12 +566,19 @@
           "newEnde": "2026-09-11",
           "daysExtended": 21,
           "bearbeitungsnummer": "LE2026003111"
+        },
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-11",
+          "newEnde": "2026-10-09",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026003449"
         }
       ]
     },
     {
       "rootId": "LE2026002493",
-      "currentBearbeitungsnummer": "LE2026003318",
+      "currentBearbeitungsnummer": "LE2026003451",
       "produkt": "Escitalopram-Micro Labs 10 mg Filmtabletten",
       "wirkstoffe": [
         "Escitalopramoxalat"
@@ -579,9 +586,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AB10",
       "firstObservedEnde": "2026-08-21",
-      "latestObservedEnde": "2026-09-11",
-      "totalDaysDrifted": 21,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-22",
+      "totalDaysDrifted": 62,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -590,12 +597,19 @@
           "newEnde": "2026-09-11",
           "daysExtended": 21,
           "bearbeitungsnummer": "LE2026003112"
+        },
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-11",
+          "newEnde": "2026-10-22",
+          "daysExtended": 41,
+          "bearbeitungsnummer": "LE2026003451"
         }
       ]
     },
     {
       "rootId": "LE2026001486",
-      "currentBearbeitungsnummer": "LE2026003317",
+      "currentBearbeitungsnummer": "LE2026003453",
       "produkt": "Escitalopram-Micro Labs 20 mg Filmtabletten",
       "wirkstoffe": [
         "Escitalopramoxalat"
@@ -603,9 +617,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AB10",
       "firstObservedEnde": "2026-08-21",
-      "latestObservedEnde": "2026-09-11",
-      "totalDaysDrifted": 21,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-09",
+      "totalDaysDrifted": 49,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -614,12 +628,19 @@
           "newEnde": "2026-09-11",
           "daysExtended": 21,
           "bearbeitungsnummer": "LE2026003113"
+        },
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-11",
+          "newEnde": "2026-10-09",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026003453"
         }
       ]
     },
     {
       "rootId": "LE2026001178",
-      "currentBearbeitungsnummer": "LE2026003320",
+      "currentBearbeitungsnummer": "LE2026003441",
       "produkt": "Gabapentin-Micro Labs 800 mg Filmtabletten",
       "wirkstoffe": [
         "Gabapentin"
@@ -627,9 +648,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N02BF01",
       "firstObservedEnde": "2026-08-21",
-      "latestObservedEnde": "2026-09-11",
-      "totalDaysDrifted": 21,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-05",
+      "totalDaysDrifted": 45,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -638,6 +659,13 @@
           "newEnde": "2026-09-11",
           "daysExtended": 21,
           "bearbeitungsnummer": "LE2026003110"
+        },
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-11",
+          "newEnde": "2026-10-05",
+          "daysExtended": 24,
+          "bearbeitungsnummer": "LE2026003441"
         }
       ]
     },
@@ -696,7 +724,7 @@
       "wirkstoffe": [
         "Fludarabinphosphat (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Bendalis GmbH",
+      "zulassungsinhaber": "BENDALIS GmbH",
       "atc": "L01BB05",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -1270,11 +1298,19 @@
       "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
       "atc": "N05AF01",
       "firstObservedEnde": "2026-09-15",
-      "latestObservedEnde": "2026-09-15",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-15",
+      "totalDaysDrifted": 30,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-15",
+          "newEnde": "2026-10-15",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003362"
+        }
+      ]
     },
     {
       "rootId": "LE2025001472",
@@ -1286,11 +1322,19 @@
       "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
       "atc": "N05AF01",
       "firstObservedEnde": "2026-09-15",
-      "latestObservedEnde": "2026-09-15",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-15",
+      "totalDaysDrifted": 30,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-15",
+          "newEnde": "2026-10-15",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003363"
+        }
+      ]
     },
     {
       "rootId": "LE2025001474",
@@ -1302,11 +1346,19 @@
       "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
       "atc": "N05AF01",
       "firstObservedEnde": "2026-09-15",
-      "latestObservedEnde": "2026-09-15",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-15",
+      "totalDaysDrifted": 30,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-15",
+          "newEnde": "2026-10-15",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003364"
+        }
+      ]
     },
     {
       "rootId": "LE2026002835",
@@ -1797,7 +1849,7 @@
     },
     {
       "rootId": "LE2026002452",
-      "currentBearbeitungsnummer": "LE2026003321",
+      "currentBearbeitungsnummer": "LE2026003448",
       "produkt": "Pantoprazol-Micro Labs 40 mg magensaftresistente Tabletten",
       "wirkstoffe": [
         "Pantoprazol-Natrium-Sesquihydrat"
@@ -1805,9 +1857,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "A02BC02",
       "firstObservedEnde": "2026-08-28",
-      "latestObservedEnde": "2026-09-11",
-      "totalDaysDrifted": 31,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-09-25",
+      "totalDaysDrifted": 45,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1816,6 +1868,13 @@
           "newEnde": "2026-09-11",
           "daysExtended": 31,
           "bearbeitungsnummer": "LE2026002990"
+        },
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-11",
+          "newEnde": "2026-09-25",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003448"
         }
       ]
     },
@@ -1877,7 +1936,7 @@
     },
     {
       "rootId": "LE2026001671",
-      "currentBearbeitungsnummer": "LE2026002771",
+      "currentBearbeitungsnummer": "LE2026003455",
       "produkt": "Miochol-E Pulver und Lösungsmittel zur Herstellung einer Instillationslösung zur intraokularen Anwendung",
       "wirkstoffe": [
         "Acetylcholinchlorid"
@@ -1885,11 +1944,19 @@
       "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
       "atc": "S01EB09",
       "firstObservedEnde": "2026-10-30",
-      "latestObservedEnde": "2026-10-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-01-15",
+      "totalDaysDrifted": 77,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-10-30",
+          "newEnde": "2027-01-15",
+          "daysExtended": 77,
+          "bearbeitungsnummer": "LE2026003455"
+        }
+      ]
     },
     {
       "rootId": "LE2026002764",
@@ -2686,7 +2753,7 @@
     },
     {
       "rootId": "LE2026001235",
-      "currentBearbeitungsnummer": "LE2026003021",
+      "currentBearbeitungsnummer": "LE2026003443",
       "produkt": "Amitriptylin Micro Labs 44,19 mg Filmtabletten",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -2694,9 +2761,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AA09",
       "firstObservedEnde": "2026-08-28",
-      "latestObservedEnde": "2026-09-18",
-      "totalDaysDrifted": 21,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-09",
+      "totalDaysDrifted": 42,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -2705,6 +2772,13 @@
           "newEnde": "2026-09-18",
           "daysExtended": 21,
           "bearbeitungsnummer": "LE2026003021"
+        },
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-18",
+          "newEnde": "2026-10-09",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003443"
         }
       ]
     },
@@ -2815,11 +2889,19 @@
       "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
       "atc": "J01CF05",
       "firstObservedEnde": "2026-09-14",
-      "latestObservedEnde": "2026-09-14",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-30",
+      "totalDaysDrifted": 46,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-14",
+          "newEnde": "2026-10-30",
+          "daysExtended": 46,
+          "bearbeitungsnummer": "LE2026003354"
+        }
+      ]
     },
     {
       "rootId": "LE2026001722",
@@ -2863,11 +2945,19 @@
       "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
       "atc": "C02CA06",
       "firstObservedEnde": "2026-09-14",
-      "latestObservedEnde": "2026-09-14",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-28",
+      "totalDaysDrifted": 44,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-14",
+          "newEnde": "2026-10-28",
+          "daysExtended": 44,
+          "bearbeitungsnummer": "LE2026003356"
+        }
+      ]
     },
     {
       "rootId": "LE2026002413",
@@ -3023,7 +3113,7 @@
     },
     {
       "rootId": "LE2026001238",
-      "currentBearbeitungsnummer": "LE2026003019",
+      "currentBearbeitungsnummer": "LE2026003444",
       "produkt": "Amitriptylin Micro Labs 88,38 mg Filmtabletten",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -3031,9 +3121,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AA09",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-09-18",
-      "totalDaysDrifted": 35,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-09",
+      "totalDaysDrifted": 56,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -3042,6 +3132,13 @@
           "newEnde": "2026-09-18",
           "daysExtended": 35,
           "bearbeitungsnummer": "LE2026003019"
+        },
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-18",
+          "newEnde": "2026-10-09",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003444"
         }
       ]
     },
@@ -3160,7 +3257,7 @@
     },
     {
       "rootId": "LE2026002592",
-      "currentBearbeitungsnummer": "LE2026002592",
+      "currentBearbeitungsnummer": "LE2026003415",
       "produkt": "Levetiracetam HEXAL 100 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
       "wirkstoffe": [
         "Levetiracetam"
@@ -3168,15 +3265,23 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-09-18",
-      "latestObservedEnde": "2026-09-18",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-13",
+      "totalDaysDrifted": 56,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-18",
+          "newEnde": "2026-11-13",
+          "daysExtended": 56,
+          "bearbeitungsnummer": "LE2026003415"
+        }
+      ]
     },
     {
       "rootId": "LE2026002590",
-      "currentBearbeitungsnummer": "LE2026002590",
+      "currentBearbeitungsnummer": "LE2026003435",
       "produkt": "Amineurin 10",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -3184,11 +3289,19 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "N06AA09",
       "firstObservedEnde": "2026-10-01",
-      "latestObservedEnde": "2026-10-01",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-07",
+      "totalDaysDrifted": 6,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-10-01",
+          "newEnde": "2026-10-07",
+          "daysExtended": 6,
+          "bearbeitungsnummer": "LE2026003435"
+        }
+      ]
     },
     {
       "rootId": "LE2026002430",
@@ -3208,7 +3321,7 @@
     },
     {
       "rootId": "LE2026000918",
-      "currentBearbeitungsnummer": "LE2026002588",
+      "currentBearbeitungsnummer": "LE2026003439",
       "produkt": "Dexahexal 4 mg",
       "wirkstoffe": [
         "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
@@ -3216,15 +3329,23 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "H02AB02",
       "firstObservedEnde": "2026-11-18",
-      "latestObservedEnde": "2026-11-18",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 43,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-11-18",
+          "newEnde": "2026-12-31",
+          "daysExtended": 43,
+          "bearbeitungsnummer": "LE2026003439"
+        }
+      ]
     },
     {
       "rootId": "LE2026001152",
-      "currentBearbeitungsnummer": "LE2026002584",
+      "currentBearbeitungsnummer": "LE2026003437",
       "produkt": "BisoHEXAL plus 5/12,5",
       "wirkstoffe": [
         "Bisoprololfumarat (Ph.Eur.)",
@@ -3233,15 +3354,23 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "C07BB07",
       "firstObservedEnde": "2026-10-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-18",
+      "totalDaysDrifted": 48,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-12-18",
+          "daysExtended": 48,
+          "bearbeitungsnummer": "LE2026003437"
+        }
+      ]
     },
     {
       "rootId": "LE2025000411",
-      "currentBearbeitungsnummer": "LE2026002578",
+      "currentBearbeitungsnummer": "LE2026003429",
       "produkt": "Quetiapin HEXAL 300 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -3249,15 +3378,23 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003429"
+        }
+      ]
     },
     {
       "rootId": "LE2026002476",
-      "currentBearbeitungsnummer": "LE2026002577",
+      "currentBearbeitungsnummer": "LE2026003416",
       "produkt": "MetoHEXAL 200 mg retard",
       "wirkstoffe": [
         "Metoprololtartrat (Ph.Eur.)"
@@ -3265,11 +3402,19 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "C07AB02",
       "firstObservedEnde": "2026-09-25",
-      "latestObservedEnde": "2026-09-25",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 97,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-25",
+          "newEnde": "2026-12-31",
+          "daysExtended": 97,
+          "bearbeitungsnummer": "LE2026003416"
+        }
+      ]
     },
     {
       "rootId": "LE2026001628",
@@ -3320,7 +3465,7 @@
     },
     {
       "rootId": "LE2025003076",
-      "currentBearbeitungsnummer": "LE2026002573",
+      "currentBearbeitungsnummer": "LE2026003423",
       "produkt": "Oxcarbazepin - 1 A Pharma 60 mg/ml Suspension zum Einnehmen",
       "wirkstoffe": [
         "Oxcarbazepin"
@@ -3328,11 +3473,19 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N03AF02",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003423"
+        }
+      ]
     },
     {
       "rootId": "LE2026001629",
@@ -3360,7 +3513,7 @@
     },
     {
       "rootId": "LE2026001150",
-      "currentBearbeitungsnummer": "LE2026002571",
+      "currentBearbeitungsnummer": "LE2026003411",
       "produkt": "Bisoprolol plus 5/12,5 - 1 A Pharma",
       "wirkstoffe": [
         "Bisoprololfumarat (Ph.Eur.)",
@@ -3369,11 +3522,19 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "C07BB07",
       "firstObservedEnde": "2026-09-15",
-      "latestObservedEnde": "2026-09-15",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 107,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-15",
+          "newEnde": "2026-12-31",
+          "daysExtended": 107,
+          "bearbeitungsnummer": "LE2026003411"
+        }
+      ]
     },
     {
       "rootId": "LE2026002570",
@@ -4033,7 +4194,7 @@
     },
     {
       "rootId": "LE2026001234",
-      "currentBearbeitungsnummer": "LE2026003015",
+      "currentBearbeitungsnummer": "LE2026003447",
       "produkt": "Amitriptylin Micro Labs 22,1 mg Filmtabletten",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -4041,9 +4202,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AA09",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-09-18",
-      "totalDaysDrifted": 35,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-09",
+      "totalDaysDrifted": 56,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -4052,6 +4213,13 @@
           "newEnde": "2026-09-18",
           "daysExtended": 35,
           "bearbeitungsnummer": "LE2026003015"
+        },
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-18",
+          "newEnde": "2026-10-09",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003447"
         }
       ]
     },
@@ -4079,7 +4247,7 @@
       "wirkstoffe": [
         "Vinorelbintartrat"
       ],
-      "zulassungsinhaber": "Bendalis GmbH",
+      "zulassungsinhaber": "BENDALIS GmbH",
       "atc": "L01CA04",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -4595,7 +4763,7 @@
     },
     {
       "rootId": "LE2026000916",
-      "currentBearbeitungsnummer": "LE2026003042",
+      "currentBearbeitungsnummer": "LE2026003436",
       "produkt": "Abirateron HEXAL 1000 mg Filmtabletten",
       "wirkstoffe": [
         "Abirateronacetat"
@@ -4603,9 +4771,9 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "L02BX03",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-10-16",
-      "totalDaysDrifted": 63,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-06",
+      "totalDaysDrifted": 84,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -4614,6 +4782,13 @@
           "newEnde": "2026-10-16",
           "daysExtended": 63,
           "bearbeitungsnummer": "LE2026003042"
+        },
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-10-16",
+          "newEnde": "2026-11-06",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003436"
         }
       ]
     },
@@ -4787,11 +4962,19 @@
       "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
       "atc": "L04AE01",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-16",
+      "totalDaysDrifted": 16,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-16",
+          "daysExtended": 16,
+          "bearbeitungsnummer": "LE2026003346"
+        }
+      ]
     },
     {
       "rootId": "LE2026000066",
@@ -5496,7 +5679,7 @@
     },
     {
       "rootId": "LE2025000406",
-      "currentBearbeitungsnummer": "LE2026002188",
+      "currentBearbeitungsnummer": "LE2026003433",
       "produkt": "Quetiapin - 1 A Pharma 50 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -5504,15 +5687,23 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003433"
+        }
+      ]
     },
     {
       "rootId": "LE2026001611",
-      "currentBearbeitungsnummer": "LE2026003239",
+      "currentBearbeitungsnummer": "LE2026003414",
       "produkt": "Abirateron HEXAL 500 mg Filmtabletten",
       "wirkstoffe": [
         "Abirateronacetat"
@@ -5520,9 +5711,9 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "L02BX03",
       "firstObservedEnde": "2026-08-07",
-      "latestObservedEnde": "2026-09-18",
-      "totalDaysDrifted": 42,
-      "extensionsCount": 3,
+      "latestObservedEnde": "2026-10-02",
+      "totalDaysDrifted": 56,
+      "extensionsCount": 4,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -5545,12 +5736,19 @@
           "newEnde": "2026-09-18",
           "daysExtended": 14,
           "bearbeitungsnummer": "LE2026003239"
+        },
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-18",
+          "newEnde": "2026-10-02",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003414"
         }
       ]
     },
     {
       "rootId": "LE2025000409",
-      "currentBearbeitungsnummer": "LE2026002186",
+      "currentBearbeitungsnummer": "LE2026003425",
       "produkt": "Quetiapin HEXAL 150 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -5558,11 +5756,19 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003425"
+        }
+      ]
     },
     {
       "rootId": "LE2024001865",
@@ -5726,7 +5932,7 @@
     },
     {
       "rootId": "LE2024003787",
-      "currentBearbeitungsnummer": "LE2026002923",
+      "currentBearbeitungsnummer": "LE2026003422",
       "produkt": "Levetiracetam - 1 A Pharma 1500 mg Filmtabletten",
       "wirkstoffe": [
         "Levetiracetam"
@@ -5734,9 +5940,9 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-07-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 62,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 123,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -5745,6 +5951,13 @@
           "newEnde": "2026-09-30",
           "daysExtended": 62,
           "bearbeitungsnummer": "LE2026002923"
+        },
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003422"
         }
       ]
     },
@@ -5766,7 +5979,7 @@
     },
     {
       "rootId": "LE2026000700",
-      "currentBearbeitungsnummer": "LE2026003276",
+      "currentBearbeitungsnummer": "LE2026003450",
       "produkt": "Telmisartan Micro Labs 20 mg Tabletten",
       "wirkstoffe": [
         "Telmisartan"
@@ -5774,9 +5987,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "C09CA07",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-09-22",
-      "totalDaysDrifted": 39,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-10-06",
+      "totalDaysDrifted": 53,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -5792,6 +6005,13 @@
           "newEnde": "2026-09-22",
           "daysExtended": 18,
           "bearbeitungsnummer": "LE2026003276"
+        },
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-22",
+          "newEnde": "2026-10-06",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003450"
         }
       ]
     },
@@ -6136,7 +6356,7 @@
     },
     {
       "rootId": "LE2025000405",
-      "currentBearbeitungsnummer": "LE2026002073",
+      "currentBearbeitungsnummer": "LE2026003430",
       "produkt": "Quetiapin - 1 A Pharma 400 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -6144,15 +6364,23 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003430"
+        }
+      ]
     },
     {
       "rootId": "LE2025000402",
-      "currentBearbeitungsnummer": "LE2026002072",
+      "currentBearbeitungsnummer": "LE2026003424",
       "produkt": "Quetiapin - 1 A Pharma 150 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -6160,15 +6388,23 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003424"
+        }
+      ]
     },
     {
       "rootId": "LE2025000408",
-      "currentBearbeitungsnummer": "LE2026002071",
+      "currentBearbeitungsnummer": "LE2026003432",
       "produkt": "Quetiapin HEXAL 50 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -6176,15 +6412,23 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003432"
+        }
+      ]
     },
     {
       "rootId": "LE2025000412",
-      "currentBearbeitungsnummer": "LE2026002070",
+      "currentBearbeitungsnummer": "LE2026003431",
       "produkt": "Quetiapin HEXAL 400 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -6192,15 +6436,23 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003431"
+        }
+      ]
     },
     {
       "rootId": "LE2025000410",
-      "currentBearbeitungsnummer": "LE2026002069",
+      "currentBearbeitungsnummer": "LE2026003427",
       "produkt": "Quetiapin HEXAL 200 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -6208,15 +6460,23 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003427"
+        }
+      ]
     },
     {
       "rootId": "LE2025000407",
-      "currentBearbeitungsnummer": "LE2026002068",
+      "currentBearbeitungsnummer": "LE2026003434",
       "produkt": "Quetiapin - 1 A Pharma 600 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -6224,15 +6484,23 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003434"
+        }
+      ]
     },
     {
       "rootId": "LE2025000404",
-      "currentBearbeitungsnummer": "LE2026002067",
+      "currentBearbeitungsnummer": "LE2026003428",
       "produkt": "Quetiapin - 1 A Pharma 300 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -6240,15 +6508,23 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003428"
+        }
+      ]
     },
     {
       "rootId": "LE2025000403",
-      "currentBearbeitungsnummer": "LE2026002066",
+      "currentBearbeitungsnummer": "LE2026003426",
       "produkt": "Quetiapin - 1 A Pharma 200 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -6256,11 +6532,19 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003426"
+        }
+      ]
     },
     {
       "rootId": "LE2026000812",
@@ -6336,11 +6620,19 @@
       "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
       "atc": "N06DA04",
       "firstObservedEnde": "2026-09-15",
-      "latestObservedEnde": "2026-09-15",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-01-31",
+      "totalDaysDrifted": 138,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-15",
+          "newEnde": "2027-01-31",
+          "daysExtended": 138,
+          "bearbeitungsnummer": "LE2026003365"
+        }
+      ]
     },
     {
       "rootId": "LE2025000788",
@@ -6352,11 +6644,19 @@
       "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
       "atc": "N06DA04",
       "firstObservedEnde": "2026-09-15",
-      "latestObservedEnde": "2026-09-15",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-01-31",
+      "totalDaysDrifted": 138,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-15",
+          "newEnde": "2027-01-31",
+          "daysExtended": 138,
+          "bearbeitungsnummer": "LE2026003366"
+        }
+      ]
     },
     {
       "rootId": "LE2025000786",
@@ -6368,11 +6668,19 @@
       "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
       "atc": "N06DA04",
       "firstObservedEnde": "2026-09-15",
-      "latestObservedEnde": "2026-09-15",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-01-31",
+      "totalDaysDrifted": 138,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-15",
+          "newEnde": "2027-01-31",
+          "daysExtended": 138,
+          "bearbeitungsnummer": "LE2026003367"
+        }
+      ]
     },
     {
       "rootId": "LE2024004255",
@@ -6591,9 +6899,9 @@
       "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
       "atc": "N03AX11",
       "firstObservedEnde": "2026-09-07",
-      "latestObservedEnde": "2026-10-02",
-      "totalDaysDrifted": 25,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 54,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -6602,6 +6910,13 @@
           "newEnde": "2026-10-02",
           "daysExtended": 25,
           "bearbeitungsnummer": "LE2026003055"
+        },
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-10-02",
+          "newEnde": "2026-10-31",
+          "daysExtended": 29,
+          "bearbeitungsnummer": "LE2026003392"
         }
       ]
     },
@@ -6687,7 +7002,7 @@
     },
     {
       "rootId": "LE2026001873",
-      "currentBearbeitungsnummer": "LE2026002969",
+      "currentBearbeitungsnummer": "LE2026003413",
       "produkt": "Cyclophosphamid HEXAL 500 mg",
       "wirkstoffe": [
         "Cyclophosphamid Monohydrat"
@@ -6695,9 +7010,9 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "L01AA01",
       "firstObservedEnde": "2026-08-05",
-      "latestObservedEnde": "2026-09-16",
-      "totalDaysDrifted": 42,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-09-21",
+      "totalDaysDrifted": 47,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -6706,6 +7021,13 @@
           "newEnde": "2026-09-16",
           "daysExtended": 42,
           "bearbeitungsnummer": "LE2026002969"
+        },
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-16",
+          "newEnde": "2026-09-21",
+          "daysExtended": 5,
+          "bearbeitungsnummer": "LE2026003413"
         }
       ]
     },
@@ -6807,9 +7129,9 @@
       "zulassungsinhaber": "Viatris Germany GmbH",
       "atc": "L01EX03",
       "firstObservedEnde": "2026-08-03",
-      "latestObservedEnde": "2026-09-15",
-      "totalDaysDrifted": 43,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-12",
+      "totalDaysDrifted": 70,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -6818,6 +7140,13 @@
           "newEnde": "2026-09-15",
           "daysExtended": 43,
           "bearbeitungsnummer": "LE2026002890"
+        },
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-15",
+          "newEnde": "2026-10-12",
+          "daysExtended": 27,
+          "bearbeitungsnummer": "LE2026003368"
         }
       ]
     },
@@ -7118,7 +7447,7 @@
     },
     {
       "rootId": "LE2024002963",
-      "currentBearbeitungsnummer": "LE2026001738",
+      "currentBearbeitungsnummer": "LE2026003421",
       "produkt": "Atomoxe - 1 A Pharma 60 mg Hartkapseln",
       "wirkstoffe": [
         "Atomoxetinhydrochlorid"
@@ -7126,15 +7455,23 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N06BA09",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-15",
+      "totalDaysDrifted": 15,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-15",
+          "daysExtended": 15,
+          "bearbeitungsnummer": "LE2026003421"
+        }
+      ]
     },
     {
       "rootId": "LE2024002961",
-      "currentBearbeitungsnummer": "LE2026001737",
+      "currentBearbeitungsnummer": "LE2026003420",
       "produkt": "Atomoxe - 1 A Pharma 25 mg Hartkapseln",
       "wirkstoffe": [
         "Atomoxetinhydrochlorid"
@@ -7142,15 +7479,23 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N06BA09",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003420"
+        }
+      ]
     },
     {
       "rootId": "LE2024002960",
-      "currentBearbeitungsnummer": "LE2026001736",
+      "currentBearbeitungsnummer": "LE2026003419",
       "produkt": "Atomoxe - 1 A Pharma 18 mg Hartkapseln",
       "wirkstoffe": [
         "Atomoxetinhydrochlorid"
@@ -7158,15 +7503,23 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N06BA09",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003419"
+        }
+      ]
     },
     {
       "rootId": "LE2024002958",
-      "currentBearbeitungsnummer": "LE2026001735",
+      "currentBearbeitungsnummer": "LE2026003418",
       "produkt": "Atomoxe - 1 A Pharma 10 mg Hartkapseln",
       "wirkstoffe": [
         "Atomoxetinhydrochlorid"
@@ -7174,15 +7527,23 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N06BA09",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003418"
+        }
+      ]
     },
     {
       "rootId": "LE2024002959",
-      "currentBearbeitungsnummer": "LE2026001734",
+      "currentBearbeitungsnummer": "LE2026003417",
       "produkt": "Atomoxe - 1 A Pharma 100 mg Hartkapseln",
       "wirkstoffe": [
         "Atomoxetinhydrochlorid"
@@ -7190,11 +7551,19 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N06BA09",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003417"
+        }
+      ]
     },
     {
       "rootId": "LE2025001519",
@@ -9203,7 +9572,7 @@
       "wirkstoffe": [
         "Doxorubicinhydrochlorid"
       ],
-      "zulassungsinhaber": "Bendalis GmbH",
+      "zulassungsinhaber": "BENDALIS GmbH",
       "atc": "L01DB01",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -10113,7 +10482,7 @@
       "wirkstoffe": [
         "Gemcitabinhydrochlorid"
       ],
-      "zulassungsinhaber": "Bendalis GmbH",
+      "zulassungsinhaber": "BENDALIS GmbH",
       "atc": "L01BC05",
       "firstObservedEnde": "2027-01-31",
       "latestObservedEnde": "2027-01-31",
@@ -10405,11 +10774,19 @@
       "zulassungsinhaber": "Fresenius Medical Care Deutschland GmbH",
       "atc": "A02AH",
       "firstObservedEnde": "2027-01-31",
-      "latestObservedEnde": "2027-01-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-06-15",
+      "totalDaysDrifted": 135,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2027-01-31",
+          "newEnde": "2027-06-15",
+          "daysExtended": 135,
+          "bearbeitungsnummer": "LE2026003341"
+        }
+      ]
     },
     {
       "rootId": "LE2026002998",
@@ -10550,7 +10927,7 @@
       "zulassungsinhaber": "Pierre Fabre Medicament",
       "atc": "L01EC03",
       "firstObservedEnde": "2026-12-13",
-      "latestObservedEnde": "2026-12-13",
+      "latestObservedEnde": "2026-11-15",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
@@ -10953,11 +11330,19 @@
       "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
       "atc": "D07AA02",
       "firstObservedEnde": "2026-09-27",
-      "latestObservedEnde": "2026-09-27",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-11",
+      "totalDaysDrifted": 14,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-27",
+          "newEnde": "2026-10-11",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003395"
+        }
+      ]
     },
     {
       "rootId": "LE2026003167",
@@ -10969,11 +11354,19 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "C02CA06",
       "firstObservedEnde": "2026-09-15",
-      "latestObservedEnde": "2026-09-15",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-15",
+      "totalDaysDrifted": 30,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-15",
+          "newEnde": "2026-10-15",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003376"
+        }
+      ]
     },
     {
       "rootId": "LE2026003159",
@@ -11041,7 +11434,7 @@
     },
     {
       "rootId": "LE2026003156",
-      "currentBearbeitungsnummer": "LE2026003316",
+      "currentBearbeitungsnummer": "LE2026003442",
       "produkt": "Moxifloxacin Micro Labs 5 mg/ml Augentropfen, Lösung",
       "wirkstoffe": [
         "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))"
@@ -11049,11 +11442,19 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "S01AE07",
       "firstObservedEnde": "2026-09-11",
-      "latestObservedEnde": "2026-09-11",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-09",
+      "totalDaysDrifted": 28,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-11",
+          "newEnde": "2026-10-09",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026003442"
+        }
+      ]
     },
     {
       "rootId": "LE2026003153",
@@ -11097,11 +11498,19 @@
       "zulassungsinhaber": "Riemser Pharma GmbH",
       "atc": "J04AB02",
       "firstObservedEnde": "2026-09-14",
-      "latestObservedEnde": "2026-09-14",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-12",
+      "totalDaysDrifted": 28,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-14",
+          "newEnde": "2026-10-12",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026003394"
+        }
+      ]
     },
     {
       "rootId": "LE2026003200",
@@ -11113,11 +11522,19 @@
       "zulassungsinhaber": "Riemser Pharma GmbH",
       "atc": "J04AB02",
       "firstObservedEnde": "2026-09-14",
-      "latestObservedEnde": "2026-09-14",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-12",
+      "totalDaysDrifted": 28,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-14",
+          "newEnde": "2026-10-12",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026003393"
+        }
+      ]
     },
     {
       "rootId": "LE2026003192",
@@ -11138,7 +11555,7 @@
     },
     {
       "rootId": "LE2026003190",
-      "currentBearbeitungsnummer": "LE2026003190",
+      "currentBearbeitungsnummer": "LE2026003440",
       "produkt": "Palonosetron Fresenius Kabi 250 Mikrogramm Injektionslösung",
       "wirkstoffe": [
         "Palonosetronhydrochlorid"
@@ -11146,11 +11563,19 @@
       "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
       "atc": "A04AA05",
       "firstObservedEnde": "2026-09-16",
-      "latestObservedEnde": "2026-09-16",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-07",
+      "totalDaysDrifted": 21,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-16",
+          "newEnde": "2026-10-07",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003440"
+        }
+      ]
     },
     {
       "rootId": "LE2026003217",
@@ -11235,7 +11660,7 @@
     },
     {
       "rootId": "LE2026003240",
-      "currentBearbeitungsnummer": "LE2026003240",
+      "currentBearbeitungsnummer": "LE2026003438",
       "produkt": "Cefuroxim - 1 A Pharma 125 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
       "wirkstoffe": [
         "Cefuroximaxetil"
@@ -11243,11 +11668,19 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "J01DC02",
       "firstObservedEnde": "2026-11-11",
-      "latestObservedEnde": "2026-11-11",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-13",
+      "totalDaysDrifted": 2,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-11-11",
+          "newEnde": "2026-11-13",
+          "daysExtended": 2,
+          "bearbeitungsnummer": "LE2026003438"
+        }
+      ]
     },
     {
       "rootId": "LE2026003222",
@@ -11291,11 +11724,19 @@
       "zulassungsinhaber": "Cheplapharm Registration GmbH",
       "atc": "N05AH03",
       "firstObservedEnde": "2026-09-29",
-      "latestObservedEnde": "2026-09-29",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-11",
+      "totalDaysDrifted": 43,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-22",
+          "previousEnde": "2026-09-29",
+          "newEnde": "2026-11-11",
+          "daysExtended": 43,
+          "bearbeitungsnummer": "LE2026003377"
+        }
+      ]
     },
     {
       "rootId": "LE2026003261",
@@ -11501,6 +11942,375 @@
       "atc": "H02AB02",
       "firstObservedEnde": "2027-01-29",
       "latestObservedEnde": "2027-01-29",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003457",
+      "currentBearbeitungsnummer": "LE2026003457",
+      "produkt": "Dexa-Ophtal",
+      "wirkstoffe": [
+        "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+      "atc": "S01BA01",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003456",
+      "currentBearbeitungsnummer": "LE2026003456",
+      "produkt": "Floxal 3 mg/ml Augentropfen",
+      "wirkstoffe": [
+        "Ofloxacin"
+      ],
+      "zulassungsinhaber": "Dr. Gerhard Mann chem.-pharm. Fabrik Gesellschaft mit beschränkter Haftung",
+      "atc": "S01AE01",
+      "firstObservedEnde": "2026-10-30",
+      "latestObservedEnde": "2026-10-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003454",
+      "currentBearbeitungsnummer": "LE2026003454",
+      "produkt": "Escitalopram-Micro Labs 15 mg Filmtabletten",
+      "wirkstoffe": [
+        "Escitalopramoxalat"
+      ],
+      "zulassungsinhaber": "Micro Labs GmbH",
+      "atc": "N06AB10",
+      "firstObservedEnde": "2026-10-22",
+      "latestObservedEnde": "2026-10-22",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003409",
+      "currentBearbeitungsnummer": "LE2026003409",
+      "produkt": "Baqsimi 3 mg Nasenpulver in einem Einzeldosisbehältnis",
+      "wirkstoffe": [
+        "Glucagon"
+      ],
+      "zulassungsinhaber": "Amphastar France Pharmaceuticals Rechtsform: S.A.S.",
+      "atc": "H04AA01",
+      "firstObservedEnde": "2026-11-27",
+      "latestObservedEnde": "2026-11-27",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003379",
+      "currentBearbeitungsnummer": "LE2026003405",
+      "produkt": "Valgapan 50 mg/ml Pulver zur Herstellung einer Lösung zum Einnehmen",
+      "wirkstoffe": [
+        "Valganciclovirhydrochlorid"
+      ],
+      "zulassungsinhaber": "Panacea Biotec Germany GmbH",
+      "atc": "J05AB14",
+      "firstObservedEnde": "2026-12-01",
+      "latestObservedEnde": "2026-12-01",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003404",
+      "currentBearbeitungsnummer": "LE2026003404",
+      "produkt": "Presinol 500",
+      "wirkstoffe": [
+        "Methyldopa (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "TEOFARMA S.R.L.",
+      "atc": "C02AB01",
+      "firstObservedEnde": "2026-12-18",
+      "latestObservedEnde": "2026-12-18",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003403",
+      "currentBearbeitungsnummer": "LE2026003403",
+      "produkt": "Lanthan Mylan 1000 mg Kautabletten",
+      "wirkstoffe": [
+        "Lanthan"
+      ],
+      "zulassungsinhaber": "Viatris Germany GmbH",
+      "atc": "V03AE03",
+      "firstObservedEnde": "2027-03-15",
+      "latestObservedEnde": "2027-03-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003402",
+      "currentBearbeitungsnummer": "LE2026003402",
+      "produkt": "Lanthan Mylan 500 mg Kautabletten",
+      "wirkstoffe": [
+        "Lanthan"
+      ],
+      "zulassungsinhaber": "Viatris Germany GmbH",
+      "atc": "V03AE03",
+      "firstObservedEnde": "2027-03-15",
+      "latestObservedEnde": "2027-03-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003401",
+      "currentBearbeitungsnummer": "LE2026003401",
+      "produkt": "Perindopril-dura plus 4 mg/1,25 mg Tabletten",
+      "wirkstoffe": [
+        "Indapamid",
+        "Perindopril-tert-butylamin"
+      ],
+      "zulassungsinhaber": "Viatris Germany GmbH",
+      "atc": "C09BA04",
+      "firstObservedEnde": "2026-11-16",
+      "latestObservedEnde": "2026-11-16",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003378",
+      "currentBearbeitungsnummer": "LE2026003398",
+      "produkt": "ZYPADHERA 405 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension - OP(931mg+3ml)",
+      "wirkstoffe": [
+        "Olanzapinembonat-Monohydrat"
+      ],
+      "zulassungsinhaber": "Cheplapharm Registration GmbH",
+      "atc": "N05AH03",
+      "firstObservedEnde": "2026-11-25",
+      "latestObservedEnde": "2026-11-25",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003329",
+      "currentBearbeitungsnummer": "LE2026003391",
+      "produkt": "Aknenormin 10 mg Weichkapseln",
+      "wirkstoffe": [
+        "Isotretinoin"
+      ],
+      "zulassungsinhaber": "ALMIRALL HERMAL GmbH",
+      "atc": "D10BA01",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003335",
+      "currentBearbeitungsnummer": "LE2026003383",
+      "produkt": "Seroquel Prolong 150 mg Retardtabletten",
+      "wirkstoffe": [
+        "Quetiapinfumarat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+      "atc": "N05AH04",
+      "firstObservedEnde": "2026-11-02",
+      "latestObservedEnde": "2026-11-02",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003381",
+      "currentBearbeitungsnummer": "LE2026003381",
+      "produkt": "Solian 400 mg Filmtabletten",
+      "wirkstoffe": [
+        "Amisulprid"
+      ],
+      "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+      "atc": "N05AL05",
+      "firstObservedEnde": "2026-10-16",
+      "latestObservedEnde": "2026-10-16",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003372",
+      "currentBearbeitungsnummer": "LE2026003372",
+      "produkt": "Atgam",
+      "wirkstoffe": [
+        "Anti-Human-T-Lymphozyten-Immunglobulin vom Pferd"
+      ],
+      "zulassungsinhaber": "Pfizer Pharma GmbH",
+      "atc": "L04AA03",
+      "firstObservedEnde": "2026-11-30",
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003371",
+      "currentBearbeitungsnummer": "LE2026003371",
+      "produkt": "Urapidil Stragen 90 mg retardierte Hartkapseln",
+      "wirkstoffe": [
+        "Urapidil"
+      ],
+      "zulassungsinhaber": "Stragen Pharma GmbH",
+      "atc": "C02CA06",
+      "firstObservedEnde": "2026-11-15",
+      "latestObservedEnde": "2026-11-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003343",
+      "currentBearbeitungsnummer": "LE2026003343",
+      "produkt": "Amiodaron Aurobindo 200 mg Tabletten",
+      "wirkstoffe": [
+        "Amiodaronhydrochlorid"
+      ],
+      "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+      "atc": "C01BD01",
+      "firstObservedEnde": "2026-11-23",
+      "latestObservedEnde": "2026-11-23",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003342",
+      "currentBearbeitungsnummer": "LE2026003342",
+      "produkt": "DOCITON 40mg",
+      "wirkstoffe": [
+        "Propranololhydrochlorid"
+      ],
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "atc": "C07AA05",
+      "firstObservedEnde": "2026-10-30",
+      "latestObservedEnde": "2026-10-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003340",
+      "currentBearbeitungsnummer": "LE2026003340",
+      "produkt": "EREMFAT 300 mg",
+      "wirkstoffe": [
+        "Rifampicin"
+      ],
+      "zulassungsinhaber": "Riemser Pharma GmbH",
+      "atc": "J04AB02",
+      "firstObservedEnde": "2026-09-28",
+      "latestObservedEnde": "2026-09-28",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003339",
+      "currentBearbeitungsnummer": "LE2026003339",
+      "produkt": "EREMFAT 450 mg",
+      "wirkstoffe": [
+        "Rifampicin"
+      ],
+      "zulassungsinhaber": "Riemser Pharma GmbH",
+      "atc": "J04AB02",
+      "firstObservedEnde": "2026-10-19",
+      "latestObservedEnde": "2026-10-19",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003332",
+      "currentBearbeitungsnummer": "LE2026003332",
+      "produkt": "Mivacron 10mg",
+      "wirkstoffe": [
+        "Mivacuriumchlorid"
+      ],
+      "zulassungsinhaber": "Aspen Pharma Trading Limited",
+      "atc": "M03AC10",
+      "firstObservedEnde": "2026-11-30",
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003328",
+      "currentBearbeitungsnummer": "LE2026003328",
+      "produkt": "Fasturtec 1,5 mg Pulver und Lösungsmittel zur Herstellung eines Infusionslösungskonzentrats - OP(3+3)",
+      "wirkstoffe": [
+        "Rasburicase"
+      ],
+      "zulassungsinhaber": "Sanofi Winthrop Industrie Rechtsform: S.A.",
+      "atc": "V03AF07",
+      "firstObservedEnde": "2026-10-21",
+      "latestObservedEnde": "2026-10-21",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003325",
+      "currentBearbeitungsnummer": "LE2026003325",
+      "produkt": "Braftovi 50 mg Hartkapseln",
+      "wirkstoffe": [
+        "Encorafenib"
+      ],
+      "zulassungsinhaber": "Pierre Fabre Medicament",
+      "atc": "L01EC03, L01XE46",
+      "firstObservedEnde": "2026-11-15",
+      "latestObservedEnde": "2026-11-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003323",
+      "currentBearbeitungsnummer": "LE2026003323",
+      "produkt": "carbadura 600 mg retard",
+      "wirkstoffe": [
+        "Carbamazepin"
+      ],
+      "zulassungsinhaber": "Viatris Germany GmbH",
+      "atc": "N03AF01",
+      "firstObservedEnde": "2026-12-15",
+      "latestObservedEnde": "2026-12-15",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
