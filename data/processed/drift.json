@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-22T08:09:12.883Z",
-  "snapshotCount": 53,
+  "generatedAt": "2026-09-23T08:11:25.667Z",
+  "snapshotCount": 54,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-22",
+  "lastSnapshot": "2026-09-23",
   "summary": {
-    "totalShortagesTracked": 622,
-    "driftedCount": 185,
+    "totalShortagesTracked": 624,
+    "driftedCount": 188,
     "driftRate": {
-      "drifted": 185,
-      "of": 622,
-      "percentage": 29.7
+      "drifted": 188,
+      "of": 624,
+      "percentage": 30.1
     },
-    "meanDaysDrifted": 76.5,
-    "medianDaysDrifted": 57,
-    "totalExtensionEvents": 217
+    "meanDaysDrifted": 76.6,
+    "medianDaysDrifted": 56.5,
+    "totalExtensionEvents": 221
   },
   "leaderboard": [
     {
@@ -4667,7 +4667,7 @@
     },
     {
       "rootId": "LE2026000249",
-      "currentBearbeitungsnummer": "LE2026002379",
+      "currentBearbeitungsnummer": "LE2026003464",
       "produkt": "Bronchospray Autohaler",
       "wirkstoffe": [
         "Salbutamolsulfat"
@@ -4675,11 +4675,19 @@
       "zulassungsinhaber": "JensonR+ (Ireland) Limited",
       "atc": "R03AC02",
       "firstObservedEnde": "2026-09-22",
-      "latestObservedEnde": "2026-09-22",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-02-01",
+      "totalDaysDrifted": 132,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-23",
+          "previousEnde": "2026-09-22",
+          "newEnde": "2027-02-01",
+          "daysExtended": 132,
+          "bearbeitungsnummer": "LE2026003464"
+        }
+      ]
     },
     {
       "rootId": "LE2026002025",
@@ -6196,7 +6204,7 @@
     },
     {
       "rootId": "LE2025001771",
-      "currentBearbeitungsnummer": "LE2026003025",
+      "currentBearbeitungsnummer": "LE2026003463",
       "produkt": "Arsentrioxid STADA 1 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
       "wirkstoffe": [
         "Arsen(III)-oxid"
@@ -6204,9 +6212,9 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "L01XX27",
       "firstObservedEnde": "2026-09-01",
-      "latestObservedEnde": "2026-09-24",
-      "totalDaysDrifted": 23,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-05",
+      "totalDaysDrifted": 34,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -6215,6 +6223,13 @@
           "newEnde": "2026-09-24",
           "daysExtended": 23,
           "bearbeitungsnummer": "LE2026003025"
+        },
+        {
+          "snapshotDate": "2026-09-23",
+          "previousEnde": "2026-09-24",
+          "newEnde": "2026-10-05",
+          "daysExtended": 11,
+          "bearbeitungsnummer": "LE2026003463"
         }
       ]
     },
@@ -8796,7 +8811,7 @@
     },
     {
       "rootId": "LE2025002269",
-      "currentBearbeitungsnummer": "LE2026000666",
+      "currentBearbeitungsnummer": "LE2026003461",
       "produkt": "Aprepitant STADA 125 mg und 80 mg Hartkapseln",
       "wirkstoffe": [
         "Aprepitant"
@@ -8804,15 +8819,23 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "A04AD12",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-19",
+      "totalDaysDrifted": 49,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-23",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-10-19",
+          "daysExtended": 49,
+          "bearbeitungsnummer": "LE2026003461"
+        }
+      ]
     },
     {
       "rootId": "LE2025000571",
-      "currentBearbeitungsnummer": "LE2026000651",
+      "currentBearbeitungsnummer": "LE2026003462",
       "produkt": "Aprepitant STADA 125 mg Hartkapseln",
       "wirkstoffe": [
         "Aprepitant"
@@ -8820,11 +8843,19 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "A04AD12",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-08-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-19",
+      "totalDaysDrifted": 49,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-23",
+          "previousEnde": "2026-08-31",
+          "newEnde": "2026-10-19",
+          "daysExtended": 49,
+          "bearbeitungsnummer": "LE2026003462"
+        }
+      ]
     },
     {
       "rootId": "LE2026000650",
@@ -12311,6 +12342,38 @@
       "atc": "N03AF01",
       "firstObservedEnde": "2026-12-15",
       "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003466",
+      "currentBearbeitungsnummer": "LE2026003466",
+      "produkt": "Urapidil AL 90 mg Hartkapseln, retardiert",
+      "wirkstoffe": [
+        "Urapidil"
+      ],
+      "zulassungsinhaber": "ALIUD PHARMA GmbH",
+      "atc": "C02CA06",
+      "firstObservedEnde": "2026-10-01",
+      "latestObservedEnde": "2026-10-01",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003465",
+      "currentBearbeitungsnummer": "LE2026003465",
+      "produkt": "Urapidil AL 60 mg Hartkapseln, retardiert",
+      "wirkstoffe": [
+        "Urapidil"
+      ],
+      "zulassungsinhaber": "ALIUD PHARMA GmbH",
+      "atc": "C02CA06",
+      "firstObservedEnde": "2026-10-01",
+      "latestObservedEnde": "2026-10-01",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
