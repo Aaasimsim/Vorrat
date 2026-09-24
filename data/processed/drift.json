@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-23T08:11:25.667Z",
-  "snapshotCount": 54,
+  "generatedAt": "2026-09-24T08:02:13.391Z",
+  "snapshotCount": 55,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-23",
+  "lastSnapshot": "2026-09-24",
   "summary": {
-    "totalShortagesTracked": 624,
-    "driftedCount": 188,
+    "totalShortagesTracked": 629,
+    "driftedCount": 195,
     "driftRate": {
-      "drifted": 188,
-      "of": 624,
-      "percentage": 30.1
+      "drifted": 195,
+      "of": 629,
+      "percentage": 31
     },
-    "meanDaysDrifted": 76.6,
-    "medianDaysDrifted": 56.5,
-    "totalExtensionEvents": 221
+    "meanDaysDrifted": 78.7,
+    "medianDaysDrifted": 61,
+    "totalExtensionEvents": 229
   },
   "leaderboard": [
     {
@@ -401,145 +401,98 @@
       ]
     },
     {
-      "rootId": "LE2026000747",
-      "currentBearbeitungsnummer": "LE2026003081",
-      "produkt": "Aminoven 10 %",
+      "rootId": "LE2024004050",
+      "currentBearbeitungsnummer": "LE2026003474",
+      "produkt": "Fosfomycin Eberth 2 g Pulver zur Herstellung einer Infusionslösung",
       "wirkstoffe": [
-        "Alanin",
-        "Arginin",
-        "Glycin",
-        "Histidin",
-        "Isoleucin",
-        "Leucin",
-        "Lysinacetat",
-        "Methionin",
-        "Phenylalanin",
-        "Prolin",
-        "Serin",
-        "Taurin",
-        "Threonin",
-        "Tryptophan",
-        "Tyrosin",
-        "Valin"
+        "Fosfomycin-Natrium (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-      "atc": "B05BA01",
-      "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-12-31",
-      "totalDaysDrifted": 153,
+      "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+      "atc": "J01XX01",
+      "firstObservedEnde": "2026-09-30",
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 182,
       "extensionsCount": 1,
       "chainTruncated": true,
       "extensionHistory": [
         {
-          "snapshotDate": "2026-08-22",
-          "previousEnde": "2026-07-31",
-          "newEnde": "2026-12-31",
-          "daysExtended": 153,
-          "bearbeitungsnummer": "LE2026003081"
+          "snapshotDate": "2026-09-24",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2027-03-31",
+          "daysExtended": 182,
+          "bearbeitungsnummer": "LE2026003474"
         }
       ]
     },
     {
-      "rootId": "LE2026000745",
-      "currentBearbeitungsnummer": "LE2026003258",
-      "produkt": "Aminoven infant 10%",
+      "rootId": "LE2024004051",
+      "currentBearbeitungsnummer": "LE2026003475",
+      "produkt": "Fosfomycin Eberth 4 g Pulver zur Herstellung einer Infusionslösung",
       "wirkstoffe": [
-        "Acetylcystein",
-        "Alanin",
-        "Arginin",
-        "Glycin",
-        "Histidin",
-        "Isoleucin",
-        "L-Äpfelsäure",
-        "Leucin",
-        "Lysinacetat",
-        "Methionin",
-        "N-Acetyltyrosin (Ph.Eur.)",
-        "Phenylalanin",
-        "Prolin",
-        "Serin",
-        "Taurin",
-        "Threonin",
-        "Tryptophan",
-        "Valin"
+        "Fosfomycin-Natrium (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-      "atc": "B05BA",
-      "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-12-31",
-      "totalDaysDrifted": 153,
+      "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+      "atc": "J01XX01",
+      "firstObservedEnde": "2026-09-30",
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 182,
       "extensionsCount": 1,
       "chainTruncated": true,
       "extensionHistory": [
         {
-          "snapshotDate": "2026-09-04",
-          "previousEnde": "2026-07-31",
-          "newEnde": "2026-12-31",
-          "daysExtended": 153,
-          "bearbeitungsnummer": "LE2026003258"
+          "snapshotDate": "2026-09-24",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2027-03-31",
+          "daysExtended": 182,
+          "bearbeitungsnummer": "LE2026003475"
         }
       ]
     },
     {
-      "rootId": "LE2026001590",
-      "currentBearbeitungsnummer": "LE2026003259",
-      "produkt": "Aminosteril N-Hepa 8%",
+      "rootId": "LE2024004630",
+      "currentBearbeitungsnummer": "LE2026003476",
+      "produkt": "Teicoplanin Eberth 200 mg Pulver zur Herstellung einer Injektions-/Infusionslösung oder einer Lösung zum Einnehmen",
       "wirkstoffe": [
-        "Acetylcystein",
-        "Alanin",
-        "Arginin",
-        "Essigsäure 99%",
-        "Glycin",
-        "Histidin",
-        "Isoleucin",
-        "Leucin",
-        "Lysinacetat",
-        "Methionin",
-        "Phenylalanin",
-        "Prolin",
-        "Serin",
-        "Threonin",
-        "Tryptophan",
-        "Valin"
+        "Teicoplanin"
       ],
-      "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
-      "atc": "B05BA01",
-      "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-12-31",
-      "totalDaysDrifted": 153,
-      "extensionsCount": 1,
-      "chainTruncated": false,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-09-04",
-          "previousEnde": "2026-07-31",
-          "newEnde": "2026-12-31",
-          "daysExtended": 153,
-          "bearbeitungsnummer": "LE2026003259"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2025000776",
-      "currentBearbeitungsnummer": "LE2026002903",
-      "produkt": "Galantamin-ratiopharm 16 mg Hartkapseln, retardiert",
-      "wirkstoffe": [
-        "Galantaminhydrobromid"
-      ],
-      "zulassungsinhaber": "ratiopharm GmbH",
-      "atc": "N06DA04",
-      "firstObservedEnde": "2026-07-24",
-      "latestObservedEnde": "2026-12-23",
-      "totalDaysDrifted": 152,
+      "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+      "atc": "J01XA02",
+      "firstObservedEnde": "2026-09-30",
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 182,
       "extensionsCount": 1,
       "chainTruncated": true,
       "extensionHistory": [
         {
-          "snapshotDate": "2026-08-05",
-          "previousEnde": "2026-07-24",
-          "newEnde": "2026-12-23",
-          "daysExtended": 152,
-          "bearbeitungsnummer": "LE2026002903"
+          "snapshotDate": "2026-09-24",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2027-03-31",
+          "daysExtended": 182,
+          "bearbeitungsnummer": "LE2026003476"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2024004631",
+      "currentBearbeitungsnummer": "LE2026003477",
+      "produkt": "Teicoplanin Eberth 400 mg Pulver zur Herstellung einer Injektions-/Infusionslösung oder einer Lösung zum Einnehmen",
+      "wirkstoffe": [
+        "Teicoplanin"
+      ],
+      "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+      "atc": "J01XA02",
+      "firstObservedEnde": "2026-09-30",
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 182,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-24",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2027-03-31",
+          "daysExtended": 182,
+          "bearbeitungsnummer": "LE2026003477"
         }
       ]
     }
@@ -2705,7 +2658,7 @@
     },
     {
       "rootId": "LE2026002040",
-      "currentBearbeitungsnummer": "LE2026003273",
+      "currentBearbeitungsnummer": "LE2026003482",
       "produkt": "CIL 200 mg",
       "wirkstoffe": [
         "Fenofibrat"
@@ -2713,9 +2666,9 @@
       "zulassungsinhaber": "Winthrop Arzneimittel GmbH",
       "atc": "C10AB05",
       "firstObservedEnde": "2026-09-03",
-      "latestObservedEnde": "2026-09-21",
-      "totalDaysDrifted": 18,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 58,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -2724,6 +2677,13 @@
           "newEnde": "2026-09-21",
           "daysExtended": 18,
           "bearbeitungsnummer": "LE2026003273"
+        },
+        {
+          "snapshotDate": "2026-09-24",
+          "previousEnde": "2026-09-21",
+          "newEnde": "2026-10-31",
+          "daysExtended": 40,
+          "bearbeitungsnummer": "LE2026003482"
         }
       ]
     },
@@ -4604,7 +4564,7 @@
     },
     {
       "rootId": "LE2026002387",
-      "currentBearbeitungsnummer": "LE2026002387",
+      "currentBearbeitungsnummer": "LE2026003478",
       "produkt": "Gentamicin-POS",
       "wirkstoffe": [
         "Gentamicinsulfat"
@@ -4612,11 +4572,19 @@
       "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
       "atc": "S01AA11",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 31,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-24",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-31",
+          "daysExtended": 31,
+          "bearbeitungsnummer": "LE2026003478"
+        }
+      ]
     },
     {
       "rootId": "LE2026002384",
@@ -6259,7 +6227,7 @@
     },
     {
       "rootId": "LE2024004050",
-      "currentBearbeitungsnummer": "LE2026002104",
+      "currentBearbeitungsnummer": "LE2026003474",
       "produkt": "Fosfomycin Eberth 2 g Pulver zur Herstellung einer Infusionslösung",
       "wirkstoffe": [
         "Fosfomycin-Natrium (Ph.Eur.)"
@@ -6267,15 +6235,23 @@
       "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
       "atc": "J01XX01",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 182,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-24",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2027-03-31",
+          "daysExtended": 182,
+          "bearbeitungsnummer": "LE2026003474"
+        }
+      ]
     },
     {
       "rootId": "LE2024004051",
-      "currentBearbeitungsnummer": "LE2026002103",
+      "currentBearbeitungsnummer": "LE2026003475",
       "produkt": "Fosfomycin Eberth 4 g Pulver zur Herstellung einer Infusionslösung",
       "wirkstoffe": [
         "Fosfomycin-Natrium (Ph.Eur.)"
@@ -6283,15 +6259,23 @@
       "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
       "atc": "J01XX01",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 182,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-24",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2027-03-31",
+          "daysExtended": 182,
+          "bearbeitungsnummer": "LE2026003475"
+        }
+      ]
     },
     {
       "rootId": "LE2024004630",
-      "currentBearbeitungsnummer": "LE2026002102",
+      "currentBearbeitungsnummer": "LE2026003476",
       "produkt": "Teicoplanin Eberth 200 mg Pulver zur Herstellung einer Injektions-/Infusionslösung oder einer Lösung zum Einnehmen",
       "wirkstoffe": [
         "Teicoplanin"
@@ -6299,15 +6283,23 @@
       "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
       "atc": "J01XA02",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 182,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-24",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2027-03-31",
+          "daysExtended": 182,
+          "bearbeitungsnummer": "LE2026003476"
+        }
+      ]
     },
     {
       "rootId": "LE2024004631",
-      "currentBearbeitungsnummer": "LE2026002101",
+      "currentBearbeitungsnummer": "LE2026003477",
       "produkt": "Teicoplanin Eberth 400 mg Pulver zur Herstellung einer Injektions-/Infusionslösung oder einer Lösung zum Einnehmen",
       "wirkstoffe": [
         "Teicoplanin"
@@ -6315,11 +6307,19 @@
       "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
       "atc": "J01XA02",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 182,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-24",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2027-03-31",
+          "daysExtended": 182,
+          "bearbeitungsnummer": "LE2026003477"
+        }
+      ]
     },
     {
       "rootId": "LE2025004156",
@@ -8626,7 +8626,7 @@
     },
     {
       "rootId": "LE2026000226",
-      "currentBearbeitungsnummer": "LE2026000949",
+      "currentBearbeitungsnummer": "LE2026003467",
       "produkt": "Vagantin RIEMSER",
       "wirkstoffe": [
         "Methantheliniumbromid"
@@ -8634,11 +8634,19 @@
       "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
       "atc": "D11AA",
       "firstObservedEnde": "2026-10-04",
-      "latestObservedEnde": "2026-10-04",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 88,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-24",
+          "previousEnde": "2026-10-04",
+          "newEnde": "2026-12-31",
+          "daysExtended": 88,
+          "bearbeitungsnummer": "LE2026003467"
+        }
+      ]
     },
     {
       "rootId": "LE2023002181",
@@ -8899,7 +8907,7 @@
     },
     {
       "rootId": "LE2025002788",
-      "currentBearbeitungsnummer": "LE2026000632",
+      "currentBearbeitungsnummer": "LE2026003479",
       "produkt": "WILLFACT 1000 I.E.",
       "wirkstoffe": [
         "Von Willebrand-Faktor"
@@ -8907,11 +8915,19 @@
       "zulassungsinhaber": "LFB Biomedicaments",
       "atc": "B02BD10",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-24",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-30",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003479"
+        }
+      ]
     },
     {
       "rootId": "LE2024004304",
@@ -12374,6 +12390,86 @@
       "atc": "C02CA06",
       "firstObservedEnde": "2026-10-01",
       "latestObservedEnde": "2026-10-01",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003472",
+      "currentBearbeitungsnummer": "LE2026003472",
+      "produkt": "Berirab",
+      "wirkstoffe": [
+        "Tollwut-Immunglobulin vom Menschen"
+      ],
+      "zulassungsinhaber": "CSL Behring GmbH",
+      "atc": "J06BB05",
+      "firstObservedEnde": "2026-10-31",
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003471",
+      "currentBearbeitungsnummer": "LE2026003471",
+      "produkt": "Berirab",
+      "wirkstoffe": [
+        "Tollwut-Immunglobulin vom Menschen"
+      ],
+      "zulassungsinhaber": "CSL Behring GmbH",
+      "atc": "J06BB05",
+      "firstObservedEnde": "2026-10-31",
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003470",
+      "currentBearbeitungsnummer": "LE2026003470",
+      "produkt": "Levomepromazin-neuraxpharm 25 mg/ml Injektionslösung",
+      "wirkstoffe": [
+        "Levomepromazinhydrochlorid"
+      ],
+      "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
+      "atc": "N05AA02",
+      "firstObservedEnde": "2026-11-30",
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003469",
+      "currentBearbeitungsnummer": "LE2026003469",
+      "produkt": "Fusicutan Creme",
+      "wirkstoffe": [
+        "Fusidinsäure (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+      "atc": "D06AX01",
+      "firstObservedEnde": "2026-11-01",
+      "latestObservedEnde": "2026-11-01",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003468",
+      "currentBearbeitungsnummer": "LE2026003468",
+      "produkt": "Doxyderma 50 mg",
+      "wirkstoffe": [
+        "Doxycyclin-Monohydrat"
+      ],
+      "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+      "atc": "D10BX",
+      "firstObservedEnde": "2026-11-22",
+      "latestObservedEnde": "2026-11-22",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
