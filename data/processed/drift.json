@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-24T08:02:13.391Z",
-  "snapshotCount": 55,
+  "generatedAt": "2026-09-25T08:26:48.522Z",
+  "snapshotCount": 56,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-24",
+  "lastSnapshot": "2026-09-25",
   "summary": {
-    "totalShortagesTracked": 629,
-    "driftedCount": 195,
+    "totalShortagesTracked": 635,
+    "driftedCount": 197,
     "driftRate": {
-      "drifted": 195,
-      "of": 629,
+      "drifted": 197,
+      "of": 635,
       "percentage": 31
     },
-    "meanDaysDrifted": 78.7,
+    "meanDaysDrifted": 80.2,
     "medianDaysDrifted": 61,
-    "totalExtensionEvents": 229
+    "totalExtensionEvents": 242
   },
   "leaderboard": [
     {
@@ -728,7 +728,7 @@
     },
     {
       "rootId": "LE2026002864",
-      "currentBearbeitungsnummer": "LE2026003251",
+      "currentBearbeitungsnummer": "LE2026003494",
       "produkt": "Visipaque 270",
       "wirkstoffe": [
         "Iodixanol"
@@ -736,9 +736,9 @@
       "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
       "atc": "V08AB09",
       "firstObservedEnde": "2026-09-15",
-      "latestObservedEnde": "2026-10-14",
-      "totalDaysDrifted": 85,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-18",
+      "totalDaysDrifted": 120,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -747,12 +747,19 @@
           "newEnde": "2026-12-09",
           "daysExtended": 85,
           "bearbeitungsnummer": "LE2026003007"
+        },
+        {
+          "snapshotDate": "2026-09-25",
+          "previousEnde": "2026-10-14",
+          "newEnde": "2026-11-18",
+          "daysExtended": 35,
+          "bearbeitungsnummer": "LE2026003494"
         }
       ]
     },
     {
       "rootId": "LE2026000761",
-      "currentBearbeitungsnummer": "LE2026003184",
+      "currentBearbeitungsnummer": "LE2026003507",
       "produkt": "Tobramycin SUN 300 mg Lösung für einen Vernebler",
       "wirkstoffe": [
         "Tobramycin"
@@ -760,9 +767,9 @@
       "zulassungsinhaber": "Sun Pharmaceuticals Germany GmbH",
       "atc": "J01GB01",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 30,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -771,6 +778,13 @@
           "newEnde": "2026-09-30",
           "daysExtended": 30,
           "bearbeitungsnummer": "LE2026003184"
+        },
+        {
+          "snapshotDate": "2026-09-25",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-31",
+          "daysExtended": 31,
+          "bearbeitungsnummer": "LE2026003507"
         }
       ]
     },
@@ -808,7 +822,7 @@
     },
     {
       "rootId": "LE2026001491",
-      "currentBearbeitungsnummer": "LE2026003186",
+      "currentBearbeitungsnummer": "LE2026003502",
       "produkt": "CEFACLOR BASICS 250 mg TS",
       "wirkstoffe": [
         "Cefaclor-Monohydrat"
@@ -816,9 +830,9 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "J01DC04",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 30,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -827,12 +841,19 @@
           "newEnde": "2026-09-30",
           "daysExtended": 30,
           "bearbeitungsnummer": "LE2026003186"
+        },
+        {
+          "snapshotDate": "2026-09-25",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-31",
+          "daysExtended": 31,
+          "bearbeitungsnummer": "LE2026003502"
         }
       ]
     },
     {
       "rootId": "LE2026001490",
-      "currentBearbeitungsnummer": "LE2026003187",
+      "currentBearbeitungsnummer": "LE2026003501",
       "produkt": "CEFACLOR BASICS 125 mg TS",
       "wirkstoffe": [
         "Cefaclor-Monohydrat"
@@ -840,9 +861,9 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "J01DC04",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 30,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -851,12 +872,19 @@
           "newEnde": "2026-09-30",
           "daysExtended": 30,
           "bearbeitungsnummer": "LE2026003187"
+        },
+        {
+          "snapshotDate": "2026-09-25",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-31",
+          "daysExtended": 31,
+          "bearbeitungsnummer": "LE2026003501"
         }
       ]
     },
     {
       "rootId": "LE2026001943",
-      "currentBearbeitungsnummer": "LE2026003179",
+      "currentBearbeitungsnummer": "LE2026003503",
       "produkt": "CEFUROX BASICS 125mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
       "wirkstoffe": [
         "Cefuroximaxetil"
@@ -864,9 +892,9 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "J01DC02",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 30,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -875,6 +903,13 @@
           "newEnde": "2026-09-30",
           "daysExtended": 30,
           "bearbeitungsnummer": "LE2026003179"
+        },
+        {
+          "snapshotDate": "2026-09-25",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-31",
+          "daysExtended": 31,
+          "bearbeitungsnummer": "LE2026003503"
         }
       ]
     },
@@ -904,7 +939,7 @@
     },
     {
       "rootId": "LE2025003301",
-      "currentBearbeitungsnummer": "LE2026003178",
+      "currentBearbeitungsnummer": "LE2026003504",
       "produkt": "CIPRO BASICS 250 mg Filmtabletten",
       "wirkstoffe": [
         "Ciprofloxacinhydrochlorid-Monohydrat"
@@ -912,9 +947,9 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "J01MA02",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 30,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -923,12 +958,19 @@
           "newEnde": "2026-09-30",
           "daysExtended": 30,
           "bearbeitungsnummer": "LE2026003178"
+        },
+        {
+          "snapshotDate": "2026-09-25",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-31",
+          "daysExtended": 31,
+          "bearbeitungsnummer": "LE2026003504"
         }
       ]
     },
     {
       "rootId": "LE2025003123",
-      "currentBearbeitungsnummer": "LE2026003173",
+      "currentBearbeitungsnummer": "LE2026003509",
       "produkt": "EZETIMIB/SIMVA BASICS 10 mg/80 mg Tabletten",
       "wirkstoffe": [
         "Ezetimib",
@@ -937,9 +979,9 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "C10BA02",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 30,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -948,12 +990,19 @@
           "newEnde": "2026-09-30",
           "daysExtended": 30,
           "bearbeitungsnummer": "LE2026003173"
+        },
+        {
+          "snapshotDate": "2026-09-25",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-31",
+          "daysExtended": 31,
+          "bearbeitungsnummer": "LE2026003509"
         }
       ]
     },
     {
       "rootId": "LE2025003122",
-      "currentBearbeitungsnummer": "LE2026003174",
+      "currentBearbeitungsnummer": "LE2026003510",
       "produkt": "EZETIMIB/SIMVA BASICS 10 mg/40 mg Tabletten",
       "wirkstoffe": [
         "Ezetimib",
@@ -962,9 +1011,9 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "C10BA02",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 30,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -973,12 +1022,19 @@
           "newEnde": "2026-09-30",
           "daysExtended": 30,
           "bearbeitungsnummer": "LE2026003174"
+        },
+        {
+          "snapshotDate": "2026-09-25",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-31",
+          "daysExtended": 31,
+          "bearbeitungsnummer": "LE2026003510"
         }
       ]
     },
     {
       "rootId": "LE2025003121",
-      "currentBearbeitungsnummer": "LE2026003176",
+      "currentBearbeitungsnummer": "LE2026003512",
       "produkt": "EZETIMIB/SIMVA BASICS 10 mg/20 mg Tabletten",
       "wirkstoffe": [
         "Ezetimib",
@@ -987,9 +1043,9 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "C10BA02",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 30,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -998,12 +1054,19 @@
           "newEnde": "2026-09-30",
           "daysExtended": 30,
           "bearbeitungsnummer": "LE2026003176"
+        },
+        {
+          "snapshotDate": "2026-09-25",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-31",
+          "daysExtended": 31,
+          "bearbeitungsnummer": "LE2026003512"
         }
       ]
     },
     {
       "rootId": "LE2025003120",
-      "currentBearbeitungsnummer": "LE2026003175",
+      "currentBearbeitungsnummer": "LE2026003511",
       "produkt": "EZETIMIB/SIMVA BASICS 10 mg/10 mg Tabletten",
       "wirkstoffe": [
         "Ezetimib",
@@ -1012,9 +1075,9 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "C10BA02",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 30,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1023,6 +1086,13 @@
           "newEnde": "2026-09-30",
           "daysExtended": 30,
           "bearbeitungsnummer": "LE2026003175"
+        },
+        {
+          "snapshotDate": "2026-09-25",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-31",
+          "daysExtended": 31,
+          "bearbeitungsnummer": "LE2026003511"
         }
       ]
     },
@@ -1044,7 +1114,7 @@
     },
     {
       "rootId": "LE2026002382",
-      "currentBearbeitungsnummer": "LE2026003213",
+      "currentBearbeitungsnummer": "LE2026003492",
       "produkt": "ACCUPAQUE 350",
       "wirkstoffe": [
         "Iohexol"
@@ -1075,7 +1145,7 @@
     },
     {
       "rootId": "LE2026001099",
-      "currentBearbeitungsnummer": "LE2026003250",
+      "currentBearbeitungsnummer": "LE2026003493",
       "produkt": "Visipaque 320",
       "wirkstoffe": [
         "Iodixanol"
@@ -1083,9 +1153,9 @@
       "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
       "atc": "V08AB09",
       "firstObservedEnde": "2026-10-15",
-      "latestObservedEnde": "2026-09-23",
-      "totalDaysDrifted": 7,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-07",
+      "totalDaysDrifted": 21,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1094,6 +1164,13 @@
           "newEnde": "2026-09-23",
           "daysExtended": 7,
           "bearbeitungsnummer": "LE2026003250"
+        },
+        {
+          "snapshotDate": "2026-09-25",
+          "previousEnde": "2026-09-23",
+          "newEnde": "2026-10-07",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003493"
         }
       ]
     },
@@ -4364,7 +4441,7 @@
     },
     {
       "rootId": "LE2025002454",
-      "currentBearbeitungsnummer": "LE2026002423",
+      "currentBearbeitungsnummer": "LE2026003491",
       "produkt": "Quetiapin Accord 50 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -4372,11 +4449,19 @@
       "zulassungsinhaber": "Accord Healthcare B.V.",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 31,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-25",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-31",
+          "daysExtended": 31,
+          "bearbeitungsnummer": "LE2026003491"
+        }
+      ]
     },
     {
       "rootId": "LE2025003695",
@@ -5939,7 +6024,7 @@
     },
     {
       "rootId": "LE2025003331",
-      "currentBearbeitungsnummer": "LE2026002131",
+      "currentBearbeitungsnummer": "LE2026003488",
       "produkt": "Seroquel Prolong 200 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -8108,7 +8193,7 @@
     },
     {
       "rootId": "LE2026000901",
-      "currentBearbeitungsnummer": "LE2026001378",
+      "currentBearbeitungsnummer": "LE2026003505",
       "produkt": "LEVETIRACETAM BASICS 1000 mg Filmtabletten",
       "wirkstoffe": [
         "Levetiracetam"
@@ -8506,7 +8591,7 @@
     },
     {
       "rootId": "LE2026001165",
-      "currentBearbeitungsnummer": "LE2026001165",
+      "currentBearbeitungsnummer": "LE2026003485",
       "produkt": "Nifedipin AL T 20 retard",
       "wirkstoffe": [
         "Nifedipin"
@@ -8514,11 +8599,19 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "C08CA05",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-25",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-12-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026003485"
+        }
+      ]
     },
     {
       "rootId": "LE2026001161",
@@ -12470,6 +12563,129 @@
       "atc": "D10BX",
       "firstObservedEnde": "2026-11-22",
       "latestObservedEnde": "2026-11-22",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003508",
+      "currentBearbeitungsnummer": "LE2026003508",
+      "produkt": "VALSARTAN BASICS 80 mg Filmtabletten",
+      "wirkstoffe": [
+        "Valsartan"
+      ],
+      "zulassungsinhaber": "Basics GmbH",
+      "atc": "C09CA03",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003497",
+      "currentBearbeitungsnummer": "LE2026003497",
+      "produkt": "NuTRIflex Omega peri novo Emulsion zur Infusion",
+      "wirkstoffe": [
+        "Alanin",
+        "Arginin",
+        "Aspartinsäure",
+        "Calciumchlorid-Dihydrat",
+        "Glucose-Monohydrat (Ph.Eur.)",
+        "Glutaminsäure",
+        "Glycin",
+        "Histidinhydrochlorid-Monohydrat",
+        "Isoleucin",
+        "Kaliumacetat",
+        "Leucin",
+        "Lysinhydrochlorid",
+        "Magnesiumacetat-Tetrahydrat",
+        "Methionin",
+        "Mittelkettige Triglyceride",
+        "Natriumacetat-Trihydrat",
+        "Natriumchlorid",
+        "Natriumdihydrogenphosphat-Dihydrat",
+        "Natriumhydroxid",
+        "Omega-3-Säuren-Triglyceride ((mit Angaben zur Herkunft und/oder zur Zusammensetzung))",
+        "Phenylalanin",
+        "Prolin",
+        "Raffiniertes Sojaöl (Ph.Eur.)",
+        "Serin",
+        "Threonin",
+        "Tryptophan",
+        "Valin",
+        "Zinkacetat-Dihydrat"
+      ],
+      "zulassungsinhaber": "B. Braun Melsungen Aktiengesellschaft",
+      "atc": "B05BA10",
+      "firstObservedEnde": "2026-10-30",
+      "latestObservedEnde": "2026-10-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003496",
+      "currentBearbeitungsnummer": "LE2026003496",
+      "produkt": "ACCUPAQUE 300",
+      "wirkstoffe": [
+        "Iohexol"
+      ],
+      "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
+      "atc": "V08AB02",
+      "firstObservedEnde": "2026-10-14",
+      "latestObservedEnde": "2026-10-14",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003495",
+      "currentBearbeitungsnummer": "LE2026003495",
+      "produkt": "Xarelto 1 mg/ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+      "wirkstoffe": [
+        "Rivaroxaban"
+      ],
+      "zulassungsinhaber": "Bayer Aktiengesellschaft",
+      "atc": "B01AF01",
+      "firstObservedEnde": "2028-12-31",
+      "latestObservedEnde": "2028-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003490",
+      "currentBearbeitungsnummer": "LE2026003490",
+      "produkt": "Cisplatin Accord 1 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+      "wirkstoffe": [
+        "Cisplatin"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "L01XA01",
+      "firstObservedEnde": "2026-11-30",
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003489",
+      "currentBearbeitungsnummer": "LE2026003489",
+      "produkt": "Carboplatin Accord 10 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+      "wirkstoffe": [
+        "Carboplatin"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "L01XA02",
+      "firstObservedEnde": "2026-11-30",
+      "latestObservedEnde": "2026-11-30",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
