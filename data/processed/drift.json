@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-25T08:26:48.522Z",
-  "snapshotCount": 56,
+  "generatedAt": "2026-09-26T08:13:43.691Z",
+  "snapshotCount": 57,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-25",
+  "lastSnapshot": "2026-09-26",
   "summary": {
-    "totalShortagesTracked": 635,
-    "driftedCount": 197,
+    "totalShortagesTracked": 637,
+    "driftedCount": 199,
     "driftRate": {
-      "drifted": 197,
-      "of": 635,
-      "percentage": 31
+      "drifted": 199,
+      "of": 637,
+      "percentage": 31.2
     },
-    "meanDaysDrifted": 80.2,
+    "meanDaysDrifted": 80.3,
     "medianDaysDrifted": 61,
-    "totalExtensionEvents": 242
+    "totalExtensionEvents": 244
   },
   "leaderboard": [
     {
@@ -1098,7 +1098,7 @@
     },
     {
       "rootId": "LE2026000605",
-      "currentBearbeitungsnummer": "LE2026002850",
+      "currentBearbeitungsnummer": "LE2026003523",
       "produkt": "Flurazepam real",
       "wirkstoffe": [
         "Flurazepam"
@@ -1106,11 +1106,19 @@
       "zulassungsinhaber": "Riemser Pharma GmbH",
       "atc": "N05CD01",
       "firstObservedEnde": "2026-09-28",
-      "latestObservedEnde": "2026-09-28",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-28",
+      "totalDaysDrifted": 91,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-26",
+          "previousEnde": "2026-09-28",
+          "newEnde": "2026-12-28",
+          "daysExtended": 91,
+          "bearbeitungsnummer": "LE2026003523"
+        }
+      ]
     },
     {
       "rootId": "LE2026002382",
@@ -1240,7 +1248,7 @@
     },
     {
       "rootId": "LE2025004413",
-      "currentBearbeitungsnummer": "LE2026002843",
+      "currentBearbeitungsnummer": "LE2026003522",
       "produkt": "Amsparity",
       "wirkstoffe": [
         "Adalimumab"
@@ -1248,11 +1256,19 @@
       "zulassungsinhaber": "Pfizer Europe MA EEIG",
       "atc": "L04AB04",
       "firstObservedEnde": "2026-09-25",
-      "latestObservedEnde": "2026-09-25",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 97,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-26",
+          "previousEnde": "2026-09-25",
+          "newEnde": "2026-12-31",
+          "daysExtended": 97,
+          "bearbeitungsnummer": "LE2026003522"
+        }
+      ]
     },
     {
       "rootId": "LE2025004414",
@@ -11075,7 +11091,7 @@
     },
     {
       "rootId": "LE2026003077",
-      "currentBearbeitungsnummer": "LE2026003193",
+      "currentBearbeitungsnummer": "LE2026003518",
       "produkt": "Ropivacainhydrochlorid Kabi 2 mg/ml Injektionslösung",
       "wirkstoffe": [
         "Ropivacainhydrochlorid"
@@ -11083,7 +11099,7 @@
       "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
       "atc": "N01BB09",
       "firstObservedEnde": "2026-09-14",
-      "latestObservedEnde": "2026-11-24",
+      "latestObservedEnde": "2026-11-16",
       "totalDaysDrifted": 71,
       "extensionsCount": 1,
       "chainTruncated": false,
@@ -12686,6 +12702,38 @@
       "atc": "L01XA02",
       "firstObservedEnde": "2026-11-30",
       "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003520",
+      "currentBearbeitungsnummer": "LE2026003521",
+      "produkt": "Methofill 50 mg/ml Injektionslösung in einer Fertigspritze",
+      "wirkstoffe": [
+        "Methotrexat"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "L04AX03",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003519",
+      "currentBearbeitungsnummer": "LE2026003519",
+      "produkt": "Oxaliplatin Accord 5 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+      "wirkstoffe": [
+        "Oxaloplatin"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "L01XA03",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
