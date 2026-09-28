@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-27T08:50:35.608Z",
-  "snapshotCount": 58,
+  "generatedAt": "2026-09-28T09:14:44.389Z",
+  "snapshotCount": 59,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-27",
+  "lastSnapshot": "2026-09-28",
   "summary": {
-    "totalShortagesTracked": 637,
+    "totalShortagesTracked": 639,
     "driftedCount": 199,
     "driftRate": {
       "drifted": 199,
-      "of": 637,
-      "percentage": 31.2
+      "of": 639,
+      "percentage": 31.1
     },
     "meanDaysDrifted": 80.3,
     "medianDaysDrifted": 61,
@@ -12734,6 +12734,38 @@
       "atc": "L01XA03",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003525",
+      "currentBearbeitungsnummer": "LE2026003525",
+      "produkt": "Carboplatin Hikma 10 mg/ml Infusionslösung",
+      "wirkstoffe": [
+        "Carboplatin"
+      ],
+      "zulassungsinhaber": "Hikma Farmaceutica (Portugal), S.A.",
+      "atc": "L01XA02",
+      "firstObservedEnde": "2026-10-30",
+      "latestObservedEnde": "2026-10-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003524",
+      "currentBearbeitungsnummer": "LE2026003524",
+      "produkt": "Seroquel Prolong 300 mg Retardtabletten",
+      "wirkstoffe": [
+        "Quetiapinfumarat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
+      "atc": "N05AH04",
+      "firstObservedEnde": "2027-04-15",
+      "latestObservedEnde": "2027-04-15",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
