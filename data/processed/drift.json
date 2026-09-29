@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-28T09:14:44.389Z",
-  "snapshotCount": 59,
+  "generatedAt": "2026-09-29T09:22:36.589Z",
+  "snapshotCount": 60,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-28",
+  "lastSnapshot": "2026-09-29",
   "summary": {
-    "totalShortagesTracked": 639,
-    "driftedCount": 199,
+    "totalShortagesTracked": 645,
+    "driftedCount": 209,
     "driftRate": {
-      "drifted": 199,
-      "of": 639,
-      "percentage": 31.1
+      "drifted": 209,
+      "of": 645,
+      "percentage": 32.4
     },
-    "meanDaysDrifted": 80.3,
+    "meanDaysDrifted": 80.1,
     "medianDaysDrifted": 61,
-    "totalExtensionEvents": 244
+    "totalExtensionEvents": 258
   },
   "leaderboard": [
     {
@@ -1424,7 +1424,7 @@
     },
     {
       "rootId": "LE2025001024",
-      "currentBearbeitungsnummer": "LE2026002834",
+      "currentBearbeitungsnummer": "LE2026003541",
       "produkt": "Tacrolimus AL 5 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Tacrolimus-Monohydrat"
@@ -1432,15 +1432,23 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "L04AD02",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-29",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-12-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026003541"
+        }
+      ]
     },
     {
       "rootId": "LE2025001022",
-      "currentBearbeitungsnummer": "LE2026002833",
+      "currentBearbeitungsnummer": "LE2026003542",
       "produkt": "Tacrolimus AL 1 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Tacrolimus-Monohydrat"
@@ -1448,15 +1456,23 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "L04AD02",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-29",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-12-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026003542"
+        }
+      ]
     },
     {
       "rootId": "LE2025001021",
-      "currentBearbeitungsnummer": "LE2026002832",
+      "currentBearbeitungsnummer": "LE2026003543",
       "produkt": "Tacrolimus AL 0,5 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Tacrolimus-Monohydrat"
@@ -1464,15 +1480,23 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "L04AD02",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-29",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-12-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026003543"
+        }
+      ]
     },
     {
       "rootId": "LE2025001023",
-      "currentBearbeitungsnummer": "LE2026002831",
+      "currentBearbeitungsnummer": "LE2026003544",
       "produkt": "Tacrolimus AL 3 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Tacrolimus-Monohydrat"
@@ -1480,11 +1504,19 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "L04AD02",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-29",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-12-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026003544"
+        }
+      ]
     },
     {
       "rootId": "LE2023004182",
@@ -1512,7 +1544,7 @@
     },
     {
       "rootId": "LE2026002219",
-      "currentBearbeitungsnummer": "LE2026003152",
+      "currentBearbeitungsnummer": "LE2026003547",
       "produkt": "Risperidon AL 6 mg Filmtabletten",
       "wirkstoffe": [
         "Risperidon"
@@ -1520,9 +1552,9 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "N05AX08",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 30,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-26",
+      "totalDaysDrifted": 87,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1531,6 +1563,13 @@
           "newEnde": "2026-09-30",
           "daysExtended": 30,
           "bearbeitungsnummer": "LE2026003152"
+        },
+        {
+          "snapshotDate": "2026-09-29",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-26",
+          "daysExtended": 57,
+          "bearbeitungsnummer": "LE2026003547"
         }
       ]
     },
@@ -1622,7 +1661,7 @@
     },
     {
       "rootId": "LE2026002206",
-      "currentBearbeitungsnummer": "LE2026002997",
+      "currentBearbeitungsnummer": "LE2026003537",
       "produkt": "Nexviadyme",
       "wirkstoffe": [
         "Avalglucosidase alfa"
@@ -1630,9 +1669,9 @@
       "zulassungsinhaber": "Sanofi B.V.",
       "atc": "A16AB22",
       "firstObservedEnde": "2026-08-13",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 48,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 140,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1641,6 +1680,13 @@
           "newEnde": "2026-09-30",
           "daysExtended": 48,
           "bearbeitungsnummer": "LE2026002997"
+        },
+        {
+          "snapshotDate": "2026-09-29",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-12-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026003537"
         }
       ]
     },
@@ -1879,7 +1925,7 @@
     },
     {
       "rootId": "LE2025002963",
-      "currentBearbeitungsnummer": "LE2026002794",
+      "currentBearbeitungsnummer": "LE2026003530",
       "produkt": "Phenhydan Injektionslösung",
       "wirkstoffe": [
         "Phenytoin-Natrium"
@@ -1887,15 +1933,23 @@
       "zulassungsinhaber": "Desitin Arzneimittel GmbH",
       "atc": "N03AB02",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-15",
+      "totalDaysDrifted": 46,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-29",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-11-15",
+          "daysExtended": 46,
+          "bearbeitungsnummer": "LE2026003530"
+        }
+      ]
     },
     {
       "rootId": "LE2026002452",
-      "currentBearbeitungsnummer": "LE2026003448",
+      "currentBearbeitungsnummer": "LE2026003534",
       "produkt": "Pantoprazol-Micro Labs 40 mg magensaftresistente Tabletten",
       "wirkstoffe": [
         "Pantoprazol-Natrium-Sesquihydrat"
@@ -1903,9 +1957,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "A02BC02",
       "firstObservedEnde": "2026-08-28",
-      "latestObservedEnde": "2026-09-25",
-      "totalDaysDrifted": 45,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-10-28",
+      "totalDaysDrifted": 78,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1921,6 +1975,13 @@
           "newEnde": "2026-09-25",
           "daysExtended": 14,
           "bearbeitungsnummer": "LE2026003448"
+        },
+        {
+          "snapshotDate": "2026-09-29",
+          "previousEnde": "2026-09-25",
+          "newEnde": "2026-10-28",
+          "daysExtended": 33,
+          "bearbeitungsnummer": "LE2026003534"
         }
       ]
     },
@@ -5344,7 +5405,7 @@
     },
     {
       "rootId": "LE2026002270",
-      "currentBearbeitungsnummer": "LE2026002270",
+      "currentBearbeitungsnummer": "LE2026003531",
       "produkt": "Levosert 20 Mikrogramm/24 Stunden intrauterines Wirkstofffreisetzungssystem",
       "wirkstoffe": [
         "Levonorgestrel"
@@ -5352,11 +5413,19 @@
       "zulassungsinhaber": "Gedeon Richter Plc.",
       "atc": "G02BA03",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-29",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-12-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026003531"
+        }
+      ]
     },
     {
       "rootId": "LE2026002267",
@@ -11373,7 +11442,7 @@
     },
     {
       "rootId": "LE2026003093",
-      "currentBearbeitungsnummer": "LE2026003093",
+      "currentBearbeitungsnummer": "LE2026003538",
       "produkt": "L-Thyroxin Henning 75",
       "wirkstoffe": [
         "Levothyroxin-Natrium"
@@ -11630,7 +11699,7 @@
     },
     {
       "rootId": "LE2026003204",
-      "currentBearbeitungsnummer": "LE2026003204",
+      "currentBearbeitungsnummer": "LE2026003539",
       "produkt": "Aggrastat 50 Mikrogramm/ml Infusionslösung",
       "wirkstoffe": [
         "Tirofibanhydrochlorid-Monohydrat"
@@ -11638,11 +11707,19 @@
       "zulassungsinhaber": "Advanz Pharma Limited",
       "atc": "B01AC17",
       "firstObservedEnde": "2026-10-15",
-      "latestObservedEnde": "2026-10-15",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-01",
+      "totalDaysDrifted": 17,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-29",
+          "previousEnde": "2026-10-15",
+          "newEnde": "2026-11-01",
+          "daysExtended": 17,
+          "bearbeitungsnummer": "LE2026003539"
+        }
+      ]
     },
     {
       "rootId": "LE2026003201",
@@ -11711,7 +11788,7 @@
     },
     {
       "rootId": "LE2026003190",
-      "currentBearbeitungsnummer": "LE2026003440",
+      "currentBearbeitungsnummer": "LE2026003553",
       "produkt": "Palonosetron Fresenius Kabi 250 Mikrogramm Injektionslösung",
       "wirkstoffe": [
         "Palonosetronhydrochlorid"
@@ -11719,9 +11796,9 @@
       "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
       "atc": "A04AA05",
       "firstObservedEnde": "2026-09-16",
-      "latestObservedEnde": "2026-10-07",
-      "totalDaysDrifted": 21,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-26",
+      "totalDaysDrifted": 40,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -11730,6 +11807,13 @@
           "newEnde": "2026-10-07",
           "daysExtended": 21,
           "bearbeitungsnummer": "LE2026003440"
+        },
+        {
+          "snapshotDate": "2026-09-29",
+          "previousEnde": "2026-10-07",
+          "newEnde": "2026-10-26",
+          "daysExtended": 19,
+          "bearbeitungsnummer": "LE2026003553"
         }
       ]
     },
@@ -11928,7 +12012,7 @@
     },
     {
       "rootId": "LE2026003256",
-      "currentBearbeitungsnummer": "LE2026003256",
+      "currentBearbeitungsnummer": "LE2026003540",
       "produkt": "Tacrolimus AL 5 mg Hartkapseln",
       "wirkstoffe": [
         "Tacrolimus"
@@ -11936,15 +12020,23 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "L04AD02",
       "firstObservedEnde": "2026-09-29",
-      "latestObservedEnde": "2026-09-29",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-08",
+      "totalDaysDrifted": 9,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-29",
+          "previousEnde": "2026-09-29",
+          "newEnde": "2026-10-08",
+          "daysExtended": 9,
+          "bearbeitungsnummer": "LE2026003540"
+        }
+      ]
     },
     {
       "rootId": "LE2026003255",
-      "currentBearbeitungsnummer": "LE2026003255",
+      "currentBearbeitungsnummer": "LE2026003545",
       "produkt": "Cilostazol AL 50 mg Tabletten",
       "wirkstoffe": [
         "Cilostazol"
@@ -11952,11 +12044,19 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "B01AC23",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-06",
+      "totalDaysDrifted": 6,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-29",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-06",
+          "daysExtended": 6,
+          "bearbeitungsnummer": "LE2026003545"
+        }
+      ]
     },
     {
       "rootId": "LE2026003275",
@@ -12378,7 +12478,7 @@
     },
     {
       "rootId": "LE2026003340",
-      "currentBearbeitungsnummer": "LE2026003340",
+      "currentBearbeitungsnummer": "LE2026003546",
       "produkt": "EREMFAT 300 mg",
       "wirkstoffe": [
         "Rifampicin"
@@ -12386,11 +12486,19 @@
       "zulassungsinhaber": "Riemser Pharma GmbH",
       "atc": "J04AB02",
       "firstObservedEnde": "2026-09-28",
-      "latestObservedEnde": "2026-09-28",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-19",
+      "totalDaysDrifted": 21,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-29",
+          "previousEnde": "2026-09-28",
+          "newEnde": "2026-10-19",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003546"
+        }
+      ]
     },
     {
       "rootId": "LE2026003339",
@@ -12766,6 +12874,102 @@
       "atc": "N05AH04",
       "firstObservedEnde": "2027-04-15",
       "latestObservedEnde": "2027-04-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003552",
+      "currentBearbeitungsnummer": "LE2026003552",
+      "produkt": "Scandicain 2 %",
+      "wirkstoffe": [
+        "Mepivacainhydrochlorid"
+      ],
+      "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+      "atc": "N01BB03",
+      "firstObservedEnde": "2026-11-30",
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003551",
+      "currentBearbeitungsnummer": "LE2026003551",
+      "produkt": "Scandicain 2 % Fl. 50 ml",
+      "wirkstoffe": [
+        "Mepivacainhydrochlorid"
+      ],
+      "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+      "atc": "N01BB03",
+      "firstObservedEnde": "2026-11-05",
+      "latestObservedEnde": "2026-11-05",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003550",
+      "currentBearbeitungsnummer": "LE2026003550",
+      "produkt": "Scandicain 1 %",
+      "wirkstoffe": [
+        "Mepivacainhydrochlorid"
+      ],
+      "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+      "atc": "N01BB03",
+      "firstObservedEnde": "2026-11-30",
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003548",
+      "currentBearbeitungsnummer": "LE2026003548",
+      "produkt": "Scandicain 1% Fl. 50 ml",
+      "wirkstoffe": [
+        "Mepivacainhydrochlorid"
+      ],
+      "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+      "atc": "N01BB03",
+      "firstObservedEnde": "2026-11-30",
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003536",
+      "currentBearbeitungsnummer": "LE2026003536",
+      "produkt": "Furadantin Retard",
+      "wirkstoffe": [
+        "Nitrofurantoin"
+      ],
+      "zulassungsinhaber": "Amdipharm Limited",
+      "atc": "J01XE01",
+      "firstObservedEnde": "2026-11-05",
+      "latestObservedEnde": "2026-11-05",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003529",
+      "currentBearbeitungsnummer": "LE2026003529",
+      "produkt": "Lantarel 7,5 mg",
+      "wirkstoffe": [
+        "Methotrexat-Dinatrium"
+      ],
+      "zulassungsinhaber": "Pfizer Pharma GmbH",
+      "atc": "TERM_ID_NA_2090004880",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
