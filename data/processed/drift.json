@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-29T09:22:36.589Z",
-  "snapshotCount": 60,
+  "generatedAt": "2026-09-30T09:12:59.784Z",
+  "snapshotCount": 61,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-09-29",
+  "lastSnapshot": "2026-09-30",
   "summary": {
-    "totalShortagesTracked": 645,
-    "driftedCount": 209,
+    "totalShortagesTracked": 649,
+    "driftedCount": 211,
     "driftRate": {
-      "drifted": 209,
-      "of": 645,
-      "percentage": 32.4
+      "drifted": 211,
+      "of": 649,
+      "percentage": 32.5
     },
-    "meanDaysDrifted": 80.1,
+    "meanDaysDrifted": 81.1,
     "medianDaysDrifted": 61,
-    "totalExtensionEvents": 258
+    "totalExtensionEvents": 265
   },
   "leaderboard": [
     {
@@ -728,7 +728,7 @@
     },
     {
       "rootId": "LE2026002864",
-      "currentBearbeitungsnummer": "LE2026003494",
+      "currentBearbeitungsnummer": "LE2026003567",
       "produkt": "Visipaque 270",
       "wirkstoffe": [
         "Iodixanol"
@@ -736,7 +736,7 @@
       "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
       "atc": "V08AB09",
       "firstObservedEnde": "2026-09-15",
-      "latestObservedEnde": "2026-11-18",
+      "latestObservedEnde": "2026-10-14",
       "totalDaysDrifted": 120,
       "extensionsCount": 2,
       "chainTruncated": false,
@@ -1122,7 +1122,7 @@
     },
     {
       "rootId": "LE2026002382",
-      "currentBearbeitungsnummer": "LE2026003492",
+      "currentBearbeitungsnummer": "LE2026003566",
       "produkt": "ACCUPAQUE 350",
       "wirkstoffe": [
         "Iohexol"
@@ -1130,9 +1130,9 @@
       "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
       "atc": "V08AB02",
       "firstObservedEnde": "2026-08-05",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 70,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-10-21",
+      "totalDaysDrifted": 91,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1148,12 +1148,19 @@
           "newEnde": "2026-10-14",
           "daysExtended": 48,
           "bearbeitungsnummer": "LE2026003008"
+        },
+        {
+          "snapshotDate": "2026-09-30",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-21",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003566"
         }
       ]
     },
     {
       "rootId": "LE2026001099",
-      "currentBearbeitungsnummer": "LE2026003493",
+      "currentBearbeitungsnummer": "LE2026003563",
       "produkt": "Visipaque 320",
       "wirkstoffe": [
         "Iodixanol"
@@ -1161,9 +1168,9 @@
       "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
       "atc": "V08AB09",
       "firstObservedEnde": "2026-10-15",
-      "latestObservedEnde": "2026-10-07",
-      "totalDaysDrifted": 21,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-10-21",
+      "totalDaysDrifted": 35,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1179,6 +1186,13 @@
           "newEnde": "2026-10-07",
           "daysExtended": 14,
           "bearbeitungsnummer": "LE2026003493"
+        },
+        {
+          "snapshotDate": "2026-09-30",
+          "previousEnde": "2026-10-07",
+          "newEnde": "2026-10-21",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003563"
         }
       ]
     },
@@ -2187,7 +2201,7 @@
     },
     {
       "rootId": "LE2025000485",
-      "currentBearbeitungsnummer": "LE2026003142",
+      "currentBearbeitungsnummer": "LE2026003573",
       "produkt": "Aprepitant AL 125 mg Hartkapseln",
       "wirkstoffe": [
         "Aprepitant"
@@ -2195,9 +2209,9 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "A04AD12",
       "firstObservedEnde": "2026-08-26",
-      "latestObservedEnde": "2026-10-01",
-      "totalDaysDrifted": 36,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-08",
+      "totalDaysDrifted": 104,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -2206,6 +2220,13 @@
           "newEnde": "2026-10-01",
           "daysExtended": 36,
           "bearbeitungsnummer": "LE2026003142"
+        },
+        {
+          "snapshotDate": "2026-09-30",
+          "previousEnde": "2026-10-01",
+          "newEnde": "2026-12-08",
+          "daysExtended": 68,
+          "bearbeitungsnummer": "LE2026003573"
         }
       ]
     },
@@ -2243,7 +2264,7 @@
     },
     {
       "rootId": "LE2026000087",
-      "currentBearbeitungsnummer": "LE2026003139",
+      "currentBearbeitungsnummer": "LE2026003555",
       "produkt": "Indometacin AL 50",
       "wirkstoffe": [
         "Indometacin"
@@ -2251,9 +2272,9 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "M01AB01",
       "firstObservedEnde": "2026-08-26",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 35,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-20",
+      "totalDaysDrifted": 55,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -2262,6 +2283,13 @@
           "newEnde": "2026-09-30",
           "daysExtended": 35,
           "bearbeitungsnummer": "LE2026003139"
+        },
+        {
+          "snapshotDate": "2026-09-30",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-20",
+          "daysExtended": 20,
+          "bearbeitungsnummer": "LE2026003555"
         }
       ]
     },
@@ -5229,7 +5257,7 @@
     },
     {
       "rootId": "LE2025003401",
-      "currentBearbeitungsnummer": "LE2026002292",
+      "currentBearbeitungsnummer": "LE2026003574",
       "produkt": "Aprepitant AL 125 mg und 80 mg Hartkapseln",
       "wirkstoffe": [
         "Aprepitant"
@@ -5237,11 +5265,19 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "A04AD12",
       "firstObservedEnde": "2026-10-01",
-      "latestObservedEnde": "2026-10-01",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 91,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-30",
+          "previousEnde": "2026-10-01",
+          "newEnde": "2026-12-31",
+          "daysExtended": 91,
+          "bearbeitungsnummer": "LE2026003574"
+        }
+      ]
     },
     {
       "rootId": "LE2026002290",
@@ -5261,7 +5297,7 @@
     },
     {
       "rootId": "LE2025000486",
-      "currentBearbeitungsnummer": "LE2026003143",
+      "currentBearbeitungsnummer": "LE2026003572",
       "produkt": "Aprepitant AL 80 mg Hartkapseln",
       "wirkstoffe": [
         "Aprepitant"
@@ -5269,9 +5305,9 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "A04AD12",
       "firstObservedEnde": "2026-08-30",
-      "latestObservedEnde": "2026-10-01",
-      "totalDaysDrifted": 32,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-11",
+      "totalDaysDrifted": 103,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -5280,6 +5316,13 @@
           "newEnde": "2026-10-01",
           "daysExtended": 32,
           "bearbeitungsnummer": "LE2026003143"
+        },
+        {
+          "snapshotDate": "2026-09-30",
+          "previousEnde": "2026-10-01",
+          "newEnde": "2026-12-11",
+          "daysExtended": 71,
+          "bearbeitungsnummer": "LE2026003572"
         }
       ]
     },
@@ -5333,7 +5376,7 @@
     },
     {
       "rootId": "LE2024004020",
-      "currentBearbeitungsnummer": "LE2026002284",
+      "currentBearbeitungsnummer": "LE2026003577",
       "produkt": "Oxazepam AL 10",
       "wirkstoffe": [
         "Oxazepam"
@@ -5341,11 +5384,19 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "N05BA04",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-09-30",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-12-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026003577"
+        }
+      ]
     },
     {
       "rootId": "LE2026001721",
@@ -12753,7 +12804,7 @@
     },
     {
       "rootId": "LE2026003496",
-      "currentBearbeitungsnummer": "LE2026003496",
+      "currentBearbeitungsnummer": "LE2026003569",
       "produkt": "ACCUPAQUE 300",
       "wirkstoffe": [
         "Iohexol"
@@ -12970,6 +13021,73 @@
       "atc": "TERM_ID_NA_2090004880",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003570",
+      "currentBearbeitungsnummer": "LE2026003570",
+      "produkt": "Prednisolon 5 mg JENAPHARM",
+      "wirkstoffe": [
+        "Prednisolon"
+      ],
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "atc": "H02AB06",
+      "firstObservedEnde": "2026-11-06",
+      "latestObservedEnde": "2026-11-06",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003559",
+      "currentBearbeitungsnummer": "LE2026003559",
+      "produkt": "Rosuvastatin/Ezetimib Denk 40 mg/10 mg Filmtabletten",
+      "wirkstoffe": [
+        "Ezetimib",
+        "Rosuvastatin-Calcium (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
+      "atc": "C10BA06",
+      "firstObservedEnde": "2026-10-09",
+      "latestObservedEnde": "2026-10-09",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003558",
+      "currentBearbeitungsnummer": "LE2026003558",
+      "produkt": "Rosuvastatin/Ezetimib Denk 20 mg/10 mg Filmtabletten",
+      "wirkstoffe": [
+        "Ezetimib",
+        "Rosuvastatin-Calcium (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
+      "atc": "C10BA06",
+      "firstObservedEnde": "2026-10-09",
+      "latestObservedEnde": "2026-10-09",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003556",
+      "currentBearbeitungsnummer": "LE2026003556",
+      "produkt": "Calci D3-Denk 1000mg/880i.E.",
+      "wirkstoffe": [
+        "Calciumcarbonat",
+        "Colecalciferol"
+      ],
+      "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
+      "atc": "A12AX",
+      "firstObservedEnde": "2027-01-31",
+      "latestObservedEnde": "2027-01-31",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
