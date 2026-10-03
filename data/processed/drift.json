@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-02T09:14:44.407Z",
-  "snapshotCount": 63,
+  "generatedAt": "2026-10-03T08:46:52.346Z",
+  "snapshotCount": 64,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-02",
+  "lastSnapshot": "2026-10-03",
   "summary": {
     "totalShortagesTracked": 661,
-    "driftedCount": 218,
+    "driftedCount": 219,
     "driftRate": {
-      "drifted": 218,
+      "drifted": 219,
       "of": 661,
-      "percentage": 33
+      "percentage": 33.1
     },
-    "meanDaysDrifted": 80.6,
+    "meanDaysDrifted": 80.5,
     "medianDaysDrifted": 61,
-    "totalExtensionEvents": 274
+    "totalExtensionEvents": 276
   },
   "leaderboard": [
     {
@@ -6365,7 +6365,7 @@
     },
     {
       "rootId": "LE2026001589",
-      "currentBearbeitungsnummer": "LE2026003154",
+      "currentBearbeitungsnummer": "LE2026003623",
       "produkt": "Nephrotect",
       "wirkstoffe": [
         "Acetylcystein",
@@ -6389,9 +6389,9 @@
       "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
       "atc": "B05BA01",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 61,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-30",
+      "totalDaysDrifted": 91,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -6400,6 +6400,13 @@
           "newEnde": "2026-09-30",
           "daysExtended": 61,
           "bearbeitungsnummer": "LE2026003154"
+        },
+        {
+          "snapshotDate": "2026-10-03",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-30",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003623"
         }
       ]
     },
@@ -11442,7 +11449,7 @@
     },
     {
       "rootId": "LE2026003107",
-      "currentBearbeitungsnummer": "LE2026003107",
+      "currentBearbeitungsnummer": "LE2026003620",
       "produkt": "Mydriaticum Stulln UD",
       "wirkstoffe": [
         "Tropicamid"
@@ -11450,11 +11457,19 @@
       "zulassungsinhaber": "Pharma Stulln GmbH",
       "atc": "S01FA06",
       "firstObservedEnde": "2026-09-21",
-      "latestObservedEnde": "2026-09-21",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-03",
+      "totalDaysDrifted": 43,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-03",
+          "previousEnde": "2026-09-21",
+          "newEnde": "2026-11-03",
+          "daysExtended": 43,
+          "bearbeitungsnummer": "LE2026003620"
+        }
+      ]
     },
     {
       "rootId": "LE2026003098",
