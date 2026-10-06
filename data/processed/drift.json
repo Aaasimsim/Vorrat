@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-05T09:54:21.037Z",
-  "snapshotCount": 66,
+  "generatedAt": "2026-10-06T09:40:58.186Z",
+  "snapshotCount": 67,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-05",
+  "lastSnapshot": "2026-10-06",
   "summary": {
-    "totalShortagesTracked": 662,
+    "totalShortagesTracked": 665,
     "driftedCount": 226,
     "driftRate": {
       "drifted": 226,
-      "of": 662,
-      "percentage": 34.1
+      "of": 665,
+      "percentage": 34
     },
     "meanDaysDrifted": 81.2,
     "medianDaysDrifted": 61,
@@ -13252,7 +13252,7 @@
     },
     {
       "rootId": "LE2026003585",
-      "currentBearbeitungsnummer": "LE2026003585",
+      "currentBearbeitungsnummer": "LE2026003644",
       "produkt": "Eletriptan Bluefish 40 mg Filmtabletten",
       "wirkstoffe": [
         "Eletriptanhydrobromid"
@@ -13437,6 +13437,55 @@
       "atc": "B01AB10",
       "firstObservedEnde": "2026-10-16",
       "latestObservedEnde": "2026-10-16",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003647",
+      "currentBearbeitungsnummer": "LE2026003647",
+      "produkt": "Jinarc",
+      "wirkstoffe": [
+        "Tolvaptan"
+      ],
+      "zulassungsinhaber": "Otsuka Pharmaceutical Netherlands B.V.",
+      "atc": "C03XA01",
+      "firstObservedEnde": "2026-10-21",
+      "latestObservedEnde": "2026-10-21",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003641",
+      "currentBearbeitungsnummer": "LE2026003645",
+      "produkt": "Fixaprost 50 Mikrogramm/ml + 5 mg/ml Augentropfen, Lösung im Einzeldosisbehältnis",
+      "wirkstoffe": [
+        "Latanoprost",
+        "Timololmaleat"
+      ],
+      "zulassungsinhaber": "Laboratoires Théa S.A.S.",
+      "atc": "S01ED51",
+      "firstObservedEnde": "2027-01-01",
+      "latestObservedEnde": "2027-01-01",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003643",
+      "currentBearbeitungsnummer": "LE2026003643",
+      "produkt": "Dimaval (DMPS) 100 mg Hartkapseln",
+      "wirkstoffe": [
+        "(RS)-2,3-Bis(sulfanyl)propan-1-sulfonsäure-Natriumsalz-Monohydrat"
+      ],
+      "zulassungsinhaber": "H e y l Chemisch-pharmazeutische Fabrik GmbH & Co. KG",
+      "atc": "TERM_ID_NA_2090009606",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
