@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-07T09:38:40.869Z",
-  "snapshotCount": 68,
+  "generatedAt": "2026-10-08T09:48:54.126Z",
+  "snapshotCount": 69,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-07",
+  "lastSnapshot": "2026-10-08",
   "summary": {
-    "totalShortagesTracked": 666,
-    "driftedCount": 229,
+    "totalShortagesTracked": 667,
+    "driftedCount": 232,
     "driftRate": {
-      "drifted": 229,
-      "of": 666,
-      "percentage": 34.4
+      "drifted": 232,
+      "of": 667,
+      "percentage": 34.8
     },
-    "meanDaysDrifted": 81.1,
+    "meanDaysDrifted": 81.6,
     "medianDaysDrifted": 61,
-    "totalExtensionEvents": 287
+    "totalExtensionEvents": 294
   },
   "leaderboard": [
     {
@@ -3022,7 +3022,7 @@
     },
     {
       "rootId": "LE2024004410",
-      "currentBearbeitungsnummer": "LE2026002642",
+      "currentBearbeitungsnummer": "LE2026003665",
       "produkt": "ISMN STADA 20 mg Tabletten",
       "wirkstoffe": [
         "Isosorbidmononitrat"
@@ -3030,15 +3030,23 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "C01DA14",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-01-04",
+      "totalDaysDrifted": 96,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-08",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2027-01-04",
+          "daysExtended": 96,
+          "bearbeitungsnummer": "LE2026003665"
+        }
+      ]
     },
     {
       "rootId": "LE2025001202",
-      "currentBearbeitungsnummer": "LE2026002641",
+      "currentBearbeitungsnummer": "LE2026003666",
       "produkt": "ISMN STADA 50 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Isosorbidmononitrat"
@@ -3046,11 +3054,19 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "C01DA14",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-01-04",
+      "totalDaysDrifted": 96,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-08",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2027-01-04",
+          "daysExtended": 96,
+          "bearbeitungsnummer": "LE2026003666"
+        }
+      ]
     },
     {
       "rootId": "LE2026002639",
@@ -5151,7 +5167,7 @@
     },
     {
       "rootId": "LE2026002308",
-      "currentBearbeitungsnummer": "LE2026003609",
+      "currentBearbeitungsnummer": "LE2026003672",
       "produkt": "Rizatriptan PUREN 10 mg Tabletten",
       "wirkstoffe": [
         "Rizatriptanbenzoat"
@@ -5159,9 +5175,9 @@
       "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
       "atc": "N02CC04",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-10-20",
-      "totalDaysDrifted": 20,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-30",
+      "totalDaysDrifted": 30,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -5170,6 +5186,13 @@
           "newEnde": "2026-10-20",
           "daysExtended": 20,
           "bearbeitungsnummer": "LE2026003609"
+        },
+        {
+          "snapshotDate": "2026-10-08",
+          "previousEnde": "2026-10-20",
+          "newEnde": "2026-10-30",
+          "daysExtended": 10,
+          "bearbeitungsnummer": "LE2026003672"
         }
       ]
     },
@@ -5191,7 +5214,7 @@
     },
     {
       "rootId": "LE2026002306",
-      "currentBearbeitungsnummer": "LE2026003346",
+      "currentBearbeitungsnummer": "LE2026003671",
       "produkt": "Fingolimod PUREN 0,5 mg Hartkapseln",
       "wirkstoffe": [
         "Fingolimodhydrochlorid"
@@ -5199,9 +5222,9 @@
       "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
       "atc": "L04AE01",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-10-16",
-      "totalDaysDrifted": 16,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-16",
+      "totalDaysDrifted": 47,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -5210,6 +5233,13 @@
           "newEnde": "2026-10-16",
           "daysExtended": 16,
           "bearbeitungsnummer": "LE2026003346"
+        },
+        {
+          "snapshotDate": "2026-10-08",
+          "previousEnde": "2026-10-16",
+          "newEnde": "2026-11-16",
+          "daysExtended": 31,
+          "bearbeitungsnummer": "LE2026003671"
         }
       ]
     },
@@ -6128,7 +6158,7 @@
     },
     {
       "rootId": "LE2025001933",
-      "currentBearbeitungsnummer": "LE2026003106",
+      "currentBearbeitungsnummer": "LE2026003664",
       "produkt": "Bortezomib STADA 2,5 mg/ml Injektionslösung",
       "wirkstoffe": [
         "Bortezomibmannitol"
@@ -6136,11 +6166,19 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "L01XX32",
       "firstObservedEnde": "2026-11-30",
-      "latestObservedEnde": "2026-10-15",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-26",
+      "totalDaysDrifted": 11,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-08",
+          "previousEnde": "2026-10-15",
+          "newEnde": "2026-10-26",
+          "daysExtended": 11,
+          "bearbeitungsnummer": "LE2026003664"
+        }
+      ]
     },
     {
       "rootId": "LE2026000846",
@@ -9180,7 +9218,7 @@
     },
     {
       "rootId": "LE2025002269",
-      "currentBearbeitungsnummer": "LE2026003461",
+      "currentBearbeitungsnummer": "LE2026003662",
       "produkt": "Aprepitant STADA 125 mg und 80 mg Hartkapseln",
       "wirkstoffe": [
         "Aprepitant"
@@ -9188,9 +9226,9 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "A04AD12",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-10-19",
-      "totalDaysDrifted": 49,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-14",
+      "totalDaysDrifted": 105,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -9199,12 +9237,19 @@
           "newEnde": "2026-10-19",
           "daysExtended": 49,
           "bearbeitungsnummer": "LE2026003461"
+        },
+        {
+          "snapshotDate": "2026-10-08",
+          "previousEnde": "2026-10-19",
+          "newEnde": "2026-12-14",
+          "daysExtended": 56,
+          "bearbeitungsnummer": "LE2026003662"
         }
       ]
     },
     {
       "rootId": "LE2025000571",
-      "currentBearbeitungsnummer": "LE2026003462",
+      "currentBearbeitungsnummer": "LE2026003663",
       "produkt": "Aprepitant STADA 125 mg Hartkapseln",
       "wirkstoffe": [
         "Aprepitant"
@@ -9212,9 +9257,9 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "A04AD12",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-10-19",
-      "totalDaysDrifted": 49,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-14",
+      "totalDaysDrifted": 105,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -9223,6 +9268,13 @@
           "newEnde": "2026-10-19",
           "daysExtended": 49,
           "bearbeitungsnummer": "LE2026003462"
+        },
+        {
+          "snapshotDate": "2026-10-08",
+          "previousEnde": "2026-10-19",
+          "newEnde": "2026-12-14",
+          "daysExtended": 56,
+          "bearbeitungsnummer": "LE2026003663"
         }
       ]
     },
@@ -13533,6 +13585,22 @@
       "atc": "N01AB06",
       "firstObservedEnde": "2027-03-12",
       "latestObservedEnde": "2027-03-12",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003675",
+      "currentBearbeitungsnummer": "LE2026003675",
+      "produkt": "Dacarbazin Lipomed 1000 mg Pulver zur Herstellung einer Infusionslösung",
+      "wirkstoffe": [
+        "Dacarbazincitrat"
+      ],
+      "zulassungsinhaber": "Lipomed GmbH",
+      "atc": "L01AX04",
+      "firstObservedEnde": "2026-12-15",
+      "latestObservedEnde": "2026-12-15",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
