@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-08T09:48:54.126Z",
-  "snapshotCount": 69,
+  "generatedAt": "2026-10-09T09:53:32.436Z",
+  "snapshotCount": 70,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-08",
+  "lastSnapshot": "2026-10-09",
   "summary": {
-    "totalShortagesTracked": 667,
-    "driftedCount": 232,
+    "totalShortagesTracked": 679,
+    "driftedCount": 235,
     "driftRate": {
-      "drifted": 232,
-      "of": 667,
-      "percentage": 34.8
+      "drifted": 235,
+      "of": 679,
+      "percentage": 34.6
     },
-    "meanDaysDrifted": 81.6,
+    "meanDaysDrifted": 81.8,
     "medianDaysDrifted": 61,
-    "totalExtensionEvents": 294
+    "totalExtensionEvents": 300
   },
   "leaderboard": [
     {
@@ -3631,7 +3631,7 @@
     },
     {
       "rootId": "LE2026001628",
-      "currentBearbeitungsnummer": "LE2026003238",
+      "currentBearbeitungsnummer": "LE2026003691",
       "produkt": "Triamhexal 10",
       "wirkstoffe": [
         "Triamcinolonacetonid"
@@ -3639,9 +3639,9 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "H02AB08",
       "firstObservedEnde": "2026-08-19",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 42,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 134,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -3657,12 +3657,19 @@
           "newEnde": "2026-09-30",
           "daysExtended": 22,
           "bearbeitungsnummer": "LE2026003238"
+        },
+        {
+          "snapshotDate": "2026-10-09",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-12-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026003691"
         }
       ]
     },
     {
       "rootId": "LE2025001295",
-      "currentBearbeitungsnummer": "LE2026002574",
+      "currentBearbeitungsnummer": "LE2026003692",
       "produkt": "Pramipexol - 1 A Pharma 0,26 mg Retardtabletten",
       "wirkstoffe": [
         "Pramipexoldihydrochlorid-Monohydrat"
@@ -3670,11 +3677,19 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N04BC05",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-30",
+      "totalDaysDrifted": 30,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-09",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-30",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003692"
+        }
+      ]
     },
     {
       "rootId": "LE2025003076",
@@ -3702,7 +3717,7 @@
     },
     {
       "rootId": "LE2026001629",
-      "currentBearbeitungsnummer": "LE2026003236",
+      "currentBearbeitungsnummer": "LE2026003686",
       "produkt": "Triamhexal 40",
       "wirkstoffe": [
         "Triamcinolonacetonid"
@@ -3710,9 +3725,9 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "H02AB08",
       "firstObservedEnde": "2026-09-02",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 28,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 120,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -3721,6 +3736,13 @@
           "newEnde": "2026-09-30",
           "daysExtended": 28,
           "bearbeitungsnummer": "LE2026003236"
+        },
+        {
+          "snapshotDate": "2026-10-09",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-12-31",
+          "daysExtended": 92,
+          "bearbeitungsnummer": "LE2026003686"
         }
       ]
     },
@@ -5541,7 +5563,7 @@
     },
     {
       "rootId": "LE2026002276",
-      "currentBearbeitungsnummer": "LE2026003032",
+      "currentBearbeitungsnummer": "LE2026003683",
       "produkt": "Rizatriptan Glenmark 5 mg Schmelztabletten",
       "wirkstoffe": [
         "Rizatriptanbenzoat"
@@ -5549,9 +5571,9 @@
       "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
       "atc": "N02CC04",
       "firstObservedEnde": "2026-09-04",
-      "latestObservedEnde": "2026-10-16",
-      "totalDaysDrifted": 42,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-27",
+      "totalDaysDrifted": 84,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -5560,6 +5582,13 @@
           "newEnde": "2026-10-16",
           "daysExtended": 42,
           "bearbeitungsnummer": "LE2026003032"
+        },
+        {
+          "snapshotDate": "2026-10-09",
+          "previousEnde": "2026-10-16",
+          "newEnde": "2026-11-27",
+          "daysExtended": 42,
+          "bearbeitungsnummer": "LE2026003683"
         }
       ]
     },
@@ -11331,7 +11360,7 @@
     },
     {
       "rootId": "LE2026003026",
-      "currentBearbeitungsnummer": "LE2026003026",
+      "currentBearbeitungsnummer": "LE2026003677",
       "produkt": "Olanzapin Glenmark 2,5 mg Tabletten - OP70",
       "wirkstoffe": [
         "Olanzapin"
@@ -11339,11 +11368,19 @@
       "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
       "atc": "N05AH03",
       "firstObservedEnde": "2026-10-16",
-      "latestObservedEnde": "2026-10-16",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-13",
+      "totalDaysDrifted": 28,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-09",
+          "previousEnde": "2026-10-16",
+          "newEnde": "2026-11-13",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026003677"
+        }
+      ]
     },
     {
       "rootId": "LE2026003048",
@@ -12431,7 +12468,7 @@
     },
     {
       "rootId": "LE2026003295",
-      "currentBearbeitungsnummer": "LE2026003295",
+      "currentBearbeitungsnummer": "LE2026003696",
       "produkt": "Naproxen 500 - 1 A Pharma",
       "wirkstoffe": [
         "Naproxen"
@@ -12439,11 +12476,19 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "M01AE02",
       "firstObservedEnde": "2026-10-06",
-      "latestObservedEnde": "2026-10-06",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-19",
+      "totalDaysDrifted": 13,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-09",
+          "previousEnde": "2026-10-06",
+          "newEnde": "2026-10-19",
+          "daysExtended": 13,
+          "bearbeitungsnummer": "LE2026003696"
+        }
+      ]
     },
     {
       "rootId": "LE2026003294",
@@ -13601,6 +13646,199 @@
       "atc": "L01AX04",
       "firstObservedEnde": "2026-12-15",
       "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003711",
+      "currentBearbeitungsnummer": "LE2026003711",
+      "produkt": "Ropivacainhydrochlorid Kabi 2 mg/ml Infusionslösung",
+      "wirkstoffe": [
+        "Ropivacainhydrochlorid"
+      ],
+      "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+      "atc": "N01BB09",
+      "firstObservedEnde": "2026-11-02",
+      "latestObservedEnde": "2026-11-02",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003710",
+      "currentBearbeitungsnummer": "LE2026003710",
+      "produkt": "Ropivacainhydrochlorid Kabi 7,5 mg/ml Injektionslösung",
+      "wirkstoffe": [
+        "Ropivacainhydrochlorid"
+      ],
+      "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+      "atc": "N01BB09",
+      "firstObservedEnde": "2026-11-16",
+      "latestObservedEnde": "2026-11-16",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003706",
+      "currentBearbeitungsnummer": "LE2026003708",
+      "produkt": "Clobetasol acis Creme",
+      "wirkstoffe": [
+        "Clobetasolpropionat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "atc": "D07AD01",
+      "firstObservedEnde": "2026-11-06",
+      "latestObservedEnde": "2026-11-06",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003707",
+      "currentBearbeitungsnummer": "LE2026003707",
+      "produkt": "Prednisolon acis 10mg",
+      "wirkstoffe": [
+        "Prednisolon"
+      ],
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "atc": "H02AB06",
+      "firstObservedEnde": "2026-11-13",
+      "latestObservedEnde": "2026-11-13",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003703",
+      "currentBearbeitungsnummer": "LE2026003703",
+      "produkt": "Cotrim-ratiopharm 400 mg/5 ml + 80 mg/5 ml Konzentrat zur Herstellung einer Infusionslösung",
+      "wirkstoffe": [
+        "Sulfamethoxazol",
+        "Trimethoprim"
+      ],
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "J01EE01",
+      "firstObservedEnde": "2026-11-30",
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003702",
+      "currentBearbeitungsnummer": "LE2026003702",
+      "produkt": "NexoBrid",
+      "wirkstoffe": [
+        "Konzentrat proteolytischer Enzyme angereichert aus Bromelain"
+      ],
+      "zulassungsinhaber": "MediWound Germany GmbH",
+      "atc": "D03BA03",
+      "firstObservedEnde": "2026-11-30",
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003700",
+      "currentBearbeitungsnummer": "LE2026003701",
+      "produkt": "Hydromorphon HEXAL 10 mg/ml Injektions-/Infusionslösung",
+      "wirkstoffe": [
+        "Hydromorphonhydrochlorid"
+      ],
+      "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+      "atc": "N02AA03",
+      "firstObservedEnde": "2026-12-21",
+      "latestObservedEnde": "2026-12-21",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003682",
+      "currentBearbeitungsnummer": "LE2026003682",
+      "produkt": "Retacrit 2 000 I.E./0,6 ml Injektionslösung in Fertigspritze",
+      "wirkstoffe": [
+        "Epoetin zeta"
+      ],
+      "zulassungsinhaber": "Pfizer Europe MA EEIG",
+      "atc": "B03XA01",
+      "firstObservedEnde": "2026-11-30",
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003681",
+      "currentBearbeitungsnummer": "LE2026003681",
+      "produkt": "Zoloft 20 mg/ml Konzentrat zur Herstellung einer Lösung zum Einnehmen",
+      "wirkstoffe": [
+        "Sertralinhydrochlorid"
+      ],
+      "zulassungsinhaber": "Viatris Pharma GmbH",
+      "atc": "N06AB06",
+      "firstObservedEnde": "2027-01-15",
+      "latestObservedEnde": "2027-01-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003680",
+      "currentBearbeitungsnummer": "LE2026003680",
+      "produkt": "Luxerm 160 mg/g Creme",
+      "wirkstoffe": [
+        "Methyl(5-amino-4-oxopentanoat)-hydrochlorid"
+      ],
+      "zulassungsinhaber": "Galderma Laboratorium GmbH",
+      "atc": "L01XD03",
+      "firstObservedEnde": "2026-10-16",
+      "latestObservedEnde": "2026-10-16",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003679",
+      "currentBearbeitungsnummer": "LE2026003679",
+      "produkt": "Olanzapin Glenmark 20 mg Tabletten - OP70",
+      "wirkstoffe": [
+        "Olanzapin"
+      ],
+      "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+      "atc": "N05AH03",
+      "firstObservedEnde": "2026-11-27",
+      "latestObservedEnde": "2026-11-27",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003678",
+      "currentBearbeitungsnummer": "LE2026003678",
+      "produkt": "Olanzapin Glenmark 2,5 mg Tabletten - OP56",
+      "wirkstoffe": [
+        "Olanzapin"
+      ],
+      "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+      "atc": "N05AH03",
+      "firstObservedEnde": "2026-11-13",
+      "latestObservedEnde": "2026-11-13",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
