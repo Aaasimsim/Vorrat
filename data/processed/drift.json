@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-09T09:53:32.436Z",
-  "snapshotCount": 70,
+  "generatedAt": "2026-10-10T09:17:41.918Z",
+  "snapshotCount": 71,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-09",
+  "lastSnapshot": "2026-10-10",
   "summary": {
-    "totalShortagesTracked": 679,
-    "driftedCount": 235,
+    "totalShortagesTracked": 681,
+    "driftedCount": 237,
     "driftRate": {
-      "drifted": 235,
-      "of": 679,
-      "percentage": 34.6
+      "drifted": 237,
+      "of": 681,
+      "percentage": 34.8
     },
-    "meanDaysDrifted": 81.8,
+    "meanDaysDrifted": 81.6,
     "medianDaysDrifted": 61,
-    "totalExtensionEvents": 300
+    "totalExtensionEvents": 308
   },
   "leaderboard": [
     {
@@ -562,7 +562,7 @@
     },
     {
       "rootId": "LE2026001486",
-      "currentBearbeitungsnummer": "LE2026003453",
+      "currentBearbeitungsnummer": "LE2026003738",
       "produkt": "Escitalopram-Micro Labs 20 mg Filmtabletten",
       "wirkstoffe": [
         "Escitalopramoxalat"
@@ -570,9 +570,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AB10",
       "firstObservedEnde": "2026-08-21",
-      "latestObservedEnde": "2026-10-09",
-      "totalDaysDrifted": 49,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-10-22",
+      "totalDaysDrifted": 62,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -588,6 +588,13 @@
           "newEnde": "2026-10-09",
           "daysExtended": 28,
           "bearbeitungsnummer": "LE2026003453"
+        },
+        {
+          "snapshotDate": "2026-10-10",
+          "previousEnde": "2026-10-09",
+          "newEnde": "2026-10-22",
+          "daysExtended": 13,
+          "bearbeitungsnummer": "LE2026003738"
         }
       ]
     },
@@ -736,7 +743,7 @@
     },
     {
       "rootId": "LE2026002864",
-      "currentBearbeitungsnummer": "LE2026003567",
+      "currentBearbeitungsnummer": "LE2026003724",
       "produkt": "Visipaque 270",
       "wirkstoffe": [
         "Iodixanol"
@@ -744,9 +751,9 @@
       "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
       "atc": "V08AB09",
       "firstObservedEnde": "2026-09-15",
-      "latestObservedEnde": "2026-10-14",
-      "totalDaysDrifted": 120,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-11-04",
+      "totalDaysDrifted": 141,
+      "extensionsCount": 3,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -762,6 +769,13 @@
           "newEnde": "2026-11-18",
           "daysExtended": 35,
           "bearbeitungsnummer": "LE2026003494"
+        },
+        {
+          "snapshotDate": "2026-10-10",
+          "previousEnde": "2026-10-14",
+          "newEnde": "2026-11-04",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003724"
         }
       ]
     },
@@ -2942,7 +2956,7 @@
     },
     {
       "rootId": "LE2026001235",
-      "currentBearbeitungsnummer": "LE2026003443",
+      "currentBearbeitungsnummer": "LE2026003734",
       "produkt": "Amitriptylin Micro Labs 44,19 mg Filmtabletten",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -2950,9 +2964,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AA09",
       "firstObservedEnde": "2026-08-28",
-      "latestObservedEnde": "2026-10-09",
-      "totalDaysDrifted": 42,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-10-26",
+      "totalDaysDrifted": 59,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -2968,6 +2982,13 @@
           "newEnde": "2026-10-09",
           "daysExtended": 21,
           "bearbeitungsnummer": "LE2026003443"
+        },
+        {
+          "snapshotDate": "2026-10-10",
+          "previousEnde": "2026-10-09",
+          "newEnde": "2026-10-26",
+          "daysExtended": 17,
+          "bearbeitungsnummer": "LE2026003734"
         }
       ]
     },
@@ -3326,7 +3347,7 @@
     },
     {
       "rootId": "LE2026001238",
-      "currentBearbeitungsnummer": "LE2026003444",
+      "currentBearbeitungsnummer": "LE2026003728",
       "produkt": "Amitriptylin Micro Labs 88,38 mg Filmtabletten",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -3334,9 +3355,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AA09",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-10-09",
-      "totalDaysDrifted": 56,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-10-26",
+      "totalDaysDrifted": 73,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -3352,6 +3373,13 @@
           "newEnde": "2026-10-09",
           "daysExtended": 21,
           "bearbeitungsnummer": "LE2026003444"
+        },
+        {
+          "snapshotDate": "2026-10-10",
+          "previousEnde": "2026-10-09",
+          "newEnde": "2026-10-26",
+          "daysExtended": 17,
+          "bearbeitungsnummer": "LE2026003728"
         }
       ]
     },
@@ -4429,7 +4457,7 @@
     },
     {
       "rootId": "LE2026001234",
-      "currentBearbeitungsnummer": "LE2026003447",
+      "currentBearbeitungsnummer": "LE2026003731",
       "produkt": "Amitriptylin Micro Labs 22,1 mg Filmtabletten",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -4437,9 +4465,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AA09",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-10-09",
-      "totalDaysDrifted": 56,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-10-26",
+      "totalDaysDrifted": 73,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -4455,6 +4483,13 @@
           "newEnde": "2026-10-09",
           "daysExtended": 21,
           "bearbeitungsnummer": "LE2026003447"
+        },
+        {
+          "snapshotDate": "2026-10-10",
+          "previousEnde": "2026-10-09",
+          "newEnde": "2026-10-26",
+          "daysExtended": 17,
+          "bearbeitungsnummer": "LE2026003731"
         }
       ]
     },
@@ -4583,7 +4618,7 @@
     },
     {
       "rootId": "LE2026001385",
-      "currentBearbeitungsnummer": "LE2026003611",
+      "currentBearbeitungsnummer": "LE2026003722",
       "produkt": "PANTOPRAZOL BASICS 40 mg magensaftresistente Tabletten",
       "wirkstoffe": [
         "Pantoprazol-Natrium-Sesquihydrat"
@@ -11963,7 +11998,7 @@
     },
     {
       "rootId": "LE2026003156",
-      "currentBearbeitungsnummer": "LE2026003442",
+      "currentBearbeitungsnummer": "LE2026003740",
       "produkt": "Moxifloxacin Micro Labs 5 mg/ml Augentropfen, Lösung",
       "wirkstoffe": [
         "Moxifloxacinhydrochlorid (Ph.Eur.) ((mit Angaben zum Wasser-Gehalt (1:x)))"
@@ -11971,9 +12006,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "S01AE07",
       "firstObservedEnde": "2026-09-11",
-      "latestObservedEnde": "2026-10-09",
-      "totalDaysDrifted": 28,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-16",
+      "totalDaysDrifted": 35,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -11982,6 +12017,13 @@
           "newEnde": "2026-10-09",
           "daysExtended": 28,
           "bearbeitungsnummer": "LE2026003442"
+        },
+        {
+          "snapshotDate": "2026-10-10",
+          "previousEnde": "2026-10-09",
+          "newEnde": "2026-10-16",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026003740"
         }
       ]
     },
@@ -13073,7 +13115,7 @@
     },
     {
       "rootId": "LE2026003496",
-      "currentBearbeitungsnummer": "LE2026003569",
+      "currentBearbeitungsnummer": "LE2026003725",
       "produkt": "ACCUPAQUE 300",
       "wirkstoffe": [
         "Iohexol"
@@ -13081,11 +13123,19 @@
       "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
       "atc": "V08AB02",
       "firstObservedEnde": "2026-10-14",
-      "latestObservedEnde": "2026-10-14",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-21",
+      "totalDaysDrifted": 7,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-10",
+          "previousEnde": "2026-10-14",
+          "newEnde": "2026-10-21",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026003725"
+        }
+      ]
     },
     {
       "rootId": "LE2026003495",
@@ -13540,7 +13590,7 @@
     },
     {
       "rootId": "LE2026003590",
-      "currentBearbeitungsnummer": "LE2026003593",
+      "currentBearbeitungsnummer": "LE2026003723",
       "produkt": "Semglee 100 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml)",
       "wirkstoffe": [
         "Insulin glargin"
@@ -13548,11 +13598,19 @@
       "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
       "atc": "A10AE04",
       "firstObservedEnde": "2026-10-07",
-      "latestObservedEnde": "2026-10-07",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-21",
+      "totalDaysDrifted": 14,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-10",
+          "previousEnde": "2026-10-07",
+          "newEnde": "2026-10-21",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003723"
+        }
+      ]
     },
     {
       "rootId": "LE2026003637",
@@ -13839,6 +13897,38 @@
       "atc": "N05AH03",
       "firstObservedEnde": "2026-11-13",
       "latestObservedEnde": "2026-11-13",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003721",
+      "currentBearbeitungsnummer": "LE2026003721",
+      "produkt": "OLANZAPIN BASICS 7,5 mg Tabletten",
+      "wirkstoffe": [
+        "Olanzapin"
+      ],
+      "zulassungsinhaber": "Basics GmbH",
+      "atc": "N05AH03",
+      "firstObservedEnde": "2026-10-31",
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003713",
+      "currentBearbeitungsnummer": "LE2026003713",
+      "produkt": "Nevirapin Mylan 400 mg Retardtabletten",
+      "wirkstoffe": [
+        "Nevirapin"
+      ],
+      "zulassungsinhaber": "Viatris Germany GmbH",
+      "atc": "J05AG01",
+      "firstObservedEnde": "2027-04-15",
+      "latestObservedEnde": "2027-04-15",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
