@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-11T09:34:31.821Z",
-  "snapshotCount": 72,
+  "generatedAt": "2026-10-12T10:05:40.020Z",
+  "snapshotCount": 73,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-11",
+  "lastSnapshot": "2026-10-12",
   "summary": {
-    "totalShortagesTracked": 681,
-    "driftedCount": 237,
+    "totalShortagesTracked": 683,
+    "driftedCount": 241,
     "driftRate": {
-      "drifted": 237,
-      "of": 681,
-      "percentage": 34.8
+      "drifted": 241,
+      "of": 683,
+      "percentage": 35.3
     },
-    "meanDaysDrifted": 81.6,
+    "meanDaysDrifted": 87.5,
     "medianDaysDrifted": 61,
-    "totalExtensionEvents": 308
+    "totalExtensionEvents": 320
   },
   "leaderboard": [
     {
@@ -181,6 +181,140 @@
           "newEnde": "2027-12-31",
           "daysExtended": 354,
           "bearbeitungsnummer": "LE2026003225"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2025001519",
+      "currentBearbeitungsnummer": "LE2026003748",
+      "produkt": "Ribavirin-ratiopharm 200 mg Filmtabletten",
+      "wirkstoffe": [
+        "Ribavirin"
+      ],
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "TERM_ID_NA_2090004158",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2027-06-30",
+      "totalDaysDrifted": 334,
+      "extensionsCount": 2,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-10-15",
+          "daysExtended": 76,
+          "bearbeitungsnummer": "LE2026002905"
+        },
+        {
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-10-15",
+          "newEnde": "2027-06-30",
+          "daysExtended": 258,
+          "bearbeitungsnummer": "LE2026003748"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2025002275",
+      "currentBearbeitungsnummer": "LE2026003747",
+      "produkt": "Ribavirin-ratiopharm 400 mg Filmtabletten",
+      "wirkstoffe": [
+        "Ribavirin"
+      ],
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "TERM_ID_NA_2090004158",
+      "firstObservedEnde": "2026-07-31",
+      "latestObservedEnde": "2027-06-30",
+      "totalDaysDrifted": 334,
+      "extensionsCount": 2,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-31",
+          "newEnde": "2026-10-15",
+          "daysExtended": 76,
+          "bearbeitungsnummer": "LE2026002906"
+        },
+        {
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-10-15",
+          "newEnde": "2027-06-30",
+          "daysExtended": 258,
+          "bearbeitungsnummer": "LE2026003747"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2024003306",
+      "currentBearbeitungsnummer": "LE2026003749",
+      "produkt": "Risperidon-ratiopharm 50 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension",
+      "wirkstoffe": [
+        "Risperidon"
+      ],
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "N05AX08",
+      "firstObservedEnde": "2026-09-30",
+      "latestObservedEnde": "2027-06-30",
+      "totalDaysDrifted": 273,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2027-06-30",
+          "daysExtended": 273,
+          "bearbeitungsnummer": "LE2026003749"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2024003305",
+      "currentBearbeitungsnummer": "LE2026003750",
+      "produkt": "Risperidon-ratiopharm 37,5 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension",
+      "wirkstoffe": [
+        "Risperidon"
+      ],
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "N05AX08",
+      "firstObservedEnde": "2026-09-30",
+      "latestObservedEnde": "2027-06-30",
+      "totalDaysDrifted": 273,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2027-06-30",
+          "daysExtended": 273,
+          "bearbeitungsnummer": "LE2026003750"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2024003304",
+      "currentBearbeitungsnummer": "LE2026003751",
+      "produkt": "Risperidon-ratiopharm 25 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension",
+      "wirkstoffe": [
+        "Risperidon"
+      ],
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "N05AX08",
+      "firstObservedEnde": "2026-09-30",
+      "latestObservedEnde": "2027-06-30",
+      "totalDaysDrifted": 273,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2027-06-30",
+          "daysExtended": 273,
+          "bearbeitungsnummer": "LE2026003751"
         }
       ]
     },
@@ -353,146 +487,33 @@
       ]
     },
     {
-      "rootId": "LE2026000606",
-      "currentBearbeitungsnummer": "LE2026003290",
-      "produkt": "Ritonavir Viatris 100 mg Filmtabletten - OP30",
+      "rootId": "LE2025000778",
+      "currentBearbeitungsnummer": "LE2026003753",
+      "produkt": "Galantamin-ratiopharm 8 mg Hartkapseln, retardiert",
       "wirkstoffe": [
-        "Ritonavir"
+        "Galantaminhydrobromid"
       ],
-      "zulassungsinhaber": "Viatris Limited",
-      "atc": "J05AE03",
-      "firstObservedEnde": "2027-03-31",
-      "latestObservedEnde": "2027-09-30",
-      "totalDaysDrifted": 183,
-      "extensionsCount": 1,
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "N06DA04",
+      "firstObservedEnde": "2026-07-24",
+      "latestObservedEnde": "2027-01-29",
+      "totalDaysDrifted": 189,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
-          "snapshotDate": "2026-09-09",
-          "previousEnde": "2027-03-31",
-          "newEnde": "2027-09-30",
-          "daysExtended": 183,
-          "bearbeitungsnummer": "LE2026003290"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2025003697",
-      "currentBearbeitungsnummer": "LE2026002937",
-      "produkt": "Quetiapin Accord 200 mg Retardtabletten",
-      "wirkstoffe": [
-        "Quetiapinfumarat (Ph.Eur.)"
-      ],
-      "zulassungsinhaber": "Accord Healthcare B.V.",
-      "atc": "N05AH04",
-      "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2027-03-31",
-      "totalDaysDrifted": 182,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
+          "snapshotDate": "2026-08-05",
+          "previousEnde": "2026-07-24",
+          "newEnde": "2026-10-21",
+          "daysExtended": 89,
+          "bearbeitungsnummer": "LE2026002902"
+        },
         {
-          "snapshotDate": "2026-08-07",
-          "previousEnde": "2026-09-30",
-          "newEnde": "2027-03-31",
-          "daysExtended": 182,
-          "bearbeitungsnummer": "LE2026002937"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2024004050",
-      "currentBearbeitungsnummer": "LE2026003474",
-      "produkt": "Fosfomycin Eberth 2 g Pulver zur Herstellung einer Infusionslösung",
-      "wirkstoffe": [
-        "Fosfomycin-Natrium (Ph.Eur.)"
-      ],
-      "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
-      "atc": "J01XX01",
-      "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2027-03-31",
-      "totalDaysDrifted": 182,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-09-24",
-          "previousEnde": "2026-09-30",
-          "newEnde": "2027-03-31",
-          "daysExtended": 182,
-          "bearbeitungsnummer": "LE2026003474"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2024004051",
-      "currentBearbeitungsnummer": "LE2026003475",
-      "produkt": "Fosfomycin Eberth 4 g Pulver zur Herstellung einer Infusionslösung",
-      "wirkstoffe": [
-        "Fosfomycin-Natrium (Ph.Eur.)"
-      ],
-      "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
-      "atc": "J01XX01",
-      "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2027-03-31",
-      "totalDaysDrifted": 182,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-09-24",
-          "previousEnde": "2026-09-30",
-          "newEnde": "2027-03-31",
-          "daysExtended": 182,
-          "bearbeitungsnummer": "LE2026003475"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2024004630",
-      "currentBearbeitungsnummer": "LE2026003476",
-      "produkt": "Teicoplanin Eberth 200 mg Pulver zur Herstellung einer Injektions-/Infusionslösung oder einer Lösung zum Einnehmen",
-      "wirkstoffe": [
-        "Teicoplanin"
-      ],
-      "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
-      "atc": "J01XA02",
-      "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2027-03-31",
-      "totalDaysDrifted": 182,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-09-24",
-          "previousEnde": "2026-09-30",
-          "newEnde": "2027-03-31",
-          "daysExtended": 182,
-          "bearbeitungsnummer": "LE2026003476"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2024004631",
-      "currentBearbeitungsnummer": "LE2026003477",
-      "produkt": "Teicoplanin Eberth 400 mg Pulver zur Herstellung einer Injektions-/Infusionslösung oder einer Lösung zum Einnehmen",
-      "wirkstoffe": [
-        "Teicoplanin"
-      ],
-      "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
-      "atc": "J01XA02",
-      "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2027-03-31",
-      "totalDaysDrifted": 182,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-09-24",
-          "previousEnde": "2026-09-30",
-          "newEnde": "2027-03-31",
-          "daysExtended": 182,
-          "bearbeitungsnummer": "LE2026003477"
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-10-21",
+          "newEnde": "2027-01-29",
+          "daysExtended": 100,
+          "bearbeitungsnummer": "LE2026003753"
         }
       ]
     }
@@ -4056,7 +4077,7 @@
     },
     {
       "rootId": "LE2026002528",
-      "currentBearbeitungsnummer": "LE2026003305",
+      "currentBearbeitungsnummer": "LE2026003755",
       "produkt": "Cephalex-CT 1000mg Filmtabletten",
       "wirkstoffe": [
         "Cefalexin-Monohydrat"
@@ -4064,9 +4085,9 @@
       "zulassungsinhaber": "AbZ-Pharma GmbH",
       "atc": "J01DB01",
       "firstObservedEnde": "2026-09-09",
-      "latestObservedEnde": "2026-10-21",
-      "totalDaysDrifted": 42,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-13",
+      "totalDaysDrifted": 65,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -4075,6 +4096,13 @@
           "newEnde": "2026-10-21",
           "daysExtended": 42,
           "bearbeitungsnummer": "LE2026003305"
+        },
+        {
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-10-21",
+          "newEnde": "2026-11-13",
+          "daysExtended": 23,
+          "bearbeitungsnummer": "LE2026003755"
         }
       ]
     },
@@ -4457,7 +4485,7 @@
     },
     {
       "rootId": "LE2026001234",
-      "currentBearbeitungsnummer": "LE2026003731",
+      "currentBearbeitungsnummer": "LE2026003757",
       "produkt": "Amitriptylin Micro Labs 22,1 mg Filmtabletten",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -8021,7 +8049,7 @@
     },
     {
       "rootId": "LE2025001519",
-      "currentBearbeitungsnummer": "LE2026002905",
+      "currentBearbeitungsnummer": "LE2026003748",
       "produkt": "Ribavirin-ratiopharm 200 mg Filmtabletten",
       "wirkstoffe": [
         "Ribavirin"
@@ -8029,9 +8057,9 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "TERM_ID_NA_2090004158",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-10-15",
-      "totalDaysDrifted": 76,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2027-06-30",
+      "totalDaysDrifted": 334,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -8040,12 +8068,19 @@
           "newEnde": "2026-10-15",
           "daysExtended": 76,
           "bearbeitungsnummer": "LE2026002905"
+        },
+        {
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-10-15",
+          "newEnde": "2027-06-30",
+          "daysExtended": 258,
+          "bearbeitungsnummer": "LE2026003748"
         }
       ]
     },
     {
       "rootId": "LE2025002275",
-      "currentBearbeitungsnummer": "LE2026002906",
+      "currentBearbeitungsnummer": "LE2026003747",
       "produkt": "Ribavirin-ratiopharm 400 mg Filmtabletten",
       "wirkstoffe": [
         "Ribavirin"
@@ -8053,9 +8088,9 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "TERM_ID_NA_2090004158",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-10-15",
-      "totalDaysDrifted": 76,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2027-06-30",
+      "totalDaysDrifted": 334,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -8064,12 +8099,19 @@
           "newEnde": "2026-10-15",
           "daysExtended": 76,
           "bearbeitungsnummer": "LE2026002906"
+        },
+        {
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-10-15",
+          "newEnde": "2027-06-30",
+          "daysExtended": 258,
+          "bearbeitungsnummer": "LE2026003747"
         }
       ]
     },
     {
       "rootId": "LE2025000778",
-      "currentBearbeitungsnummer": "LE2026002902",
+      "currentBearbeitungsnummer": "LE2026003753",
       "produkt": "Galantamin-ratiopharm 8 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Galantaminhydrobromid"
@@ -8077,9 +8119,9 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "N06DA04",
       "firstObservedEnde": "2026-07-24",
-      "latestObservedEnde": "2026-10-21",
-      "totalDaysDrifted": 89,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2027-01-29",
+      "totalDaysDrifted": 189,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -8088,6 +8130,13 @@
           "newEnde": "2026-10-21",
           "daysExtended": 89,
           "bearbeitungsnummer": "LE2026002902"
+        },
+        {
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-10-21",
+          "newEnde": "2027-01-29",
+          "daysExtended": 100,
+          "bearbeitungsnummer": "LE2026003753"
         }
       ]
     },
@@ -8117,7 +8166,7 @@
     },
     {
       "rootId": "LE2025000777",
-      "currentBearbeitungsnummer": "LE2026003302",
+      "currentBearbeitungsnummer": "LE2026003752",
       "produkt": "Galantamin-ratiopharm 24 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Galantaminhydrobromid"
@@ -8125,9 +8174,9 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "N06DA04",
       "firstObservedEnde": "2026-07-24",
-      "latestObservedEnde": "2026-10-21",
-      "totalDaysDrifted": 89,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-12-01",
+      "totalDaysDrifted": 130,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -8143,6 +8192,13 @@
           "newEnde": "2026-10-21",
           "daysExtended": 28,
           "bearbeitungsnummer": "LE2026003302"
+        },
+        {
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-10-21",
+          "newEnde": "2026-12-01",
+          "daysExtended": 41,
+          "bearbeitungsnummer": "LE2026003752"
         }
       ]
     },
@@ -8204,7 +8260,7 @@
     },
     {
       "rootId": "LE2025000007",
-      "currentBearbeitungsnummer": "LE2026002882",
+      "currentBearbeitungsnummer": "LE2026003743",
       "produkt": "Predni-POS 1 %",
       "wirkstoffe": [
         "Prednisolonacetat"
@@ -8212,9 +8268,9 @@
       "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
       "atc": "S01BA04",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 92,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 153,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -8223,12 +8279,19 @@
           "newEnde": "2026-10-31",
           "daysExtended": 92,
           "bearbeitungsnummer": "LE2026002882"
+        },
+        {
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-12-31",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003743"
         }
       ]
     },
     {
       "rootId": "LE2026000465",
-      "currentBearbeitungsnummer": "LE2026002884",
+      "currentBearbeitungsnummer": "LE2026003742",
       "produkt": "Predni-POS 0,5%",
       "wirkstoffe": [
         "Prednisolonacetat"
@@ -8236,9 +8299,9 @@
       "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
       "atc": "S01BA04",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 92,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 153,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -8247,6 +8310,13 @@
           "newEnde": "2026-10-31",
           "daysExtended": 92,
           "bearbeitungsnummer": "LE2026002884"
+        },
+        {
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-12-31",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003742"
         }
       ]
     },
@@ -9065,7 +9135,7 @@
     },
     {
       "rootId": "LE2026000958",
-      "currentBearbeitungsnummer": "LE2026003300",
+      "currentBearbeitungsnummer": "LE2026003754",
       "produkt": "Clomifen-ratiopharm 50mg Tabletten",
       "wirkstoffe": [
         "Clomifencitrat"
@@ -9073,9 +9143,9 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "G03GB",
       "firstObservedEnde": "2026-09-15",
-      "latestObservedEnde": "2026-10-13",
-      "totalDaysDrifted": 28,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2027-02-02",
+      "totalDaysDrifted": 140,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -9084,6 +9154,13 @@
           "newEnde": "2026-10-13",
           "daysExtended": 28,
           "bearbeitungsnummer": "LE2026003300"
+        },
+        {
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-10-13",
+          "newEnde": "2027-02-02",
+          "daysExtended": 112,
+          "bearbeitungsnummer": "LE2026003754"
         }
       ]
     },
@@ -9368,7 +9445,7 @@
     },
     {
       "rootId": "LE2026000649",
-      "currentBearbeitungsnummer": "LE2026000649",
+      "currentBearbeitungsnummer": "LE2026003746",
       "produkt": "Aciclovir-ratiopharm 50 mg/g Creme",
       "wirkstoffe": [
         "Aciclovir"
@@ -9376,11 +9453,19 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "D06BB03",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-26",
+      "totalDaysDrifted": 26,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2026-10-26",
+          "daysExtended": 26,
+          "bearbeitungsnummer": "LE2026003746"
+        }
+      ]
     },
     {
       "rootId": "LE2025002788",
@@ -9506,7 +9591,7 @@
     },
     {
       "rootId": "LE2024003306",
-      "currentBearbeitungsnummer": "LE2026000486",
+      "currentBearbeitungsnummer": "LE2026003749",
       "produkt": "Risperidon-ratiopharm 50 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension",
       "wirkstoffe": [
         "Risperidon"
@@ -9514,15 +9599,23 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "N05AX08",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-06-30",
+      "totalDaysDrifted": 273,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2027-06-30",
+          "daysExtended": 273,
+          "bearbeitungsnummer": "LE2026003749"
+        }
+      ]
     },
     {
       "rootId": "LE2024003305",
-      "currentBearbeitungsnummer": "LE2026000485",
+      "currentBearbeitungsnummer": "LE2026003750",
       "produkt": "Risperidon-ratiopharm 37,5 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension",
       "wirkstoffe": [
         "Risperidon"
@@ -9530,15 +9623,23 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "N05AX08",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-06-30",
+      "totalDaysDrifted": 273,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2027-06-30",
+          "daysExtended": 273,
+          "bearbeitungsnummer": "LE2026003750"
+        }
+      ]
     },
     {
       "rootId": "LE2024003304",
-      "currentBearbeitungsnummer": "LE2026000484",
+      "currentBearbeitungsnummer": "LE2026003751",
       "produkt": "Risperidon-ratiopharm 25 mg Pulver und Lösungsmittel zur Herstellung einer Depot-Injektionssuspension",
       "wirkstoffe": [
         "Risperidon"
@@ -9546,11 +9647,19 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "N05AX08",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-09-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-06-30",
+      "totalDaysDrifted": 273,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-12",
+          "previousEnde": "2026-09-30",
+          "newEnde": "2027-06-30",
+          "daysExtended": 273,
+          "bearbeitungsnummer": "LE2026003751"
+        }
+      ]
     },
     {
       "rootId": "LE2025004390",
@@ -13929,6 +14038,38 @@
       "atc": "J05AG01",
       "firstObservedEnde": "2027-04-15",
       "latestObservedEnde": "2027-04-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003760",
+      "currentBearbeitungsnummer": "LE2026003760",
+      "produkt": "Folinsäure PhaRes 10 mg/ml Injektionslösung",
+      "wirkstoffe": [
+        "Calciumfolinat"
+      ],
+      "zulassungsinhaber": "Pharma Resources GmbH",
+      "atc": "V03AF03",
+      "firstObservedEnde": "2026-11-30",
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003758",
+      "currentBearbeitungsnummer": "LE2026003758",
+      "produkt": "Pedmarqsi",
+      "wirkstoffe": [
+        "Natriumthiosulfat"
+      ],
+      "zulassungsinhaber": "Norgine B.V.",
+      "atc": "XXXXXXX",
+      "firstObservedEnde": "2026-11-29",
+      "latestObservedEnde": "2026-11-29",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
