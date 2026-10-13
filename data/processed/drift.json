@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-12T10:05:40.020Z",
-  "snapshotCount": 73,
+  "generatedAt": "2026-10-13T09:58:05.987Z",
+  "snapshotCount": 74,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-12",
+  "lastSnapshot": "2026-10-13",
   "summary": {
-    "totalShortagesTracked": 683,
-    "driftedCount": 241,
+    "totalShortagesTracked": 686,
+    "driftedCount": 244,
     "driftRate": {
-      "drifted": 241,
-      "of": 683,
-      "percentage": 35.3
+      "drifted": 244,
+      "of": 686,
+      "percentage": 35.6
     },
     "meanDaysDrifted": 87.5,
     "medianDaysDrifted": 61,
-    "totalExtensionEvents": 320
+    "totalExtensionEvents": 327
   },
   "leaderboard": [
     {
@@ -1756,7 +1756,7 @@
     },
     {
       "rootId": "LE2026002812",
-      "currentBearbeitungsnummer": "LE2026002812",
+      "currentBearbeitungsnummer": "LE2026003774",
       "produkt": "Dexa-Gentamicin",
       "wirkstoffe": [
         "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)",
@@ -1765,11 +1765,19 @@
       "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
       "atc": "S01CA01",
       "firstObservedEnde": "2026-10-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 30,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-13",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-30",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003774"
+        }
+      ]
     },
     {
       "rootId": "LE2026002751",
@@ -4277,7 +4285,7 @@
     },
     {
       "rootId": "LE2026002229",
-      "currentBearbeitungsnummer": "LE2026002502",
+      "currentBearbeitungsnummer": "LE2026003761",
       "produkt": "Dorzo-Vision sine 20 mg/ml Augentropfen, Lösung im Einzeldosisbehältnis",
       "wirkstoffe": [
         "Dorzolamidhydrochlorid"
@@ -4918,7 +4926,7 @@
     },
     {
       "rootId": "LE2026002387",
-      "currentBearbeitungsnummer": "LE2026003478",
+      "currentBearbeitungsnummer": "LE2026003770",
       "produkt": "Gentamicin-POS",
       "wirkstoffe": [
         "Gentamicinsulfat"
@@ -4926,9 +4934,9 @@
       "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
       "atc": "S01AA11",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 31,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -4937,6 +4945,13 @@
           "newEnde": "2026-10-31",
           "daysExtended": 31,
           "bearbeitungsnummer": "LE2026003478"
+        },
+        {
+          "snapshotDate": "2026-10-13",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-12-31",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003770"
         }
       ]
     },
@@ -8236,7 +8251,7 @@
     },
     {
       "rootId": "LE2024003131",
-      "currentBearbeitungsnummer": "LE2026002880",
+      "currentBearbeitungsnummer": "LE2026003773",
       "produkt": "Fluoropos",
       "wirkstoffe": [
         "Fluorometholon"
@@ -8244,9 +8259,9 @@
       "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
       "atc": "S01BA07",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 92,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 153,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -8255,6 +8270,13 @@
           "newEnde": "2026-10-31",
           "daysExtended": 92,
           "bearbeitungsnummer": "LE2026002880"
+        },
+        {
+          "snapshotDate": "2026-10-13",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-12-31",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003773"
         }
       ]
     },
@@ -8354,7 +8376,7 @@
     },
     {
       "rootId": "LE2026001626",
-      "currentBearbeitungsnummer": "LE2026002881",
+      "currentBearbeitungsnummer": "LE2026003772",
       "produkt": "Neosynephrin-POS 5%",
       "wirkstoffe": [
         "Phenylephrinhydrochlorid"
@@ -8362,9 +8384,9 @@
       "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
       "atc": "S01FB01",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 92,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 122,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -8373,12 +8395,19 @@
           "newEnde": "2026-10-31",
           "daysExtended": 92,
           "bearbeitungsnummer": "LE2026002881"
+        },
+        {
+          "snapshotDate": "2026-10-13",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-30",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003772"
         }
       ]
     },
     {
       "rootId": "LE2026001594",
-      "currentBearbeitungsnummer": "LE2026003296",
+      "currentBearbeitungsnummer": "LE2026003771",
       "produkt": "Neosynephrin-POS 10%",
       "wirkstoffe": [
         "Phenylephrinhydrochlorid"
@@ -8386,9 +8415,9 @@
       "zulassungsinhaber": "URSAPHARM Arzneimittel GmbH",
       "atc": "S01FB01",
       "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 92,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 122,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -8397,6 +8426,13 @@
           "newEnde": "2026-10-31",
           "daysExtended": 92,
           "bearbeitungsnummer": "LE2026002883"
+        },
+        {
+          "snapshotDate": "2026-10-13",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-30",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003771"
         }
       ]
     },
@@ -13472,7 +13508,7 @@
     },
     {
       "rootId": "LE2026003559",
-      "currentBearbeitungsnummer": "LE2026003559",
+      "currentBearbeitungsnummer": "LE2026003762",
       "produkt": "Rosuvastatin/Ezetimib Denk 40 mg/10 mg Filmtabletten",
       "wirkstoffe": [
         "Ezetimib",
@@ -13481,15 +13517,23 @@
       "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
       "atc": "C10BA06",
       "firstObservedEnde": "2026-10-09",
-      "latestObservedEnde": "2026-10-09",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-06",
+      "totalDaysDrifted": 28,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-13",
+          "previousEnde": "2026-10-09",
+          "newEnde": "2026-11-06",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026003762"
+        }
+      ]
     },
     {
       "rootId": "LE2026003558",
-      "currentBearbeitungsnummer": "LE2026003558",
+      "currentBearbeitungsnummer": "LE2026003763",
       "produkt": "Rosuvastatin/Ezetimib Denk 20 mg/10 mg Filmtabletten",
       "wirkstoffe": [
         "Ezetimib",
@@ -13498,11 +13542,19 @@
       "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
       "atc": "C10BA06",
       "firstObservedEnde": "2026-10-09",
-      "latestObservedEnde": "2026-10-09",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-06",
+      "totalDaysDrifted": 28,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-13",
+          "previousEnde": "2026-10-09",
+          "newEnde": "2026-11-06",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026003763"
+        }
+      ]
     },
     {
       "rootId": "LE2026003556",
@@ -14070,6 +14122,54 @@
       "atc": "XXXXXXX",
       "firstObservedEnde": "2026-11-29",
       "latestObservedEnde": "2026-11-29",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003769",
+      "currentBearbeitungsnummer": "LE2026003769",
+      "produkt": "Cisatracurium Hikma 2 mg/ml Injektions-/Infusionslösung",
+      "wirkstoffe": [
+        "Cisatracuriumbesilat"
+      ],
+      "zulassungsinhaber": "Hikma Farmaceutica (Portugal), S.A.",
+      "atc": "M03AC11",
+      "firstObservedEnde": "2027-01-29",
+      "latestObservedEnde": "2027-01-29",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003768",
+      "currentBearbeitungsnummer": "LE2026003768",
+      "produkt": "Timolol Micro Labs 5 mg/ml Augentropfen, Lösung",
+      "wirkstoffe": [
+        "Timololmaleat"
+      ],
+      "zulassungsinhaber": "Micro Labs GmbH",
+      "atc": "S01ED01",
+      "firstObservedEnde": "2026-10-27",
+      "latestObservedEnde": "2026-10-27",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003766",
+      "currentBearbeitungsnummer": "LE2026003766",
+      "produkt": "Zevtera 500 mg Pulver für ein Konzentrat zur Herstellung einer Infusionslösung",
+      "wirkstoffe": [
+        "Ceftobiprolmedocaril-Natrium"
+      ],
+      "zulassungsinhaber": "Advanz Pharma Limited",
+      "atc": "J01DI01",
+      "firstObservedEnde": "2027-04-15",
+      "latestObservedEnde": "2027-04-15",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
