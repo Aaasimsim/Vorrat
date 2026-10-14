@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-13T09:58:05.987Z",
-  "snapshotCount": 74,
+  "generatedAt": "2026-10-14T08:17:37.734Z",
+  "snapshotCount": 75,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-13",
+  "lastSnapshot": "2026-10-14",
   "summary": {
-    "totalShortagesTracked": 686,
+    "totalShortagesTracked": 688,
     "driftedCount": 244,
     "driftRate": {
       "drifted": 244,
-      "of": 686,
-      "percentage": 35.6
+      "of": 688,
+      "percentage": 35.5
     },
-    "meanDaysDrifted": 87.5,
+    "meanDaysDrifted": 87.7,
     "medianDaysDrifted": 61,
-    "totalExtensionEvents": 327
+    "totalExtensionEvents": 328
   },
   "leaderboard": [
     {
@@ -12055,7 +12055,7 @@
     },
     {
       "rootId": "LE2026003167",
-      "currentBearbeitungsnummer": "LE2026003376",
+      "currentBearbeitungsnummer": "LE2026003778",
       "produkt": "Urapidil AL 30 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Urapidil"
@@ -12063,9 +12063,9 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "C02CA06",
       "firstObservedEnde": "2026-09-15",
-      "latestObservedEnde": "2026-10-15",
-      "totalDaysDrifted": 30,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-24",
+      "totalDaysDrifted": 70,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -12074,6 +12074,13 @@
           "newEnde": "2026-10-15",
           "daysExtended": 30,
           "bearbeitungsnummer": "LE2026003376"
+        },
+        {
+          "snapshotDate": "2026-10-14",
+          "previousEnde": "2026-10-15",
+          "newEnde": "2026-11-24",
+          "daysExtended": 40,
+          "bearbeitungsnummer": "LE2026003778"
         }
       ]
     },
@@ -14170,6 +14177,38 @@
       "atc": "J01DI01",
       "firstObservedEnde": "2027-04-15",
       "latestObservedEnde": "2027-04-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003776",
+      "currentBearbeitungsnummer": "LE2026003776",
+      "produkt": "Foscavir",
+      "wirkstoffe": [
+        "Foscarnet-Natrium-Hexahydrat"
+      ],
+      "zulassungsinhaber": "Clinigen Healthcare B.V.",
+      "atc": "J05AD01",
+      "firstObservedEnde": "2026-11-13",
+      "latestObservedEnde": "2026-11-13",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003775",
+      "currentBearbeitungsnummer": "LE2026003775",
+      "produkt": "Dekristol 20.000 I.E./ml Tropfen",
+      "wirkstoffe": [
+        "Colecalciferol"
+      ],
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "atc": "A11CC05",
+      "firstObservedEnde": "2026-12-04",
+      "latestObservedEnde": "2026-12-04",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
