@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-14T08:17:37.734Z",
-  "snapshotCount": 75,
+  "generatedAt": "2026-10-15T07:54:54.680Z",
+  "snapshotCount": 76,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-14",
+  "lastSnapshot": "2026-10-15",
   "summary": {
-    "totalShortagesTracked": 688,
-    "driftedCount": 244,
+    "totalShortagesTracked": 693,
+    "driftedCount": 246,
     "driftRate": {
-      "drifted": 244,
-      "of": 688,
+      "drifted": 246,
+      "of": 693,
       "percentage": 35.5
     },
-    "meanDaysDrifted": 87.7,
+    "meanDaysDrifted": 87.2,
     "medianDaysDrifted": 61,
-    "totalExtensionEvents": 328
+    "totalExtensionEvents": 330
   },
   "leaderboard": [
     {
@@ -11564,7 +11564,7 @@
     },
     {
       "rootId": "LE2026003048",
-      "currentBearbeitungsnummer": "LE2026003048",
+      "currentBearbeitungsnummer": "LE2026003780",
       "produkt": "Eletrip-Hormosan 40 mg Filmtabletten",
       "wirkstoffe": [
         "Eletriptanhydrobromid"
@@ -11572,15 +11572,23 @@
       "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
       "atc": "N02CC06",
       "firstObservedEnde": "2026-10-23",
-      "latestObservedEnde": "2026-10-23",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-16",
+      "totalDaysDrifted": 24,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-15",
+          "previousEnde": "2026-10-23",
+          "newEnde": "2026-11-16",
+          "daysExtended": 24,
+          "bearbeitungsnummer": "LE2026003780"
+        }
+      ]
     },
     {
       "rootId": "LE2026003047",
-      "currentBearbeitungsnummer": "LE2026003047",
+      "currentBearbeitungsnummer": "LE2026003781",
       "produkt": "Eletrip-Hormosan 20 mg Filmtabletten",
       "wirkstoffe": [
         "Eletriptanhydrobromid"
@@ -11588,11 +11596,19 @@
       "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung",
       "atc": "N02CC06",
       "firstObservedEnde": "2026-10-23",
-      "latestObservedEnde": "2026-10-23",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-16",
+      "totalDaysDrifted": 24,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-15",
+          "previousEnde": "2026-10-23",
+          "newEnde": "2026-11-16",
+          "daysExtended": 24,
+          "bearbeitungsnummer": "LE2026003781"
+        }
+      ]
     },
     {
       "rootId": "LE2026003079",
@@ -14209,6 +14225,97 @@
       "atc": "A11CC05",
       "firstObservedEnde": "2026-12-04",
       "latestObservedEnde": "2026-12-04",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003786",
+      "currentBearbeitungsnummer": "LE2026003786",
+      "produkt": "Volon A-Schüttelmix",
+      "wirkstoffe": [
+        "Triamcinolonacetonid",
+        "Zinkoxid"
+      ],
+      "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+      "atc": "D02AB, D07XB02",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003785",
+      "currentBearbeitungsnummer": "LE2026003785",
+      "produkt": "Elektrolyt-Infusionslösung 148 mit Glucose 1 PÄD",
+      "wirkstoffe": [
+        "Calciumchlorid-Dihydrat",
+        "Glucose-Monohydrat (Ph.Eur.)",
+        "Kaliumchlorid",
+        "Magnesiumchlorid-Hexahydrat",
+        "Natriumacetat-Trihydrat",
+        "Natriumchlorid"
+      ],
+      "zulassungsinhaber": "Burg Pharma GmbH",
+      "atc": "B05BB",
+      "firstObservedEnde": "2027-09-30",
+      "latestObservedEnde": "2027-09-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003784",
+      "currentBearbeitungsnummer": "LE2026003784",
+      "produkt": "Elektrolyt-Infusionslösung 153 mit Glucose 5",
+      "wirkstoffe": [
+        "Calciumchlorid-Dihydrat",
+        "Glucose-Monohydrat (Ph.Eur.)",
+        "Kaliumchlorid",
+        "Magnesiumchlorid-Hexahydrat",
+        "Natriumacetat-Trihydrat",
+        "Natriumchlorid"
+      ],
+      "zulassungsinhaber": "Burg Pharma GmbH",
+      "atc": "B05BB02",
+      "firstObservedEnde": "2027-09-30",
+      "latestObservedEnde": "2027-09-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003783",
+      "currentBearbeitungsnummer": "LE2026003783",
+      "produkt": "Nipent 10 mg Pulver zur Herstellung einer Injektionlösung/Infusionslösung",
+      "wirkstoffe": [
+        "Pentostatin"
+      ],
+      "zulassungsinhaber": "Pfizer Pharma GmbH",
+      "atc": "L01XX08",
+      "firstObservedEnde": "2028-09-30",
+      "latestObservedEnde": "2028-09-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003782",
+      "currentBearbeitungsnummer": "LE2026003782",
+      "produkt": "Sulfadiazin-Heyl",
+      "wirkstoffe": [
+        "Sulfadiazin"
+      ],
+      "zulassungsinhaber": "H e y l Chemisch-pharmazeutische Fabrik GmbH & Co. KG",
+      "atc": "J01EC02",
+      "firstObservedEnde": "2027-03-31",
+      "latestObservedEnde": "2027-03-31",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
