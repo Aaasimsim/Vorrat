@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-15T07:54:54.680Z",
-  "snapshotCount": 76,
+  "generatedAt": "2026-10-16T07:47:39.983Z",
+  "snapshotCount": 77,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-15",
+  "lastSnapshot": "2026-10-16",
   "summary": {
-    "totalShortagesTracked": 693,
+    "totalShortagesTracked": 694,
     "driftedCount": 246,
     "driftRate": {
       "drifted": 246,
-      "of": 693,
-      "percentage": 35.5
+      "of": 694,
+      "percentage": 35.4
     },
     "meanDaysDrifted": 87.2,
     "medianDaysDrifted": 61,
@@ -14316,6 +14316,22 @@
       "atc": "J01EC02",
       "firstObservedEnde": "2027-03-31",
       "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003790",
+      "currentBearbeitungsnummer": "LE2026003790",
+      "produkt": "Methionin Al 500",
+      "wirkstoffe": [
+        "Methionin"
+      ],
+      "zulassungsinhaber": "ALIUD PHARMA GmbH",
+      "atc": "G04BA01",
+      "firstObservedEnde": "2026-12-08",
+      "latestObservedEnde": "2026-12-08",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
