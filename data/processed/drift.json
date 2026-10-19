@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-18T07:40:21.834Z",
-  "snapshotCount": 79,
+  "generatedAt": "2026-10-19T08:22:21.241Z",
+  "snapshotCount": 80,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-18",
+  "lastSnapshot": "2026-10-19",
   "summary": {
-    "totalShortagesTracked": 697,
-    "driftedCount": 249,
+    "totalShortagesTracked": 699,
+    "driftedCount": 250,
     "driftRate": {
-      "drifted": 249,
-      "of": 697,
-      "percentage": 35.7
+      "drifted": 250,
+      "of": 699,
+      "percentage": 35.8
     },
     "meanDaysDrifted": 86.6,
     "medianDaysDrifted": 61,
-    "totalExtensionEvents": 336
+    "totalExtensionEvents": 338
   },
   "leaderboard": [
     {
@@ -1146,7 +1146,7 @@
       "wirkstoffe": [
         "Flurazepam"
       ],
-      "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+      "zulassungsinhaber": "Riemser Pharma GmbH",
       "atc": "N05CD01",
       "firstObservedEnde": "2026-09-28",
       "latestObservedEnde": "2026-12-28",
@@ -5007,7 +5007,7 @@
       "wirkstoffe": [
         "Levetiracetam"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -5254,7 +5254,7 @@
       "wirkstoffe": [
         "Doxepinhydrochlorid (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N06AA12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -5270,7 +5270,7 @@
       "wirkstoffe": [
         "Doxepinhydrochlorid (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N06AA12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -6063,7 +6063,7 @@
       "wirkstoffe": [
         "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "H02AB02",
       "firstObservedEnde": "2027-01-29",
       "latestObservedEnde": "2027-01-29",
@@ -6079,7 +6079,7 @@
       "wirkstoffe": [
         "Dexamethason"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "H02AB02",
       "firstObservedEnde": "2027-01-29",
       "latestObservedEnde": "2027-01-29",
@@ -7347,17 +7347,17 @@
     },
     {
       "rootId": "LE2025004422",
-      "currentBearbeitungsnummer": "LE2026003206",
+      "currentBearbeitungsnummer": "LE2026003825",
       "produkt": "Isozid 0,5 N",
       "wirkstoffe": [
         "Isoniazid"
       ],
-      "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+      "zulassungsinhaber": "Riemser Pharma GmbH",
       "atc": "J04AC01",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-10-19",
-      "totalDaysDrifted": 49,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-18",
+      "totalDaysDrifted": 109,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -7366,6 +7366,13 @@
           "newEnde": "2026-10-19",
           "daysExtended": 49,
           "bearbeitungsnummer": "LE2026003206"
+        },
+        {
+          "snapshotDate": "2026-10-19",
+          "previousEnde": "2026-10-19",
+          "newEnde": "2026-12-18",
+          "daysExtended": 60,
+          "bearbeitungsnummer": "LE2026003825"
         }
       ]
     },
@@ -7625,7 +7632,7 @@
     },
     {
       "rootId": "LE2026001840",
-      "currentBearbeitungsnummer": "LE2026003589",
+      "currentBearbeitungsnummer": "LE2026003822",
       "produkt": "Pazopanib Viatris 200 mg Filmtabletten",
       "wirkstoffe": [
         "Pazopanibhydrochlorid"
@@ -8262,7 +8269,7 @@
       "wirkstoffe": [
         "Besilesomab"
       ],
-      "zulassungsinhaber": "TELIX INNOVATIONS",
+      "zulassungsinhaber": "TELIX INNOVATIONS Rechtsform: S.A.",
       "atc": "V09HA03",
       "firstObservedEnde": "2028-06-26",
       "latestObservedEnde": "2028-06-26",
@@ -8371,7 +8378,7 @@
       "wirkstoffe": [
         "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "S01BA01",
       "firstObservedEnde": "2028-03-31",
       "latestObservedEnde": "2028-03-31",
@@ -9622,7 +9629,7 @@
       "wirkstoffe": [
         "Levetiracetam"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -9638,7 +9645,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -9806,7 +9813,7 @@
       "wirkstoffe": [
         "Doxepinhydrochlorid (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N06AA12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -9822,7 +9829,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -10207,7 +10214,7 @@
       "wirkstoffe": [
         "Levetiracetam"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -10559,7 +10566,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -10591,7 +10598,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -10607,7 +10614,7 @@
       "wirkstoffe": [
         "Besilesomab"
       ],
-      "zulassungsinhaber": "TELIX INNOVATIONS",
+      "zulassungsinhaber": "TELIX INNOVATIONS Rechtsform: S.A.",
       "atc": "V09HA03",
       "firstObservedEnde": "2026-06-26",
       "latestObservedEnde": "2026-06-26",
@@ -10703,7 +10710,7 @@
       "wirkstoffe": [
         "Procainhydrochlorid"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "N01BA02",
       "firstObservedEnde": "2027-04-30",
       "latestObservedEnde": "2027-04-30",
@@ -10719,7 +10726,7 @@
       "wirkstoffe": [
         "Procainhydrochlorid"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "N01BA02",
       "firstObservedEnde": "2027-08-31",
       "latestObservedEnde": "2027-08-31",
@@ -11165,7 +11172,7 @@
       "wirkstoffe": [
         "Sildenafilcitrat"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "G04BE03",
       "firstObservedEnde": "2024-05-17",
       "latestObservedEnde": "2024-05-17",
@@ -11405,7 +11412,7 @@
       "wirkstoffe": [
         "Prednicarbat"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "D07AC18",
       "firstObservedEnde": "2026-10-30",
       "latestObservedEnde": "2026-10-30",
@@ -11422,7 +11429,7 @@
         "Triamteren",
         "Xipamid"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "C03EA",
       "firstObservedEnde": "2027-04-30",
       "latestObservedEnde": "2027-04-30",
@@ -12239,7 +12246,7 @@
       "wirkstoffe": [
         "Levetiracetam"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -12761,7 +12768,7 @@
       "wirkstoffe": [
         "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "H02AB02",
       "firstObservedEnde": "2027-01-29",
       "latestObservedEnde": "2027-01-29",
@@ -13042,7 +13049,7 @@
       "wirkstoffe": [
         "Propranololhydrochlorid"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "C07AA05",
       "firstObservedEnde": "2026-10-30",
       "latestObservedEnde": "2026-10-30",
@@ -13077,19 +13084,27 @@
     },
     {
       "rootId": "LE2026003339",
-      "currentBearbeitungsnummer": "LE2026003339",
+      "currentBearbeitungsnummer": "LE2026003826",
       "produkt": "EREMFAT 450 mg",
       "wirkstoffe": [
         "Rifampicin"
       ],
-      "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+      "zulassungsinhaber": "Riemser Pharma GmbH",
       "atc": "J04AB02",
       "firstObservedEnde": "2026-10-19",
-      "latestObservedEnde": "2026-10-19",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-04",
+      "totalDaysDrifted": 16,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-19",
+          "previousEnde": "2026-10-19",
+          "newEnde": "2026-11-04",
+          "daysExtended": 16,
+          "bearbeitungsnummer": "LE2026003826"
+        }
+      ]
     },
     {
       "rootId": "LE2026003332",
@@ -13696,7 +13711,7 @@
       "wirkstoffe": [
         "Prednisolonacetat"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "S01BA04",
       "firstObservedEnde": "2027-01-08",
       "latestObservedEnde": "2027-01-08",
@@ -14266,7 +14281,7 @@
       "wirkstoffe": [
         "Colecalciferol"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "A11CC05",
       "firstObservedEnde": "2026-12-04",
       "latestObservedEnde": "2026-12-04",
@@ -14425,6 +14440,38 @@
       "atc": "D10AD06",
       "firstObservedEnde": "2026-11-12",
       "latestObservedEnde": "2026-11-12",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003824",
+      "currentBearbeitungsnummer": "LE2026003824",
+      "produkt": "Isozid 100 mg",
+      "wirkstoffe": [
+        "Isoniazid"
+      ],
+      "zulassungsinhaber": "Riemser Pharma GmbH",
+      "atc": "J04AC01",
+      "firstObservedEnde": "2027-02-22",
+      "latestObservedEnde": "2027-02-22",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003823",
+      "currentBearbeitungsnummer": "LE2026003823",
+      "produkt": "EREMFAT 600 mg",
+      "wirkstoffe": [
+        "Rifampicin"
+      ],
+      "zulassungsinhaber": "Riemser Pharma GmbH",
+      "atc": "J04AB02",
+      "firstObservedEnde": "2026-12-07",
+      "latestObservedEnde": "2026-12-07",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
