@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-19T08:22:21.241Z",
-  "snapshotCount": 80,
+  "generatedAt": "2026-10-20T08:05:57.530Z",
+  "snapshotCount": 81,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-19",
+  "lastSnapshot": "2026-10-20",
   "summary": {
-    "totalShortagesTracked": 699,
-    "driftedCount": 250,
+    "totalShortagesTracked": 701,
+    "driftedCount": 255,
     "driftRate": {
-      "drifted": 250,
-      "of": 699,
-      "percentage": 35.8
+      "drifted": 255,
+      "of": 701,
+      "percentage": 36.4
     },
-    "meanDaysDrifted": 86.6,
+    "meanDaysDrifted": 86,
     "medianDaysDrifted": 61,
-    "totalExtensionEvents": 338
+    "totalExtensionEvents": 347
   },
   "leaderboard": [
     {
@@ -1361,7 +1361,7 @@
     },
     {
       "rootId": "LE2026001071",
-      "currentBearbeitungsnummer": "LE2026002840",
+      "currentBearbeitungsnummer": "LE2026003833",
       "produkt": "Sultiam-neuraxpharm 50 mg Filmtabletten",
       "wirkstoffe": [
         "Sultiam"
@@ -1369,11 +1369,19 @@
       "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
       "atc": "N03AX03",
       "firstObservedEnde": "2026-10-15",
-      "latestObservedEnde": "2026-10-15",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 16,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-20",
+          "previousEnde": "2026-10-15",
+          "newEnde": "2026-10-31",
+          "daysExtended": 16,
+          "bearbeitungsnummer": "LE2026003833"
+        }
+      ]
     },
     {
       "rootId": "LE2026001072",
@@ -1393,7 +1401,7 @@
     },
     {
       "rootId": "LE2025001473",
-      "currentBearbeitungsnummer": "LE2026003362",
+      "currentBearbeitungsnummer": "LE2026003832",
       "produkt": "Flupentixol-neuraxpharm 40 mg/ml",
       "wirkstoffe": [
         "Flupentixoldecanoat"
@@ -1401,9 +1409,9 @@
       "zulassungsinhaber": "neuraxpharm Arzneimittel GmbH",
       "atc": "N05AF01",
       "firstObservedEnde": "2026-09-15",
-      "latestObservedEnde": "2026-10-15",
-      "totalDaysDrifted": 30,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-31",
+      "totalDaysDrifted": 46,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1412,6 +1420,13 @@
           "newEnde": "2026-10-15",
           "daysExtended": 30,
           "bearbeitungsnummer": "LE2026003362"
+        },
+        {
+          "snapshotDate": "2026-10-20",
+          "previousEnde": "2026-10-15",
+          "newEnde": "2026-10-31",
+          "daysExtended": 16,
+          "bearbeitungsnummer": "LE2026003832"
         }
       ]
     },
@@ -2171,7 +2186,7 @@
     },
     {
       "rootId": "LE2026002764",
-      "currentBearbeitungsnummer": "LE2026002764",
+      "currentBearbeitungsnummer": "LE2026003840",
       "produkt": "NIPRUSS",
       "wirkstoffe": [
         "Dinatrium-pentacyanonitrosylferrat(2-)"
@@ -2179,11 +2194,19 @@
       "zulassungsinhaber": "ALTAMEDICS GmbH",
       "atc": "C02DD01",
       "firstObservedEnde": "2026-10-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-20",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-12-31",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003840"
+        }
+      ]
     },
     {
       "rootId": "LE2026000847",
@@ -3263,7 +3286,7 @@
     },
     {
       "rootId": "LE2026002594",
-      "currentBearbeitungsnummer": "LE2026003234",
+      "currentBearbeitungsnummer": "LE2026003850",
       "produkt": "Risperidon - 1 A Pharma 6 mg Filmtabletten",
       "wirkstoffe": [
         "Risperidon"
@@ -3271,9 +3294,9 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N05AX08",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-10-26",
-      "totalDaysDrifted": 56,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2027-01-12",
+      "totalDaysDrifted": 134,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -3282,6 +3305,13 @@
           "newEnde": "2026-10-26",
           "daysExtended": 56,
           "bearbeitungsnummer": "LE2026003234"
+        },
+        {
+          "snapshotDate": "2026-10-20",
+          "previousEnde": "2026-10-26",
+          "newEnde": "2027-01-12",
+          "daysExtended": 78,
+          "bearbeitungsnummer": "LE2026003850"
         }
       ]
     },
@@ -7068,7 +7098,7 @@
     },
     {
       "rootId": "LE2026001910",
-      "currentBearbeitungsnummer": "LE2026002032",
+      "currentBearbeitungsnummer": "LE2026003841",
       "produkt": "Oxytocin 5 I.E. Hexal",
       "wirkstoffe": [
         "Oxytocin"
@@ -7076,11 +7106,19 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "H01BB02",
       "firstObservedEnde": "2026-10-14",
-      "latestObservedEnde": "2026-10-14",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-07",
+      "totalDaysDrifted": 24,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-20",
+          "previousEnde": "2026-10-14",
+          "newEnde": "2026-11-07",
+          "daysExtended": 24,
+          "bearbeitungsnummer": "LE2026003841"
+        }
+      ]
     },
     {
       "rootId": "LE2024002088",
@@ -7973,7 +8011,7 @@
     },
     {
       "rootId": "LE2024002963",
-      "currentBearbeitungsnummer": "LE2026003421",
+      "currentBearbeitungsnummer": "LE2026003842",
       "produkt": "Atomoxe - 1 A Pharma 60 mg Hartkapseln",
       "wirkstoffe": [
         "Atomoxetinhydrochlorid"
@@ -7981,9 +8019,9 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N06BA09",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-10-15",
-      "totalDaysDrifted": 15,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -7992,6 +8030,13 @@
           "newEnde": "2026-10-15",
           "daysExtended": 15,
           "bearbeitungsnummer": "LE2026003421"
+        },
+        {
+          "snapshotDate": "2026-10-20",
+          "previousEnde": "2026-10-15",
+          "newEnde": "2026-11-30",
+          "daysExtended": 46,
+          "bearbeitungsnummer": "LE2026003842"
         }
       ]
     },
@@ -11407,7 +11452,7 @@
     },
     {
       "rootId": "LE2026002986",
-      "currentBearbeitungsnummer": "LE2026002986",
+      "currentBearbeitungsnummer": "LE2026003838",
       "produkt": "Prednicarbat acis Lösung",
       "wirkstoffe": [
         "Prednicarbat"
@@ -11415,11 +11460,19 @@
       "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "D07AC18",
       "firstObservedEnde": "2026-10-30",
-      "latestObservedEnde": "2026-10-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-20",
+      "totalDaysDrifted": 21,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-20",
+          "previousEnde": "2026-10-30",
+          "newEnde": "2026-11-20",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003838"
+        }
+      ]
     },
     {
       "rootId": "LE2026002983",
@@ -13268,7 +13321,7 @@
     },
     {
       "rootId": "LE2026003468",
-      "currentBearbeitungsnummer": "LE2026003468",
+      "currentBearbeitungsnummer": "LE2026003859",
       "produkt": "Doxyderma 50 mg",
       "wirkstoffe": [
         "Doxycyclin-Monohydrat"
@@ -13834,7 +13887,7 @@
     },
     {
       "rootId": "LE2026003590",
-      "currentBearbeitungsnummer": "LE2026003723",
+      "currentBearbeitungsnummer": "LE2026003839",
       "produkt": "Semglee 100 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml)",
       "wirkstoffe": [
         "Insulin glargin"
@@ -13842,9 +13895,9 @@
       "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
       "atc": "A10AE04",
       "firstObservedEnde": "2026-10-07",
-      "latestObservedEnde": "2026-10-21",
-      "totalDaysDrifted": 14,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-27",
+      "totalDaysDrifted": 20,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -13853,12 +13906,19 @@
           "newEnde": "2026-10-21",
           "daysExtended": 14,
           "bearbeitungsnummer": "LE2026003723"
+        },
+        {
+          "snapshotDate": "2026-10-20",
+          "previousEnde": "2026-10-21",
+          "newEnde": "2026-10-27",
+          "daysExtended": 6,
+          "bearbeitungsnummer": "LE2026003839"
         }
       ]
     },
     {
       "rootId": "LE2026003637",
-      "currentBearbeitungsnummer": "LE2026003637",
+      "currentBearbeitungsnummer": "LE2026003836",
       "produkt": "innohep 4.500 Anti-Xa I.E. Injektionslösung",
       "wirkstoffe": [
         "Tinzaparin-Natrium"
@@ -13866,11 +13926,19 @@
       "zulassungsinhaber": "Leo Pharma A/S HR-Beiname: Leo Pharmaceutical Products Ltd. A/S",
       "atc": "B01AB10",
       "firstObservedEnde": "2026-10-16",
-      "latestObservedEnde": "2026-10-16",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-10-23",
+      "totalDaysDrifted": 7,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-20",
+          "previousEnde": "2026-10-16",
+          "newEnde": "2026-10-23",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026003836"
+        }
+      ]
     },
     {
       "rootId": "LE2026003647",
@@ -14052,7 +14120,7 @@
     },
     {
       "rootId": "LE2026003700",
-      "currentBearbeitungsnummer": "LE2026003701",
+      "currentBearbeitungsnummer": "LE2026003848",
       "produkt": "Hydromorphon HEXAL 10 mg/ml Injektions-/Infusionslösung",
       "wirkstoffe": [
         "Hydromorphonhydrochlorid"
@@ -14472,6 +14540,38 @@
       "atc": "J04AB02",
       "firstObservedEnde": "2026-12-07",
       "latestObservedEnde": "2026-12-07",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003861",
+      "currentBearbeitungsnummer": "LE2026003862",
+      "produkt": "Volon A 10",
+      "wirkstoffe": [
+        "Triamcinolonacetonid"
+      ],
+      "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+      "atc": "H02AB08",
+      "firstObservedEnde": "2026-12-06",
+      "latestObservedEnde": "2026-12-06",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003860",
+      "currentBearbeitungsnummer": "LE2026003860",
+      "produkt": "Prednitop Crinale",
+      "wirkstoffe": [
+        "Prednicarbat"
+      ],
+      "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+      "atc": "D07AC18",
+      "firstObservedEnde": "2026-11-22",
+      "latestObservedEnde": "2026-11-22",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
