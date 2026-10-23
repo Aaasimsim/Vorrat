@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-22T08:12:56.386Z",
-  "snapshotCount": 83,
+  "generatedAt": "2026-10-23T08:10:23.141Z",
+  "snapshotCount": 84,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-22",
+  "lastSnapshot": "2026-10-23",
   "summary": {
-    "totalShortagesTracked": 705,
-    "driftedCount": 256,
+    "totalShortagesTracked": 708,
+    "driftedCount": 257,
     "driftRate": {
-      "drifted": 256,
-      "of": 705,
+      "drifted": 257,
+      "of": 708,
       "percentage": 36.3
     },
-    "meanDaysDrifted": 86.2,
+    "meanDaysDrifted": 86,
     "medianDaysDrifted": 61,
-    "totalExtensionEvents": 352
+    "totalExtensionEvents": 353
   },
   "leaderboard": [
     {
@@ -12491,7 +12491,7 @@
     },
     {
       "rootId": "LE2026003214",
-      "currentBearbeitungsnummer": "LE2026003214",
+      "currentBearbeitungsnummer": "LE2026003898",
       "produkt": "Ropivacain HCl B. Braun 2 mg/ml Injektions-/Infusionslösung",
       "wirkstoffe": [
         "Ropivacainhydrochlorid-Monohydrat"
@@ -12499,11 +12499,19 @@
       "zulassungsinhaber": "B. Braun Melsungen Aktiengesellschaft",
       "atc": "N01BB09",
       "firstObservedEnde": "2026-10-30",
-      "latestObservedEnde": "2026-10-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-27",
+      "totalDaysDrifted": 28,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-23",
+          "previousEnde": "2026-10-30",
+          "newEnde": "2026-11-27",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026003898"
+        }
+      ]
     },
     {
       "rootId": "LE2026003211",
@@ -14673,6 +14681,54 @@
       "atc": "H02AB08",
       "firstObservedEnde": "2026-11-29",
       "latestObservedEnde": "2026-11-29",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003899",
+      "currentBearbeitungsnummer": "LE2026003899",
+      "produkt": "Sulbactam Eberth 1000 mg",
+      "wirkstoffe": [
+        "Sulbactam-Natrium"
+      ],
+      "zulassungsinhaber": "Dr. Friedrich Eberth Arzneimittel GmbH",
+      "atc": "J01CG01",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003895",
+      "currentBearbeitungsnummer": "LE2026003895",
+      "produkt": "Gilurytmal 50 mg / 10 ml",
+      "wirkstoffe": [
+        "Ajmalin"
+      ],
+      "zulassungsinhaber": "Carinopharm GmbH",
+      "atc": "C01BA05",
+      "firstObservedEnde": "2026-11-30",
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003894",
+      "currentBearbeitungsnummer": "LE2026003894",
+      "produkt": "Ipratropiumbromid 125 Mikrogramm / 1 ml Stulln",
+      "wirkstoffe": [
+        "Ipratropiumbromid"
+      ],
+      "zulassungsinhaber": "Penta Arzneimittel GmbH",
+      "atc": "R03BB01",
+      "firstObservedEnde": "2027-04-01",
+      "latestObservedEnde": "2027-04-01",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
