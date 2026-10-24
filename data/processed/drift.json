@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-23T08:10:23.141Z",
-  "snapshotCount": 84,
+  "generatedAt": "2026-10-24T07:48:46.409Z",
+  "snapshotCount": 85,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-23",
+  "lastSnapshot": "2026-10-24",
   "summary": {
-    "totalShortagesTracked": 708,
-    "driftedCount": 257,
+    "totalShortagesTracked": 711,
+    "driftedCount": 259,
     "driftRate": {
-      "drifted": 257,
-      "of": 708,
-      "percentage": 36.3
+      "drifted": 259,
+      "of": 711,
+      "percentage": 36.4
     },
-    "meanDaysDrifted": 86,
+    "meanDaysDrifted": 85.5,
     "medianDaysDrifted": 61,
-    "totalExtensionEvents": 353
+    "totalExtensionEvents": 355
   },
   "leaderboard": [
     {
@@ -13069,7 +13069,7 @@
     },
     {
       "rootId": "LE2026003381",
-      "currentBearbeitungsnummer": "LE2026003381",
+      "currentBearbeitungsnummer": "LE2026003902",
       "produkt": "Solian 400 mg Filmtabletten",
       "wirkstoffe": [
         "Amisulprid"
@@ -13077,11 +13077,19 @@
       "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
       "atc": "N05AL05",
       "firstObservedEnde": "2026-10-16",
-      "latestObservedEnde": "2026-10-16",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-20",
+      "totalDaysDrifted": 35,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-24",
+          "previousEnde": "2026-10-16",
+          "newEnde": "2026-11-20",
+          "daysExtended": 35,
+          "bearbeitungsnummer": "LE2026003902"
+        }
+      ]
     },
     {
       "rootId": "LE2026003372",
@@ -14639,7 +14647,7 @@
     },
     {
       "rootId": "LE2026003867",
-      "currentBearbeitungsnummer": "LE2026003867",
+      "currentBearbeitungsnummer": "LE2026003900",
       "produkt": "Milrinon Stragen",
       "wirkstoffe": [
         "Milrinon"
@@ -14647,11 +14655,19 @@
       "zulassungsinhaber": "Stragen Pharma GmbH",
       "atc": "C01CE02",
       "firstObservedEnde": "2026-10-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-06",
+      "totalDaysDrifted": 6,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-24",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-06",
+          "daysExtended": 6,
+          "bearbeitungsnummer": "LE2026003900"
+        }
+      ]
     },
     {
       "rootId": "LE2026003866",
@@ -14729,6 +14745,55 @@
       "atc": "R03BB01",
       "firstObservedEnde": "2027-04-01",
       "latestObservedEnde": "2027-04-01",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003905",
+      "currentBearbeitungsnummer": "LE2026003905",
+      "produkt": "Resonium A",
+      "wirkstoffe": [
+        "Poly(styrol-co-divinylbenzol)sulfonsäure-(x:y)-Natriumsalz"
+      ],
+      "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
+      "atc": "V03AE01",
+      "firstObservedEnde": "2026-11-23",
+      "latestObservedEnde": "2026-11-23",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003903",
+      "currentBearbeitungsnummer": "LE2026003903",
+      "produkt": "Preterax N 2,5 mg/ 0,625 mg Filmtabletten",
+      "wirkstoffe": [
+        "Indapamid",
+        "Perindopril-Arginin"
+      ],
+      "zulassungsinhaber": "Les Laboratoires Servier",
+      "atc": "C09BA04",
+      "firstObservedEnde": "2026-12-20",
+      "latestObservedEnde": "2026-12-20",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003901",
+      "currentBearbeitungsnummer": "LE2026003901",
+      "produkt": "Gabapentin Holsten 400 mg Hartkapseln",
+      "wirkstoffe": [
+        "Gabapentin"
+      ],
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
+      "atc": "N03AX12",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
