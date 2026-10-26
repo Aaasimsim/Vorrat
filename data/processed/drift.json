@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-25T08:00:49.802Z",
-  "snapshotCount": 86,
+  "generatedAt": "2026-10-26T08:22:38.035Z",
+  "snapshotCount": 87,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-25",
+  "lastSnapshot": "2026-10-26",
   "summary": {
     "totalShortagesTracked": 711,
     "driftedCount": 259,
@@ -13373,7 +13373,7 @@
     },
     {
       "rootId": "LE2026003468",
-      "currentBearbeitungsnummer": "LE2026003859",
+      "currentBearbeitungsnummer": "LE2026003907",
       "produkt": "Doxyderma 50 mg",
       "wirkstoffe": [
         "Doxycyclin-Monohydrat"
