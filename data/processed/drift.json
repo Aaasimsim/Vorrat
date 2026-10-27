@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-26T08:22:38.035Z",
-  "snapshotCount": 87,
+  "generatedAt": "2026-10-27T08:33:14.146Z",
+  "snapshotCount": 88,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-26",
+  "lastSnapshot": "2026-10-27",
   "summary": {
-    "totalShortagesTracked": 711,
+    "totalShortagesTracked": 712,
     "driftedCount": 259,
     "driftRate": {
       "drifted": 259,
-      "of": 711,
+      "of": 712,
       "percentage": 36.4
     },
-    "meanDaysDrifted": 85.5,
+    "meanDaysDrifted": 86.1,
     "medianDaysDrifted": 61,
-    "totalExtensionEvents": 355
+    "totalExtensionEvents": 364
   },
   "leaderboard": [
     {
@@ -1179,7 +1179,7 @@
     },
     {
       "rootId": "LE2026002382",
-      "currentBearbeitungsnummer": "LE2026003803",
+      "currentBearbeitungsnummer": "LE2026003915",
       "produkt": "ACCUPAQUE 350",
       "wirkstoffe": [
         "Iohexol"
@@ -1187,9 +1187,9 @@
       "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
       "atc": "V08AB02",
       "firstObservedEnde": "2026-08-05",
-      "latestObservedEnde": "2026-10-21",
-      "totalDaysDrifted": 91,
-      "extensionsCount": 3,
+      "latestObservedEnde": "2026-11-04",
+      "totalDaysDrifted": 105,
+      "extensionsCount": 4,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1212,12 +1212,19 @@
           "newEnde": "2026-10-21",
           "daysExtended": 21,
           "bearbeitungsnummer": "LE2026003566"
+        },
+        {
+          "snapshotDate": "2026-10-27",
+          "previousEnde": "2026-10-21",
+          "newEnde": "2026-11-04",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003915"
         }
       ]
     },
     {
       "rootId": "LE2026001099",
-      "currentBearbeitungsnummer": "LE2026003563",
+      "currentBearbeitungsnummer": "LE2026003918",
       "produkt": "Visipaque 320",
       "wirkstoffe": [
         "Iodixanol"
@@ -1225,9 +1232,9 @@
       "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
       "atc": "V08AB09",
       "firstObservedEnde": "2026-10-15",
-      "latestObservedEnde": "2026-10-21",
-      "totalDaysDrifted": 35,
-      "extensionsCount": 3,
+      "latestObservedEnde": "2026-11-04",
+      "totalDaysDrifted": 49,
+      "extensionsCount": 4,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1250,6 +1257,13 @@
           "newEnde": "2026-10-21",
           "daysExtended": 14,
           "bearbeitungsnummer": "LE2026003563"
+        },
+        {
+          "snapshotDate": "2026-10-27",
+          "previousEnde": "2026-10-21",
+          "newEnde": "2026-11-04",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026003918"
         }
       ]
     },
@@ -2485,7 +2499,7 @@
     },
     {
       "rootId": "LE2025001316",
-      "currentBearbeitungsnummer": "LE2026003037",
+      "currentBearbeitungsnummer": "LE2026003923",
       "produkt": "Sertralin TAD 100 mg Filmtabletten",
       "wirkstoffe": [
         "Sertralinhydrochlorid"
@@ -2493,9 +2507,9 @@
       "zulassungsinhaber": "TAD Pharma GmbH",
       "atc": "N06AB06",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 61,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-16",
+      "totalDaysDrifted": 77,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -2504,12 +2518,19 @@
           "newEnde": "2026-10-31",
           "daysExtended": 61,
           "bearbeitungsnummer": "LE2026003037"
+        },
+        {
+          "snapshotDate": "2026-10-27",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-16",
+          "daysExtended": 16,
+          "bearbeitungsnummer": "LE2026003923"
         }
       ]
     },
     {
       "rootId": "LE2025001314",
-      "currentBearbeitungsnummer": "LE2026003038",
+      "currentBearbeitungsnummer": "LE2026003922",
       "produkt": "Sertralin TAD 50 mg Filmtabletten",
       "wirkstoffe": [
         "Sertralinhydrochlorid"
@@ -2517,9 +2538,9 @@
       "zulassungsinhaber": "TAD Pharma GmbH",
       "atc": "N06AB06",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 61,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-16",
+      "totalDaysDrifted": 77,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -2528,6 +2549,13 @@
           "newEnde": "2026-10-31",
           "daysExtended": 61,
           "bearbeitungsnummer": "LE2026003038"
+        },
+        {
+          "snapshotDate": "2026-10-27",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-16",
+          "daysExtended": 16,
+          "bearbeitungsnummer": "LE2026003922"
         }
       ]
     },
@@ -3029,7 +3057,7 @@
     },
     {
       "rootId": "LE2026001235",
-      "currentBearbeitungsnummer": "LE2026003734",
+      "currentBearbeitungsnummer": "LE2026003912",
       "produkt": "Amitriptylin Micro Labs 44,19 mg Filmtabletten",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -3037,9 +3065,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AA09",
       "firstObservedEnde": "2026-08-28",
-      "latestObservedEnde": "2026-10-26",
-      "totalDaysDrifted": 59,
-      "extensionsCount": 3,
+      "latestObservedEnde": "2026-11-20",
+      "totalDaysDrifted": 84,
+      "extensionsCount": 4,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -3062,6 +3090,13 @@
           "newEnde": "2026-10-26",
           "daysExtended": 17,
           "bearbeitungsnummer": "LE2026003734"
+        },
+        {
+          "snapshotDate": "2026-10-27",
+          "previousEnde": "2026-10-26",
+          "newEnde": "2026-11-20",
+          "daysExtended": 25,
+          "bearbeitungsnummer": "LE2026003912"
         }
       ]
     },
@@ -3427,7 +3462,7 @@
     },
     {
       "rootId": "LE2026001238",
-      "currentBearbeitungsnummer": "LE2026003728",
+      "currentBearbeitungsnummer": "LE2026003913",
       "produkt": "Amitriptylin Micro Labs 88,38 mg Filmtabletten",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -3435,9 +3470,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AA09",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-10-26",
-      "totalDaysDrifted": 73,
-      "extensionsCount": 3,
+      "latestObservedEnde": "2026-11-20",
+      "totalDaysDrifted": 98,
+      "extensionsCount": 4,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -3460,6 +3495,13 @@
           "newEnde": "2026-10-26",
           "daysExtended": 17,
           "bearbeitungsnummer": "LE2026003728"
+        },
+        {
+          "snapshotDate": "2026-10-27",
+          "previousEnde": "2026-10-26",
+          "newEnde": "2026-11-20",
+          "daysExtended": 25,
+          "bearbeitungsnummer": "LE2026003913"
         }
       ]
     },
@@ -4551,7 +4593,7 @@
     },
     {
       "rootId": "LE2026001234",
-      "currentBearbeitungsnummer": "LE2026003757",
+      "currentBearbeitungsnummer": "LE2026003911",
       "produkt": "Amitriptylin Micro Labs 22,1 mg Filmtabletten",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -4559,9 +4601,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AA09",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-10-26",
-      "totalDaysDrifted": 73,
-      "extensionsCount": 3,
+      "latestObservedEnde": "2026-11-20",
+      "totalDaysDrifted": 98,
+      "extensionsCount": 4,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -4584,6 +4626,13 @@
           "newEnde": "2026-10-26",
           "daysExtended": 17,
           "bearbeitungsnummer": "LE2026003731"
+        },
+        {
+          "snapshotDate": "2026-10-27",
+          "previousEnde": "2026-10-26",
+          "newEnde": "2026-11-20",
+          "daysExtended": 25,
+          "bearbeitungsnummer": "LE2026003911"
         }
       ]
     },
@@ -6323,7 +6372,7 @@
     },
     {
       "rootId": "LE2025001933",
-      "currentBearbeitungsnummer": "LE2026003664",
+      "currentBearbeitungsnummer": "LE2026003925",
       "produkt": "Bortezomib STADA 2,5 mg/ml Injektionslösung",
       "wirkstoffe": [
         "Bortezomibmannitol"
@@ -6331,9 +6380,9 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "L01XX32",
       "firstObservedEnde": "2026-11-30",
-      "latestObservedEnde": "2026-10-26",
-      "totalDaysDrifted": 11,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-10-30",
+      "totalDaysDrifted": 15,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -6342,6 +6391,13 @@
           "newEnde": "2026-10-26",
           "daysExtended": 11,
           "bearbeitungsnummer": "LE2026003664"
+        },
+        {
+          "snapshotDate": "2026-10-27",
+          "previousEnde": "2026-10-26",
+          "newEnde": "2026-10-30",
+          "daysExtended": 4,
+          "bearbeitungsnummer": "LE2026003925"
         }
       ]
     },
@@ -13448,7 +13504,7 @@
     },
     {
       "rootId": "LE2026003496",
-      "currentBearbeitungsnummer": "LE2026003802",
+      "currentBearbeitungsnummer": "LE2026003921",
       "produkt": "ACCUPAQUE 300",
       "wirkstoffe": [
         "Iohexol"
@@ -13456,9 +13512,9 @@
       "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
       "atc": "V08AB02",
       "firstObservedEnde": "2026-10-14",
-      "latestObservedEnde": "2026-10-21",
-      "totalDaysDrifted": 7,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-11",
+      "totalDaysDrifted": 28,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -13467,6 +13523,13 @@
           "newEnde": "2026-10-21",
           "daysExtended": 7,
           "bearbeitungsnummer": "LE2026003725"
+        },
+        {
+          "snapshotDate": "2026-10-27",
+          "previousEnde": "2026-10-21",
+          "newEnde": "2026-11-11",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026003921"
         }
       ]
     },
@@ -14752,7 +14815,7 @@
     },
     {
       "rootId": "LE2026003905",
-      "currentBearbeitungsnummer": "LE2026003905",
+      "currentBearbeitungsnummer": "LE2026003909",
       "produkt": "Resonium A",
       "wirkstoffe": [
         "Poly(styrol-co-divinylbenzol)sulfonsäure-(x:y)-Natriumsalz"
@@ -14794,6 +14857,23 @@
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003924",
+      "currentBearbeitungsnummer": "LE2026003924",
+      "produkt": "Epipevisone",
+      "wirkstoffe": [
+        "Econazolnitrat",
+        "Triamcinolonacetonid"
+      ],
+      "zulassungsinhaber": "Karo Healthcare AB",
+      "atc": "D01AC",
+      "firstObservedEnde": "2026-12-18",
+      "latestObservedEnde": "2026-12-18",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
