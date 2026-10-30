@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-29T09:12:31.655Z",
-  "snapshotCount": 90,
+  "generatedAt": "2026-10-30T09:25:50.629Z",
+  "snapshotCount": 91,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-29",
+  "lastSnapshot": "2026-10-30",
   "summary": {
-    "totalShortagesTracked": 717,
-    "driftedCount": 269,
+    "totalShortagesTracked": 718,
+    "driftedCount": 270,
     "driftRate": {
-      "drifted": 269,
-      "of": 717,
-      "percentage": 37.5
+      "drifted": 270,
+      "of": 718,
+      "percentage": 37.6
     },
-    "meanDaysDrifted": 89,
-    "medianDaysDrifted": 62,
-    "totalExtensionEvents": 383
+    "meanDaysDrifted": 88.8,
+    "medianDaysDrifted": 61.5,
+    "totalExtensionEvents": 384
   },
   "leaderboard": [
     {
@@ -4452,7 +4452,7 @@
     },
     {
       "rootId": "LE2026002229",
-      "currentBearbeitungsnummer": "LE2026003761",
+      "currentBearbeitungsnummer": "LE2026003968",
       "produkt": "Dorzo-Vision sine 20 mg/ml Augentropfen, Lösung im Einzeldosisbehältnis",
       "wirkstoffe": [
         "Dorzolamidhydrochlorid"
@@ -4460,11 +4460,19 @@
       "zulassungsinhaber": "OmniVision GmbH",
       "atc": "S01EC03",
       "firstObservedEnde": "2026-10-30",
-      "latestObservedEnde": "2026-10-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-01",
+      "totalDaysDrifted": 32,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-30",
+          "previousEnde": "2026-10-30",
+          "newEnde": "2026-12-01",
+          "daysExtended": 32,
+          "bearbeitungsnummer": "LE2026003968"
+        }
+      ]
     },
     {
       "rootId": "LE2026000575",
@@ -15104,6 +15112,22 @@
       "atc": "H02AB08",
       "firstObservedEnde": "2027-01-05",
       "latestObservedEnde": "2027-01-05",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003966",
+      "currentBearbeitungsnummer": "LE2026003966",
+      "produkt": "Triam 40mg Lichtenstein",
+      "wirkstoffe": [
+        "Triamcinolonacetonid"
+      ],
+      "zulassungsinhaber": "Winthrop Arzneimittel GmbH",
+      "atc": "H02AB08",
+      "firstObservedEnde": "2026-12-04",
+      "latestObservedEnde": "2026-12-04",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
