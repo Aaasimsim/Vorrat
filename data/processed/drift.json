@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-30T09:25:50.629Z",
-  "snapshotCount": 91,
+  "generatedAt": "2026-10-31T09:10:24.707Z",
+  "snapshotCount": 92,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-10-30",
+  "lastSnapshot": "2026-10-31",
   "summary": {
-    "totalShortagesTracked": 718,
-    "driftedCount": 270,
+    "totalShortagesTracked": 722,
+    "driftedCount": 272,
     "driftRate": {
-      "drifted": 270,
-      "of": 718,
-      "percentage": 37.6
+      "drifted": 272,
+      "of": 722,
+      "percentage": 37.7
     },
-    "meanDaysDrifted": 88.8,
-    "medianDaysDrifted": 61.5,
-    "totalExtensionEvents": 384
+    "meanDaysDrifted": 89.4,
+    "medianDaysDrifted": 70.5,
+    "totalExtensionEvents": 395
   },
   "leaderboard": [
     {
@@ -830,7 +830,7 @@
     },
     {
       "rootId": "LE2026000761",
-      "currentBearbeitungsnummer": "LE2026003507",
+      "currentBearbeitungsnummer": "LE2026003974",
       "produkt": "Tobramycin SUN 300 mg Lösung für einen Vernebler",
       "wirkstoffe": [
         "Tobramycin"
@@ -838,9 +838,9 @@
       "zulassungsinhaber": "Sun Pharmaceuticals Germany GmbH",
       "atc": "J01GB01",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 61,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 91,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -856,12 +856,19 @@
           "newEnde": "2026-10-31",
           "daysExtended": 31,
           "bearbeitungsnummer": "LE2026003507"
+        },
+        {
+          "snapshotDate": "2026-10-31",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-30",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003974"
         }
       ]
     },
     {
       "rootId": "LE2026001384",
-      "currentBearbeitungsnummer": "LE2026003386",
+      "currentBearbeitungsnummer": "LE2026003984",
       "produkt": "PANTOPRAZOL BASICS 20 mg magensaftresistente Tabletten",
       "wirkstoffe": [
         "Pantoprazol-Natrium-Sesquihydrat"
@@ -869,11 +876,19 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "A02BC02",
       "firstObservedEnde": "2026-10-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 30,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-31",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-30",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003984"
+        }
+      ]
     },
     {
       "rootId": "LE2026001372",
@@ -893,7 +908,7 @@
     },
     {
       "rootId": "LE2026001491",
-      "currentBearbeitungsnummer": "LE2026003502",
+      "currentBearbeitungsnummer": "LE2026003981",
       "produkt": "CEFACLOR BASICS 250 mg TS",
       "wirkstoffe": [
         "Cefaclor-Monohydrat"
@@ -901,9 +916,9 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "J01DC04",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 61,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 91,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -919,12 +934,19 @@
           "newEnde": "2026-10-31",
           "daysExtended": 31,
           "bearbeitungsnummer": "LE2026003502"
+        },
+        {
+          "snapshotDate": "2026-10-31",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-30",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003981"
         }
       ]
     },
     {
       "rootId": "LE2026001490",
-      "currentBearbeitungsnummer": "LE2026003501",
+      "currentBearbeitungsnummer": "LE2026003980",
       "produkt": "CEFACLOR BASICS 125 mg TS",
       "wirkstoffe": [
         "Cefaclor-Monohydrat"
@@ -932,9 +954,9 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "J01DC04",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 61,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 91,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -950,12 +972,19 @@
           "newEnde": "2026-10-31",
           "daysExtended": 31,
           "bearbeitungsnummer": "LE2026003501"
+        },
+        {
+          "snapshotDate": "2026-10-31",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-30",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003980"
         }
       ]
     },
     {
       "rootId": "LE2026001943",
-      "currentBearbeitungsnummer": "LE2026003503",
+      "currentBearbeitungsnummer": "LE2026003979",
       "produkt": "CEFUROX BASICS 125mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
       "wirkstoffe": [
         "Cefuroximaxetil"
@@ -963,9 +992,9 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "J01DC02",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 61,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 91,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -981,6 +1010,13 @@
           "newEnde": "2026-10-31",
           "daysExtended": 31,
           "bearbeitungsnummer": "LE2026003503"
+        },
+        {
+          "snapshotDate": "2026-10-31",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-30",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003979"
         }
       ]
     },
@@ -1010,7 +1046,7 @@
     },
     {
       "rootId": "LE2025003301",
-      "currentBearbeitungsnummer": "LE2026003504",
+      "currentBearbeitungsnummer": "LE2026003982",
       "produkt": "CIPRO BASICS 250 mg Filmtabletten",
       "wirkstoffe": [
         "Ciprofloxacinhydrochlorid-Monohydrat"
@@ -1018,9 +1054,9 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "J01MA02",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 61,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 91,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1036,12 +1072,19 @@
           "newEnde": "2026-10-31",
           "daysExtended": 31,
           "bearbeitungsnummer": "LE2026003504"
+        },
+        {
+          "snapshotDate": "2026-10-31",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-30",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003982"
         }
       ]
     },
     {
       "rootId": "LE2025003123",
-      "currentBearbeitungsnummer": "LE2026003509",
+      "currentBearbeitungsnummer": "LE2026003978",
       "produkt": "EZETIMIB/SIMVA BASICS 10 mg/80 mg Tabletten",
       "wirkstoffe": [
         "Ezetimib",
@@ -1050,9 +1093,9 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "C10BA02",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 61,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 91,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1068,12 +1111,19 @@
           "newEnde": "2026-10-31",
           "daysExtended": 31,
           "bearbeitungsnummer": "LE2026003509"
+        },
+        {
+          "snapshotDate": "2026-10-31",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-30",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003978"
         }
       ]
     },
     {
       "rootId": "LE2025003122",
-      "currentBearbeitungsnummer": "LE2026003510",
+      "currentBearbeitungsnummer": "LE2026003977",
       "produkt": "EZETIMIB/SIMVA BASICS 10 mg/40 mg Tabletten",
       "wirkstoffe": [
         "Ezetimib",
@@ -1082,9 +1132,9 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "C10BA02",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 61,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 91,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1100,12 +1150,19 @@
           "newEnde": "2026-10-31",
           "daysExtended": 31,
           "bearbeitungsnummer": "LE2026003510"
+        },
+        {
+          "snapshotDate": "2026-10-31",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-30",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003977"
         }
       ]
     },
     {
       "rootId": "LE2025003121",
-      "currentBearbeitungsnummer": "LE2026003512",
+      "currentBearbeitungsnummer": "LE2026003975",
       "produkt": "EZETIMIB/SIMVA BASICS 10 mg/20 mg Tabletten",
       "wirkstoffe": [
         "Ezetimib",
@@ -1114,9 +1171,9 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "C10BA02",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 61,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 91,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1132,12 +1189,19 @@
           "newEnde": "2026-10-31",
           "daysExtended": 31,
           "bearbeitungsnummer": "LE2026003512"
+        },
+        {
+          "snapshotDate": "2026-10-31",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-30",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003975"
         }
       ]
     },
     {
       "rootId": "LE2025003120",
-      "currentBearbeitungsnummer": "LE2026003511",
+      "currentBearbeitungsnummer": "LE2026003976",
       "produkt": "EZETIMIB/SIMVA BASICS 10 mg/10 mg Tabletten",
       "wirkstoffe": [
         "Ezetimib",
@@ -1146,9 +1210,9 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "C10BA02",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 61,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 91,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1164,6 +1228,13 @@
           "newEnde": "2026-10-31",
           "daysExtended": 31,
           "bearbeitungsnummer": "LE2026003511"
+        },
+        {
+          "snapshotDate": "2026-10-31",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-30",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003976"
         }
       ]
     },
@@ -4850,7 +4921,7 @@
     },
     {
       "rootId": "LE2026001385",
-      "currentBearbeitungsnummer": "LE2026003722",
+      "currentBearbeitungsnummer": "LE2026003983",
       "produkt": "PANTOPRAZOL BASICS 40 mg magensaftresistente Tabletten",
       "wirkstoffe": [
         "Pantoprazol-Natrium-Sesquihydrat"
@@ -4858,11 +4929,19 @@
       "zulassungsinhaber": "Basics GmbH",
       "atc": "A02BC02",
       "firstObservedEnde": "2026-10-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 30,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-31",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-30",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026003983"
+        }
+      ]
     },
     {
       "rootId": "LE2025003217",
@@ -15128,6 +15207,70 @@
       "atc": "H02AB08",
       "firstObservedEnde": "2026-12-04",
       "latestObservedEnde": "2026-12-04",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003985",
+      "currentBearbeitungsnummer": "LE2026003985",
+      "produkt": "QUADRAMET",
+      "wirkstoffe": [
+        "Samarium-((153)Sm)-Lexidronam-Pentanatrium"
+      ],
+      "zulassungsinhaber": "CIS bio international",
+      "atc": "V10BX",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003972",
+      "currentBearbeitungsnummer": "LE2026003972",
+      "produkt": "Metoprolol ZOT STADA 50 mg Retardtabletten",
+      "wirkstoffe": [
+        "Metoprololtartrat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "STADAPHARM GmbH",
+      "atc": "C07AB02",
+      "firstObservedEnde": "2027-03-09",
+      "latestObservedEnde": "2027-03-09",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003971",
+      "currentBearbeitungsnummer": "LE2026003971",
+      "produkt": "Entecavir HEXAL 1 mg Filmtabletten",
+      "wirkstoffe": [
+        "Entecavir"
+      ],
+      "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+      "atc": "J05AF10",
+      "firstObservedEnde": "2026-12-04",
+      "latestObservedEnde": "2026-12-04",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026003970",
+      "currentBearbeitungsnummer": "LE2026003970",
+      "produkt": "Entecavir HEXAL 0,5 mg Filmtabletten",
+      "wirkstoffe": [
+        "Entecavir"
+      ],
+      "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+      "atc": "J05AF10",
+      "firstObservedEnde": "2026-12-15",
+      "latestObservedEnde": "2026-12-15",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
