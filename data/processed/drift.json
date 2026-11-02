@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-01T09:57:29.907Z",
-  "snapshotCount": 93,
+  "generatedAt": "2026-11-02T10:25:23.503Z",
+  "snapshotCount": 94,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-11-01",
+  "lastSnapshot": "2026-11-02",
   "summary": {
     "totalShortagesTracked": 722,
-    "driftedCount": 272,
+    "driftedCount": 275,
     "driftRate": {
-      "drifted": 272,
+      "drifted": 275,
       "of": 722,
-      "percentage": 37.7
+      "percentage": 38.1
     },
-    "meanDaysDrifted": 89.4,
-    "medianDaysDrifted": 70.5,
-    "totalExtensionEvents": 395
+    "meanDaysDrifted": 89.1,
+    "medianDaysDrifted": 70,
+    "totalExtensionEvents": 401
   },
   "leaderboard": [
     {
@@ -3765,7 +3765,7 @@
     },
     {
       "rootId": "LE2026002592",
-      "currentBearbeitungsnummer": "LE2026003415",
+      "currentBearbeitungsnummer": "LE2026003991",
       "produkt": "Levetiracetam HEXAL 100 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
       "wirkstoffe": [
         "Levetiracetam"
@@ -3773,9 +3773,9 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-09-18",
-      "latestObservedEnde": "2026-11-13",
-      "totalDaysDrifted": 56,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-20",
+      "totalDaysDrifted": 63,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -3784,6 +3784,13 @@
           "newEnde": "2026-11-13",
           "daysExtended": 56,
           "bearbeitungsnummer": "LE2026003415"
+        },
+        {
+          "snapshotDate": "2026-11-02",
+          "previousEnde": "2026-11-13",
+          "newEnde": "2026-11-20",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026003991"
         }
       ]
     },
@@ -3964,7 +3971,7 @@
     },
     {
       "rootId": "LE2025001295",
-      "currentBearbeitungsnummer": "LE2026003692",
+      "currentBearbeitungsnummer": "LE2026003987",
       "produkt": "Pramipexol - 1 A Pharma 0,26 mg Retardtabletten",
       "wirkstoffe": [
         "Pramipexoldihydrochlorid-Monohydrat"
@@ -5391,7 +5398,7 @@
     },
     {
       "rootId": "LE2026000916",
-      "currentBearbeitungsnummer": "LE2026003436",
+      "currentBearbeitungsnummer": "LE2026003989",
       "produkt": "Abirateron HEXAL 1000 mg Filmtabletten",
       "wirkstoffe": [
         "Abirateronacetat"
@@ -5399,9 +5406,9 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "L02BX03",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-11-06",
-      "totalDaysDrifted": 84,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2027-01-15",
+      "totalDaysDrifted": 154,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -5417,6 +5424,13 @@
           "newEnde": "2026-11-06",
           "daysExtended": 21,
           "bearbeitungsnummer": "LE2026003436"
+        },
+        {
+          "snapshotDate": "2026-11-02",
+          "previousEnde": "2026-11-06",
+          "newEnde": "2027-01-15",
+          "daysExtended": 70,
+          "bearbeitungsnummer": "LE2026003989"
         }
       ]
     },
@@ -6719,7 +6733,7 @@
     },
     {
       "rootId": "LE2025003331",
-      "currentBearbeitungsnummer": "LE2026003488",
+      "currentBearbeitungsnummer": "LE2026003992",
       "produkt": "Seroquel Prolong 200 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -6727,11 +6741,19 @@
       "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-12-13",
-      "latestObservedEnde": "2026-12-13",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-02-12",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-02",
+          "previousEnde": "2026-12-13",
+          "newEnde": "2027-02-12",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026003992"
+        }
+      ]
     },
     {
       "rootId": "LE2026000700",
@@ -9296,7 +9318,7 @@
     },
     {
       "rootId": "LE2025004033",
-      "currentBearbeitungsnummer": "LE2026001321",
+      "currentBearbeitungsnummer": "LE2026003986",
       "produkt": "Claversal Micropellets 1,5 g",
       "wirkstoffe": [
         "Mesalazin"
@@ -9304,11 +9326,19 @@
       "zulassungsinhaber": "Recordati Pharma GmbH",
       "atc": "A07EC02",
       "firstObservedEnde": "2026-10-30",
-      "latestObservedEnde": "2026-10-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-16",
+      "totalDaysDrifted": 17,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-02",
+          "previousEnde": "2026-10-30",
+          "newEnde": "2026-11-16",
+          "daysExtended": 17,
+          "bearbeitungsnummer": "LE2026003986"
+        }
+      ]
     },
     {
       "rootId": "LE2025004700",
@@ -12817,7 +12847,7 @@
     },
     {
       "rootId": "LE2026003240",
-      "currentBearbeitungsnummer": "LE2026003438",
+      "currentBearbeitungsnummer": "LE2026003990",
       "produkt": "Cefuroxim - 1 A Pharma 125 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
       "wirkstoffe": [
         "Cefuroximaxetil"
@@ -12825,9 +12855,9 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "J01DC02",
       "firstObservedEnde": "2026-11-11",
-      "latestObservedEnde": "2026-11-13",
-      "totalDaysDrifted": 2,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-20",
+      "totalDaysDrifted": 9,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -12836,6 +12866,13 @@
           "newEnde": "2026-11-13",
           "daysExtended": 2,
           "bearbeitungsnummer": "LE2026003438"
+        },
+        {
+          "snapshotDate": "2026-11-02",
+          "previousEnde": "2026-11-13",
+          "newEnde": "2026-11-20",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026003990"
         }
       ]
     },
@@ -13884,7 +13921,7 @@
     },
     {
       "rootId": "LE2026003551",
-      "currentBearbeitungsnummer": "LE2026003551",
+      "currentBearbeitungsnummer": "LE2026003988",
       "produkt": "Scandicain 2 % Fl. 50 ml",
       "wirkstoffe": [
         "Mepivacainhydrochlorid"
@@ -13892,11 +13929,19 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "N01BB03",
       "firstObservedEnde": "2026-11-05",
-      "latestObservedEnde": "2026-11-05",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-23",
+      "totalDaysDrifted": 18,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-02",
+          "previousEnde": "2026-11-05",
+          "newEnde": "2026-11-23",
+          "daysExtended": 18,
+          "bearbeitungsnummer": "LE2026003988"
+        }
+      ]
     },
     {
       "rootId": "LE2026003550",
