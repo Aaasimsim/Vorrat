@@ -1,21 +1,52 @@
 {
-  "generatedAt": "2026-11-03T10:22:55.650Z",
-  "snapshotCount": 95,
+  "generatedAt": "2026-11-04T10:17:49.214Z",
+  "snapshotCount": 96,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-11-03",
+  "lastSnapshot": "2026-11-04",
   "summary": {
     "totalShortagesTracked": 728,
-    "driftedCount": 281,
+    "driftedCount": 282,
     "driftRate": {
-      "drifted": 281,
+      "drifted": 282,
       "of": 728,
-      "percentage": 38.6
+      "percentage": 38.7
     },
-    "meanDaysDrifted": 88.9,
+    "meanDaysDrifted": 91.4,
     "medianDaysDrifted": 70,
-    "totalExtensionEvents": 408
+    "totalExtensionEvents": 410
   },
   "leaderboard": [
+    {
+      "rootId": "LE2026002164",
+      "currentBearbeitungsnummer": "LE2026004017",
+      "produkt": "Xarelto 1 mg/ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+      "wirkstoffe": [
+        "Rivaroxaban"
+      ],
+      "zulassungsinhaber": "Bayer Aktiengesellschaft",
+      "atc": "B01AF01",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2028-12-31",
+      "totalDaysDrifted": 821,
+      "extensionsCount": 2,
+      "chainTruncated": false,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-10-01",
+          "previousEnde": "2026-10-02",
+          "newEnde": "2026-10-31",
+          "daysExtended": 29,
+          "bearbeitungsnummer": "LE2026003580"
+        },
+        {
+          "snapshotDate": "2026-11-04",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2028-12-31",
+          "daysExtended": 792,
+          "bearbeitungsnummer": "LE2026004017"
+        }
+      ]
+    },
     {
       "rootId": "LE2021002946",
       "currentBearbeitungsnummer": "LE2026003964",
@@ -497,30 +528,6 @@
           "newEnde": "2027-03-31",
           "daysExtended": 243,
           "bearbeitungsnummer": "LE2026002895"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2024004070",
-      "currentBearbeitungsnummer": "LE2026003116",
-      "produkt": "Tera TAD 2mg",
-      "wirkstoffe": [
-        "Terazosinhydrochlorid-Dihydrat"
-      ],
-      "zulassungsinhaber": "TAD Pharma GmbH",
-      "atc": "G04CA03",
-      "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2027-03-31",
-      "totalDaysDrifted": 212,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-22",
-          "previousEnde": "2026-08-31",
-          "newEnde": "2027-03-31",
-          "daysExtended": 212,
-          "bearbeitungsnummer": "LE2026003116"
         }
       ]
     }
@@ -6561,7 +6568,7 @@
     },
     {
       "rootId": "LE2026002164",
-      "currentBearbeitungsnummer": "LE2026003580",
+      "currentBearbeitungsnummer": "LE2026004017",
       "produkt": "Xarelto 1 mg/ml Granulat zur Herstellung einer Suspension zum Einnehmen",
       "wirkstoffe": [
         "Rivaroxaban"
@@ -6569,9 +6576,9 @@
       "zulassungsinhaber": "Bayer Aktiengesellschaft",
       "atc": "B01AF01",
       "firstObservedEnde": "2026-12-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 29,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2028-12-31",
+      "totalDaysDrifted": 821,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -6580,6 +6587,13 @@
           "newEnde": "2026-10-31",
           "daysExtended": 29,
           "bearbeitungsnummer": "LE2026003580"
+        },
+        {
+          "snapshotDate": "2026-11-04",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2028-12-31",
+          "daysExtended": 792,
+          "bearbeitungsnummer": "LE2026004017"
         }
       ]
     },
@@ -14155,7 +14169,7 @@
     },
     {
       "rootId": "LE2026003585",
-      "currentBearbeitungsnummer": "LE2026003644",
+      "currentBearbeitungsnummer": "LE2026004018",
       "produkt": "Eletriptan Bluefish 40 mg Filmtabletten",
       "wirkstoffe": [
         "Eletriptanhydrobromid"
@@ -14163,11 +14177,19 @@
       "zulassungsinhaber": "Bluefish Pharmaceuticals AB (publ)",
       "atc": "N02CC06",
       "firstObservedEnde": "2026-10-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-15",
+      "totalDaysDrifted": 15,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-04",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-11-15",
+          "daysExtended": 15,
+          "bearbeitungsnummer": "LE2026004018"
+        }
+      ]
     },
     {
       "rootId": "LE2026003582",
