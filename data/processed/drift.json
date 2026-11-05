@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-04T10:17:49.214Z",
-  "snapshotCount": 96,
+  "generatedAt": "2026-11-05T10:11:02.326Z",
+  "snapshotCount": 97,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-11-04",
+  "lastSnapshot": "2026-11-05",
   "summary": {
-    "totalShortagesTracked": 728,
-    "driftedCount": 282,
+    "totalShortagesTracked": 733,
+    "driftedCount": 286,
     "driftRate": {
-      "drifted": 282,
-      "of": 728,
-      "percentage": 38.7
+      "drifted": 286,
+      "of": 733,
+      "percentage": 39
     },
-    "meanDaysDrifted": 91.4,
-    "medianDaysDrifted": 70,
-    "totalExtensionEvents": 410
+    "meanDaysDrifted": 93.5,
+    "medianDaysDrifted": 72.5,
+    "totalExtensionEvents": 419
   },
   "leaderboard": [
     {
@@ -436,6 +436,54 @@
       ]
     },
     {
+      "rootId": "LE2026002814",
+      "currentBearbeitungsnummer": "LE2026004024",
+      "produkt": "Entecavir Amarox 0,5 mg Filmtabletten",
+      "wirkstoffe": [
+        "Entecavir"
+      ],
+      "zulassungsinhaber": "AMAROX PHARMA GmbH",
+      "atc": "J05AF10",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2027-08-31",
+      "totalDaysDrifted": 243,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-05",
+          "previousEnde": "2026-12-31",
+          "newEnde": "2027-08-31",
+          "daysExtended": 243,
+          "bearbeitungsnummer": "LE2026004024"
+        }
+      ]
+    },
+    {
+      "rootId": "LE2026002815",
+      "currentBearbeitungsnummer": "LE2026004023",
+      "produkt": "Entecavir Amarox 1 mg Filmtabletten",
+      "wirkstoffe": [
+        "Entecavir"
+      ],
+      "zulassungsinhaber": "AMAROX PHARMA GmbH",
+      "atc": "J05AF10",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2027-08-31",
+      "totalDaysDrifted": 243,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-05",
+          "previousEnde": "2026-12-31",
+          "newEnde": "2027-08-31",
+          "daysExtended": 243,
+          "bearbeitungsnummer": "LE2026004023"
+        }
+      ]
+    },
+    {
       "rootId": "LE2024003292",
       "currentBearbeitungsnummer": "LE2026002898",
       "produkt": "Hydromorphon PAINBREAK 8 mg Retardtabletten",
@@ -480,54 +528,6 @@
           "newEnde": "2027-03-31",
           "daysExtended": 243,
           "bearbeitungsnummer": "LE2026002897"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2024003294",
-      "currentBearbeitungsnummer": "LE2026002896",
-      "produkt": "Hydromorphon PAINBREAK 24 mg Retardtabletten",
-      "wirkstoffe": [
-        "Hydromorphonhydrochlorid"
-      ],
-      "zulassungsinhaber": "PB Pharma GmbH",
-      "atc": "N02AA03",
-      "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2027-03-31",
-      "totalDaysDrifted": 243,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-04",
-          "previousEnde": "2026-07-31",
-          "newEnde": "2027-03-31",
-          "daysExtended": 243,
-          "bearbeitungsnummer": "LE2026002896"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2024003293",
-      "currentBearbeitungsnummer": "LE2026002895",
-      "produkt": "Hydromorphon PAINBREAK 16 mg Retardtabletten",
-      "wirkstoffe": [
-        "Hydromorphonhydrochlorid"
-      ],
-      "zulassungsinhaber": "PB Pharma GmbH",
-      "atc": "N02AA03",
-      "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2027-03-31",
-      "totalDaysDrifted": 243,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-04",
-          "previousEnde": "2026-07-31",
-          "newEnde": "2027-03-31",
-          "daysExtended": 243,
-          "bearbeitungsnummer": "LE2026002895"
         }
       ]
     }
@@ -687,7 +687,7 @@
     },
     {
       "rootId": "LE2026002814",
-      "currentBearbeitungsnummer": "LE2026002993",
+      "currentBearbeitungsnummer": "LE2026004024",
       "produkt": "Entecavir Amarox 0,5 mg Filmtabletten",
       "wirkstoffe": [
         "Entecavir"
@@ -695,15 +695,23 @@
       "zulassungsinhaber": "AMAROX PHARMA GmbH",
       "atc": "J05AF10",
       "firstObservedEnde": "2026-12-31",
-      "latestObservedEnde": "2026-12-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-08-31",
+      "totalDaysDrifted": 243,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-05",
+          "previousEnde": "2026-12-31",
+          "newEnde": "2027-08-31",
+          "daysExtended": 243,
+          "bearbeitungsnummer": "LE2026004024"
+        }
+      ]
     },
     {
       "rootId": "LE2026002815",
-      "currentBearbeitungsnummer": "LE2026002871",
+      "currentBearbeitungsnummer": "LE2026004023",
       "produkt": "Entecavir Amarox 1 mg Filmtabletten",
       "wirkstoffe": [
         "Entecavir"
@@ -711,11 +719,19 @@
       "zulassungsinhaber": "AMAROX PHARMA GmbH",
       "atc": "J05AF10",
       "firstObservedEnde": "2026-12-31",
-      "latestObservedEnde": "2026-12-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-08-31",
+      "totalDaysDrifted": 243,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-05",
+          "previousEnde": "2026-12-31",
+          "newEnde": "2027-08-31",
+          "daysExtended": 243,
+          "bearbeitungsnummer": "LE2026004023"
+        }
+      ]
     },
     {
       "rootId": "LE2026002869",
@@ -3978,7 +3994,7 @@
     },
     {
       "rootId": "LE2025001295",
-      "currentBearbeitungsnummer": "LE2026004004",
+      "currentBearbeitungsnummer": "LE2026004022",
       "produkt": "Pramipexol - 1 A Pharma 0,26 mg Retardtabletten",
       "wirkstoffe": [
         "Pramipexoldihydrochlorid-Monohydrat"
@@ -3986,9 +4002,9 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "N04BC05",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-10-30",
-      "totalDaysDrifted": 30,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2027-01-28",
+      "totalDaysDrifted": 120,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -3997,6 +4013,13 @@
           "newEnde": "2026-10-30",
           "daysExtended": 30,
           "bearbeitungsnummer": "LE2026003692"
+        },
+        {
+          "snapshotDate": "2026-11-05",
+          "previousEnde": "2026-10-30",
+          "newEnde": "2027-01-28",
+          "daysExtended": 90,
+          "bearbeitungsnummer": "LE2026004022"
         }
       ]
     },
@@ -9905,7 +9928,7 @@
     },
     {
       "rootId": "LE2026000649",
-      "currentBearbeitungsnummer": "LE2026003746",
+      "currentBearbeitungsnummer": "LE2026004027",
       "produkt": "Aciclovir-ratiopharm 50 mg/g Creme",
       "wirkstoffe": [
         "Aciclovir"
@@ -9913,9 +9936,9 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "D06BB03",
       "firstObservedEnde": "2026-09-30",
-      "latestObservedEnde": "2026-10-26",
-      "totalDaysDrifted": 26,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2027-03-29",
+      "totalDaysDrifted": 180,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -9924,6 +9947,13 @@
           "newEnde": "2026-10-26",
           "daysExtended": 26,
           "bearbeitungsnummer": "LE2026003746"
+        },
+        {
+          "snapshotDate": "2026-11-05",
+          "previousEnde": "2026-10-26",
+          "newEnde": "2027-03-29",
+          "daysExtended": 154,
+          "bearbeitungsnummer": "LE2026004027"
         }
       ]
     },
@@ -10444,7 +10474,7 @@
     },
     {
       "rootId": "LE2024001130",
-      "currentBearbeitungsnummer": "LE2026002914",
+      "currentBearbeitungsnummer": "LE2026004049",
       "produkt": "Buprenorphin AWD Matrix 70 Mikrogramm/h Transdermales Pflaster",
       "wirkstoffe": [
         "Buprenorphin"
@@ -10452,9 +10482,9 @@
       "zulassungsinhaber": "TEVA GmbH",
       "atc": "N02AE01",
       "firstObservedEnde": "2026-08-04",
-      "latestObservedEnde": "2026-10-30",
-      "totalDaysDrifted": 87,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-18",
+      "totalDaysDrifted": 136,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -10463,12 +10493,19 @@
           "newEnde": "2026-10-30",
           "daysExtended": 87,
           "bearbeitungsnummer": "LE2026002914"
+        },
+        {
+          "snapshotDate": "2026-11-05",
+          "previousEnde": "2026-10-30",
+          "newEnde": "2026-12-18",
+          "daysExtended": 49,
+          "bearbeitungsnummer": "LE2026004049"
         }
       ]
     },
     {
       "rootId": "LE2024001129",
-      "currentBearbeitungsnummer": "LE2026002915",
+      "currentBearbeitungsnummer": "LE2026004048",
       "produkt": "Buprenorphin AWD Matrix 52,5 Mikrogramm/h Transdermales Pflaster",
       "wirkstoffe": [
         "Buprenorphin"
@@ -10476,9 +10513,9 @@
       "zulassungsinhaber": "TEVA GmbH",
       "atc": "N02AE01",
       "firstObservedEnde": "2026-08-04",
-      "latestObservedEnde": "2026-10-30",
-      "totalDaysDrifted": 87,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-18",
+      "totalDaysDrifted": 136,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -10487,6 +10524,13 @@
           "newEnde": "2026-10-30",
           "daysExtended": 87,
           "bearbeitungsnummer": "LE2026002915"
+        },
+        {
+          "snapshotDate": "2026-11-05",
+          "previousEnde": "2026-10-30",
+          "newEnde": "2026-12-18",
+          "daysExtended": 49,
+          "bearbeitungsnummer": "LE2026004048"
         }
       ]
     },
@@ -10516,7 +10560,7 @@
     },
     {
       "rootId": "LE2024001106",
-      "currentBearbeitungsnummer": "LE2026002908",
+      "currentBearbeitungsnummer": "LE2026004042",
       "produkt": "Buprenorphin-ratiopharm 52,5 Mikrogramm/h Transdermales Pflaster",
       "wirkstoffe": [
         "Buprenorphin"
@@ -10524,9 +10568,9 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "N02AE01",
       "firstObservedEnde": "2026-08-04",
-      "latestObservedEnde": "2026-10-13",
-      "totalDaysDrifted": 70,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 133,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -10535,12 +10579,19 @@
           "newEnde": "2026-10-13",
           "daysExtended": 70,
           "bearbeitungsnummer": "LE2026002908"
+        },
+        {
+          "snapshotDate": "2026-11-05",
+          "previousEnde": "2026-10-13",
+          "newEnde": "2026-12-15",
+          "daysExtended": 63,
+          "bearbeitungsnummer": "LE2026004042"
         }
       ]
     },
     {
       "rootId": "LE2024001107",
-      "currentBearbeitungsnummer": "LE2026002909",
+      "currentBearbeitungsnummer": "LE2026004037",
       "produkt": "Buprenorphin-ratiopharm 70 Mikrogramm/h Transdermales Pflaster",
       "wirkstoffe": [
         "Buprenorphin"
@@ -12819,7 +12870,7 @@
     },
     {
       "rootId": "LE2026003215",
-      "currentBearbeitungsnummer": "LE2026003215",
+      "currentBearbeitungsnummer": "LE2026004035",
       "produkt": "Perindopril/Indapamid-ratiopharm T 2,5 mg/0,625 mg Filmtabletten",
       "wirkstoffe": [
         "Indapamid",
@@ -13139,7 +13190,7 @@
     },
     {
       "rootId": "LE2026003298",
-      "currentBearbeitungsnummer": "LE2026003298",
+      "currentBearbeitungsnummer": "LE2026004030",
       "produkt": "Isotretinoin-ratiopharm 20 mg Weichkapseln",
       "wirkstoffe": [
         "Isotretinoin"
@@ -13147,15 +13198,23 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "D10BA01",
       "firstObservedEnde": "2026-11-06",
-      "latestObservedEnde": "2026-11-06",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-20",
+      "totalDaysDrifted": 14,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-05",
+          "previousEnde": "2026-11-06",
+          "newEnde": "2026-11-20",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026004030"
+        }
+      ]
     },
     {
       "rootId": "LE2026003297",
-      "currentBearbeitungsnummer": "LE2026003297",
+      "currentBearbeitungsnummer": "LE2026004034",
       "produkt": "Isotretinoin-ratiopharm 10 mg Weichkapseln",
       "wirkstoffe": [
         "Isotretinoin"
@@ -13163,11 +13222,19 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "D10BA01",
       "firstObservedEnde": "2026-10-29",
-      "latestObservedEnde": "2026-10-29",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 47,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-05",
+          "previousEnde": "2026-10-29",
+          "newEnde": "2026-12-15",
+          "daysExtended": 47,
+          "bearbeitungsnummer": "LE2026004034"
+        }
+      ]
     },
     {
       "rootId": "LE2026003295",
@@ -15489,6 +15556,87 @@
       "atc": "A04AA02",
       "firstObservedEnde": "2026-12-14",
       "latestObservedEnde": "2026-12-14",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004046",
+      "currentBearbeitungsnummer": "LE2026004046",
+      "produkt": "Cotrim forte-ratiopharm 800 mg/160 mg Tabletten",
+      "wirkstoffe": [
+        "Sulfamethoxazol",
+        "Trimethoprim"
+      ],
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "J01EE01",
+      "firstObservedEnde": "2027-01-11",
+      "latestObservedEnde": "2027-01-11",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004045",
+      "currentBearbeitungsnummer": "LE2026004045",
+      "produkt": "Clonidin-ratiopharm 75",
+      "wirkstoffe": [
+        "Clonidinhydrochlorid"
+      ],
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "C02AC01",
+      "firstObservedEnde": "2026-12-21",
+      "latestObservedEnde": "2026-12-21",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004044",
+      "currentBearbeitungsnummer": "LE2026004044",
+      "produkt": "Clindamycin-ratiopharm 600 mg Filmtabletten",
+      "wirkstoffe": [
+        "Clindamycinhydrochlorid"
+      ],
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "J01FF01",
+      "firstObservedEnde": "2027-01-15",
+      "latestObservedEnde": "2027-01-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004043",
+      "currentBearbeitungsnummer": "LE2026004043",
+      "produkt": "Ciprofloxacin-ratiopharm 750 mg Filmtabletten",
+      "wirkstoffe": [
+        "Ciprofloxacinhydrochlorid-Monohydrat"
+      ],
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "J01MA02",
+      "firstObservedEnde": "2027-01-15",
+      "latestObservedEnde": "2027-01-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004026",
+      "currentBearbeitungsnummer": "LE2026004026",
+      "produkt": "Travo-Vision 40 Mikrogramm/ml Augentropfen, Lösung",
+      "wirkstoffe": [
+        "Travoprost"
+      ],
+      "zulassungsinhaber": "OmniVision GmbH",
+      "atc": "S01EE04",
+      "firstObservedEnde": "2027-01-15",
+      "latestObservedEnde": "2027-01-15",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
