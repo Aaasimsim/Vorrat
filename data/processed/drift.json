@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-05T10:11:02.326Z",
-  "snapshotCount": 97,
+  "generatedAt": "2026-11-06T10:14:32.313Z",
+  "snapshotCount": 98,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-11-05",
+  "lastSnapshot": "2026-11-06",
   "summary": {
-    "totalShortagesTracked": 733,
-    "driftedCount": 286,
+    "totalShortagesTracked": 743,
+    "driftedCount": 287,
     "driftRate": {
-      "drifted": 286,
-      "of": 733,
-      "percentage": 39
+      "drifted": 287,
+      "of": 743,
+      "percentage": 38.6
     },
-    "meanDaysDrifted": 93.5,
-    "medianDaysDrifted": 72.5,
-    "totalExtensionEvents": 419
+    "meanDaysDrifted": 93.6,
+    "medianDaysDrifted": 71,
+    "totalExtensionEvents": 427
   },
   "leaderboard": [
     {
@@ -1287,7 +1287,7 @@
     },
     {
       "rootId": "LE2026002382",
-      "currentBearbeitungsnummer": "LE2026003915",
+      "currentBearbeitungsnummer": "LE2026004076",
       "produkt": "ACCUPAQUE 350",
       "wirkstoffe": [
         "Iohexol"
@@ -1295,9 +1295,9 @@
       "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
       "atc": "V08AB02",
       "firstObservedEnde": "2026-08-05",
-      "latestObservedEnde": "2026-11-04",
-      "totalDaysDrifted": 105,
-      "extensionsCount": 4,
+      "latestObservedEnde": "2026-11-11",
+      "totalDaysDrifted": 112,
+      "extensionsCount": 5,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1327,12 +1327,19 @@
           "newEnde": "2026-11-04",
           "daysExtended": 14,
           "bearbeitungsnummer": "LE2026003915"
+        },
+        {
+          "snapshotDate": "2026-11-06",
+          "previousEnde": "2026-11-04",
+          "newEnde": "2026-11-11",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026004076"
         }
       ]
     },
     {
       "rootId": "LE2026001099",
-      "currentBearbeitungsnummer": "LE2026003918",
+      "currentBearbeitungsnummer": "LE2026004077",
       "produkt": "Visipaque 320",
       "wirkstoffe": [
         "Iodixanol"
@@ -1340,9 +1347,9 @@
       "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
       "atc": "V08AB09",
       "firstObservedEnde": "2026-10-15",
-      "latestObservedEnde": "2026-11-04",
-      "totalDaysDrifted": 49,
-      "extensionsCount": 4,
+      "latestObservedEnde": "2026-11-11",
+      "totalDaysDrifted": 56,
+      "extensionsCount": 5,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1372,6 +1379,13 @@
           "newEnde": "2026-11-04",
           "daysExtended": 14,
           "bearbeitungsnummer": "LE2026003918"
+        },
+        {
+          "snapshotDate": "2026-11-06",
+          "previousEnde": "2026-11-04",
+          "newEnde": "2026-11-11",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026004077"
         }
       ]
     },
@@ -6345,7 +6359,7 @@
     },
     {
       "rootId": "LE2026002201",
-      "currentBearbeitungsnummer": "LE2026003220",
+      "currentBearbeitungsnummer": "LE2026004058",
       "produkt": "Thilorbin",
       "wirkstoffe": [
         "Fluorescein-Natrium (Ph.Eur.)",
@@ -6354,9 +6368,9 @@
       "zulassungsinhaber": "OmniVision GmbH",
       "atc": "S01HA30",
       "firstObservedEnde": "2026-09-03",
-      "latestObservedEnde": "2026-11-16",
-      "totalDaysDrifted": 74,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-07",
+      "totalDaysDrifted": 95,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -6365,6 +6379,13 @@
           "newEnde": "2026-11-16",
           "daysExtended": 74,
           "bearbeitungsnummer": "LE2026003220"
+        },
+        {
+          "snapshotDate": "2026-11-06",
+          "previousEnde": "2026-11-16",
+          "newEnde": "2026-12-07",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026004058"
         }
       ]
     },
@@ -6622,7 +6643,7 @@
     },
     {
       "rootId": "LE2025001933",
-      "currentBearbeitungsnummer": "LE2026003925",
+      "currentBearbeitungsnummer": "LE2026004050",
       "produkt": "Bortezomib STADA 2,5 mg/ml Injektionslösung",
       "wirkstoffe": [
         "Bortezomibmannitol"
@@ -6630,9 +6651,9 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "L01XX32",
       "firstObservedEnde": "2026-11-30",
-      "latestObservedEnde": "2026-10-30",
-      "totalDaysDrifted": 15,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-11-20",
+      "totalDaysDrifted": 36,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -6648,6 +6669,13 @@
           "newEnde": "2026-10-30",
           "daysExtended": 4,
           "bearbeitungsnummer": "LE2026003925"
+        },
+        {
+          "snapshotDate": "2026-11-06",
+          "previousEnde": "2026-10-30",
+          "newEnde": "2026-11-20",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026004050"
         }
       ]
     },
@@ -7455,7 +7483,7 @@
     },
     {
       "rootId": "LE2026001910",
-      "currentBearbeitungsnummer": "LE2026003841",
+      "currentBearbeitungsnummer": "LE2026004070",
       "produkt": "Oxytocin 5 I.E. Hexal",
       "wirkstoffe": [
         "Oxytocin"
@@ -7463,9 +7491,9 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "H01BB02",
       "firstObservedEnde": "2026-10-14",
-      "latestObservedEnde": "2026-11-07",
-      "totalDaysDrifted": 24,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-11",
+      "totalDaysDrifted": 28,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -7474,6 +7502,13 @@
           "newEnde": "2026-11-07",
           "daysExtended": 24,
           "bearbeitungsnummer": "LE2026003841"
+        },
+        {
+          "snapshotDate": "2026-11-06",
+          "previousEnde": "2026-11-07",
+          "newEnde": "2026-11-11",
+          "daysExtended": 4,
+          "bearbeitungsnummer": "LE2026004070"
         }
       ]
     },
@@ -8065,7 +8100,7 @@
     },
     {
       "rootId": "LE2026000707",
-      "currentBearbeitungsnummer": "LE2026003813",
+      "currentBearbeitungsnummer": "LE2026004061",
       "produkt": "Seroquel Prolong 50 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -8073,9 +8108,9 @@
       "zulassungsinhaber": "Cheplapharm Arzneimittel GmbH",
       "atc": "N05AH04",
       "firstObservedEnde": "2026-11-07",
-      "latestObservedEnde": "2026-12-16",
-      "totalDaysDrifted": 39,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-23",
+      "totalDaysDrifted": 46,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -8084,6 +8119,13 @@
           "newEnde": "2026-12-16",
           "daysExtended": 39,
           "bearbeitungsnummer": "LE2026003813"
+        },
+        {
+          "snapshotDate": "2026-11-06",
+          "previousEnde": "2026-12-16",
+          "newEnde": "2026-12-23",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026004061"
         }
       ]
     },
@@ -8964,7 +9006,7 @@
     },
     {
       "rootId": "LE2026001091",
-      "currentBearbeitungsnummer": "LE2026003996",
+      "currentBearbeitungsnummer": "LE2026004064",
       "produkt": "Seroquel Prolong 400 mg Retardtabletten",
       "wirkstoffe": [
         "Quetiapinfumarat (Ph.Eur.)"
@@ -13953,7 +13995,7 @@
     },
     {
       "rootId": "LE2026003489",
-      "currentBearbeitungsnummer": "LE2026003489",
+      "currentBearbeitungsnummer": "LE2026004059",
       "produkt": "Carboplatin Accord 10 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
       "wirkstoffe": [
         "Carboplatin"
@@ -13961,11 +14003,19 @@
       "zulassungsinhaber": "Accord Healthcare B.V.",
       "atc": "L01XA02",
       "firstObservedEnde": "2026-11-30",
-      "latestObservedEnde": "2026-11-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 31,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-06",
+          "previousEnde": "2026-11-30",
+          "newEnde": "2026-12-31",
+          "daysExtended": 31,
+          "bearbeitungsnummer": "LE2026004059"
+        }
+      ]
     },
     {
       "rootId": "LE2026003520",
@@ -14412,7 +14462,7 @@
     },
     {
       "rootId": "LE2026003590",
-      "currentBearbeitungsnummer": "LE2026003839",
+      "currentBearbeitungsnummer": "LE2026004057",
       "produkt": "Semglee 100 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml)",
       "wirkstoffe": [
         "Insulin glargin"
@@ -14420,9 +14470,9 @@
       "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
       "atc": "A10AE04",
       "firstObservedEnde": "2026-10-07",
-      "latestObservedEnde": "2026-10-27",
-      "totalDaysDrifted": 20,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-11-18",
+      "totalDaysDrifted": 42,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -14438,6 +14488,13 @@
           "newEnde": "2026-10-27",
           "daysExtended": 6,
           "bearbeitungsnummer": "LE2026003839"
+        },
+        {
+          "snapshotDate": "2026-11-06",
+          "previousEnde": "2026-10-27",
+          "newEnde": "2026-11-18",
+          "daysExtended": 22,
+          "bearbeitungsnummer": "LE2026004057"
         }
       ]
     },
@@ -15637,6 +15694,167 @@
       "atc": "S01EE04",
       "firstObservedEnde": "2027-01-15",
       "latestObservedEnde": "2027-01-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004071",
+      "currentBearbeitungsnummer": "LE2026004071",
+      "produkt": "Filgrastim HEXAL 30 Mio.E/0,5 ml Injektionslösung oder Infusionslösung in Fertigspritze - OP(5x0,5ml)",
+      "wirkstoffe": [
+        "Filgrastim"
+      ],
+      "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+      "atc": "L03AA02",
+      "firstObservedEnde": "2026-12-01",
+      "latestObservedEnde": "2026-12-01",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004069",
+      "currentBearbeitungsnummer": "LE2026004069",
+      "produkt": "Entecavir Heumann 0,5 mg Filmtabletten",
+      "wirkstoffe": [
+        "Entecavir-Monohydrat"
+      ],
+      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+      "atc": "J05AF10",
+      "firstObservedEnde": "2027-03-31",
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004068",
+      "currentBearbeitungsnummer": "LE2026004068",
+      "produkt": "Entecavir Cipla 0,5 mg Filmtabletten",
+      "wirkstoffe": [
+        "Entecavir"
+      ],
+      "zulassungsinhaber": "Cipla Europe Rechtsform: NV",
+      "atc": "J05AF10",
+      "firstObservedEnde": "2026-12-15",
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004067",
+      "currentBearbeitungsnummer": "LE2026004067",
+      "produkt": "Entecavir Cipla 0,5 mg Filmtabletten",
+      "wirkstoffe": [
+        "Entecavir"
+      ],
+      "zulassungsinhaber": "Cipla Europe Rechtsform: NV",
+      "atc": "J05AF10",
+      "firstObservedEnde": "2026-12-15",
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004066",
+      "currentBearbeitungsnummer": "LE2026004066",
+      "produkt": "Epoetin alfa HEXAL 3000 I.E./0,3 ml Injektionslösung in Fertigspritze - OP(6x0,3ml)",
+      "wirkstoffe": [
+        "Epoetin alfa"
+      ],
+      "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+      "atc": "B03XA01",
+      "firstObservedEnde": "2026-11-23",
+      "latestObservedEnde": "2026-11-23",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004060",
+      "currentBearbeitungsnummer": "LE2026004060",
+      "produkt": "Spironolacton Accord 50 mg Filmtabletten",
+      "wirkstoffe": [
+        "Spironolacton"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "C03DA01",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004054",
+      "currentBearbeitungsnummer": "LE2026004054",
+      "produkt": "Acnatac 10 mg/g + 0,25 mg/g Gel",
+      "wirkstoffe": [
+        "Clindamycin-2-dihydrogenphosphat",
+        "Tretinoin"
+      ],
+      "zulassungsinhaber": "Viatris Healthcare GmbH",
+      "atc": "D10AF51",
+      "firstObservedEnde": "2026-11-21",
+      "latestObservedEnde": "2026-11-21",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004053",
+      "currentBearbeitungsnummer": "LE2026004053",
+      "produkt": "Bisoprolol Accord 2,5 mg Filmtabletten",
+      "wirkstoffe": [
+        "Bisoprololfumarat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "C07AB07",
+      "firstObservedEnde": "2027-12-31",
+      "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004052",
+      "currentBearbeitungsnummer": "LE2026004052",
+      "produkt": "Bisoprolol Accord 10 mg Filmtabletten",
+      "wirkstoffe": [
+        "Bisoprololfumarat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "C07AB07",
+      "firstObservedEnde": "2027-12-31",
+      "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004051",
+      "currentBearbeitungsnummer": "LE2026004051",
+      "produkt": "Bisoprolol Accord 5 mg Filmtabletten",
+      "wirkstoffe": [
+        "Bisoprololfumarat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "C07AB07",
+      "firstObservedEnde": "2027-12-31",
+      "latestObservedEnde": "2027-12-31",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
