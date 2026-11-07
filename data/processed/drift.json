@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-06T10:14:32.313Z",
-  "snapshotCount": 98,
+  "generatedAt": "2026-11-07T09:30:29.146Z",
+  "snapshotCount": 99,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-11-06",
+  "lastSnapshot": "2026-11-07",
   "summary": {
-    "totalShortagesTracked": 743,
+    "totalShortagesTracked": 753,
     "driftedCount": 287,
     "driftRate": {
       "drifted": 287,
-      "of": 743,
-      "percentage": 38.6
+      "of": 753,
+      "percentage": 38.1
     },
-    "meanDaysDrifted": 93.6,
+    "meanDaysDrifted": 93.7,
     "medianDaysDrifted": 71,
-    "totalExtensionEvents": 427
+    "totalExtensionEvents": 429
   },
   "leaderboard": [
     {
@@ -12369,7 +12369,7 @@
     },
     {
       "rootId": "LE2026003107",
-      "currentBearbeitungsnummer": "LE2026003620",
+      "currentBearbeitungsnummer": "LE2026004080",
       "produkt": "Mydriaticum Stulln UD",
       "wirkstoffe": [
         "Tropicamid"
@@ -12377,9 +12377,9 @@
       "zulassungsinhaber": "Pharma Stulln GmbH",
       "atc": "S01FA06",
       "firstObservedEnde": "2026-09-21",
-      "latestObservedEnde": "2026-11-03",
-      "totalDaysDrifted": 43,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-01",
+      "totalDaysDrifted": 71,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -12388,6 +12388,13 @@
           "newEnde": "2026-11-03",
           "daysExtended": 43,
           "bearbeitungsnummer": "LE2026003620"
+        },
+        {
+          "snapshotDate": "2026-11-07",
+          "previousEnde": "2026-11-03",
+          "newEnde": "2026-12-01",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026004080"
         }
       ]
     },
@@ -14886,7 +14893,7 @@
     },
     {
       "rootId": "LE2026003768",
-      "currentBearbeitungsnummer": "LE2026003944",
+      "currentBearbeitungsnummer": "LE2026004098",
       "produkt": "Timolol Micro Labs 5 mg/ml Augentropfen, Lösung",
       "wirkstoffe": [
         "Timololmaleat"
@@ -14894,9 +14901,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "S01ED01",
       "firstObservedEnde": "2026-10-27",
-      "latestObservedEnde": "2026-11-06",
-      "totalDaysDrifted": 10,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-13",
+      "totalDaysDrifted": 17,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -14905,6 +14912,13 @@
           "newEnde": "2026-11-06",
           "daysExtended": 10,
           "bearbeitungsnummer": "LE2026003944"
+        },
+        {
+          "snapshotDate": "2026-11-07",
+          "previousEnde": "2026-11-06",
+          "newEnde": "2026-11-13",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026004098"
         }
       ]
     },
@@ -15314,7 +15328,7 @@
     },
     {
       "rootId": "LE2026003903",
-      "currentBearbeitungsnummer": "LE2026003903",
+      "currentBearbeitungsnummer": "LE2026004087",
       "produkt": "Preterax N 2,5 mg/ 0,625 mg Filmtabletten",
       "wirkstoffe": [
         "Indapamid",
@@ -15855,6 +15869,167 @@
       "atc": "C07AB07",
       "firstObservedEnde": "2027-12-31",
       "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004082",
+      "currentBearbeitungsnummer": "LE2026004100",
+      "produkt": "Methofill 20 mg Injektionslösung im Fertiginjektor",
+      "wirkstoffe": [
+        "Methotrexat"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "L04AX03",
+      "firstObservedEnde": "2027-12-31",
+      "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": true,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004099",
+      "currentBearbeitungsnummer": "LE2026004099",
+      "produkt": "Methofill 25 mg Injektionslösung im Fertiginjektor",
+      "wirkstoffe": [
+        "Methotrexat"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "L04AX03",
+      "firstObservedEnde": "2027-12-31",
+      "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004095",
+      "currentBearbeitungsnummer": "LE2026004095",
+      "produkt": "Methofill 10 mg Injektionslösung im Fertiginjektor",
+      "wirkstoffe": [
+        "Methotrexat"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "L04AX03",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004094",
+      "currentBearbeitungsnummer": "LE2026004094",
+      "produkt": "Methofill 30 mg Injektionslösung im Fertiginjektor",
+      "wirkstoffe": [
+        "Methotrexat"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "L04AX03",
+      "firstObservedEnde": "2027-12-31",
+      "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004093",
+      "currentBearbeitungsnummer": "LE2026004093",
+      "produkt": "Methofill 22,5 mg Injektionslösung im Fertiginjektor",
+      "wirkstoffe": [
+        "Methotrexat"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "L04AX03",
+      "firstObservedEnde": "2027-12-31",
+      "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004092",
+      "currentBearbeitungsnummer": "LE2026004092",
+      "produkt": "Methofill 27,5 mg Injektionslösung im Fertiginjektor",
+      "wirkstoffe": [
+        "Methotrexat"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "L04AX03",
+      "firstObservedEnde": "2027-12-31",
+      "latestObservedEnde": "2027-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004090",
+      "currentBearbeitungsnummer": "LE2026004090",
+      "produkt": "Methofill 7,5 mg Injektionslösung im Fertiginjektor",
+      "wirkstoffe": [
+        "Methotrexat"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "L04AX03",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004089",
+      "currentBearbeitungsnummer": "LE2026004089",
+      "produkt": "Osnervan",
+      "wirkstoffe": [
+        "Procyclidinhydrochlorid"
+      ],
+      "zulassungsinhaber": "Aspen Pharma Trading Limited",
+      "atc": "N04AA04",
+      "firstObservedEnde": "2027-01-08",
+      "latestObservedEnde": "2027-01-08",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004085",
+      "currentBearbeitungsnummer": "LE2026004085",
+      "produkt": "BiPreterax N 5 mg/ 1,25 mg Filmtabletten",
+      "wirkstoffe": [
+        "Indapamid",
+        "Perindopril-Arginin"
+      ],
+      "zulassungsinhaber": "Les Laboratoires Servier",
+      "atc": "C09BA04",
+      "firstObservedEnde": "2027-01-22",
+      "latestObservedEnde": "2027-01-22",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004081",
+      "currentBearbeitungsnummer": "LE2026004081",
+      "produkt": "Methofill 17,5 mg Injektionslösung im Fertiginjektor",
+      "wirkstoffe": [
+        "Methotrexat"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "L04AX03",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
