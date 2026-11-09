@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-08T09:46:31.733Z",
-  "snapshotCount": 100,
+  "generatedAt": "2026-11-09T10:46:28.068Z",
+  "snapshotCount": 101,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-11-08",
+  "lastSnapshot": "2026-11-09",
   "summary": {
-    "totalShortagesTracked": 753,
-    "driftedCount": 287,
+    "totalShortagesTracked": 754,
+    "driftedCount": 288,
     "driftRate": {
-      "drifted": 287,
-      "of": 753,
-      "percentage": 38.1
+      "drifted": 288,
+      "of": 754,
+      "percentage": 38.2
     },
-    "meanDaysDrifted": 93.7,
-    "medianDaysDrifted": 71,
-    "totalExtensionEvents": 429
+    "meanDaysDrifted": 93.8,
+    "medianDaysDrifted": 77,
+    "totalExtensionEvents": 432
   },
   "leaderboard": [
     {
@@ -3753,7 +3753,7 @@
     },
     {
       "rootId": "LE2025002484",
-      "currentBearbeitungsnummer": "LE2026002599",
+      "currentBearbeitungsnummer": "LE2026004106",
       "produkt": "Perindopril/Amlodipin Denk 4 mg/10 mg Tabletten",
       "wirkstoffe": [
         "Amlodipinbesilat",
@@ -3762,11 +3762,19 @@
       "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
       "atc": "C09BB04",
       "firstObservedEnde": "2026-11-15",
-      "latestObservedEnde": "2026-11-15",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 30,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-09",
+          "previousEnde": "2026-11-15",
+          "newEnde": "2026-12-15",
+          "daysExtended": 30,
+          "bearbeitungsnummer": "LE2026004106"
+        }
+      ]
     },
     {
       "rootId": "LE2026002595",
@@ -14210,7 +14218,7 @@
     },
     {
       "rootId": "LE2026003559",
-      "currentBearbeitungsnummer": "LE2026003762",
+      "currentBearbeitungsnummer": "LE2026004105",
       "produkt": "Rosuvastatin/Ezetimib Denk 40 mg/10 mg Filmtabletten",
       "wirkstoffe": [
         "Ezetimib",
@@ -14219,9 +14227,9 @@
       "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
       "atc": "C10BA06",
       "firstObservedEnde": "2026-10-09",
-      "latestObservedEnde": "2026-11-06",
-      "totalDaysDrifted": 28,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 83,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -14230,12 +14238,19 @@
           "newEnde": "2026-11-06",
           "daysExtended": 28,
           "bearbeitungsnummer": "LE2026003762"
+        },
+        {
+          "snapshotDate": "2026-11-09",
+          "previousEnde": "2026-11-06",
+          "newEnde": "2026-12-31",
+          "daysExtended": 55,
+          "bearbeitungsnummer": "LE2026004105"
         }
       ]
     },
     {
       "rootId": "LE2026003558",
-      "currentBearbeitungsnummer": "LE2026003763",
+      "currentBearbeitungsnummer": "LE2026004104",
       "produkt": "Rosuvastatin/Ezetimib Denk 20 mg/10 mg Filmtabletten",
       "wirkstoffe": [
         "Ezetimib",
@@ -14244,9 +14259,9 @@
       "zulassungsinhaber": "Denk Pharma GmbH & Co. KG",
       "atc": "C10BA06",
       "firstObservedEnde": "2026-10-09",
-      "latestObservedEnde": "2026-11-06",
-      "totalDaysDrifted": 28,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 83,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -14255,6 +14270,13 @@
           "newEnde": "2026-11-06",
           "daysExtended": 28,
           "bearbeitungsnummer": "LE2026003763"
+        },
+        {
+          "snapshotDate": "2026-11-09",
+          "previousEnde": "2026-11-06",
+          "newEnde": "2026-12-31",
+          "daysExtended": 55,
+          "bearbeitungsnummer": "LE2026004104"
         }
       ]
     },
@@ -16030,6 +16052,22 @@
       "atc": "L04AX03",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004103",
+      "currentBearbeitungsnummer": "LE2026004103",
+      "produkt": "INFECTOOPTICEF Saft 100 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
+      "wirkstoffe": [
+        "Cefixim (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "INFECTOPHARM Arzneimittel und Consilium GmbH",
+      "atc": "J01DD08",
+      "firstObservedEnde": "2027-04-09",
+      "latestObservedEnde": "2027-04-09",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
