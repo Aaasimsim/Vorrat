@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-10T10:40:18.029Z",
-  "snapshotCount": 102,
+  "generatedAt": "2026-11-11T10:09:32.455Z",
+  "snapshotCount": 103,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-11-10",
+  "lastSnapshot": "2026-11-11",
   "summary": {
-    "totalShortagesTracked": 757,
-    "driftedCount": 290,
+    "totalShortagesTracked": 762,
+    "driftedCount": 292,
     "driftRate": {
-      "drifted": 290,
-      "of": 757,
+      "drifted": 292,
+      "of": 762,
       "percentage": 38.3
     },
-    "meanDaysDrifted": 93.6,
-    "medianDaysDrifted": 74,
-    "totalExtensionEvents": 435
+    "meanDaysDrifted": 93.2,
+    "medianDaysDrifted": 71,
+    "totalExtensionEvents": 440
   },
   "leaderboard": [
     {
@@ -1287,7 +1287,7 @@
     },
     {
       "rootId": "LE2026002382",
-      "currentBearbeitungsnummer": "LE2026004076",
+      "currentBearbeitungsnummer": "LE2026004129",
       "produkt": "ACCUPAQUE 350",
       "wirkstoffe": [
         "Iohexol"
@@ -1295,9 +1295,9 @@
       "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
       "atc": "V08AB02",
       "firstObservedEnde": "2026-08-05",
-      "latestObservedEnde": "2026-11-11",
-      "totalDaysDrifted": 112,
-      "extensionsCount": 5,
+      "latestObservedEnde": "2026-11-18",
+      "totalDaysDrifted": 119,
+      "extensionsCount": 6,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -1334,6 +1334,13 @@
           "newEnde": "2026-11-11",
           "daysExtended": 7,
           "bearbeitungsnummer": "LE2026004076"
+        },
+        {
+          "snapshotDate": "2026-11-11",
+          "previousEnde": "2026-11-11",
+          "newEnde": "2026-11-18",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026004129"
         }
       ]
     },
@@ -2063,7 +2070,7 @@
       "wirkstoffe": [
         "Isotretinoin"
       ],
-      "zulassungsinhaber": "Almirall Hermal GmbH",
+      "zulassungsinhaber": "ALMIRALL HERMAL GmbH",
       "atc": "D10BA01",
       "firstObservedEnde": "2026-09-30",
       "latestObservedEnde": "2026-12-31",
@@ -6012,7 +6019,7 @@
     },
     {
       "rootId": "LE2026002276",
-      "currentBearbeitungsnummer": "LE2026003683",
+      "currentBearbeitungsnummer": "LE2026004124",
       "produkt": "Rizatriptan Glenmark 5 mg Schmelztabletten",
       "wirkstoffe": [
         "Rizatriptanbenzoat"
@@ -6020,9 +6027,9 @@
       "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
       "atc": "N02CC04",
       "firstObservedEnde": "2026-09-04",
-      "latestObservedEnde": "2026-11-27",
-      "totalDaysDrifted": 84,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-12-11",
+      "totalDaysDrifted": 98,
+      "extensionsCount": 3,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -6038,6 +6045,13 @@
           "newEnde": "2026-11-27",
           "daysExtended": 42,
           "bearbeitungsnummer": "LE2026003683"
+        },
+        {
+          "snapshotDate": "2026-11-11",
+          "previousEnde": "2026-11-27",
+          "newEnde": "2026-12-11",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026004124"
         }
       ]
     },
@@ -11216,7 +11230,7 @@
     },
     {
       "rootId": "LE2025001342",
-      "currentBearbeitungsnummer": "LE2025003203",
+      "currentBearbeitungsnummer": "LE2026004116",
       "produkt": "Procain 2 % JENAPHARM",
       "wirkstoffe": [
         "Procainhydrochlorid"
@@ -11232,7 +11246,7 @@
     },
     {
       "rootId": "LE2025000146",
-      "currentBearbeitungsnummer": "LE2025003202",
+      "currentBearbeitungsnummer": "LE2026004119",
       "produkt": "Procain 1 % JENAPHARM",
       "wirkstoffe": [
         "Procainhydrochlorid"
@@ -13548,7 +13562,7 @@
       "wirkstoffe": [
         "Isotretinoin"
       ],
-      "zulassungsinhaber": "Almirall Hermal GmbH",
+      "zulassungsinhaber": "ALMIRALL HERMAL GmbH",
       "atc": "D10BA01",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -14506,7 +14520,7 @@
     },
     {
       "rootId": "LE2026003590",
-      "currentBearbeitungsnummer": "LE2026004057",
+      "currentBearbeitungsnummer": "LE2026004135",
       "produkt": "Semglee 100 Einheiten/ml Injektionslösung in Fertigpen - OP(5x3ml)",
       "wirkstoffe": [
         "Insulin glargin"
@@ -14514,9 +14528,9 @@
       "zulassungsinhaber": "Biosimilar Collaborations Ireland Limited",
       "atc": "A10AE04",
       "firstObservedEnde": "2026-10-07",
-      "latestObservedEnde": "2026-11-18",
-      "totalDaysDrifted": 42,
-      "extensionsCount": 3,
+      "latestObservedEnde": "2026-11-25",
+      "totalDaysDrifted": 49,
+      "extensionsCount": 4,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -14539,6 +14553,13 @@
           "newEnde": "2026-11-18",
           "daysExtended": 22,
           "bearbeitungsnummer": "LE2026004057"
+        },
+        {
+          "snapshotDate": "2026-11-11",
+          "previousEnde": "2026-11-18",
+          "newEnde": "2026-11-25",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026004135"
         }
       ]
     },
@@ -14810,7 +14831,7 @@
     },
     {
       "rootId": "LE2026003679",
-      "currentBearbeitungsnummer": "LE2026003679",
+      "currentBearbeitungsnummer": "LE2026004122",
       "produkt": "Olanzapin Glenmark 20 mg Tabletten - OP70",
       "wirkstoffe": [
         "Olanzapin"
@@ -14818,15 +14839,23 @@
       "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
       "atc": "N05AH03",
       "firstObservedEnde": "2026-11-27",
-      "latestObservedEnde": "2026-11-27",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-25",
+      "totalDaysDrifted": 28,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-11",
+          "previousEnde": "2026-11-27",
+          "newEnde": "2026-12-25",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026004122"
+        }
+      ]
     },
     {
       "rootId": "LE2026003678",
-      "currentBearbeitungsnummer": "LE2026003678",
+      "currentBearbeitungsnummer": "LE2026004123",
       "produkt": "Olanzapin Glenmark 2,5 mg Tabletten - OP56",
       "wirkstoffe": [
         "Olanzapin"
@@ -14834,11 +14863,19 @@
       "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
       "atc": "N05AH03",
       "firstObservedEnde": "2026-11-13",
-      "latestObservedEnde": "2026-11-13",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-11",
+      "totalDaysDrifted": 28,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-11",
+          "previousEnde": "2026-11-13",
+          "newEnde": "2026-12-11",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026004123"
+        }
+      ]
     },
     {
       "rootId": "LE2026003721",
@@ -16139,6 +16176,86 @@
       "atc": "B01AC23",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004137",
+      "currentBearbeitungsnummer": "LE2026004137",
+      "produkt": "ACCUPAQUE 300",
+      "wirkstoffe": [
+        "Iohexol"
+      ],
+      "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
+      "atc": "V08AB02",
+      "firstObservedEnde": "2026-11-25",
+      "latestObservedEnde": "2026-11-25",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004133",
+      "currentBearbeitungsnummer": "LE2026004133",
+      "produkt": "Binocrit 8000 I.E./0,8 ml Injektionslösung in Fertigspritze - OP(6x0,8ml)",
+      "wirkstoffe": [
+        "Epoetin alfa"
+      ],
+      "zulassungsinhaber": "Sandoz GmbH",
+      "atc": "B03XA01",
+      "firstObservedEnde": "2026-11-20",
+      "latestObservedEnde": "2026-11-20",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004132",
+      "currentBearbeitungsnummer": "LE2026004132",
+      "produkt": "L-Poladdict 20 mg Tabletten",
+      "wirkstoffe": [
+        "Levomethadonhydrochlorid"
+      ],
+      "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
+      "atc": "TERM_ID_NA_2090005949",
+      "firstObservedEnde": "2027-01-20",
+      "latestObservedEnde": "2027-01-20",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004126",
+      "currentBearbeitungsnummer": "LE2026004126",
+      "produkt": "Duloxetin Glenmark 45 mg magensaftresistente Hartkapseln",
+      "wirkstoffe": [
+        "Duloxetinhydrochlorid"
+      ],
+      "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+      "atc": "N06AX21",
+      "firstObservedEnde": "2026-12-11",
+      "latestObservedEnde": "2026-12-11",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004125",
+      "currentBearbeitungsnummer": "LE2026004125",
+      "produkt": "Hydromorphon-HCl Glenmark 2 mg Hartkapseln, retardiert",
+      "wirkstoffe": [
+        "Hydromorphonhydrochlorid"
+      ],
+      "zulassungsinhaber": "Glenmark Arzneimittel GmbH",
+      "atc": "N02AA03",
+      "firstObservedEnde": "2026-12-11",
+      "latestObservedEnde": "2026-12-11",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
