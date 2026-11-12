@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-11T10:09:32.455Z",
-  "snapshotCount": 103,
+  "generatedAt": "2026-11-12T10:32:08.341Z",
+  "snapshotCount": 104,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-11-11",
+  "lastSnapshot": "2026-11-12",
   "summary": {
-    "totalShortagesTracked": 762,
-    "driftedCount": 292,
+    "totalShortagesTracked": 764,
+    "driftedCount": 295,
     "driftRate": {
-      "drifted": 292,
-      "of": 762,
-      "percentage": 38.3
+      "drifted": 295,
+      "of": 764,
+      "percentage": 38.6
     },
-    "meanDaysDrifted": 93.2,
+    "meanDaysDrifted": 93.4,
     "medianDaysDrifted": 71,
-    "totalExtensionEvents": 440
+    "totalExtensionEvents": 450
   },
   "leaderboard": [
     {
@@ -611,7 +611,7 @@
     },
     {
       "rootId": "LE2026001486",
-      "currentBearbeitungsnummer": "LE2026003875",
+      "currentBearbeitungsnummer": "LE2026004149",
       "produkt": "Escitalopram-Micro Labs 20 mg Filmtabletten",
       "wirkstoffe": [
         "Escitalopramoxalat"
@@ -619,9 +619,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AB10",
       "firstObservedEnde": "2026-08-21",
-      "latestObservedEnde": "2026-11-13",
-      "totalDaysDrifted": 84,
-      "extensionsCount": 4,
+      "latestObservedEnde": "2026-12-11",
+      "totalDaysDrifted": 112,
+      "extensionsCount": 5,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -651,6 +651,13 @@
           "newEnde": "2026-11-13",
           "daysExtended": 22,
           "bearbeitungsnummer": "LE2026003875"
+        },
+        {
+          "snapshotDate": "2026-11-12",
+          "previousEnde": "2026-11-13",
+          "newEnde": "2026-12-11",
+          "daysExtended": 28,
+          "bearbeitungsnummer": "LE2026004149"
         }
       ]
     },
@@ -2225,7 +2232,7 @@
     },
     {
       "rootId": "LE2026002452",
-      "currentBearbeitungsnummer": "LE2026003960",
+      "currentBearbeitungsnummer": "LE2026004151",
       "produkt": "Pantoprazol-Micro Labs 40 mg magensaftresistente Tabletten",
       "wirkstoffe": [
         "Pantoprazol-Natrium-Sesquihydrat"
@@ -2233,9 +2240,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "A02BC02",
       "firstObservedEnde": "2026-08-28",
-      "latestObservedEnde": "2026-11-13",
-      "totalDaysDrifted": 94,
-      "extensionsCount": 4,
+      "latestObservedEnde": "2026-11-20",
+      "totalDaysDrifted": 101,
+      "extensionsCount": 5,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -2265,6 +2272,13 @@
           "newEnde": "2026-11-13",
           "daysExtended": 16,
           "bearbeitungsnummer": "LE2026003960"
+        },
+        {
+          "snapshotDate": "2026-11-12",
+          "previousEnde": "2026-11-13",
+          "newEnde": "2026-11-20",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026004151"
         }
       ]
     },
@@ -2572,7 +2586,7 @@
     },
     {
       "rootId": "LE2026002450",
-      "currentBearbeitungsnummer": "LE2026003817",
+      "currentBearbeitungsnummer": "LE2026004152",
       "produkt": "Pantoprazol-Micro Labs 20 mg magensaftresistente Tabletten",
       "wirkstoffe": [
         "Pantoprazol-Natrium-Sesquihydrat"
@@ -2580,9 +2594,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "A02BC02",
       "firstObservedEnde": "2026-08-28",
-      "latestObservedEnde": "2026-11-26",
-      "totalDaysDrifted": 90,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-12-11",
+      "totalDaysDrifted": 105,
+      "extensionsCount": 3,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -2598,6 +2612,13 @@
           "newEnde": "2026-11-26",
           "daysExtended": 41,
           "bearbeitungsnummer": "LE2026003817"
+        },
+        {
+          "snapshotDate": "2026-11-12",
+          "previousEnde": "2026-11-26",
+          "newEnde": "2026-12-11",
+          "daysExtended": 15,
+          "bearbeitungsnummer": "LE2026004152"
         }
       ]
     },
@@ -4781,7 +4802,7 @@
     },
     {
       "rootId": "LE2025004108",
-      "currentBearbeitungsnummer": "LE2026003943",
+      "currentBearbeitungsnummer": "LE2026004141",
       "produkt": "Atorvastatin Micro Labs 30 mg Filmtabletten",
       "wirkstoffe": [
         "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)"
@@ -4789,9 +4810,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "C10AA05",
       "firstObservedEnde": "2026-09-25",
-      "latestObservedEnde": "2026-11-13",
-      "totalDaysDrifted": 49,
-      "extensionsCount": 3,
+      "latestObservedEnde": "2026-11-24",
+      "totalDaysDrifted": 60,
+      "extensionsCount": 4,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -4814,6 +4835,13 @@
           "newEnde": "2026-11-13",
           "daysExtended": 17,
           "bearbeitungsnummer": "LE2026003943"
+        },
+        {
+          "snapshotDate": "2026-11-12",
+          "previousEnde": "2026-11-13",
+          "newEnde": "2026-11-24",
+          "daysExtended": 11,
+          "bearbeitungsnummer": "LE2026004141"
         }
       ]
     },
@@ -11102,7 +11130,7 @@
     },
     {
       "rootId": "LE2025004002",
-      "currentBearbeitungsnummer": "LE2025004090",
+      "currentBearbeitungsnummer": "LE2026004138",
       "produkt": "Javlor 25 mg/ml Konzentrat zur Herstellung einer Infusionslösung - OP(1x2ml)",
       "wirkstoffe": [
         "Vinfluninbis[(R,R)-tartrat]"
@@ -11110,11 +11138,19 @@
       "zulassungsinhaber": "Pierre Fabre Medicament",
       "atc": "L01CA05",
       "firstObservedEnde": "2027-05-01",
-      "latestObservedEnde": "2027-05-01",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-11-01",
+      "totalDaysDrifted": 184,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-12",
+          "previousEnde": "2027-05-01",
+          "newEnde": "2027-11-01",
+          "daysExtended": 184,
+          "bearbeitungsnummer": "LE2026004138"
+        }
+      ]
     },
     {
       "rootId": "LE2025002991",
@@ -12061,7 +12097,7 @@
     },
     {
       "rootId": "LE2026003018",
-      "currentBearbeitungsnummer": "LE2026003018",
+      "currentBearbeitungsnummer": "LE2026004156",
       "produkt": "Tarka 240 mg/4 mg Tabletten mit veränderter Wirkstofffreisetzung",
       "wirkstoffe": [
         "Trandolapril",
@@ -12070,11 +12106,19 @@
       "zulassungsinhaber": "Viatris Healthcare GmbH",
       "atc": "C09BB10",
       "firstObservedEnde": "2026-11-16",
-      "latestObservedEnde": "2026-11-16",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-27",
+      "totalDaysDrifted": 11,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-12",
+          "previousEnde": "2026-11-16",
+          "newEnde": "2026-11-27",
+          "daysExtended": 11,
+          "bearbeitungsnummer": "LE2026004156"
+        }
+      ]
     },
     {
       "rootId": "LE2026003013",
@@ -12094,7 +12138,7 @@
     },
     {
       "rootId": "LE2026003035",
-      "currentBearbeitungsnummer": "LE2026003961",
+      "currentBearbeitungsnummer": "LE2026004140",
       "produkt": "Atorvastatin Micro Labs 10 mg Filmtabletten",
       "wirkstoffe": [
         "Atorvastatin-Calcium-Trihydrat (Ph.Eur.)"
@@ -12102,9 +12146,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "C10AA05",
       "firstObservedEnde": "2026-10-16",
-      "latestObservedEnde": "2026-11-12",
-      "totalDaysDrifted": 27,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-12-11",
+      "totalDaysDrifted": 56,
+      "extensionsCount": 3,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -12120,6 +12164,13 @@
           "newEnde": "2026-11-12",
           "daysExtended": 15,
           "bearbeitungsnummer": "LE2026003961"
+        },
+        {
+          "snapshotDate": "2026-11-12",
+          "previousEnde": "2026-11-12",
+          "newEnde": "2026-12-11",
+          "daysExtended": 29,
+          "bearbeitungsnummer": "LE2026004140"
         }
       ]
     },
@@ -12229,7 +12280,7 @@
     },
     {
       "rootId": "LE2026003077",
-      "currentBearbeitungsnummer": "LE2026003518",
+      "currentBearbeitungsnummer": "LE2026004158",
       "produkt": "Ropivacainhydrochlorid Kabi 2 mg/ml Injektionslösung",
       "wirkstoffe": [
         "Ropivacainhydrochlorid"
@@ -12237,9 +12288,9 @@
       "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
       "atc": "N01BB09",
       "firstObservedEnde": "2026-09-14",
-      "latestObservedEnde": "2026-11-16",
-      "totalDaysDrifted": 71,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-07",
+      "totalDaysDrifted": 92,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -12248,6 +12299,13 @@
           "newEnde": "2026-11-24",
           "daysExtended": 71,
           "bearbeitungsnummer": "LE2026003193"
+        },
+        {
+          "snapshotDate": "2026-11-12",
+          "previousEnde": "2026-11-16",
+          "newEnde": "2026-12-07",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026004158"
         }
       ]
     },
@@ -14686,7 +14744,7 @@
     },
     {
       "rootId": "LE2026003710",
-      "currentBearbeitungsnummer": "LE2026003710",
+      "currentBearbeitungsnummer": "LE2026004159",
       "produkt": "Ropivacainhydrochlorid Kabi 7,5 mg/ml Injektionslösung",
       "wirkstoffe": [
         "Ropivacainhydrochlorid"
@@ -14694,11 +14752,19 @@
       "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
       "atc": "N01BB09",
       "firstObservedEnde": "2026-11-16",
-      "latestObservedEnde": "2026-11-16",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-07",
+      "totalDaysDrifted": 21,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-12",
+          "previousEnde": "2026-11-16",
+          "newEnde": "2026-12-07",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026004159"
+        }
+      ]
     },
     {
       "rootId": "LE2026003706",
@@ -14967,7 +15033,7 @@
     },
     {
       "rootId": "LE2026003768",
-      "currentBearbeitungsnummer": "LE2026004098",
+      "currentBearbeitungsnummer": "LE2026004142",
       "produkt": "Timolol Micro Labs 5 mg/ml Augentropfen, Lösung",
       "wirkstoffe": [
         "Timololmaleat"
@@ -14975,9 +15041,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "S01ED01",
       "firstObservedEnde": "2026-10-27",
-      "latestObservedEnde": "2026-11-13",
-      "totalDaysDrifted": 17,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-11-27",
+      "totalDaysDrifted": 31,
+      "extensionsCount": 3,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -14993,6 +15059,13 @@
           "newEnde": "2026-11-13",
           "daysExtended": 7,
           "bearbeitungsnummer": "LE2026004098"
+        },
+        {
+          "snapshotDate": "2026-11-12",
+          "previousEnde": "2026-11-13",
+          "newEnde": "2026-11-27",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026004142"
         }
       ]
     },
@@ -15716,7 +15789,7 @@
     },
     {
       "rootId": "LE2026004046",
-      "currentBearbeitungsnummer": "LE2026004046",
+      "currentBearbeitungsnummer": "LE2026004154",
       "produkt": "Cotrim forte-ratiopharm 800 mg/160 mg Tabletten",
       "wirkstoffe": [
         "Sulfamethoxazol",
@@ -15725,7 +15798,7 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "J01EE01",
       "firstObservedEnde": "2027-01-11",
-      "latestObservedEnde": "2027-01-11",
+      "latestObservedEnde": "2026-12-16",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
@@ -16256,6 +16329,38 @@
       "atc": "N02AA03",
       "firstObservedEnde": "2026-12-11",
       "latestObservedEnde": "2026-12-11",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004160",
+      "currentBearbeitungsnummer": "LE2026004160",
+      "produkt": "Sugammadex Fresenius Kabi",
+      "wirkstoffe": [
+        "Sugammadex-Natrium"
+      ],
+      "zulassungsinhaber": "Fresenius Kabi Deutschland GmbH",
+      "atc": "V03AB35",
+      "firstObservedEnde": "2027-01-25",
+      "latestObservedEnde": "2027-01-25",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004153",
+      "currentBearbeitungsnummer": "LE2026004153",
+      "produkt": "Famotidin-ratiopharm 40 mg Filmtabletten",
+      "wirkstoffe": [
+        "Famotidin"
+      ],
+      "zulassungsinhaber": "ratiopharm GmbH",
+      "atc": "A02BA03",
+      "firstObservedEnde": "2027-01-29",
+      "latestObservedEnde": "2027-01-29",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
