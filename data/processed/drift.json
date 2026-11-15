@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-14T09:43:29.314Z",
-  "snapshotCount": 106,
+  "generatedAt": "2026-11-15T10:16:06.066Z",
+  "snapshotCount": 107,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-11-14",
+  "lastSnapshot": "2026-11-15",
   "summary": {
     "totalShortagesTracked": 766,
     "driftedCount": 295,
