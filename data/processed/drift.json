@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-16T10:29:49.730Z",
-  "snapshotCount": 108,
+  "generatedAt": "2026-11-17T11:24:27.619Z",
+  "snapshotCount": 109,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-11-16",
+  "lastSnapshot": "2026-11-17",
   "summary": {
-    "totalShortagesTracked": 767,
-    "driftedCount": 297,
+    "totalShortagesTracked": 779,
+    "driftedCount": 299,
     "driftRate": {
-      "drifted": 297,
-      "of": 767,
-      "percentage": 38.7
+      "drifted": 299,
+      "of": 779,
+      "percentage": 38.4
     },
-    "meanDaysDrifted": 92.9,
+    "meanDaysDrifted": 92.7,
     "medianDaysDrifted": 71,
-    "totalExtensionEvents": 453
+    "totalExtensionEvents": 455
   },
   "leaderboard": [
     {
@@ -3615,7 +3615,7 @@
     },
     {
       "rootId": "LE2026002617",
-      "currentBearbeitungsnummer": "LE2026003934",
+      "currentBearbeitungsnummer": "LE2026004180",
       "produkt": "Etoricoxib PUREN 90 mg Filmtabletten",
       "wirkstoffe": [
         "Etoricoxib"
@@ -4641,7 +4641,7 @@
     },
     {
       "rootId": "LE2026000575",
-      "currentBearbeitungsnummer": "LE2026002494",
+      "currentBearbeitungsnummer": "LE2026004174",
       "produkt": "Tacpan 5 mg Hartkapseln",
       "wirkstoffe": [
         "Tacrolimus-Monohydrat"
@@ -4649,11 +4649,19 @@
       "zulassungsinhaber": "Panacea Biotec Germany GmbH",
       "atc": "L04AD02",
       "firstObservedEnde": "2026-10-31",
-      "latestObservedEnde": "2026-10-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 61,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-17",
+          "previousEnde": "2026-10-31",
+          "newEnde": "2026-12-31",
+          "daysExtended": 61,
+          "bearbeitungsnummer": "LE2026004174"
+        }
+      ]
     },
     {
       "rootId": "LE2026002345",
@@ -11145,7 +11153,7 @@
     },
     {
       "rootId": "LE2025004002",
-      "currentBearbeitungsnummer": "LE2026004138",
+      "currentBearbeitungsnummer": "LE2026004176",
       "produkt": "Javlor 25 mg/ml Konzentrat zur Herstellung einer Infusionslösung - OP(1x2ml)",
       "wirkstoffe": [
         "Vinfluninbis[(R,R)-tartrat]"
@@ -15110,7 +15118,7 @@
     },
     {
       "rootId": "LE2026003776",
-      "currentBearbeitungsnummer": "LE2026003776",
+      "currentBearbeitungsnummer": "LE2026004177",
       "produkt": "Foscavir",
       "wirkstoffe": [
         "Foscarnet-Natrium-Hexahydrat"
@@ -15118,11 +15126,19 @@
       "zulassungsinhaber": "Clinigen Healthcare B.V.",
       "atc": "J05AD01",
       "firstObservedEnde": "2026-11-13",
-      "latestObservedEnde": "2026-11-13",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-01-31",
+      "totalDaysDrifted": 79,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-17",
+          "previousEnde": "2026-11-13",
+          "newEnde": "2027-01-31",
+          "daysExtended": 79,
+          "bearbeitungsnummer": "LE2026004177"
+        }
+      ]
     },
     {
       "rootId": "LE2026003775",
@@ -15588,7 +15604,7 @@
     },
     {
       "rootId": "LE2026003965",
-      "currentBearbeitungsnummer": "LE2026003965",
+      "currentBearbeitungsnummer": "LE2026004186",
       "produkt": "Entecavir PUREN 0,5 mg Filmtabletten",
       "wirkstoffe": [
         "Entecavir-Monohydrat"
@@ -15596,7 +15612,7 @@
       "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
       "atc": "J05AF10",
       "firstObservedEnde": "2027-03-05",
-      "latestObservedEnde": "2027-03-05",
+      "latestObservedEnde": "2027-01-25",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
@@ -16434,6 +16450,198 @@
       "atc": "J01EE01",
       "firstObservedEnde": "2027-02-10",
       "latestObservedEnde": "2027-02-10",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004193",
+      "currentBearbeitungsnummer": "LE2026004193",
+      "produkt": "Tacrolimus Dermapharm 1 mg/g Salbe",
+      "wirkstoffe": [
+        "Tacrolimus-Monohydrat"
+      ],
+      "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+      "atc": "D11AH01",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004192",
+      "currentBearbeitungsnummer": "LE2026004192",
+      "produkt": "Gabapentin Aurobindo 800 mg Filmtabletten",
+      "wirkstoffe": [
+        "Gabapentin"
+      ],
+      "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+      "atc": "N02BF01",
+      "firstObservedEnde": "2027-03-15",
+      "latestObservedEnde": "2027-03-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004191",
+      "currentBearbeitungsnummer": "LE2026004191",
+      "produkt": "Febuxostat PUREN 120 mg Filmtabletten",
+      "wirkstoffe": [
+        "Febuxostat"
+      ],
+      "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+      "atc": "M04AA03",
+      "firstObservedEnde": "2027-03-15",
+      "latestObservedEnde": "2027-03-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004190",
+      "currentBearbeitungsnummer": "LE2026004190",
+      "produkt": "Duloxetin PUREN 30 mg magensaftresistente Hartkapseln",
+      "wirkstoffe": [
+        "Duloxetinhydrochlorid"
+      ],
+      "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+      "atc": "N06AX21",
+      "firstObservedEnde": "2027-01-25",
+      "latestObservedEnde": "2027-01-25",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004189",
+      "currentBearbeitungsnummer": "LE2026004189",
+      "produkt": "Buprenorphin PUREN 2 mg Sublingualtabletten",
+      "wirkstoffe": [
+        "Buprenorphinhydrochlorid"
+      ],
+      "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+      "atc": "N07BC01",
+      "firstObservedEnde": "2027-08-16",
+      "latestObservedEnde": "2027-08-16",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004188",
+      "currentBearbeitungsnummer": "LE2026004188",
+      "produkt": "Buprenorphin PUREN 0,4 mg Sublingualtabletten",
+      "wirkstoffe": [
+        "Buprenorphinhydrochlorid"
+      ],
+      "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+      "atc": "N07BC01",
+      "firstObservedEnde": "2027-08-09",
+      "latestObservedEnde": "2027-08-09",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004187",
+      "currentBearbeitungsnummer": "LE2026004187",
+      "produkt": "Fampridin PUREN 10 mg Retardtabletten",
+      "wirkstoffe": [
+        "Fampridin"
+      ],
+      "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+      "atc": "N07XX07",
+      "firstObservedEnde": "2027-03-08",
+      "latestObservedEnde": "2027-03-08",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004185",
+      "currentBearbeitungsnummer": "LE2026004185",
+      "produkt": "Celecoxib Aurobindo 100 mg Hartkapseln",
+      "wirkstoffe": [
+        "Celecoxib"
+      ],
+      "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+      "atc": "M01AH01",
+      "firstObservedEnde": "2027-03-15",
+      "latestObservedEnde": "2027-03-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004184",
+      "currentBearbeitungsnummer": "LE2026004184",
+      "produkt": "Bortezomib PUREN 3,5 mg Pulver zur Herstellung einer Injektionslösung",
+      "wirkstoffe": [
+        "Bortezomibmannitol"
+      ],
+      "zulassungsinhaber": "Eugia Pharma (Malta) Limited",
+      "atc": "L01XG01",
+      "firstObservedEnde": "2027-01-25",
+      "latestObservedEnde": "2027-01-25",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004183",
+      "currentBearbeitungsnummer": "LE2026004183",
+      "produkt": "Urapidil PUREN 60 mg Retardkapseln",
+      "wirkstoffe": [
+        "Urapidil"
+      ],
+      "zulassungsinhaber": "PUREN Pharma GmbH & Co. KG",
+      "atc": "C02CA06",
+      "firstObservedEnde": "2027-05-10",
+      "latestObservedEnde": "2027-05-10",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004178",
+      "currentBearbeitungsnummer": "LE2026004178",
+      "produkt": "Novodigal",
+      "wirkstoffe": [
+        "beta-Acetyldigoxin"
+      ],
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "atc": "C01AA02",
+      "firstObservedEnde": "2027-01-01",
+      "latestObservedEnde": "2027-01-01",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004175",
+      "currentBearbeitungsnummer": "LE2026004175",
+      "produkt": "Tacpan 0,5 mg Hartkapseln",
+      "wirkstoffe": [
+        "Tacrolimus-Monohydrat"
+      ],
+      "zulassungsinhaber": "Panacea Biotec Germany GmbH",
+      "atc": "L04AD02",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
