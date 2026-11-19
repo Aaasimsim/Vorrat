@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-18T10:57:48.201Z",
-  "snapshotCount": 110,
+  "generatedAt": "2026-11-19T10:59:53.243Z",
+  "snapshotCount": 111,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-11-18",
+  "lastSnapshot": "2026-11-19",
   "summary": {
-    "totalShortagesTracked": 785,
-    "driftedCount": 300,
+    "totalShortagesTracked": 789,
+    "driftedCount": 302,
     "driftRate": {
-      "drifted": 300,
-      "of": 785,
-      "percentage": 38.2
+      "drifted": 302,
+      "of": 789,
+      "percentage": 38.3
     },
-    "meanDaysDrifted": 92.5,
-    "medianDaysDrifted": 70.5,
-    "totalExtensionEvents": 457
+    "meanDaysDrifted": 92,
+    "medianDaysDrifted": 69.5,
+    "totalExtensionEvents": 459
   },
   "leaderboard": [
     {
@@ -2077,7 +2077,7 @@
       "wirkstoffe": [
         "Isotretinoin"
       ],
-      "zulassungsinhaber": "Almirall Hermal GmbH",
+      "zulassungsinhaber": "ALMIRALL HERMAL GmbH",
       "atc": "D10BA01",
       "firstObservedEnde": "2026-09-30",
       "latestObservedEnde": "2026-12-31",
@@ -13658,7 +13658,7 @@
       "wirkstoffe": [
         "Isotretinoin"
       ],
-      "zulassungsinhaber": "Almirall Hermal GmbH",
+      "zulassungsinhaber": "ALMIRALL HERMAL GmbH",
       "atc": "D10BA01",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -15521,7 +15521,7 @@
     },
     {
       "rootId": "LE2026003905",
-      "currentBearbeitungsnummer": "LE2026003909",
+      "currentBearbeitungsnummer": "LE2026004211",
       "produkt": "Resonium A",
       "wirkstoffe": [
         "Poly(styrol-co-divinylbenzol)sulfonsäure-(x:y)-Natriumsalz"
@@ -15529,11 +15529,19 @@
       "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
       "atc": "V03AE01",
       "firstObservedEnde": "2026-11-23",
-      "latestObservedEnde": "2026-11-23",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 7,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-19",
+          "previousEnde": "2026-11-23",
+          "newEnde": "2026-11-30",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026004211"
+        }
+      ]
     },
     {
       "rootId": "LE2026003903",
@@ -16020,7 +16028,7 @@
     },
     {
       "rootId": "LE2026004054",
-      "currentBearbeitungsnummer": "LE2026004054",
+      "currentBearbeitungsnummer": "LE2026004216",
       "produkt": "Acnatac 10 mg/g + 0,25 mg/g Gel",
       "wirkstoffe": [
         "Clindamycin-2-dihydrogenphosphat",
@@ -16029,11 +16037,19 @@
       "zulassungsinhaber": "Viatris Healthcare GmbH",
       "atc": "D10AF51",
       "firstObservedEnde": "2026-11-21",
-      "latestObservedEnde": "2026-11-21",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 24,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-19",
+          "previousEnde": "2026-11-21",
+          "newEnde": "2026-12-15",
+          "daysExtended": 24,
+          "bearbeitungsnummer": "LE2026004216"
+        }
+      ]
     },
     {
       "rootId": "LE2026004053",
@@ -16753,6 +16769,70 @@
       "atc": "A01AC01, D07XB02",
       "firstObservedEnde": "2026-12-08",
       "latestObservedEnde": "2026-12-08",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004213",
+      "currentBearbeitungsnummer": "LE2026004213",
+      "produkt": "Entecavir Cipla 1 mg Filmtabletten",
+      "wirkstoffe": [
+        "Entecavir"
+      ],
+      "zulassungsinhaber": "Cipla Europe Rechtsform: NV",
+      "atc": "J05AF10",
+      "firstObservedEnde": "2026-12-15",
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004212",
+      "currentBearbeitungsnummer": "LE2026004212",
+      "produkt": "Entecavir Cipla 0,5 mg Filmtabletten",
+      "wirkstoffe": [
+        "Entecavir"
+      ],
+      "zulassungsinhaber": "Cipla Europe Rechtsform: NV",
+      "atc": "J05AF10",
+      "firstObservedEnde": "2026-12-15",
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004209",
+      "currentBearbeitungsnummer": "LE2026004209",
+      "produkt": "Entecavir Zentiva 1 mg Filmtabletten",
+      "wirkstoffe": [
+        "Entecavir-Monohydrat"
+      ],
+      "zulassungsinhaber": "Zentiva Pharma GmbH",
+      "atc": "J05AF10",
+      "firstObservedEnde": "2027-04-01",
+      "latestObservedEnde": "2027-04-01",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004208",
+      "currentBearbeitungsnummer": "LE2026004208",
+      "produkt": "Entecavir Zentiva 0,5 mg Filmtabletten",
+      "wirkstoffe": [
+        "Entecavir-Monohydrat"
+      ],
+      "zulassungsinhaber": "Zentiva Pharma GmbH",
+      "atc": "J05AF10",
+      "firstObservedEnde": "2027-01-07",
+      "latestObservedEnde": "2027-01-07",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
