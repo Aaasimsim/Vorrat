@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-19T10:59:53.243Z",
-  "snapshotCount": 111,
+  "generatedAt": "2026-11-20T10:48:50.285Z",
+  "snapshotCount": 112,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-11-19",
+  "lastSnapshot": "2026-11-20",
   "summary": {
-    "totalShortagesTracked": 789,
-    "driftedCount": 302,
+    "totalShortagesTracked": 793,
+    "driftedCount": 303,
     "driftRate": {
-      "drifted": 302,
-      "of": 789,
-      "percentage": 38.3
+      "drifted": 303,
+      "of": 793,
+      "percentage": 38.2
     },
-    "meanDaysDrifted": 92,
-    "medianDaysDrifted": 69.5,
-    "totalExtensionEvents": 459
+    "meanDaysDrifted": 91.8,
+    "medianDaysDrifted": 70,
+    "totalExtensionEvents": 462
   },
   "leaderboard": [
     {
@@ -1275,7 +1275,7 @@
       "wirkstoffe": [
         "Flurazepam"
       ],
-      "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+      "zulassungsinhaber": "Riemser Pharma GmbH",
       "atc": "N05CD01",
       "firstObservedEnde": "2026-09-28",
       "latestObservedEnde": "2026-12-28",
@@ -3845,7 +3845,7 @@
     },
     {
       "rootId": "LE2026002592",
-      "currentBearbeitungsnummer": "LE2026003991",
+      "currentBearbeitungsnummer": "LE2026004234",
       "produkt": "Levetiracetam HEXAL 100 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
       "wirkstoffe": [
         "Levetiracetam"
@@ -3853,9 +3853,9 @@
       "zulassungsinhaber": "H e x a l  Aktiengesellschaft",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-09-18",
-      "latestObservedEnde": "2026-11-20",
-      "totalDaysDrifted": 63,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-12-04",
+      "totalDaysDrifted": 77,
+      "extensionsCount": 3,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -3871,6 +3871,13 @@
           "newEnde": "2026-11-20",
           "daysExtended": 7,
           "bearbeitungsnummer": "LE2026003991"
+        },
+        {
+          "snapshotDate": "2026-11-20",
+          "previousEnde": "2026-11-20",
+          "newEnde": "2026-12-04",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026004234"
         }
       ]
     },
@@ -5392,7 +5399,7 @@
       "wirkstoffe": [
         "Levetiracetam"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -5646,7 +5653,7 @@
       "wirkstoffe": [
         "Doxepinhydrochlorid (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N06AA12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -5662,7 +5669,7 @@
       "wirkstoffe": [
         "Doxepinhydrochlorid (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N06AA12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -6492,7 +6499,7 @@
       "wirkstoffe": [
         "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "H02AB02",
       "firstObservedEnde": "2027-01-29",
       "latestObservedEnde": "2027-01-29",
@@ -6508,7 +6515,7 @@
       "wirkstoffe": [
         "Dexamethason"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "H02AB02",
       "firstObservedEnde": "2027-01-29",
       "latestObservedEnde": "2027-01-29",
@@ -7861,7 +7868,7 @@
       "wirkstoffe": [
         "Isoniazid"
       ],
-      "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+      "zulassungsinhaber": "Riemser Pharma GmbH",
       "atc": "J04AC01",
       "firstObservedEnde": "2026-08-31",
       "latestObservedEnde": "2026-12-18",
@@ -8792,7 +8799,7 @@
       "wirkstoffe": [
         "Besilesomab"
       ],
-      "zulassungsinhaber": "TELIX INNOVATIONS",
+      "zulassungsinhaber": "TELIX INNOVATIONS Rechtsform: S.A.",
       "atc": "V09HA03",
       "firstObservedEnde": "2028-06-26",
       "latestObservedEnde": "2028-06-26",
@@ -8901,7 +8908,7 @@
       "wirkstoffe": [
         "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "S01BA01",
       "firstObservedEnde": "2028-03-31",
       "latestObservedEnde": "2028-03-31",
@@ -9683,7 +9690,7 @@
     },
     {
       "rootId": "LE2026000499",
-      "currentBearbeitungsnummer": "LE2026001104",
+      "currentBearbeitungsnummer": "LE2026004224",
       "produkt": "Takrozem 1 mg/g Salbe",
       "wirkstoffe": [
         "Tacrolimus-Monohydrat"
@@ -10183,7 +10190,7 @@
       "wirkstoffe": [
         "Levetiracetam"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -10199,7 +10206,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -10367,7 +10374,7 @@
       "wirkstoffe": [
         "Doxepinhydrochlorid (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N06AA12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -10383,7 +10390,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -10789,7 +10796,7 @@
       "wirkstoffe": [
         "Levetiracetam"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -11149,7 +11156,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -11189,7 +11196,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -11205,7 +11212,7 @@
       "wirkstoffe": [
         "Besilesomab"
       ],
-      "zulassungsinhaber": "TELIX INNOVATIONS",
+      "zulassungsinhaber": "TELIX INNOVATIONS Rechtsform: S.A.",
       "atc": "V09HA03",
       "firstObservedEnde": "2026-06-26",
       "latestObservedEnde": "2026-06-26",
@@ -11301,7 +11308,7 @@
       "wirkstoffe": [
         "Procainhydrochlorid"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "N01BA02",
       "firstObservedEnde": "2027-04-30",
       "latestObservedEnde": "2027-04-30",
@@ -11317,7 +11324,7 @@
       "wirkstoffe": [
         "Procainhydrochlorid"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "N01BA02",
       "firstObservedEnde": "2027-08-31",
       "latestObservedEnde": "2027-08-31",
@@ -11763,7 +11770,7 @@
       "wirkstoffe": [
         "Sildenafilcitrat"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "G04BE03",
       "firstObservedEnde": "2024-05-17",
       "latestObservedEnde": "2024-05-17",
@@ -12036,7 +12043,7 @@
         "Triamteren",
         "Xipamid"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "C03EA",
       "firstObservedEnde": "2027-04-30",
       "latestObservedEnde": "2027-04-30",
@@ -12897,7 +12904,7 @@
       "wirkstoffe": [
         "Levetiracetam"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX14",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -13117,7 +13124,7 @@
     },
     {
       "rootId": "LE2026003240",
-      "currentBearbeitungsnummer": "LE2026003990",
+      "currentBearbeitungsnummer": "LE2026004233",
       "produkt": "Cefuroxim - 1 A Pharma 125 mg/5 ml Granulat zur Herstellung einer Suspension zum Einnehmen",
       "wirkstoffe": [
         "Cefuroximaxetil"
@@ -13125,9 +13132,9 @@
       "zulassungsinhaber": "1 A Pharma GmbH",
       "atc": "J01DC02",
       "firstObservedEnde": "2026-11-11",
-      "latestObservedEnde": "2026-11-20",
-      "totalDaysDrifted": 9,
-      "extensionsCount": 2,
+      "latestObservedEnde": "2026-11-23",
+      "totalDaysDrifted": 12,
+      "extensionsCount": 3,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -13143,6 +13150,13 @@
           "newEnde": "2026-11-20",
           "daysExtended": 7,
           "bearbeitungsnummer": "LE2026003990"
+        },
+        {
+          "snapshotDate": "2026-11-20",
+          "previousEnde": "2026-11-20",
+          "newEnde": "2026-11-23",
+          "daysExtended": 3,
+          "bearbeitungsnummer": "LE2026004233"
         }
       ]
     },
@@ -13466,7 +13480,7 @@
       "wirkstoffe": [
         "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "H02AB02",
       "firstObservedEnde": "2027-01-29",
       "latestObservedEnde": "2027-01-29",
@@ -15280,7 +15294,7 @@
     },
     {
       "rootId": "LE2026003800",
-      "currentBearbeitungsnummer": "LE2026003807",
+      "currentBearbeitungsnummer": "LE2026004221",
       "produkt": "Pangrol 40 000",
       "wirkstoffe": [
         "Pankreas-Pulver vom Schwein"
@@ -15333,7 +15347,7 @@
       "wirkstoffe": [
         "Isoniazid"
       ],
-      "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+      "zulassungsinhaber": "Riemser Pharma GmbH",
       "atc": "J04AC01",
       "firstObservedEnde": "2027-02-22",
       "latestObservedEnde": "2027-02-22",
@@ -15349,7 +15363,7 @@
       "wirkstoffe": [
         "Rifampicin"
       ],
-      "zulassungsinhaber": "Esteve Pharmaceuticals GmbH",
+      "zulassungsinhaber": "Riemser Pharma GmbH",
       "atc": "J04AB02",
       "firstObservedEnde": "2026-12-07",
       "latestObservedEnde": "2026-12-07",
@@ -15567,7 +15581,7 @@
       "wirkstoffe": [
         "Gabapentin"
       ],
-      "zulassungsinhaber": "Holsten Pharma GmbH",
+      "zulassungsinhaber": "Holsten Pharma GmbH - Geschäftsanschrift -",
       "atc": "N03AX12",
       "firstObservedEnde": "2026-12-31",
       "latestObservedEnde": "2026-12-31",
@@ -16326,7 +16340,7 @@
     },
     {
       "rootId": "LE2026004137",
-      "currentBearbeitungsnummer": "LE2026004137",
+      "currentBearbeitungsnummer": "LE2026004218",
       "produkt": "ACCUPAQUE 300",
       "wirkstoffe": [
         "Iohexol"
@@ -16342,7 +16356,7 @@
     },
     {
       "rootId": "LE2026004133",
-      "currentBearbeitungsnummer": "LE2026004133",
+      "currentBearbeitungsnummer": "LE2026004231",
       "produkt": "Binocrit 8000 I.E./0,8 ml Injektionslösung in Fertigspritze - OP(6x0,8ml)",
       "wirkstoffe": [
         "Epoetin alfa"
@@ -16350,11 +16364,19 @@
       "zulassungsinhaber": "Sandoz GmbH",
       "atc": "B03XA01",
       "firstObservedEnde": "2026-11-20",
-      "latestObservedEnde": "2026-11-20",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-11-27",
+      "totalDaysDrifted": 7,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-20",
+          "previousEnde": "2026-11-20",
+          "newEnde": "2026-11-27",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026004231"
+        }
+      ]
     },
     {
       "rootId": "LE2026004132",
@@ -16653,7 +16675,7 @@
       "wirkstoffe": [
         "beta-Acetyldigoxin"
       ],
-      "zulassungsinhaber": "mibe GmbH Arzneimittel",
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
       "atc": "C01AA02",
       "firstObservedEnde": "2027-01-01",
       "latestObservedEnde": "2027-01-01",
@@ -16833,6 +16855,70 @@
       "atc": "J05AF10",
       "firstObservedEnde": "2027-01-07",
       "latestObservedEnde": "2027-01-07",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004227",
+      "currentBearbeitungsnummer": "LE2026004227",
+      "produkt": "Monovo 1 mg/g Creme",
+      "wirkstoffe": [
+        "Mometasonfuroat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "ALMIRALL HERMAL GmbH",
+      "atc": "D07AC13",
+      "firstObservedEnde": "2027-02-28",
+      "latestObservedEnde": "2027-02-28",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004223",
+      "currentBearbeitungsnummer": "LE2026004223",
+      "produkt": "Entecavir Heumann 1 mg Filmtabletten",
+      "wirkstoffe": [
+        "Entecavir-Monohydrat"
+      ],
+      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+      "atc": "J05AF10",
+      "firstObservedEnde": "2027-03-31",
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004222",
+      "currentBearbeitungsnummer": "LE2026004222",
+      "produkt": "Entecavir Heumann 0,5 mg Filmtabletten",
+      "wirkstoffe": [
+        "Entecavir-Monohydrat"
+      ],
+      "zulassungsinhaber": "Heumann Pharma GmbH & Co. Generica KG",
+      "atc": "J05AF10",
+      "firstObservedEnde": "2027-03-31",
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004219",
+      "currentBearbeitungsnummer": "LE2026004219",
+      "produkt": "Visipaque 270",
+      "wirkstoffe": [
+        "Iodixanol"
+      ],
+      "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
+      "atc": "V08AB09",
+      "firstObservedEnde": "2026-12-09",
+      "latestObservedEnde": "2026-12-09",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
