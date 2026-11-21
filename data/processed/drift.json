@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-20T10:48:50.285Z",
-  "snapshotCount": 112,
+  "generatedAt": "2026-11-21T10:32:16.084Z",
+  "snapshotCount": 113,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-11-20",
+  "lastSnapshot": "2026-11-21",
   "summary": {
     "totalShortagesTracked": 793,
-    "driftedCount": 303,
+    "driftedCount": 305,
     "driftRate": {
-      "drifted": 303,
+      "drifted": 305,
       "of": 793,
-      "percentage": 38.2
+      "percentage": 38.5
     },
     "meanDaysDrifted": 91.8,
     "medianDaysDrifted": 70,
-    "totalExtensionEvents": 462
+    "totalExtensionEvents": 470
   },
   "leaderboard": [
     {
@@ -2232,7 +2232,7 @@
     },
     {
       "rootId": "LE2026002452",
-      "currentBearbeitungsnummer": "LE2026004151",
+      "currentBearbeitungsnummer": "LE2026004245",
       "produkt": "Pantoprazol-Micro Labs 40 mg magensaftresistente Tabletten",
       "wirkstoffe": [
         "Pantoprazol-Natrium-Sesquihydrat"
@@ -2240,9 +2240,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "A02BC02",
       "firstObservedEnde": "2026-08-28",
-      "latestObservedEnde": "2026-11-20",
-      "totalDaysDrifted": 101,
-      "extensionsCount": 5,
+      "latestObservedEnde": "2026-11-24",
+      "totalDaysDrifted": 105,
+      "extensionsCount": 6,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -2279,6 +2279,13 @@
           "newEnde": "2026-11-20",
           "daysExtended": 7,
           "bearbeitungsnummer": "LE2026004151"
+        },
+        {
+          "snapshotDate": "2026-11-21",
+          "previousEnde": "2026-11-20",
+          "newEnde": "2026-11-24",
+          "daysExtended": 4,
+          "bearbeitungsnummer": "LE2026004245"
         }
       ]
     },
@@ -3221,7 +3228,7 @@
     },
     {
       "rootId": "LE2026001235",
-      "currentBearbeitungsnummer": "LE2026003912",
+      "currentBearbeitungsnummer": "LE2026004243",
       "produkt": "Amitriptylin Micro Labs 44,19 mg Filmtabletten",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -3229,9 +3236,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AA09",
       "firstObservedEnde": "2026-08-28",
-      "latestObservedEnde": "2026-11-20",
-      "totalDaysDrifted": 84,
-      "extensionsCount": 4,
+      "latestObservedEnde": "2026-12-11",
+      "totalDaysDrifted": 105,
+      "extensionsCount": 5,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -3261,6 +3268,13 @@
           "newEnde": "2026-11-20",
           "daysExtended": 25,
           "bearbeitungsnummer": "LE2026003912"
+        },
+        {
+          "snapshotDate": "2026-11-21",
+          "previousEnde": "2026-11-20",
+          "newEnde": "2026-12-11",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026004243"
         }
       ]
     },
@@ -3663,7 +3677,7 @@
     },
     {
       "rootId": "LE2026001238",
-      "currentBearbeitungsnummer": "LE2026003913",
+      "currentBearbeitungsnummer": "LE2026004241",
       "produkt": "Amitriptylin Micro Labs 88,38 mg Filmtabletten",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -3671,9 +3685,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AA09",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-11-20",
-      "totalDaysDrifted": 98,
-      "extensionsCount": 4,
+      "latestObservedEnde": "2026-11-24",
+      "totalDaysDrifted": 102,
+      "extensionsCount": 5,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -3703,6 +3717,13 @@
           "newEnde": "2026-11-20",
           "daysExtended": 25,
           "bearbeitungsnummer": "LE2026003913"
+        },
+        {
+          "snapshotDate": "2026-11-21",
+          "previousEnde": "2026-11-20",
+          "newEnde": "2026-11-24",
+          "daysExtended": 4,
+          "bearbeitungsnummer": "LE2026004241"
         }
       ]
     },
@@ -4869,7 +4890,7 @@
     },
     {
       "rootId": "LE2026001234",
-      "currentBearbeitungsnummer": "LE2026003911",
+      "currentBearbeitungsnummer": "LE2026004242",
       "produkt": "Amitriptylin Micro Labs 22,1 mg Filmtabletten",
       "wirkstoffe": [
         "Amitriptylinhydrochlorid"
@@ -4877,9 +4898,9 @@
       "zulassungsinhaber": "Micro Labs GmbH",
       "atc": "N06AA09",
       "firstObservedEnde": "2026-08-14",
-      "latestObservedEnde": "2026-11-20",
-      "totalDaysDrifted": 98,
-      "extensionsCount": 4,
+      "latestObservedEnde": "2026-11-24",
+      "totalDaysDrifted": 102,
+      "extensionsCount": 5,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -4909,6 +4930,13 @@
           "newEnde": "2026-11-20",
           "daysExtended": 25,
           "bearbeitungsnummer": "LE2026003911"
+        },
+        {
+          "snapshotDate": "2026-11-21",
+          "previousEnde": "2026-11-20",
+          "newEnde": "2026-11-24",
+          "daysExtended": 4,
+          "bearbeitungsnummer": "LE2026004242"
         }
       ]
     },
@@ -9514,7 +9542,7 @@
     },
     {
       "rootId": "LE2025004033",
-      "currentBearbeitungsnummer": "LE2026003986",
+      "currentBearbeitungsnummer": "LE2026004238",
       "produkt": "Claversal Micropellets 1,5 g",
       "wirkstoffe": [
         "Mesalazin"
@@ -9522,9 +9550,9 @@
       "zulassungsinhaber": "Recordati Pharma GmbH",
       "atc": "A07EC02",
       "firstObservedEnde": "2026-10-30",
-      "latestObservedEnde": "2026-11-16",
-      "totalDaysDrifted": 17,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 31,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -9533,6 +9561,13 @@
           "newEnde": "2026-11-16",
           "daysExtended": 17,
           "bearbeitungsnummer": "LE2026003986"
+        },
+        {
+          "snapshotDate": "2026-11-21",
+          "previousEnde": "2026-11-16",
+          "newEnde": "2026-11-30",
+          "daysExtended": 14,
+          "bearbeitungsnummer": "LE2026004238"
         }
       ]
     },
@@ -12309,7 +12344,7 @@
     },
     {
       "rootId": "LE2026003078",
-      "currentBearbeitungsnummer": "LE2026003324",
+      "currentBearbeitungsnummer": "LE2026004246",
       "produkt": "Braftovi 50 mg Hartkapseln",
       "wirkstoffe": [
         "Encorafenib"
@@ -12317,11 +12352,19 @@
       "zulassungsinhaber": "Pierre Fabre Medicament",
       "atc": "L01EC03",
       "firstObservedEnde": "2026-12-13",
-      "latestObservedEnde": "2026-11-15",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-02-12",
+      "totalDaysDrifted": 89,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-21",
+          "previousEnde": "2026-11-15",
+          "newEnde": "2027-02-12",
+          "daysExtended": 89,
+          "bearbeitungsnummer": "LE2026004246"
+        }
+      ]
     },
     {
       "rootId": "LE2026003077",
@@ -13707,7 +13750,7 @@
     },
     {
       "rootId": "LE2026003381",
-      "currentBearbeitungsnummer": "LE2026003902",
+      "currentBearbeitungsnummer": "LE2026004235",
       "produkt": "Solian 400 mg Filmtabletten",
       "wirkstoffe": [
         "Amisulprid"
@@ -13715,9 +13758,9 @@
       "zulassungsinhaber": "Sanofi-Aventis Deutschland GmbH",
       "atc": "N05AL05",
       "firstObservedEnde": "2026-10-16",
-      "latestObservedEnde": "2026-11-20",
-      "totalDaysDrifted": 35,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-11",
+      "totalDaysDrifted": 56,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -13726,6 +13769,13 @@
           "newEnde": "2026-11-20",
           "daysExtended": 35,
           "bearbeitungsnummer": "LE2026003902"
+        },
+        {
+          "snapshotDate": "2026-11-21",
+          "previousEnde": "2026-11-20",
+          "newEnde": "2026-12-11",
+          "daysExtended": 21,
+          "bearbeitungsnummer": "LE2026004235"
         }
       ]
     },
@@ -14909,7 +14959,7 @@
     },
     {
       "rootId": "LE2026003682",
-      "currentBearbeitungsnummer": "LE2026003682",
+      "currentBearbeitungsnummer": "LE2026004239",
       "produkt": "Retacrit 2 000 I.E./0,6 ml Injektionslösung in Fertigspritze",
       "wirkstoffe": [
         "Epoetin zeta"
@@ -14917,11 +14967,19 @@
       "zulassungsinhaber": "Pfizer Europe MA EEIG",
       "atc": "B03XA01",
       "firstObservedEnde": "2026-11-30",
-      "latestObservedEnde": "2026-11-30",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-11",
+      "totalDaysDrifted": 11,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-21",
+          "previousEnde": "2026-11-30",
+          "newEnde": "2026-12-11",
+          "daysExtended": 11,
+          "bearbeitungsnummer": "LE2026004239"
+        }
+      ]
     },
     {
       "rootId": "LE2026003681",
