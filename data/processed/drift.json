@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-22T10:36:42.468Z",
-  "snapshotCount": 114,
+  "generatedAt": "2026-11-23T11:38:35.163Z",
+  "snapshotCount": 115,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-11-22",
+  "lastSnapshot": "2026-11-23",
   "summary": {
     "totalShortagesTracked": 793,
     "driftedCount": 305,
@@ -11,9 +11,9 @@
       "of": 793,
       "percentage": 38.5
     },
-    "meanDaysDrifted": 91.8,
+    "meanDaysDrifted": 91.9,
     "medianDaysDrifted": 70,
-    "totalExtensionEvents": 470
+    "totalExtensionEvents": 471
   },
   "leaderboard": [
     {
@@ -11928,7 +11928,7 @@
     },
     {
       "rootId": "LE2026002958",
-      "currentBearbeitungsnummer": "LE2026004172",
+      "currentBearbeitungsnummer": "LE2026004252",
       "produkt": "Dabigatranetexilat Viatris 110 mg Hartkapseln",
       "wirkstoffe": [
         "Dabigatranetexilatmesilat"
@@ -11936,9 +11936,9 @@
       "zulassungsinhaber": "Viatris Germany GmbH",
       "atc": "B01AE07",
       "firstObservedEnde": "2026-11-16",
-      "latestObservedEnde": "2026-11-20",
-      "totalDaysDrifted": 4,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2027-01-15",
+      "totalDaysDrifted": 60,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -11947,6 +11947,13 @@
           "newEnde": "2026-11-20",
           "daysExtended": 4,
           "bearbeitungsnummer": "LE2026004172"
+        },
+        {
+          "snapshotDate": "2026-11-23",
+          "previousEnde": "2026-11-20",
+          "newEnde": "2027-01-15",
+          "daysExtended": 56,
+          "bearbeitungsnummer": "LE2026004252"
         }
       ]
     },
