@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-24T13:10:31.994Z",
-  "snapshotCount": 116,
+  "generatedAt": "2026-11-25T11:58:37.066Z",
+  "snapshotCount": 117,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-11-24",
+  "lastSnapshot": "2026-11-25",
   "summary": {
-    "totalShortagesTracked": 794,
+    "totalShortagesTracked": 800,
     "driftedCount": 305,
     "driftRate": {
       "drifted": 305,
-      "of": 794,
-      "percentage": 38.4
+      "of": 800,
+      "percentage": 38.1
     },
-    "meanDaysDrifted": 92.2,
+    "meanDaysDrifted": 93.3,
     "medianDaysDrifted": 71,
-    "totalExtensionEvents": 478
+    "totalExtensionEvents": 483
   },
   "leaderboard": [
     {
@@ -2708,7 +2708,7 @@
     },
     {
       "rootId": "LE2025001314",
-      "currentBearbeitungsnummer": "LE2026004166",
+      "currentBearbeitungsnummer": "LE2026004272",
       "produkt": "Sertralin TAD 50 mg Filmtabletten",
       "wirkstoffe": [
         "Sertralinhydrochlorid"
@@ -2716,9 +2716,9 @@
       "zulassungsinhaber": "TAD Pharma GmbH",
       "atc": "N06AB06",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-12-01",
-      "totalDaysDrifted": 92,
-      "extensionsCount": 3,
+      "latestObservedEnde": "2026-12-18",
+      "totalDaysDrifted": 109,
+      "extensionsCount": 4,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -2741,6 +2741,13 @@
           "newEnde": "2026-12-01",
           "daysExtended": 15,
           "bearbeitungsnummer": "LE2026004166"
+        },
+        {
+          "snapshotDate": "2026-11-25",
+          "previousEnde": "2026-12-01",
+          "newEnde": "2026-12-18",
+          "daysExtended": 17,
+          "bearbeitungsnummer": "LE2026004272"
         }
       ]
     },
@@ -6705,7 +6712,7 @@
     },
     {
       "rootId": "LE2024001865",
-      "currentBearbeitungsnummer": "LE2026003148",
+      "currentBearbeitungsnummer": "LE2026004271",
       "produkt": "Amoxicillin AL TS",
       "wirkstoffe": [
         "Amoxicillin-Trihydrat"
@@ -6713,9 +6720,9 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "J01CA04",
       "firstObservedEnde": "2026-08-27",
-      "latestObservedEnde": "2026-12-01",
-      "totalDaysDrifted": 96,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2027-01-27",
+      "totalDaysDrifted": 153,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -6724,6 +6731,13 @@
           "newEnde": "2026-12-01",
           "daysExtended": 96,
           "bearbeitungsnummer": "LE2026003148"
+        },
+        {
+          "snapshotDate": "2026-11-25",
+          "previousEnde": "2026-12-01",
+          "newEnde": "2027-01-27",
+          "daysExtended": 57,
+          "bearbeitungsnummer": "LE2026004271"
         }
       ]
     },
@@ -6792,7 +6806,7 @@
     },
     {
       "rootId": "LE2025001933",
-      "currentBearbeitungsnummer": "LE2026004050",
+      "currentBearbeitungsnummer": "LE2026004274",
       "produkt": "Bortezomib STADA 2,5 mg/ml Injektionslösung",
       "wirkstoffe": [
         "Bortezomibmannitol"
@@ -6800,9 +6814,9 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "L01XX32",
       "firstObservedEnde": "2026-11-30",
-      "latestObservedEnde": "2026-11-20",
-      "totalDaysDrifted": 36,
-      "extensionsCount": 3,
+      "latestObservedEnde": "2026-12-10",
+      "totalDaysDrifted": 56,
+      "extensionsCount": 4,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -6825,6 +6839,13 @@
           "newEnde": "2026-11-20",
           "daysExtended": 21,
           "bearbeitungsnummer": "LE2026004050"
+        },
+        {
+          "snapshotDate": "2026-11-25",
+          "previousEnde": "2026-11-20",
+          "newEnde": "2026-12-10",
+          "daysExtended": 20,
+          "bearbeitungsnummer": "LE2026004274"
         }
       ]
     },
@@ -8130,7 +8151,7 @@
     },
     {
       "rootId": "LE2025000510",
-      "currentBearbeitungsnummer": "LE2026003149",
+      "currentBearbeitungsnummer": "LE2026004273",
       "produkt": "Methyldopa STADA 250mg Filmtablette",
       "wirkstoffe": [
         "Methyldopa (Ph.Eur.)"
@@ -8138,9 +8159,9 @@
       "zulassungsinhaber": "STADAPHARM GmbH",
       "atc": "C02AB01",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-12-01",
-      "totalDaysDrifted": 92,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 212,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -8149,12 +8170,19 @@
           "newEnde": "2026-12-01",
           "daysExtended": 92,
           "bearbeitungsnummer": "LE2026003149"
+        },
+        {
+          "snapshotDate": "2026-11-25",
+          "previousEnde": "2026-12-01",
+          "newEnde": "2027-03-31",
+          "daysExtended": 120,
+          "bearbeitungsnummer": "LE2026004273"
         }
       ]
     },
     {
       "rootId": "LE2025003687",
-      "currentBearbeitungsnummer": "LE2026003150",
+      "currentBearbeitungsnummer": "LE2026004270",
       "produkt": "Flutamid AL 250",
       "wirkstoffe": [
         "Flutamid"
@@ -8162,9 +8190,9 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "L02BB01",
       "firstObservedEnde": "2026-08-31",
-      "latestObservedEnde": "2026-12-01",
-      "totalDaysDrifted": 92,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2027-03-31",
+      "totalDaysDrifted": 212,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -8173,6 +8201,13 @@
           "newEnde": "2026-12-01",
           "daysExtended": 92,
           "bearbeitungsnummer": "LE2026003150"
+        },
+        {
+          "snapshotDate": "2026-11-25",
+          "previousEnde": "2026-12-01",
+          "newEnde": "2027-03-31",
+          "daysExtended": 120,
+          "bearbeitungsnummer": "LE2026004270"
         }
       ]
     },
@@ -17050,6 +17085,102 @@
       "atc": "R03AK08",
       "firstObservedEnde": "2026-11-30",
       "latestObservedEnde": "2026-11-30",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004277",
+      "currentBearbeitungsnummer": "LE2026004277",
+      "produkt": "Prednisolon 20 mg Jenapharm",
+      "wirkstoffe": [
+        "Prednisolon"
+      ],
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "atc": "H02AB06",
+      "firstObservedEnde": "2027-01-08",
+      "latestObservedEnde": "2027-01-08",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004276",
+      "currentBearbeitungsnummer": "LE2026004276",
+      "produkt": "DOCITON 80mg retard",
+      "wirkstoffe": [
+        "Propranololhydrochlorid"
+      ],
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "atc": "C07AA05",
+      "firstObservedEnde": "2027-01-01",
+      "latestObservedEnde": "2027-01-01",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004275",
+      "currentBearbeitungsnummer": "LE2026004275",
+      "produkt": "Dexamethason acis 40 mg Injektionslösung",
+      "wirkstoffe": [
+        "Dexamethasondihydrogenphosphat-Dinatrium (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Mibe GmbH Arzneimittel",
+      "atc": "H02AB02",
+      "firstObservedEnde": "2027-01-01",
+      "latestObservedEnde": "2027-01-01",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004269",
+      "currentBearbeitungsnummer": "LE2026004269",
+      "produkt": "Iloprost Zentiva 20 Mikrogramm/ml Lösung für einen Vernebler",
+      "wirkstoffe": [
+        "Iloprost"
+      ],
+      "zulassungsinhaber": "Zentiva Pharma GmbH",
+      "atc": "B01AC11",
+      "firstObservedEnde": "2027-06-16",
+      "latestObservedEnde": "2027-06-16",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004268",
+      "currentBearbeitungsnummer": "LE2026004268",
+      "produkt": "Iloprost Zentiva 10 Mikrogramm/ml Lösung für einen Vernebler",
+      "wirkstoffe": [
+        "Iloprost"
+      ],
+      "zulassungsinhaber": "Zentiva Pharma GmbH",
+      "atc": "B01AC11",
+      "firstObservedEnde": "2027-06-16",
+      "latestObservedEnde": "2027-06-16",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004266",
+      "currentBearbeitungsnummer": "LE2026004266",
+      "produkt": "Retacrit 8 000 I.E./0,8 ml Injektionslösung in Fertigspritze",
+      "wirkstoffe": [
+        "Epoetin zeta"
+      ],
+      "zulassungsinhaber": "Pfizer Europe MA EEIG",
+      "atc": "B03XA01",
+      "firstObservedEnde": "2026-12-11",
+      "latestObservedEnde": "2026-12-11",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
