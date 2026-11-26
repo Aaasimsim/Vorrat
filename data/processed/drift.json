@@ -1,21 +1,45 @@
 {
-  "generatedAt": "2026-11-25T11:58:37.066Z",
-  "snapshotCount": 117,
+  "generatedAt": "2026-11-26T11:47:05.183Z",
+  "snapshotCount": 118,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-11-25",
+  "lastSnapshot": "2026-11-26",
   "summary": {
-    "totalShortagesTracked": 800,
-    "driftedCount": 305,
+    "totalShortagesTracked": 806,
+    "driftedCount": 306,
     "driftRate": {
-      "drifted": 305,
-      "of": 800,
-      "percentage": 38.1
+      "drifted": 306,
+      "of": 806,
+      "percentage": 38
     },
-    "meanDaysDrifted": 93.3,
-    "medianDaysDrifted": 71,
-    "totalExtensionEvents": 483
+    "meanDaysDrifted": 96.8,
+    "medianDaysDrifted": 74,
+    "totalExtensionEvents": 487
   },
   "leaderboard": [
+    {
+      "rootId": "LE2021001344",
+      "currentBearbeitungsnummer": "LE2026004296",
+      "produkt": "FibCLOT",
+      "wirkstoffe": [
+        "Fibrinogen vom Menschen"
+      ],
+      "zulassungsinhaber": "Laboratoire Francais du Fractionnement et des Biotechnologies",
+      "atc": "B02BB01",
+      "firstObservedEnde": "2027-01-31",
+      "latestObservedEnde": "2029-12-31",
+      "totalDaysDrifted": 1065,
+      "extensionsCount": 1,
+      "chainTruncated": true,
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-26",
+          "previousEnde": "2027-01-31",
+          "newEnde": "2029-12-31",
+          "daysExtended": 1065,
+          "bearbeitungsnummer": "LE2026004296"
+        }
+      ]
+    },
     {
       "rootId": "LE2026002164",
       "currentBearbeitungsnummer": "LE2026004017",
@@ -504,30 +528,6 @@
           "newEnde": "2027-03-31",
           "daysExtended": 243,
           "bearbeitungsnummer": "LE2026002898"
-        }
-      ]
-    },
-    {
-      "rootId": "LE2024003291",
-      "currentBearbeitungsnummer": "LE2026002897",
-      "produkt": "Hydromorphon PAINBREAK 4 mg Retardtabletten",
-      "wirkstoffe": [
-        "Hydromorphonhydrochlorid"
-      ],
-      "zulassungsinhaber": "PB Pharma GmbH",
-      "atc": "N02AA03",
-      "firstObservedEnde": "2026-07-31",
-      "latestObservedEnde": "2027-03-31",
-      "totalDaysDrifted": 243,
-      "extensionsCount": 1,
-      "chainTruncated": true,
-      "extensionHistory": [
-        {
-          "snapshotDate": "2026-08-04",
-          "previousEnde": "2026-07-31",
-          "newEnde": "2027-03-31",
-          "daysExtended": 243,
-          "bearbeitungsnummer": "LE2026002897"
         }
       ]
     }
@@ -6851,7 +6851,7 @@
     },
     {
       "rootId": "LE2026000846",
-      "currentBearbeitungsnummer": "LE2026003262",
+      "currentBearbeitungsnummer": "LE2026004285",
       "produkt": "Busulfan-ratiopharm 6 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
       "wirkstoffe": [
         "Busulfan"
@@ -6859,9 +6859,9 @@
       "zulassungsinhaber": "ratiopharm GmbH",
       "atc": "L01AB01",
       "firstObservedEnde": "2026-08-15",
-      "latestObservedEnde": "2026-10-21",
-      "totalDaysDrifted": 67,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 122,
+      "extensionsCount": 2,
       "chainTruncated": true,
       "extensionHistory": [
         {
@@ -6870,6 +6870,13 @@
           "newEnde": "2026-10-21",
           "daysExtended": 67,
           "bearbeitungsnummer": "LE2026003262"
+        },
+        {
+          "snapshotDate": "2026-11-26",
+          "previousEnde": "2026-10-21",
+          "newEnde": "2026-12-15",
+          "daysExtended": 55,
+          "bearbeitungsnummer": "LE2026004285"
         }
       ]
     },
@@ -10919,7 +10926,7 @@
     },
     {
       "rootId": "LE2021001344",
-      "currentBearbeitungsnummer": "LE2026000118",
+      "currentBearbeitungsnummer": "LE2026004296",
       "produkt": "FibCLOT",
       "wirkstoffe": [
         "Fibrinogen vom Menschen"
@@ -10927,11 +10934,19 @@
       "zulassungsinhaber": "Laboratoire Francais du Fractionnement et des Biotechnologies",
       "atc": "B02BB01",
       "firstObservedEnde": "2027-01-31",
-      "latestObservedEnde": "2027-01-31",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2029-12-31",
+      "totalDaysDrifted": 1065,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-26",
+          "previousEnde": "2027-01-31",
+          "newEnde": "2029-12-31",
+          "daysExtended": 1065,
+          "bearbeitungsnummer": "LE2026004296"
+        }
+      ]
     },
     {
       "rootId": "LE2025001415",
@@ -12221,7 +12236,7 @@
     },
     {
       "rootId": "LE2026003010",
-      "currentBearbeitungsnummer": "LE2026003341",
+      "currentBearbeitungsnummer": "LE2026004294",
       "produkt": "bicaNorm",
       "wirkstoffe": [
         "Natriumhydrogencarbonat"
@@ -12893,7 +12908,7 @@
     },
     {
       "rootId": "LE2026003167",
-      "currentBearbeitungsnummer": "LE2026004261",
+      "currentBearbeitungsnummer": "LE2026004297",
       "produkt": "Urapidil AL 30 mg Hartkapseln, retardiert",
       "wirkstoffe": [
         "Urapidil"
@@ -12901,9 +12916,9 @@
       "zulassungsinhaber": "ALIUD PHARMA GmbH",
       "atc": "C02CA06",
       "firstObservedEnde": "2026-09-15",
-      "latestObservedEnde": "2026-11-26",
-      "totalDaysDrifted": 72,
-      "extensionsCount": 3,
+      "latestObservedEnde": "2026-12-15",
+      "totalDaysDrifted": 91,
+      "extensionsCount": 4,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -12926,6 +12941,13 @@
           "newEnde": "2026-11-26",
           "daysExtended": 2,
           "bearbeitungsnummer": "LE2026004261"
+        },
+        {
+          "snapshotDate": "2026-11-26",
+          "previousEnde": "2026-11-26",
+          "newEnde": "2026-12-15",
+          "daysExtended": 19,
+          "bearbeitungsnummer": "LE2026004297"
         }
       ]
     },
@@ -14298,7 +14320,7 @@
     },
     {
       "rootId": "LE2026003489",
-      "currentBearbeitungsnummer": "LE2026004059",
+      "currentBearbeitungsnummer": "LE2026004280",
       "produkt": "Carboplatin Accord 10 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
       "wirkstoffe": [
         "Carboplatin"
@@ -14306,9 +14328,9 @@
       "zulassungsinhaber": "Accord Healthcare B.V.",
       "atc": "L01XA02",
       "firstObservedEnde": "2026-11-30",
-      "latestObservedEnde": "2026-12-31",
-      "totalDaysDrifted": 31,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2027-01-31",
+      "totalDaysDrifted": 62,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -14317,6 +14339,13 @@
           "newEnde": "2026-12-31",
           "daysExtended": 31,
           "bearbeitungsnummer": "LE2026004059"
+        },
+        {
+          "snapshotDate": "2026-11-26",
+          "previousEnde": "2026-12-31",
+          "newEnde": "2027-01-31",
+          "daysExtended": 31,
+          "bearbeitungsnummer": "LE2026004280"
         }
       ]
     },
@@ -15601,7 +15630,7 @@
         "Natriumcromoglicat (Ph.Eur.)",
         "Reproterolhydrochlorid"
       ],
-      "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung  (BS 1)",
+      "zulassungsinhaber": "Hormosan Pharma Gesellschaft mit beschränkter Haftung (BS 1)",
       "atc": "R03AK05",
       "firstObservedEnde": "2027-02-01",
       "latestObservedEnde": "2027-02-01",
@@ -16409,7 +16438,7 @@
     },
     {
       "rootId": "LE2026004081",
-      "currentBearbeitungsnummer": "LE2026004081",
+      "currentBearbeitungsnummer": "LE2026004284",
       "produkt": "Methofill 17,5 mg Injektionslösung im Fertiginjektor",
       "wirkstoffe": [
         "Methotrexat"
@@ -17181,6 +17210,102 @@
       "atc": "B03XA01",
       "firstObservedEnde": "2026-12-11",
       "latestObservedEnde": "2026-12-11",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004295",
+      "currentBearbeitungsnummer": "LE2026004295",
+      "produkt": "Iloprost Zentiva 20 Mikrogramm/ml Konzentrat zur Herstellung einer Infusionslösung",
+      "wirkstoffe": [
+        "Iloprost"
+      ],
+      "zulassungsinhaber": "Zentiva Pharma GmbH",
+      "atc": "B01AC11",
+      "firstObservedEnde": "2027-06-16",
+      "latestObservedEnde": "2027-06-16",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004292",
+      "currentBearbeitungsnummer": "LE2026004292",
+      "produkt": "Methofill 50 mg/ml Injektionslösung in einer Fertigspritze",
+      "wirkstoffe": [
+        "Methotrexat"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "L04AX03",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004291",
+      "currentBearbeitungsnummer": "LE2026004291",
+      "produkt": "Momecutan Fettcreme",
+      "wirkstoffe": [
+        "Mometasonfuroat (Ph.Eur.)"
+      ],
+      "zulassungsinhaber": "Dermapharm Aktiengesellschaft",
+      "atc": "D07AC13",
+      "firstObservedEnde": "2026-12-31",
+      "latestObservedEnde": "2026-12-31",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004290",
+      "currentBearbeitungsnummer": "LE2026004290",
+      "produkt": "Lonolox 2,5",
+      "wirkstoffe": [
+        "Minoxidil"
+      ],
+      "zulassungsinhaber": "Pfizer Pharma GmbH",
+      "atc": "C02DC01",
+      "firstObservedEnde": "2027-01-15",
+      "latestObservedEnde": "2027-01-15",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004282",
+      "currentBearbeitungsnummer": "LE2026004282",
+      "produkt": "Nivestim 30 Mio.E/0,5 ml Injektions-/Infusionslösung - OP(5x0,5ml)",
+      "wirkstoffe": [
+        "Filgrastim"
+      ],
+      "zulassungsinhaber": "Pfizer Europe MA EEIG",
+      "atc": "L03AA02",
+      "firstObservedEnde": "2026-12-18",
+      "latestObservedEnde": "2026-12-18",
+      "totalDaysDrifted": 0,
+      "extensionsCount": 0,
+      "chainTruncated": false,
+      "extensionHistory": []
+    },
+    {
+      "rootId": "LE2026004281",
+      "currentBearbeitungsnummer": "LE2026004281",
+      "produkt": "Doxorubicin Accord 2 mg/ml Konzentrat zur Herstellung einer Infusionslösung",
+      "wirkstoffe": [
+        "Doxorubicinhydrochlorid"
+      ],
+      "zulassungsinhaber": "Accord Healthcare B.V.",
+      "atc": "L01DB01",
+      "firstObservedEnde": "2027-01-31",
+      "latestObservedEnde": "2027-01-31",
       "totalDaysDrifted": 0,
       "extensionsCount": 0,
       "chainTruncated": false,
