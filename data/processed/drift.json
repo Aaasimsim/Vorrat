@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-11-26T11:47:05.183Z",
-  "snapshotCount": 118,
+  "generatedAt": "2026-11-27T11:40:11.324Z",
+  "snapshotCount": 119,
   "firstSnapshot": "2026-07-31",
-  "lastSnapshot": "2026-11-26",
+  "lastSnapshot": "2026-11-27",
   "summary": {
     "totalShortagesTracked": 806,
-    "driftedCount": 306,
+    "driftedCount": 308,
     "driftRate": {
-      "drifted": 306,
+      "drifted": 308,
       "of": 806,
-      "percentage": 38
+      "percentage": 38.2
     },
-    "meanDaysDrifted": 96.8,
+    "meanDaysDrifted": 97,
     "medianDaysDrifted": 74,
-    "totalExtensionEvents": 487
+    "totalExtensionEvents": 490
   },
   "leaderboard": [
     {
@@ -12212,7 +12212,7 @@
     },
     {
       "rootId": "LE2026002995",
-      "currentBearbeitungsnummer": "LE2026003997",
+      "currentBearbeitungsnummer": "LE2026004304",
       "produkt": "DHC Ennogen 90 mg Retardtabletten",
       "wirkstoffe": [
         "Dihydrocodein[(R,R)-tartrat]"
@@ -12220,9 +12220,9 @@
       "zulassungsinhaber": "Ennogen Healthcare (Europe) Limited",
       "atc": "N02AA08",
       "firstObservedEnde": "2026-10-31",
-      "latestObservedEnde": "2026-12-10",
-      "totalDaysDrifted": 40,
-      "extensionsCount": 1,
+      "latestObservedEnde": "2027-01-05",
+      "totalDaysDrifted": 66,
+      "extensionsCount": 2,
       "chainTruncated": false,
       "extensionHistory": [
         {
@@ -12231,6 +12231,13 @@
           "newEnde": "2026-12-10",
           "daysExtended": 40,
           "bearbeitungsnummer": "LE2026003997"
+        },
+        {
+          "snapshotDate": "2026-11-27",
+          "previousEnde": "2026-12-10",
+          "newEnde": "2027-01-05",
+          "daysExtended": 26,
+          "bearbeitungsnummer": "LE2026004304"
         }
       ]
     },
@@ -12827,7 +12834,7 @@
     },
     {
       "rootId": "LE2026003126",
-      "currentBearbeitungsnummer": "LE2026003145",
+      "currentBearbeitungsnummer": "LE2026004299",
       "produkt": "Pankreatan 40.000 Ph.Eur.-Einheiten",
       "wirkstoffe": [
         "Pankreas-Pulver vom Schwein"
@@ -12835,11 +12842,19 @@
       "zulassungsinhaber": "Nordmark Pharma GmbH",
       "atc": "A09AA02",
       "firstObservedEnde": "2026-12-01",
-      "latestObservedEnde": "2026-12-01",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2027-06-30",
+      "totalDaysDrifted": 211,
+      "extensionsCount": 1,
       "chainTruncated": true,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-27",
+          "previousEnde": "2026-12-01",
+          "newEnde": "2027-06-30",
+          "daysExtended": 211,
+          "bearbeitungsnummer": "LE2026004299"
+        }
+      ]
     },
     {
       "rootId": "LE2026003125",
@@ -16518,7 +16533,7 @@
     },
     {
       "rootId": "LE2026004137",
-      "currentBearbeitungsnummer": "LE2026004218",
+      "currentBearbeitungsnummer": "LE2026004302",
       "produkt": "ACCUPAQUE 300",
       "wirkstoffe": [
         "Iohexol"
@@ -16526,11 +16541,19 @@
       "zulassungsinhaber": "GE Healthcare Buchler GmbH & Co.KG",
       "atc": "V08AB02",
       "firstObservedEnde": "2026-11-25",
-      "latestObservedEnde": "2026-11-25",
-      "totalDaysDrifted": 0,
-      "extensionsCount": 0,
+      "latestObservedEnde": "2026-12-02",
+      "totalDaysDrifted": 7,
+      "extensionsCount": 1,
       "chainTruncated": false,
-      "extensionHistory": []
+      "extensionHistory": [
+        {
+          "snapshotDate": "2026-11-27",
+          "previousEnde": "2026-11-25",
+          "newEnde": "2026-12-02",
+          "daysExtended": 7,
+          "bearbeitungsnummer": "LE2026004302"
+        }
+      ]
     },
     {
       "rootId": "LE2026004133",
